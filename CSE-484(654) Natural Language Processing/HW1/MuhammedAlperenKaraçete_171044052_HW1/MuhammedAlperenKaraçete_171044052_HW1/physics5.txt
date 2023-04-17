@@ -1,0 +1,425 @@
+40
+b) Düzgün şekilli olmayan cisimlerin hacmi
+Düzgün şekli olmayan cisimlerin hacmi, sıvıda erimemek şartıyla,
+ölçeklendirilmiş kaplardaki sıvılardan yararlanarak bulunur. Bu gibi cisimler
+içinde belirli miktarda sıvı bulunan kaba batırıldığında sıvı seviyesi yükselir.
+Kaptaki sıvı seviyeleri arasındaki fark cismin hacmi kadardır. Düzgün şekli
+olmayan cisimlerin hacimlerini belirlemek için kullanılan diğer bir yöntem ise
+sıvı taşırma yöntemidir. Bu yöntemde cisimler tamamen sıvı dolu kaba batırılır
+ve taşan sıvı dereceli kaba alınarak hacmi ölçülür. Ölçülen sıvı hacmi cismin
+hacmine eşittir.
+Şimdi düzgün bir şekli olmayan bir taş
+ThisIsTestLineForAlgorithm
+parçasının hacmini nasıl belirleyeceğimizi
+inceleyelim. Bunun için içinde taşın sığabileceği
+bir dereceli kap gereklidir (Şekil 2.2). Kabın
+V2
+içine sıvı koyup taşı bıraktığımızda sıvı
+yükseldiğini görürüz. Kaptaki sıvının yükselme
+V1
+miktarı bize taşın hacmini verecektir.
+Şekil 2.2’deki dereceli silindirin içinde 80 cm³
+sıvı varken içine taş bırakıldığında sıvının 100
+cm³ e yükselmiştir. Buna göre taşın hacmi;
+Vtaş= V₂-V₁
+Vtaş= 100-80=20 cm³ olarak bulunur.
+Resim.2.2 Dereceli silindir
+ÖRNEK 8
+Soru
+Çözüm
+İçinde 500 cm³ su bulunan tam dolu
+bir kaba düzgün geometrik şekle sahip
+olmayan bir cisim bırakılıyor ve yanda
+bulunan kaba 200 cm³ su taşıyor. Buna
+göre taşın hacmi kaç cm³ tür.
+500 cm3
+200 cm3
+Cismin hacmi yer değiştirdiği suyun
+(yükselen suyun) hacmi kadardır.
+Bu nedenle taşın hacmi de 200 cm³ tür.
+ÖRNEK 9
+Soru
+Çözüm
+Şekildeki
+ThisIsTestLineForAlgorithm
+kabın
+içine
+ThisIsTestLineForAlgorithm
+cisim
+bırakıldığında dereceli kabın yanındaki
+kaba 20 cm³ su taşıyor. Buna göre
+ThisIsTestLineForAlgorithm
+cismin hacmi kaç cm³ tür.
+Cimin hacmi yükselen sıvının hacmi
+ile taşan sıvının hacminin toplamı
+kadardır.
+Vtaş= Vyükselen + Vtaşan
+Vtaş= 50+20=70 cm³
+100
+50
+20 cm3
+2. Ünite - MADDE VE ÖZELLİKLERİ
+41
+Kütle - Hacim Arasındaki İlişki ve Özkütle
+Aynı maddeden yapılmış bir cismin kütlesini artırdığımızda hacmi de artar mı?
+Bu sorunun cevabını vermek için içerisinde 30 cm3 su bulunan ölçekli kaba
+özdeş demir bilyeleri teker teker koyarak sıvı seviyesinin yükseldiği etkinliği
+inceleyelim;
+50
+50
+50
+50
+50
+40
+40
+40
+40
+40
+30
+30
+30
+30
+30
+20
+ThisIsTestLineForAlgorithm
+20
+20
+20
+20
+10
+10
+10
+10
+10
+Şekil 2.3 Sıvı seviyesinin yükselmesi
+Kütlesi m olan demir bilyeleri içinde 30 cm³ su bulunan dereceli silindire
+önce 1. bilye bırakıldığında su 32 cm³ seviyesine yükseliyor sonra 2.,3.,4.
+bilyeler sırasıyla su içine bırakınca su seviyeleri 34 cm³, 36 cm³, 38 cm³ e
+ulaşıyor (Şekil2.3). Bu verilerden bir tablo oluşturalım;
+Kütle
+m
+2m
+3m
+4m
+Ölçülen
+su seviyesi
+(cm³)
+ThisIsTestLineForAlgorithm
+32
+34
+36
+38
+2
+4
+6
+8
+Bilyelerin
+Hacmi (cm³)
+Tabloyu incelediğimizde su içerisindeki bilye sayısı dolayısıyla madde
+miktarı arttıkça hacim de artmıştır.
+O hâlde bu etkinliğe göre bir maddenin sabit sıcaklık ve basınç altında
+kütlesi artarsa hacmi de artmaktadır.
+Günlük yaşantımızda maddelerin
+farklı
+özelliklerini
+gözlemleriz.
+Örneğin su, zeytinyağı ve kumu
+aynı kaba koyup karıştırdığımızda
+bir süre sonra zeytinyağının suyun
+üzerinde yer aldığını kumun ise en
+altta yer aldığını görürüz (Resim 2.6).
+Zeytinyağı neden en üstte yer alır?
+Aynı hacme sahip biri demirden
+diğeri tahtadan yapılmış iki küpün
+kütleleri aynı mıdır?
+zeytinyağı
+su
+kum
+Resim 2.6. Zeytinyağı, su ve kum
+42
+Bir cismin hacminin büyük olması kütlesinin de büyük olduğu anlamına
+gelir mi?
+Bu sorulara cevap vermeden önce aşağıda verilen küplerin kütleleri ve
+hacimleri arasındaki oranı hesaplayalım. Bir kenarı 2 cm, 3 cm, 4 cm olan
+aynı maddeden yapılmış üç küpün kütleleri verilmiştir. Bu küplerin hacimlerini
+hesaplayıp bir tablo oluşturalım ve kütle ve hacim grafiğini çizelim.
+4 cm
+3 cm
+2 cm
+m1= 80 g
+m2= 270 g
+m3= 640 g
+Küp şeklindeki bir cismin hacminin Vküp= a3 bağıntısı ile hesaplandığını
+biliyoruz. Buna göre 1., 2. ve 3. küplerin hacimleri
+V1=2.2.2=8 cm³
+V2=3.3.3=27 cm3
+V3=4.4.4=64 cm³ olarak bulunur. Küplerin kütle ve hacim değerleri
+aşağıdaki tabloda gösterilmiştir. Tablodaki değerler kullanılarak çizilen kütlehacim grafiği Grafik 2.1’deki gibi olur.
+Kütle (g)
+80
+270
+640
+Hacim (cm³)
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+8
+27
+64
+Kütle
+g
+640
+270
+80
+8
+27
+64
+Hacim
+cm3
+Elde edilen grafik bir doğru orantı grafiğidir. Grafiği incelediğimizde hacim
+arttıkça kütlenin de aynı oranda arttığı görülmektedir. Bir maddenin kütlesinin
+hacmine oranı, o maddenin özkütlesi (yoğunluk) olarak adlandırılır. Yapılan
+deneyler sonucunda sabit sıcaklık ve basınç altında her maddenin özkütlesi
+farklıdır. İşte bu nedenle özkütle, maddenin ayırt edici özelliklerinden biridir.
+ThisIsTestLineForAlgorithm
+Özkütle =
+kütle
+hacim
+d=
+m
+v
+Kütlenin birimi kilogram (kg), hacmin birimi santimetreküp (cm3) alınırsa
+özkütlenin birimi kg/cm3 olur. Özkütle birimi genellikle g/cm3 olarak kullanılır.
+2. Ünite - MADDE VE ÖZELLİKLERİ
+43
+Etkinlikte kullandığımız 1, 2 ve 3 numaralı küplerin özkütlesini, özkütle
+bağıntısında kütle ve hacim değerlerini yerine yazarak hesaplayalım.
+d 1=
+80
+270
+=10 g/cm3 d2=
+=10 g/cm3
+8
+27
+ve
+d3=
+640
+=10 g/cm3
+64
+değerleri elde edilir.
+Küpler için tabloda verilen değerleri ve hesapladığımız özkütle değerlerini
+kullanarak özkütle- hacim ve özkütle- kütle grafiği Grafik2.2’deki gibi olur.
+Özkütle
+ThisIsTestLineForAlgorithm
+(g/cm 3)
+Özkütle
+(g/cm3)
+10
+10
+0
+8
+27
+64
+ThisIsTestLineForAlgorithm
+Hacim
+(cm3)
+0
+80
+270
+ThisIsTestLineForAlgorithm
+Grafik2.2 Özkütle-Hacim ve Özkütle-Kütle grafiği
+640
+Kütle
+(g)
+Grafiklerden görüldüğü gibi kütle ve hacim değerleri aynı oranda arttırılıp
+azaltıldığında özkütlenin değeri sabittir.
+Sabit sıcaklık ve basınç altındaki bir maddenin kütlesi ve hacmi değişse
+ThisIsTestLineForAlgorithm
+bile maddenin cinsi değişmediği sürece özkütlesi değişmez. Örneğin bir
+bardak saf su ile bir kova dolusu saf suyun özkütlesi 1 g/cm³ tür.
+Madde
+Öz kütlesi (g/cm³)
+Demir
+7,8
+Altın
+19,3
+Gümüş
+10,5
+Bakır
+8,9
+ThisIsTestLineForAlgorithm
+Aliminyun
+2,7
+Buz
+0,7
+Su
+1
+Zeytinyağı
+0,9
+Hava
+0,0013
+Tablo 2.2. Bazı saf maddelerin özkütlesi
+Tablo 2.2’de bazı saf maddelerin özkütlesi verilmiştir. Şimdi konunun
+başında sorduğumuz soruları hatırlayalım ve cevaplayalım;
+Konumuzun başında zeytinyağı, su ve kum karışımından söz etmiştik.
+Zeytinyağının suyun üzerinde yer almasının nedeni Tablo 2.2’de görüldüğü
+ThisIsTestLineForAlgorithm
+gibi zeytinyağının özkütlesinin suyun özkütlesinden küçük olmasıdır. Kumun
+özkütlesi en büyük olduğu için en altta yer almaktadır.
+Aynı hacme sahip her cisim aynı kütlede olmaz. Biri demirden diğeri
+tahtadan yapılmış aynı hacimdeki küplerin kütleleri farklıdır çünkü özkütleleri
+farklıdır. İki küp eşit hacimde olduğuna göre özkütlesi büyük olan demirden
+yapılmış küpün kütlesi daha büyük olur.
+Bir cismin hacminin büyük olması kütlesinin büyük olduğu anlamına gelmez
+çünkü hacmi dolduran madde miktarının kütlesi önemlidir.
+44
+Karışımların Özkütlesi
+Karışım, birden fazla maddenin kimyasal özellikleri değişmeyecek
+şekilde bir araya gelmesiyle oluşan madde topluluğudur. Su ve sıvı yağ gibi
+birbiri içinde çözünmeyen maddeler bir kaba konulduklarında özkütlesi büyük
+olan madde aşağıda, özkütlesi küçük olan madde yukarıda olacak şekilde
+sıralanır.
+Birbiri içinde çözünebilen iki ya da daha çok maddenin meydana getirdiği
+homojen bir karışımın özkütlesi, karışıma giren maddelerin kütleleri toplamının
+hacimleri toplamına oranı ile bulunur. Karışımın özkütlesinin matematiksel
+ifadesi
+dkarışım =
+m1 + m2 + m3 +...
+V1 + V2+ V3+ ...
+şeklinde yazılır. Karışımın özkütlesi karışımı oluşturan maddelerden özkütlesi
+ThisIsTestLineForAlgorithm
+küçük olandan küçük, büyük olandan büyük olamaz. Kısaca karışımın
+özkütlesi karışımı oluşturan maddelerin özkütlesi arasında bir değer alır.
+Örneğin özkütlesi 1 g/cm3 olan su ile özkütlesi 1,27 g/cm3 olan sirke birbiri
+ile karıştırıldığında homojen bir karışım elde edilir. Oluşan karışımın özkütlesi,
+sirke ve suyun özkütlesi arasında bir değere sahiptir. Bu durumun kütle-hacim
+grafiği Grafik 2.3’te gösterilmiştir.
+Kütle
+g
+Sirke
+Sirke + Su
+Su
+0
+Hacim
+cm3
+Grafik 2.3. Su ve sirkenin kütle- hacim grafiği
+Bilim Tarihinde Özkütle
+Archimed (Arşimet) ve Türk-İslam bilginlerinden El-Hâzinî özkütle
+konusunda çalışmalar yapmışlardır. Archimed kendi adıyla tanınan sıvıların
+dengesi kanununu bulmuştur.
+Archimed’in araştırmalarından önce, tahtanın yüzdüğü ancak demirin
+battığı biliniyordu ancak bunun nedeni açıklanamıyordu. Archimed, 23 yüzyıl
+önce modern bilimsel yöntem anlayışına çok yakın bir anlayışla, bugün de
+geçerli olan statik ve hidrostatik kanunlarını bulmuş ve katkılarıyla bilim
+tarihinin kahramanlarından birisi olmuştur. Astronomi, fizik, kimya, matematik
+alanlarında önemli bilimsel çalışmaları, buluşları olan Abdurrahman ElHâzinî’nin sıvıların ve havanın yoğunluğu üzerindeki çalışmaları oldukça
+önemlidir. İtalyan bilim insanı Toriçelli’den 5 yüzyıl önce havanın da
+ağırlığının olduğunu ortaya koymuştur. El-Hâzinî' nin yaptığı çalışmalar
+akışkanlar mekaniğine temel oluşturmuştur.
+2. Ünite - MADDE VE ÖZELLİKLERİ
+45
+ThisIsTestLineForAlgorithm
+GÜNLÜK HAYATTA ÖZKÜTLE
+Özkütlenin ayırt edici bir özellik olduğunu öğrendik. Maddelerin özkütleleri
+belirli olduğuna göre bir cismin saf madde olup olmadığını özkütlesini
+hesaplayarak anlayabiliriz.
+Tahta parçasının su üzerinde yüzmesinin, demir paranın ise batmasının
+nedeni özkütlelerinin farklı olmasındandır. Gemilerin denizde yüzmesi deniz
+suyu ile geminin yapıldığı maddenin özkütlelerinin farklılığı sayesinde olur.
+Maddelerin özkütlelerinin farklı olması karışım hâlindeki maddeleri
+ayrıştırmakta kullanılır. Eskiden altın arayıcıları kum ile altın parçacıklarını
+ThisIsTestLineForAlgorithm
+özkütlelerinin farklı olması sayesinde ayrıştırmaktaydılar. Bu yöntemde;
+kum ve altın karışımının bulunduğu eğimli bir yüzeye su dökülür ve kumun
+suyla birlikte akması sağlanır. Böylece özkütlesi büyük olan altınının kumdan
+ayrışması sağlanmış olur. Günümüzde de kuyumculukta diğer maddelerle
+karışan altın parçacıkları aynı yöntemle ayrıştırılmaktadır. Demir tozları ile
+tahta parçalarını da su içerisine koyarak aynı yöntemle ayrıştırabiliriz.
+Kan ve idrar tahlili yapılırken maddelerin özkütlelerinin farklı
+olmasından yararlanılır. Hastane laboratuvarlarında kan ve idrar
+tahlillerini santrifüj aletleri (Resim 2.7) ile yapılmaktadır. Hızla
+döndürülen sıvı örnekleri içindeki maddeler özkütlelerinin farklılığına
+göre ayrışır. Tıpkı su ve zeytinyağında olduğu gibi kan ve idrarı
+oluşturan sıvılar özkütlelerinin farklı olması nedeniyle üst üste
+sıralandığı görülür. Böylece gerekli ölçüm ve değerlendirmeler yapılır.
+Köylerimizde yoğurt ve sudan elde edilen bir karışım olan
+ayrandan tereyağının geleneksel usullerle üretilmesi özkütle farkı ile
+açıklanır (Resim 2.8). Yayık çalkalandıkça özkütlesi küçük olan yağ
+parçacıkları, ayranın üzerinde yer alır ve yağ parçacıkları yüzeyde
+birbirine yapışmış şekilde birikir ve toplanır. Böylece ayrandan
+tereyağ elde edilmiş olur ancak bazı sıvılar tanecikli yapıları ve
+tanecikler arasındaki boşlukları nedeniyle birbiri içinde karışır ve
+farklı bir özkütleye sahip olur. Su ve alkolü buna örnek verebiliriz.
+Alkolün üzerine su döktüğümüzde birbiri içinde çözünür ve yeni bir
+madde oluşur. Bu nedenle meydana gelen karışımın özkütlesi su ve
+alkolün özkütlesinden farklıdır. Benzer şekilde aynı kapta karıştırılan
+süt ve su da aynı şekilde bir karışım oluşturur.
+Geleneksel sanatlarımızdan olan ebru sanatı sanat ve bilimin iç
+içe olduğu bir sanat dalıdır. Resim 2.9’da ebru sanatının bir örneği
+ThisIsTestLineForAlgorithm
+görülmektedir. Ebru yapımında da özkütle kavramı önemli bir rol
+oynamaktadır. Ebru sanatında kitre adı verilen madde suya katılarak
+suyun yoğunluğu artırılmakta ve su üzerine damlatılan boyaların
+dibe çökmesi engellenmektedir. Daha sonra ise fırça yardımıyla
+boyalardan desenler oluşturularak çalışılmaktadır.
+Özkütle kavramının günlük hayattaki diğer bir örneği de porselen
+eşya yapımıdır (Resim 2.10). Killi topraktan imal edilen porselen
+eşyanın istenilen kalitede olması için porselen hamurunun belli
+bir özkütlede olması gerekir. Bu değer yaklaşık olarak 2,5g/cm³
+‘tür. Porselen eşya üreticileri hazırladıkları porselen hamurunun
+özkütlesini bu değere göre ayarlarlar. Daha sonra hazırladıkları
+ThisIsTestLineForAlgorithm
+bu hamura istedikleri şekli vererek yüksek sıcaklıkta fırınlarlar.
+Porselenden üretilen eşyaların fırınlanması onları dayanıklı hâle
+getirir.
+Resim 2.7.Santrifüj makinesi
+ThisIsTestLineForAlgorithm
+Resim 2.8. Yayık
+Resim 2.9. Ebru çalışması
+Resim 2.10. Porselen tabak
+46
+2. Bölüm
+DAYANIKLILIK
+ThisIsTestLineForAlgorithm
+Neler Öğreneceğiz?
+•
+ThisIsTestLineForAlgorithm
+Dayanıklılık kavramını ve nelere bağlı olduğunu öğreneceğiz.
+2. Ünite - MADDE VE ÖZELLİKLERİ
+ThisIsTestLineForAlgorithm
+DAYANIKLILIK
+Bir gökdelen ile bir apartmanın kolonları veya kullanılan demirleri aynı
+kalınlıkta olabilir mi? Bilim kurgu filmlerindeki dev gorillerin veya
+masallardaki gibi dev insanların var olması mümkün müdür (Resim 2.11)?
+En fazla kaç katlı bina yapılabilir (Resim 2.12)?
+Resim.2.11. Bilim Kurgu filminden bir görüntü
+Resim 2.12. Yüksek katlı binalar
+Örgü için kullandığımız tek kat ipi elimizle kolayca
+koparabiliriz. Ancak aynı ipi iki, üç ya da daha çok kat
+yaptığımızda koparmamız zorlaşır çünkü dayanıklılığı artmıştır
+(Resim 2.13). Canlı ve cansız varlıkların dışarıdan kendilerine
+uygulanan kuvvete göstermiş oldukları dirence dayanıklılık
+denir.
+Cisimlere
+dayanma
+sınırından
+fazla
+kuvvet
+uygulandığında şekli bozulur, bükülme, çökme gibi etkiler
+görülür. Dayanıklılık cismin şekline, boyutlarına ve yapıldığı
+maddenin cinsine bağlıdır.
+Dayanıklılık, cismin kesit alanının hacmine bölünmesiyle
+bulunur.
+ThisIsTestLineForAlgorithm
+Resim 2.13. Örgü ipi
+Dayanıklılık = Kesit Alanı
+Hacim
+Bilgimizi Artıralım:
+İtalyan bilim insanı Galileo canlıların ve cisimlerin boyutları ile
+dayanıklılıkları arasındaki ilişkiyi incelemiştir. Cisimlerin veya canlıların
+boyutlarını aynı oranda büyüttüğümüzde dayanıklılıklarının azaldığını ileri
+sürmüştür. Elbette bir gökdelenin yapımında kullanılan demir ve kolonlar az
+katlı bir binanınkinden çok daha kalın olmalıdır. Canlıların hacimleri arttıkça
+onları taşıyan bacaklarının kesit alanı da artmalıdır aksi durumda bacaklar
+gövdeyi taşıyamaz.
+47
+48

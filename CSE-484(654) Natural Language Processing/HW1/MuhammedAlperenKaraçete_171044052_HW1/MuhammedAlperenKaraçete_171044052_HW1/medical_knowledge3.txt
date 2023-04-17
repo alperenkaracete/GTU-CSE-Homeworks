@@ -1,0 +1,426 @@
+ThisIsTestLineForAlgorithm
+Koruyucu sağlık hizmetleri; birincil koruma, ikincil koruma ve üçüncül
+koruma olmak üzere üç ana basamakta gerçekleştirilir.
+Birincil korumada, kişinin hastalıklara yakalanması önlenmeye çalışılır. Bu amaçla;
+22
+•
+ThisIsTestLineForAlgorithm
+•
+•
+•
+ESKİ
+DURUM
+Ana Çocuk Sağlığı/Aile
+Planlaması
+Verem Savaş Dispanseri
+Sıtma Savaş Dispanseri
+Halk Sağlığı Laboratuvarı
+112 Acil Sağlık Hizmetleri
+İşyeri hekimliği
+Kurum hekimliği
+Sağlık merkezleri
+Sağlık ocağı
+YENİ
+DURUM
+Aile Sağlığı Merkezi
+Toplum Sağlığı Merkezi
+112 Acil Sağlık Sistemi
+Yapılan aşılama,
+Aile planlaması,
+Genetik danışma,
+Sağlık eğitimi hizmetleri gibi uygulamalar birincil korumayı kapsar.
+İkincil koruma, birincil koruma hizmetlerinin yetersiz kalması durumlarında uygulanır. İkincil koruma, hastalık belirtileri ortaya çıkmadan önce
+veya bu belirtilerin hafif olduğu dönemde teşhis edilerek gereken tedavinin
+yapılmasına yönelik çalışmalardır. İkincil koruma önlemlerinde erken tanı,
+sağlık taramaları, alan araştırmaları, uygun tedavi ve engellilik olasılığını
+azaltma çalışmaları sayılabilir.
+Üçüncül korumada, hastalıkların olumsuz sonuçlarının sınırlandırılması ve engelliliğin önlenmesi için yapılan çalışmalardır. Hastalık sonrasında
+oluşabilecek bedensel engelli olma hâli ve işlev kayıplarının en aza indirilmesi için alınacak önlemler de üçüncül koruma uygulamalarıdır. Örneğin diyabeti olan kişide göz komplikasyonlarının engellenmesi için verilen hizmetler
+üçüncül koruma kapsamında yer alır.
+2. Tedavi Edici Sağlık Hizmetleri
+Hastalıkların veya engelliliklerin iyileştirilmesine yönelik yapılan tıbbi
+ThisIsTestLineForAlgorithm
+işlemlerin tümüdür. Tedavi, ilaç kullanımı, cerrahi müdahaleler ve fizik tedavi
+uygulamaları bu gruba girer. Tedavi edici sağlık hizmetleri üç basamak şeklinde gerçekleşir.
+Birinci Basamak Sağlık Kuruluşları: Hastaların ilk başvurdukları, evde
+ve ayakta tedavi edildikleri kuruluşlardır. Aile hekimlikleri, toplum sağlığı merkezleri, 112 acil sağlık sistemi birinci basamak tedavi hizmetlerinin verildiği
+Şekil 1.2
+Biricil basamak sağlık hizmetlerinin yerlerdir (Şekil 1.2). Birinci basamaktaki imkânlarla tam ve tedavisi yapıladurumu
+mayan hastalar ikinci basamağa sevk edilirler.
+İkinci Basamak Sağlık Kuruluşları: Hastaların yatırılarak tanı ve tedavi hizmetlerinin verildiği hastanelerdir. Hastalar uzmanlar tarafından tedavi
+edilirler.
+1. ÜNİTE SAĞLIK BİLGİSİ
+Üçüncü Basamak Sağlık Kuruluşları: En üst düzeyde tıp
+teknolojisi kullanılan kanser araştırma merkezleri, sanatoryumlar,
+ruh ve sinir hastalıkları hastaneleridir (Görsel 1.14). Birinci ve ikinci
+basamakta sorunu çözülemeyen hastalar bu kuruluşlara sevk edilirler. Sağlık sorunu olan hastaların direkt olarak üçüncü basamağa müracaat etmeleri aşırı yığılmalara ve hizmetlerin aksamasına
+sebep olmaktadır. Tedavi edici hizmetlerin basamaklar hâlinde ele
+alınmasının nedeni, bu basamaklar arasında bir hasta sevk sisteminin gerekliliğini vurgulamaktır.
+Görsel 1.14
+Üçüncü basamak sağlık kuruluşu
+ThisIsTestLineForAlgorithm
+3. Rehabilite Edici Sağlık Hizmetleri
+Rehabilite edici sağlık hizmetleri; koruyucu ve tedavi edici
+çabalara karşın gelişen kalıcı bozukluklar ve engelliliğin etkilerini
+en aza indirmek, kişilerin başkalarına bağımlı olmadan yaşamlarını
+sürdürmelerini sağlamak amacıyla düzenlenen sağlık hizmetleridir.
+Kişiler, hastalık veya kazalar sonucu sakat kalarak iş yapabilme gücünü tamamen ya da kısmi olarak kaybedebilirler. Bu kişilerin sakatlıklarının giderilmesi ve bedensel yeteneklerinin artırılması için sağlık hizmeti verilir . Aynı zamanda onlara yeni beceriler
+kazandırılması, sosyal uyum ve iş uyumu sağlanarak kendi kendilerine yeterli duruma getirilmeleri için de çalışılabilir. Bu hizmetlerin tümüne
+rehabilitasyon (esenlendirme) hizmetleri denir (Görsel 1.15).
+Sağlık Kuruluşlarından Kademeli Olarak Yararlanma
+Sevk Zinciri: Acil durumlar dışında hastanın ilk olarak birinci basamağa başvurması, bu basamaktaki imkânlarla teşhis ya da tedavi edilemeyenlerin bir üst basamağa gitmelerinin sağlanmasıdır (Şekil 1.3). Bu uygulamanın
+amacı, hastaların öncelikle birinci basamak sağlık kuruluşlarına başvurmalarını ve yalnızca gerek görülenlerin ikinci ya da üçüncü basamağa gitmelerini sağlamaktır. Böylelikle hem kişiler, zaman kaybetmeden yerleşim yerlerine daha yakın olan birinci basamak sağlık kuruluşlarından yararlanır hem
+de hastaneler, bir alt basamakta hizmet alabilecek hasta yükünden kurtulur.
+Böylece hizmetin kalitesi yükselir ve maliyeti azalır.
+ThisIsTestLineForAlgorithm
+1. BASAMAK
+SAĞLIK
+HİZMETLERİ
+Hastaların ilk başvurdukları, evde ve ayakta tedavi edildikleri kuruluşlardır.
+Örnek: aile sağlığı merkezleri, toplum sağlığı merkezleri
+2. BASAMAK
+SAĞLIK
+HİZMETLERİ
+Hastanelerde verilen yataklı teşhis ve tedavi hizmetlerini
+kapsamaktadır.
+Örnek: devlet hastaneleri, eğitim ve araştırma hastaneleri,
+üniversite hastaneleri, özel hastaneler
+3. BASAMAK
+SAĞLIK
+HİZMETLERİ
+Bir konu üzerinde uzmanlaşmış sağlık kuruluşlarını kapsamaktadır.
+Örnek: onkoloji hastaneleri, ruh sağlığı ve hastalıkları hastaneleri
+Şekil 1.3
+Tedavi edici sağlık hizmetlerinin basamakları
+Görsel 1.15
+Rehabilitasyon hizmetleri
+23
+1. ÜNİTE SAĞLIK BİLGİSİ
+1.1.1.4. Hasta Hakları ve Sorumlulukları
+Hak, insanın doğuştan getirdiği ve daha sonra hukuk düzeninin verdiği maddi-manevi yetkilerdir. Sağlık çalışanlarının hastaya ve hastanın da
+sağlık çalışanlarına karşı görev ve sorumlulukları vardır. Bunlar, daha iyi bir
+sağlık ortamı oluşturmak için hasta ve sağlık çalışanlarının birlikte sahip çıkması gereken haklardır (Görsel
+1.16).
+En Temel Hasta Hakları
+ThisIsTestLineForAlgorithm
+Görsel 1.16
+Hasta hakları
+Hizmetten Faydalanma Hakkı: Herkesin adalet ve
+hakkaniyet ilkeleri çerçevesinde sağlık hizmetlerinden
+faydalanmaya; ırk, dil, din ve mezhep, cinsiyet, siyasi
+düşünce, felsefi inanç, ekonomik ve sosyal durumları dikkate alınmaksızın
+ThisIsTestLineForAlgorithm
+hizmet almaya hakkı vardır.
+Bilgilendirilme ve Bilgi İsteme Hakkı: Herkesin her türlü sağlık hizmetinin ve imkânın neler olduğunu öğrenmeye ve sağlık durumu ile ilgili her türlü bilgiyi sözlü veya yazılı
+olarak almaya hakkı vardır.
+Sağlık Kuruluşunu ve Personelini Tanıma, Seçme
+ve Değiştirme Hakkı: Sağlık Bakanlığı Eylül 2004’te
+ThisIsTestLineForAlgorithm
+Hekim Seçme Uygulamasını başlattı. Buna göre tüm
+hastaların sağlık kuruluşunu seçmeye, değiştirmeye
+ThisIsTestLineForAlgorithm
+ve seçtiği sağlık kuruluşunda verilen sağlık hizmetlerinden faydalanmaya hakkı vardır. Ayrıca hastaların
+sağlık hizmeti verecek ve vermekte olan hekimlerin
+24
+Görsel 1.17
+Hekim seçme hakkı
+ve diğer sağlık çalışanlarının kimliklerini, görev ve unvanlarını öğrenmeye,
+ThisIsTestLineForAlgorithm
+hekim ve sağlık personeli seçme ve değiştirmeye de hakkı vardır (Görsel
+1.17).
+Mahremiyet Hakkı: Herkesin gizliliğe uygun olan bir ortamda her türlü
+sağlık hizmetini almaya hakkı vardır.
+Güvenlik Hakkı: Herkesin sağlık hizmetini
+güvenli bir ortamda almaya hakkı vardır.
+Saygı Görme ve Rahatlık Hakkı: Herkesin
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+saygı ve ihtimam gösterilerek güler yüzlü, nazik,
+şefkatli, her türlü hijyenik şartlar sağlanmış ve
+rahatsız edici bütün etkenler giderilmiş bir ortamda
+sağlık hizmeti almaya hakkı vardır (Görsel 1.18).
+Görsel 1.18
+Saygı görme ve rahatlık
+Dinî Vecibeleri Yerine Getirebilme Hakkı:
+Herkesin sağlık kuruluşunun imkânları ölçüsünde ve
+idarece alınan tedbirler çerçevesinde dinî vecibelerini
+yerine getirmeye hakkı vardır.
+Bilgilendirilmiş Rıza Hakkı: Her türlü tıbbi müdahale öncesinde hastaya
+kendisi ile ilgili tıbbi gerçekler, önerilen tıbbi girişimler, her bir girişimin olası
+risk ve yararları, önerilen girişimlerin farklı seçenekleri, tedavisiz kalmanın
+etkisi, tanı, sonuç ve tedavinin gidişatı anlatıldıktan sonra hastanın kendi el
+yazısı ile tüm bunları kabul ettiğine dair rızasının alınmasıdır.
+Ziyaret ve Refakatçi Bulundurma Hakkı: Hastaların, sağlık kurum
+ve kuruluşlarınca belirlenen usul ve esaslara uygun olarak ziyaretçi kabul
+etmeye; mevzuatın, sağlık kurum ve kuruluşlarının olanakları ölçüsünde
+ve hekimin uygun görmesi durumunda refakatçi bulundurmayı isteme hakkı
+vardır.
+1. ÜNİTE SAĞLIK BİLGİSİ
+Başvuru ve Dava Hakkı: Sağlık haklarının ihlâl edildiğini düşünen
+hastalar mevzuat çerçevesinde her türlü başvuru, şikâyet ve dava hakkına
+sahiptir.
+Bilgilerin Gizli Tutulması Hakkı: Tüm hastalar, tedavisi ile ilgili bilgilerin gizli tutulmasını isteme hakkına sahiptir.
+Tedaviyi Reddetme ve Durdurma Hakkı:
+Hastalar istediği zaman tedaviyi reddetme ve
+durdurma hakkına sahiptir.
+Şikâyet Bildirim Yolları
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Hasta Hakları
+HASTA BAŞVURU BİLDİRİM SİSTEMİ
+(HBBS)
+Sağlık Hizmetleri
+Genel Müdürlüğü
+Hasta Olarak Haklarımız
+a) Hizmetten Genel Olarak Faydalanma,
+b) Bilgilendirme Ve Bilgi İsteme,
+c) Sağlık Kuruluşunu Ve Personelini Seçme ve Değiştirme
+d) Mahremiyet
+e) Rıza
+Hasta ve hasta yakınları tüm müracaat
+ve şikâyetlerini Hasta Hakları birimlerinden, Sağlık Bakanlığınca oluşturulan https://hastahaklari.
+saglik.gov.tr/ Genel Ağ adresinden (Görsel 1.19)
+ve Sağlık Bakanlığı İletişim Merkezi (SABİM) Alo
+184’ü arayarak yapabilir.
+Yazılı müracaatlar, başvurunun birim tarafından alınmasından sonra
+15 iş günü içerisinde Hasta Hakları Kurulunda görüşülerek karara bağlanır
+ve karar hakkında başvuru sahibine yazılı bilgi verilir.
+Hasta Ekranı
+T.C. Numaranız
+Şifreniz
+Şifremi Unuttum
+Üye Ol
+Gir
+Görsel 1.19
+Hasta hakları ekranı
+1.1.1.5. Akılcı İlaç Kullanımı
+DSÖ, ilaca erişilebilirliği bir insanlık hakkı olarak görmektedir. Bu aynı zamanda tüm sağlık politikalarının bir parçasıdır. Tüm
+dünyada yanlış, gereksiz, etkisiz ve yüksek maliyetli ilaç kullanımı
+çeşitli boyutlarda sorunlara neden olmaktadır (Görsel 1.20). Bu sorunlar arasında hastalık ve ölüm oranlarında artış, ilaçların yan etki
+riskinin artması, kaynakların yanlış tüketilmesi ve temel ilaçlara bile
+ulaşılabilirliğin azalması sayılabilir. Ayrıca acil ve temel ilaçlara karşı
+gelişebilecek dirence dayalı tedavinin ekonomik ve sosyal maliyetinin artması da bu sorunlar arasındadır. Bu sebeple dünyada çeşitli
+çözüm yolları üretilmeye ve geliştirilmeye çalışılmıştır. Bu bağlamda
+“Akılcı İlaç Kullanımı (AİK)” çalışmaları başlatılmıştır.
+İlaç Kullanırken Nelere Dikkat Edilmelidir?
+Akılcı ilaç kullanımı, öncelikli olarak halkın sağlığını ve toplumun çıkarını gözetir.
+Akılcı ilaç kullanımının sağlanabilmesi için aşağıdaki hususlara dikkat edilmelidir:
+• Öncelikle hekim tarafından doğru teşhisin konulması gerekmektedir. Buna paralel
+olarak hekim tarafından ilaçlı veya ilaçsız, etkili ve güvenilir tedavi tanımlanmalıdır.
+İlaçla tedavi uygulanacaksa uygun hekim tarafından ilaçlar seçilmeli, her bir ilaç
+ThisIsTestLineForAlgorithm
+için uygun doz ve uygulama süresi belirlenmeli ve hastaya uygun reçete yazılmalıdır.
+• Hastanın alerjik durumları sorgulanmalı, kullanmakta olduğu veya en son kullandığı ilaçlar hasta ve hasta yakını tarafından sağlık personeline bildirilmelidir.
+• İlaçların nasıl, hangi dozda, hangi sıklıkta (günde 2 defa, 12 saat arayla), ne kadar
+süre (kaç gün) kullanılacağı ve hangi koşullarda saklanacağı hastaya tam olarak
+anlatılmalı ve ilaçlar hasta/hasta yakını tarafından eksiksiz olarak uygulanmalıdır.
+• İlaçlar kullanma talimatında belirtilen şekilde saklanmalıdır. Uygun olmayan saklama koşullarında ilaçların kimyasal yapılarında bozulma olabileceği yani etkisini
+kaybedebileceği hatta istenmeyen etkilerin ortaya çıkabileceği, zehirlenmelerin
+oluşabileceği unutulmamalıdır.
+25
+Görsel 1.20
+Gereksiz ilaç
+kullanımı
+1. ÜNİTE SAĞLIK BİLGİSİ
+• Buzdolabında saklanması gereken ilaçlar kesinlikle buzlukta saklanmamalı ve dondurulmamalıdır.
+• Hamilelik ve emzirme döneminde, çocuklarda, yaşlılarda, böbrek
+ve karaciğer yetmezliği olan hastalarda, kronik hastalığı olanlarda,
+ilaç alerjisi öyküsü olanlarda ilaç kullanımı konusunda daha dikkatli
+olunmalıdır.
+• İlaç, doktorun veya eczacının önerisi dışında çiğnenerek, kırılarak,
+bölünerek veya suda çözülerek kullanılmamalıdır. Unutulmamalıdır
+ki her ilaç buna uygun olarak üretilmemiştir.
+• İlaçlar çocukların göremeyeceği, ulaşamayacağı yerlerde, ışıktan
+ve nemden korunarak ambalajında saklanmalıdır.
+• Tüm ilaçlar, özellikle antibiyotik türü ilaçlar doktor tavsiyesi olmadan
+kullanılmamalıdır. İlaç, doktor tarafından önerilen süre boyunca kullanılmalıdır. İlaç kullanımı yarıda kesilmemeli, doktora danışmadan
+doz değişikliğine gidilmemelidir. Antibiyotikler viral hastalıklarda etkili
+olmadığı için kullanılmamalıdır.
+• Doz atlamamaya ve ilacı doktorun önerdiği şekilde almaya özen
+gösterilmelidir.
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+• Kesilmiş veya açılmış ambalajlar satın alınmamalı, son kullanma tarihi geçmiş olan ilaçlar kesinlikle kullanılmamalıdır.
+26
+• İlaç dışı gıda takviyesi, bitkisel ürün gibi tedaviye yönelik diğer
+ürünlerin bilinçsiz kullanımından kaçınılmalıdır.
+Görsel 1.21
+Bitkisel ilaçlar
+Bitkisel ilaçların, eczane dışı yerlerden alınan ürünlerin bilinçsiz olarak kullanımı insan vücudunda zararlara neden olabilir
+(Görsel 1.21). Bu konuda dikkatli olunmalı ve bilinmeyen bir ürün
+kullanılmamalıdır.
+Dünya Sağlık Örgütünün tahminlerine göre ilaçların %50’sinden fazlası uygun olmayan şekilde reçetelenmekte, temin edilmekte veya satılmaktadır. Hastaların yarısı da ilaçlarını doğru şekilde kullanamamaktadır.
+Tüm dünyada olduğu gibi ülkemizde de yanlış ve gereksiz
+ilaç kullanımı halk sağlığını etkileyen ciddi bir sorundur. Akılcı olmayan ilaç
+kullanımı; hastaların tedaviye uygunluğunun azalmasına, ilaç etkileşimlerine, bazı ilaçlara karşı direnç gelişmesine, hastalıkların tekrarlamasına ya da
+uzamasına, beklenmeyen etkilerin görülme sıklığının ve tedavi maliyetlerinin
+artmasına neden olmaktadır.
+PROJE
+Gaziantep İli “İlaçları Doğru Kullanalım Projesi”
+ThisIsTestLineForAlgorithm
+Projenin Gerekçesi: İlaç kullanımı konusunda dünyada ve ülkemizde yaşanan sorunlar hakkında bilgilendirme yapılması, bu soruna çözüm doğrultusunda “Akılcı İlaç Kullanımı” ile ilgili sorunların çözümlenmesi ve gereksiz ilaç kullanımının engellenmesi amaçlanmıştır (Görsel1.22).
+Görsel 1.22
+Gerksiz ilaç kullanımının
+engellenmesi
+Sağlayacağı Katkı: Akılcı İlaç Kullanımı konusunda toplumsal bilincin artırılması ve
+farkındalık oluşturulması sonucunda tedavi kalitesi artacak, kaynakların boş yere kullanılması engellenecek, ayrıca ilaçların yan etkisinin görülme sıklığı azalacak, bu konudaki eksiklikten kaynaklanan sebeplerle oluşan riskler, antibiyotik direnci görülme oranı azalacak ve
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+yapılacak anket çalışması ile de Gaziantep ili genelinde bir veri oluşturulacaktır.
+• Akılcı ilaç kullanımı konusunda farkındalık oluşturacak bir afiş hazırlayınız.
+ÖĞRENDİKLERİMİZİ DEĞERLENDİRELİM
+1. Dünya Sağlık Örgütüne göre sağlığın tanımını yapınız.
+2. Kulak ile ilgili rahatsızlığınız olduğunu fark ettiğinizde hangi sağlık kuruluşuna ve nasıl başvuru
+yaparsınız?
+3. Hasta hakları ile ilgili şikâyetler nasıl yapılır ve başvuru birimleri nerelerdir?
+4. Aşağıda verilen metne göre soruları cevaplayınız.
+Tarımda kullanılmak üzere kimyasal gübre üreten büyük bir kimyasal fabrikanın yakınlarında
+yaşadığınızı farz edin. Son yıllarda o alandaki insanlarda uzun süreli soluma problemlerinden dolayı
+sıkıntı çekme vakasının görüldüğü birçok durum olmuştur. Bölgedeki birçok insan, bu semptomlara
+yakındaki kimyasal gübre fabrikasından gelen zehirli dumanların sebep olduğuna inanmaktadır. Bu bölgede yaşayan insanların sağlığına kimyasal fabrikanın verdiği potansiyel tehlikeleri tartışmak üzere bir
+kamu toplantısı yapılmıştır.
+Kimyasal şirkette çalışan bilim insanlarının ifadesi, “Bölgede topraktaki zehirlenme üzerine bir
+çalışma yaptık. Aldığımız örneklerde zehirli kimyasallara ait hiçbir belirti bulamadık.”
+Bu bölgedeki ilgili vatandaşlar için çalışan bilim insanlarının ifadesi, “Bölgedeki uzun süreli
+soluma problemlerinin sayısına baktık ve bunu kimyasal fabrikadan uzak olan alanlardaki durumlarla
+karşılaştırdık. Kimyasal fabrikaya yakın olan alanda daha fazla olay bulunmaktadır.”
+Buna göre
+a) Fabrikanın sahibi, “fabrikadan çıkan dumanların bölgede yaşayanlar için bir sağlık riski
+taşımadığı”nı kanıtlamak amacıyla şirket için çalışan bilim insanlarının ifadesini kullandı.
+Şirket için çalışan bilim insanlarının ifadesinin, mal sahibinin savını desteklediğinden şüphe
+etmek için bir sebep belirtiniz.
+...............................................................................................................................................................................
+...............................................................................................................................................................................
+...............................................................................................................................................................................
+b) İlgili vatandaşlar için çalışan bilim insanları, kimyasal fabrikaya yakın olan ve soluma problemli insanların sayısını fabrikadan uzak olanlarla karşılaştırdı.
+layınız.
+ThisIsTestLineForAlgorithm
+Sizi iki alandaki karşılaştırmanın geçerli olmadığını düşünmeye itebilecek olası bir farklılığı açık-
+....................................................................................................................................................................................
+....................................................................................................................................................................................
+....................................................................................................................................................................................
+İlgilenelim Bilgilenelim
+“e-Nabız” Dünya Zirve Ödülleri’nde “En İyi
+ThisIsTestLineForAlgorithm
+Sağlık Uygulaması” Seçildi.
+Sağlık Bakanlığı tarafından geliştirilen ve her
+türlü sağlık kaydına erişime olanak sağlayan “e-Nabız”
+uygulaması, Birleşmiş Milletler Dünya Bilgi Toplumu
+İnisiyatifi kapsamında verilen 2016 Dünya Zirve
+Ödülleri’nde (WSA-World Summit Award) “En İyi Sağlık
+Uygulaması” seçildi.
+1. ÜNİTE SAĞLIK BİLGİSİ
+Sıra Sizde
+27
+1. ÜNİTE SAĞLIK BİLGİSİ
+1.1.2. HİJYEN, AĞIZ VE DİŞ SAĞLIĞI,
+BULAŞICI HASTALIKLARDAN KORUNMA
+Kaynağı bilinmeyen suları
+kullanmayınız.
+ThisIsTestLineForAlgorithm
+28
+Çiğ tüketilen gıdalarınızı
+temiz ve bol su ile yıkayınız.
+Ellerinizi mutlaka su ve sabun ile
+sık sık yıkayınız.
+Gıdalarınızı tam olarak
+pişirdikten sonra tüketiniz.
+Öğreneceklerimiz
+1. Sağlıklı yaşam için hijyenin önemi
+2. Ağız ve diş sağlığının korunması için yapılması gerekenler
+3. Bulaşıcı hastalıklardan korunma yolları
+Neler Biliyoruz?
+1. Sağlıklı yaşam için hijyenin önemini vurgulayınız.
+2. Düzenli diş fırçalamanın diş çürüğünün önlenmesindeki etkilerini
+belirtiniz.
+3. Kene ısırması durumunda neler yaparsınız? Açıklayınız.
+1. ÜNİTE SAĞLIK BİLGİSİ
+1.1.2.1. Sağlıklı Yaşam İçin Hijyenin Önemi
+Başta kişinin kendi sağlığı olmak üzere başkalarının da sağlığını korumanın en önemli aracı temizliktir. Hastalıklardan korunmak için temizlik uygulamaları ihmal edilmemelidir. Sadece beden temizliği değil, kullanılan her
+şeyi ve her ortamı temiz tutmak da temiz olmanın gereğidir. Sağlığa zarar
+verecek ortamlardan korunmak için yapılacak uygulamalar ve alınan temizlik
+önlemlerinin tümü “hijyen” olarak tanımlanır. Kişisel hijyen ise kişilerin kendi sağlığını korumak için yapılan öz bakım uygulamalarıdır. Kişisel temizlik
+uygulamalarının yapılabilmesi için öncelikle kişilerin temizlik ve sağlık bilinci
+gelişmiş olmalıdır.
+Kişisel Temizlik Uygulamaları
+Kişisel temizlik uygulamalarının yapılabilmesi için öncelikle kişilerin
+temizlik bilinci ve sorumluluğu gelişmiş olmalıdır. İşten veya okuldan eve gelindiğinde, yemeklerden önce ve sonra, tuvalete her girişte ve çıkışta eller
+su ve sabun ile yıkanıp kurulanmalıdır. Ayaklar her gün çorap ve ayakkabı içinde terlediğinden, her akşam düzenli olarak su ve sabunla yıkanmalı,
+yatarken elbiseler çıkarılıp pijama veya gecelik giyilmelidir. Dişler günde en
+az iki defa fırçalanmalı, her gün saçlar taranmalı, sık sık uygun şampuanla
+yıkanmalıdır.
+29
+ThisIsTestLineForAlgorithm
+El ve Tırnak Bakımı-Temizliği: Bulaşıcı hastalıklar hâlen dünyada en
+sık görülen hastalık grubunu oluşturmaktadır. Uygun el yıkama pratiğinin insanlara kazandırılması hâlinde bu hastalıklar önemli derecede azalacaktır. El
+yıkamanın amacı, kimyasal ve fiziksel zararlıların ve bulaşıcı hastalıklara yol
+açan mikroorganizmaların uzaklaştırılmasıdır. Sadece su ile elin yıkanması,
+görünen kirlerin giderilmesini sağlarken su ile birlikte sabun kullanıldığında
+gerçek temizlik sağlanabilmektedir.
+Eller Nasıl Yıkanmalıdır?
+•
+Akan su altında ıslatılmalı ve sabunlanmalı,
+•
+Akan su altında yıkanıp durulanmalı,
+•
+Kâğıt havlu-peçete ile kurulanmalıdır (Kurulama mikroorganizma sayısını azaltır.)
+Temizliğin sağlanabilmesi için elleri yıkarken ellerin
+bütün yüzeyleri en az 20 saniye ovalanmalıdır. Parmak uçları,
+tırnaklar, el sırtı ve ayasının temizliğine özen gösterilmelidir
+(Görsel 1.22).
+Eller Ne Zaman Yıkanmalıdır?
+Görsel 1.22
+Doğru el yıkama tekniği
+Eller, yemek hazırlamadan önce; diş, ağız, yüz ve göz
+temizliği yapmadan önce; tuvaletten önce ve sonra; kirli, tozlu
+bir işi tamamladıktan sonra; dışarıdan eve gelince ve hasta
+ziyaretinden sonra yıkanmalıdır. Bunların dışında özellikle
+toplu yaşanılan yerlerde sıvı sabun kullanılmalıdır. Kalıp
+sabunlar kişisel temizlik araçları olduğundan mümkünse ortak
+kullanılmamalıdır.
+Tırnaklar, kolay kirlenebilir ve etle tırnak arasında kir
+birikebilir. Bu nedenle tırnakların düzenli olarak temizlenmesi
+gerekir. Tırnaklar yenmemeli ve tırnak eti koparılmamalıdır. Tırnaklar haftada
+bir yarım ay biçiminde kesilmelidir (Görsel 1.23).
+Görsel 1.23
+El tırnağının kesilmesi
+1. ÜNİTE SAĞLIK BİLGİSİ
+ThisIsTestLineForAlgorithm
+Yüz ve Boyun Temizliği: Her gün sıkça kirlenen yüz ve boyun kısımları temizlenmelidir. Her sabah duş yapma olasılığı varsa duş yapılmalı, yok ise
+sabahları kalkınca ve akşam yatmadan önce sabun ve suyla yüz ve boyun
+ThisIsTestLineForAlgorithm
+iyice yıkanmalıdır. Kullanılan sabun kolayca temizleyen ve cildin kurumasına
+yol açmayan özellikte olmalıdır.
+Kulak Temizliği: Temizleme işlemine kulakların arkasından başlanmalı, kulak kepçesi kıvrımlarında ve kulak arkasında biriken kirler su ve
+sabunla temizlenmeli, kâğıt havlu veya peçete ile silinmelidir. Kulak
+içine kulak temizleme çöpü veya başka bir şey sokulmamalıdır (Görsel 1.24). Pamuklu kulak çubukları kulak yolu zedelenmesine ve iltihaplara neden olmaktadır.
+Görsel 1.24
+Kulak çubuğu kullanılmamalı
+Burun Temizliği: Gece yatmadan önce ve her sabah bol su ile ve
+sümkürerek yapılmalıdır. Burnu karıştırmak, burunda bulunan pek
+çok mikrobun ellere ve el yolu ile de ağız ve sindirim sistemine bulaşmasına yol açmaktadır. Burun temizliği için kişi yanında temiz bir mendil
+bulundurmaya özen göstermelidir.
+Koltuk Altı Temizliği: Her yaş grubunda ayrı nitelik ve yoğunlukta olmakla birlikte çalışırken ve uykuda koltuk altları sürekli olarak terlemektedir.
+Ter salgısı zararlı mikroorganizmaların üremesine neden olabilir. Banyo yapılmadığı zamanlarda bile koltuk altı önce sabunlu bir bezle sonra da su ile
+iyice silinmeli ve temizlenmelidir. Kullanılan deodorantlar temizliği çoğunlukla
+sağlamamaktadır. Koltuk altı temizliği esas olarak banyoda tamamlanmalıdır.
+30
+Saç Temizliği ve Bakımı: Saç temizliği sağlığı etkiler çünkü bazı
+enfeksiyon etkenleri ve parazitler, kirli saçlara ve o bölgedeki deriye
+daha kolay yerleşir. Saçların haftada en az 2 kez yıkanması gerekir.
+Saçlı deri yağlı ise saçlar daha sık yıkanmalıdır.
+Görsel 1.25
+Kepeklenme
+Kepeklenme, kirli ve yağlı ölü saç hücreleri sebebiyle oluşur
+(Görsel 1.25). Kepek oluşumu iyi bir saç bakımı ile önlenemezse
+hekime danışmak gerekir. Bitler, insan vücudunun saçlı ve saçsız
+derisine yerleşen burada çoğalabilen hareketli, kan emici canlılardır. Saç temizliği ve bakımına dikkat etmeyen kişilerde bit oluşabilir (Görsel 1.26) ve bu kişiler çevresindeki kişilere de bulaştırabilir.
+Eğer bit bulaşmış ise mutlaka tedavi edici şampuan ve losyonlar
+kullanılmalıdır. Havlu, tarak, toka gibi kişisel eşyalar diğer kişilerle
+kullanılmamalıdır. Saçlarında sirke ve bit bulunmayan aile bireyleri
+de en az 12 gün saç kontrolü yapmaya devam etmelidir.
+Genel Öneriler: Çocukların saçları sık sık kontrol edilmelidir.
+Özellikle ergenlik çağındaki genç kızlar saçları konusunda son derece duyarlıdır. Saçlarının kontrol edilmesi için ikna edilmelidir. Uzun
+saçı geriye doğru bağlamak veya örmek bit bulaşmasını önlemek
+açısından yararlıdır.
+Görsel 1.26

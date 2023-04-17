@@ -1,0 +1,422 @@
+psikodinamik, biyolojik ve hümanist yaklaşımlar nasıl açıklar? Ünite sonunda verilen
+cevapları okumadan önce, siz de diğer yaklaşımlardan tercih ettiklerinizin açıklamalarını aşağıya yazınız.
+……………………………………………………………………………….
+……………………………………………………………………………….
+1.3 PSİKOLOJİNİN ÖLÇÜTLERİ VE AMAÇLARI
+1.3.1 Psikolojinin Ölçütleri
+Diğer bilim dallarında olduğu gibi psikoloji biliminin de bazı ölçütleri vardır. Bu ölçütler:
+Gözlenebilirlik: Yalnızca çıplak gözle izlemeyi değil, gözün veya başka duyu organının yetersiz kaldığı durumda bazı teknolojik aygıtlardan yararlanmaktır. Örneğin, beynin ürettiği elektriksel dalgaları ölçmek için amplifikatörlerin kullanılması gibi.
+Ölçülebilirlik: Sayısal olarak belirlene bilirliği ifade eder. Örneğin, zekâ testinden alınan puanların sayıyla belirtilmesi gibi. Gözlenebilen ve ölçülebilen olaylar(davranışlar)
+iletilebilir, tekrarlanabilir ve sağlanabilir.
+İletilebilirlik: Bilim insanlarının anlatmak istediğinin herkesçe aynı biçimde anlaşılması, elde ettiği sonuçları başkalarına makale, kitap, sunum vb yollarla bildirebilmesidir.
+Tekrarlanabilirlik: Yapılan çalışmaların başka bilim insanlarınca farklı zamanlarda
+ThisIsTestLineForAlgorithm
+aynı biçim ve koşullarda yinelendiğinde mümkün olduğu kadar birbirine yakın sonuç ve
+gözlemler elde edilmesidir.
+Sağlanabilirlik: Bilimsel araştırma sonuçlarının doğruluğunun sınanabilmesi, test
+edilebilmesidir. Özellikle tekrarlanabilen araştırmaların sağlanması yapılmış olur.
+İLETİLEBİLEN
+GÖZLENEBİLEN
+ÖLÇÜLEBİLEN
+TEKRARLANABİLEN
+SAĞLANABİLEN
+İlk iki ölçüt incelenen olayların özellikleri iken, diğerleri araştırma sonuçları ile
+ilgilidir. Bu ölçütlere uyulması, psikolojide aşağıdaki amaçlara ulaşmak için gereklidir.
+17
+1.3.2 Psikolojinin Amaçları
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+DÜŞÜNELİM
+Aşırı kaygı yaşayan bir insanın davranışlarının nedenlerini araştıran bir psikoloğun bireyin bu davranışını
+etkilemesi ya da yönlendirmesi mümkün müdür?
+Görsel 1.4 Psikolojinin
+amacı öncelikle insan davranışlarını tanımlamaktır.
+Görsel 1.5 İnsan davranışlarını anlamak için o davranışın neden yapıldığının aydınlatılması gerekir
+Görsel 1.6 Aynı durum karşısında her insan aynı davranışı
+göstermeyebilir.
+Görsel 1.7 Çocuklarda saldırgan davranışların nedenleri
+bilinirse saldırganlık kontrol
+edilebilir.
+18
+1. İnsan Davranışlarını Betimleme: Psikolojide tanımlama, ele alınan davranışın anlamını belirleme ve onu
+kesinliğe kavuşturma işlemidir. Örneğin, aşırı kaygı yaşayan bir kişi karşısında psikologlar bireyin gözlenebilen ve
+gözlenemeyen davranışlarını inceleyerek, kaygıya neden
+olan koşulları araştırırlar. Böylece kaygının ne olduğunu
+tanımlamaya çalışırlar.
+2. İnsan Davranışlarını Anlama ve Açıklama: Davranışları anlamak, davranışın ortaya çıkış nedenini bulmak
+ve neden-sonuç ilişkisi kurarak açıklamaktır. Örneğin,
+uzun süre kaygı altında kalan insanda bedensel ve psikolojik bozukluklar görülür. Psikolog, kaygıya neden olabilecek aile, okul gibi dış etmenlerin yanında yorgunluk,
+kalıtım gibi iç etmenleri araştırarak kaygının nedenlerini
+anlamaya ve açıklamaya çalışır.
+3. İnsan Davranışlarını Önceden Kestirebilme (Yordama): Psikoloji insan davranışlarının nedenlerini ortaya
+koyduktan sonra, benzer durumlarda benzer davranışların
+ortaya çıkabileceğini önceden tahmin edebilir. Örneğin,
+kaygının nedenlerini anlamış ve açıklayabilmişsek hangi
+koşullarda, ne zaman ortaya çıkacağını bilebiliriz. Bu da bize
+kaygı gibi olumsuz durumların önlenebilmesi için çözümler
+bulma olanağı sağlar.
+4. İnsan Davranışlarını Etkileyebilme ve Kontrol
+Etme: Bu aşamada davranışın istenen yönde gelişmesi
+için ortaya çıkacak istenmeyen durumların, davranışların
+kontrol edilmesi ve önlenmesi amaçlanır. Klinik psikoloji, eğitim psikolojisi gibi psikolojinin bazı uzmanlık alanları, insan davranışını etkileme ve değiştirme konusuyla
+ilgilidir. Örneğin, öğrenme üzerinde etkili olan koşullar
+bilinirse insanların daha kolay ve kalıcı bilgi edinmeleri
+sağlanabilir ya da davranış bozukluklarına yol açabilen aşırı
+kaygının nedenleri tespit edilmişse ruh sağlığını koruyucu
+önlemler alınabilir. Doğayı tanımaksızın ona egemen olmak mümkün olmadığı gibi, insanı tanımadan da davranışlarını etkilemek ya da denetlemek mümkün değildir Bu
+nedenle psikolog kaygı davranışının tanımından hareketle
+bireyin kaygı davranışlarının altında yatan nedenleri tespit eder ve kaygı durumunun
+düzeltilmesi yönünde bazı teknikler uygulayarak koruyucu önlemler alabilir.
+1.4 PSİKOLOJİ ARAŞTIRMALARINDA UYGULANAN
+YÖNTEM VE TEKNİKLER
+Stanford Üniversitesinden psikolog Walter Mischel’in (yuva çocuklarına uyguladığı
+“lokum testi” çalışmasını okuduktan sonra düşünme kutusundaki soruyu cevaplayınız.
+Duygulara ve dürtülere karşı koyabilme ve onları geciktirebilme becerisini
+ölçmek için yapılan çalışmada, 4 yaşındaki anaokulu çocuklarına hoşlarına gidebilecek lezzette lokumlar sunulur. Çocuklara hemen istedikleri takdirde bir tane lokum
+alabilecekleri ama 15 dakika beklediklerinde ise iki tane alabilecekleri söylenir. Bir
+grup çocuk öğretmen odadan çıkar çıkmaz lokumu alırken, diğer bir grup çocuk ise
+15 dakika bekleyerek ödül olarak çift lokumu alırlar.
+Bu çocuklar ergenlik çağında tekrar izlendiklerinde iki grup arasında sosyal ve duygusal farklılıklar olduğu saptanmıştır. Lokum almayı yani doyumu erteleyebilen çocukların hayattaki zorluklarla daha iyi mücadele eden, özgüveni yüksek, çevresine güven
+veren, inisiyatif kullanabilen, mantıklı davranan gençler oldukları görülürken; lokumu
+ThisIsTestLineForAlgorithm
+hemen kapan çocukların ise kararsız, doyumsuz, inatçı, kıskanç, sinirli, insanlara zor
+güvenen, her şeyden şikâyetçi, kilo sorunları olan gençler oldukları görülmüştür.
+Otokontrolde Ustalaşmak, Walter Mischel
+DÜŞÜNELİM
+“Hedef uğruna dürtüleri erteleme becerisinin başarı üzerindeki etkisi” nin araştırıldığı bu çalışmada tek bir araştırma yöntemi kullanmak yeterli midir, yoksa birkaç
+yöntem bir arada kullanma gerekebilir mi?
+Bilimlerin amacı, olguları betimlemek, açıklamak ve yasalara ulaşmaktır.
+Bu amaca erişmek için izledikleri sistemli düzenli her türlü araştırma tekniğine yöntem denir.
+Genel olarak bilimlerin kullandıkları yöntemler; tümevarım, tümdengelim ve analojidir. Tüm bilimlerdeki
+yöntemler bu üç yönteme dayanır ancak
+her bilimin kendine özgü bir konusu
+olduğundan bilimler konularına uygun
+yöntemleri geliştirmişlerdir. Psikoloji de
+gerek diğer bilimlerin yöntem ve tekniklerinden yararlanarak, gerekse kendine
+özgü yöntem ve teknikler kullanarak,
+konusunu bilimsel bir şekilde inceler.
+Bu yöntemler şunlardır:
+Tümevarım(endüksiyon): Çok sayıda
+gözlem ve deney sonucundan genel ilkelere varmak. Bilimlerin elde ettiği kanun ve prensipler bu yolla elde edilir.
+Tümdengelim(dedüksiyon): Deney ve
+gözlemler sonucunda elde edilmiş genel
+bir ilkeyi tek tek olaylara uygulamak.
+Bilimler bu yöntemle genellemelerden
+yararlanarak olayları açıklar.
+Analoji(benzetme): İki olgu ya da olay
+arasındaki benzerlikten yola çıkarak
+onların başka bakımlardan da benzer
+olacaklarını öne süren çıkarsamadır. Bilimler bu yöntemle olgular arasındaki
+benzerlikten yola çıkarak birinde olan
+özelliğin diğerinde de olabileceğini öngörürler.
+19
+1.4.1 Betimleyici Ve Tanımlayıcı Yöntemler
+Araştırma konusu olan olay, nesne ya da durumun
+özelliklerini tasvir etmek ve tanımlama amacına dayanır.
+Türleri: gözlem, anket, test, olay incelemesi, görüşmedir.
+1) Gözlem: Psikolojide üç türlü gözlem kullanılmaktadır:
+Görsel 1.8 J. Piaget hayatının
+50 yılını çocukları gözleyerek,
+nasıl düşündükleri ve problemleri nasıl çözdükleri üzerinde çalışarak geçirmiştir.
+Görsel 1.9 Sistematik gözlemle
+kısa sürede daha kesin bilgiler
+ThisIsTestLineForAlgorithm
+elde edilir.
+Görsel 1.10 Anket fazla esneklik gerektirmeyen sınırlı bilgilerle yetinilen araştırmalar için
+uygundur.
+20
+a) İç Gözlem (içe bakış): Bir uyarıcının etkisiyle bireyin yaşadığı duyguları kendi kendini gözlemleyip elde
+ettiği bilgileri araştırmacıya aktarmasıdır. Örneğin, kişiliğin incelenmesinde önemli bir yeri olan ‘kendi kendini
+değerlendirme soru cetvelleri’ iç gözlemin bir türüdür. Bu
+yöntem objektif olmadığı için eleştirilse de tümüyle terk
+edilmemiştir.
+b) Doğal Gözlem: İncelenen olayların kendi doğal ortamında, müdahalede bulunulmadan ve gözlem yapılan
+kişilerin haberi olmaksızın gözlemlenmesidir. Gözlem
+doğal koşullarda gerçekleştiği için gözlenen olayın tekrarlanması mümkün değildir. Örneğin, gruba uyum veya
+ThisIsTestLineForAlgorithm
+uyumsuzluk davranışlarının belirlenmesi amacıyla anaokulunun bahçesinde oyun oynayan çocukların gözlemlenmesi ya da lokum testi çalışmasında gelişim dönemleri boyunca davranışlarının doğal ortamda takip edilmesi
+gibi.
+c) Sistematik Gözlem: Araştırmacının belirli teknikleri kullandığı, olayların yeri, zamanı ve koşullarının gözlemci tarafından önceden hazırlandığı gözlem biçimidir.
+Bireylerin davranışlarının belli yönlendirmeler yapılarak
+ThisIsTestLineForAlgorithm
+izlendiği bu yöntemde araştırmacı görüşme ve gözlem
+çizelgeleri hazırlayabilir, soru kağıtları ve test gibi araçlardan yararlanabilir. Ses kasedi, video gibi aletlerle kayıt
+yapabilir. Gözlenen gözlendiğinin farkındadır. Sistematik
+gözlemde koşullar, araştırmacı tarafından oluşturulduğu
+için tekrarlanabilir ve ayrıntılı şekilde gözlem yapılabilir.
+2) Anket(tarama) Yöntemi: Belli kişilerin ya da grupların bir konu üzerindeki duygu, düşünce ve deneyimlerini anlamak için belli bir plana göre hazırlanmış olan soru
+listeleridir. Geçerliliği ve güvenilirliği düşük olmasına
+rağmen kolay, ucuz oluşu ve çok sayıda kişiye ulaşma imkânı sağlaması açısından en çok kullanılan tekniklerden
+biridir. Bu yöntemde en önemli nokta örneklem seçimidir.
+Örneklem: Belli bir evrenden belli kurallara göre seçilmiş ve seçildiği evreni temsil
+yeteneği yeterli kabul edilen küçük kümedir. Örneğin, üniversitelerle ilgili bir araştırma yapılması düşünüldüğünde Türkiye’deki tüm üniversitelerin araştırılması mümkün
+olmadığından sadece belli sayıda okul seçilerek araştırma yapılır. Araştırma sonucu
+tüm üniversitelere genellenir.
+3) Görüşme: Bireyin kişiliği hakkında bilgi sahibi olmak amacıyla uygulanan ve bireyin düşünce, duygu, davranış ve tutumlarını saptamak amacıyla yüz yüze konuşmaya
+dayalı olan yöntemdir. İş konulu görüşmelerde bireyin kişiliğinin işe ve iş ortamına uygunluk derecesi saptanmaya çalışılırken, danışma amaçlı görüşmeler psikolojik problemlerin çözümü için uygulanır. Bu yöntem, görüşmeyi yapan kişiye dayandığından oldukça
+öznel bir yöntemdir. Güvenilir bir görüşme için görüşmeci alanında uzman olmalıdır.
+Görüşülen kişinin yanlış cevaplar verme ihtimaline karşı önceden tedbir alınır.
+4) Vak’a İncelemesi (Olay İncelemesi): Bazı durumlarda insan davranışını tanımlamak pek kolay olmaz. Olayın derinine inmek gerekir. Geçmiş yaşamının ve çevrenin
+davranışlara nasıl etkide bulunduğunu öğrenmek amacıyla bireyin biyografisinin (hayat
+hikâyesinin) çıkarılmasına dayalı olan bu yöntem daha çok klinik psikolojide kullanılmaktadır.
+5) Test: Birden fazla insanın davranışlarını karşılaştırmak amacıyla uygulanan sistematik ölçme tekniğidir. Dikkat ve bellek gibi zihinsel süreçler, zekâ gibi yetenekler, kişilik
+özellikleri, tutumlar, ilgiler test veya ölçek adı verilen ölçme araçları ile ölçülür.
+1.4.2 Korelasyonel Yöntem (İlişkisel Çalışma)
+Bu yöntemin amacı değişkenler arası ilişkinin açıklanmasına yardımcı olmak, benzer
+sonuçları önceden tahmin etmek yani öngörüde bulunmaktır.
+İki ya da daha fazla değişken arasında bir ilişki
+olup olmadığını, varsa ne tür bir ilişki ve ne kadar güçlü bir ilişki olduğunu göstermeye yarayan
+bir yöntemdir. Korelasyonel yöntem ilgilendiğimiz kavramları deneysel olarak yönlendiremeyeceğimiz durumlarda kullanılır. Örneğin, gelir
+dağılımındaki eşitsizliğin bir toplumun fertleri
+arasındaki ilişkileri nasıl etkilediğini araştıran
+bir psikoloğun gelir dağılımına müdahale etmesi
+imkânsızdır. Bu nedenle söz konusu yöntem bize
+sadece iki değişkenin ilişki gücünü bildirir, nedensellik (neden- sonuç) bildirmez. Konumuzun
+başında verdiğimiz “lokum testi” çalışmasında
+da dürtü kontrolü ile başarı arasında ne tür bir
+ilişki olduğu araştırılmıştır.
+Görsel1.11 Korelasyon iki cins veri
+arasındaki karşılıklı ilişkidir.
+21
+Değişken deyince bir araştırmada veya deneyde farklı değerler alabilen herhangi bir
+özellik, davranış, olgu, gözlem ya da durum (yaş, cinsiyet, boy, kilo, eğitim düzeyi gibi) anlaşılır. Örneğin, şişman olmakla neşeli olmak arasında bir bağıntı var mıdır? Okulda alınan
+üstün notlar zekâ derecesine bağlı mıdır? gibi soruların cevaplandırılmasında korelasyon
+kullanılır. Bu yöntem istatistiksel bir ifade (korelasyon katsayısı) ile belirlenir. İki değişken
+arasındaki ilişkinin gücü ve yönünü gösteren istatistiksel değer +1 ile-1 arasında derecelendirilir. Elde edilen değerin -1’e yakın olması, bu değişkenler arasında çok güçlü bir negatif
+doğrusal ilişki olduğuna,+1’e yakın olması da çok güçlü pozitif doğrusal ilişki olduğuna
+işaret eder. Değerin O(sıfır) olması, değişkenler arasında hiçbir ilişki olmadığını gösterir.
+Korelasyonel ilişki üçe ayrılır:
+a) Bir değişkendeki artış ya da azalış diğer değişkende de artışa veya azalışa sebep oluyorsa bu iki değişken arasında pozitif (olumlu) korelasyon vardır. 0 ile +1 arasında değer
+alır. Örneğin, reklam harcamaları ile satış miktarı arasında böyle doğru orantılı bir ilişki
+vardır. Dürtü kontrolünün artması ile başarının da artması gibi.
+b) Eğer bir değişken artarken diğeri azalıyor ya da biri azalırken diğeri artıyorsa aralarında negatif (olumsuz) korelasyon vardır. 0 ile -1 arasında değer alır. Örneğin, kilo
+alımı arttıkça koşulabilen mesafe arasında ters orantılı bir ilişki vardır.
+c) Değişkenler arasında hiçbir ilişki yoksa nötr korelasyon adını alır. Örneğin, yetenek ile karakter arasında hiçbir ilişki yoktur.
+1.4.3 Deneysel Yöntem
+Bir değişkenin diğer bir değişken üzerindeki etkisinin araştırılarak bir varsayımın
+(hipotezin)sınandığı yöntemdir. Korelasyonel çalışmalar nedensellik ilişkisi ifade etmezken, deneysel çalışmalar neden-sonuç bağı kurma ve açıklama amacıyla yapılır.
+Deneysel yöntemlerde kullanılan başlıca değişkenler şunlardır:
+• Bağımsız Değişken(Neden): İncelenen olayda araştırmacının seçtiği, olayda etkisi
+araştırılan etkendir.
+• Bağımlı Değişken(Sonuç): Bağımsız değişkenin etkisine bağlı olarak ortaya çıkan
+durumdur.
+Psikolojideki deneysel araştırmalarda genellikle birbiri ile eşleştirilmiş 2 grup ele alınır. Bunlar deney ve kontrol grubudur:
+• Deney Grubu: Koşulların değiştirildiği ve bağımsız değişkenin uygulandığı (deneyin yapıldığı)gruptur.
+• Kontrol Grubu: Koşullarına müdahale edilmeyen ve deney grubu ile karşılaştırma
+yapmak amacıyla oluşturulan gruptur.
+22
+Örneğin, “düzenli yapılan tekrar öğrenmeyi artırır” öngörüsünün (varsayımının) deney hipotezi olarak ele alındığı bir çalışmada her bakımdan birbirine denk (yaş, zekâ,
+ekonomik durum gibi) iki grup alınır. Deney grubuna tekrar yaptırılırken, kontrol grubuna yaptırılmaz. Bir aylık süre sonunda iki gruba da aynı soruların olduğu bir sınav
+yapılır ve birinci grubun daha başarılı olduğu görülür. Bu deneyde etkisi araştırılan tekrar deneyin bağımsız değişkeni, bağımsız değişkene bağlı olarak ortaya çıkan sonuç yani
+öğrenme ise bağımlı değişkendir. Tekrar ve öğrenme değişkenleri arasındaki çalışmanın
+başlangıcında öngörülen neden sonuç ilişkisi böylece ispatlanmış olur.
+Psikoloji araştırmalarında her zaman tek yöntem kullanılması yeterli olmayabilir.
+Lokum testi çalışmasında olduğu gibi bazen birkaç yöntemi (doğal gözlem, korelasyonel
+yöntem, sistematik gözlem gibi) aynı anda kullanmak gerekebilir.
+2. UYGULAMA
+Aşağıdaverilen araştırmalarda hangi psikoloji araştırma yönteminin uygulanması gerektiğini boş bırakılan yerlere yazınız.
+a. Üniversite öğrencilerinin hangi konulara ilgi duydukları ile ilgili yapılacak bir araştırmada………………yöntemine başvurulur.
+b. Psikolojik araştırmalarda ses ve görüntü alma araçları ……………….de kullanılır.
+c……………. tekniğinde hastanın aile tarihçesi, kardeş sayısı, akademik başarısı, geçirdiği hastalıklar araştırılır.
+ThisIsTestLineForAlgorithm
+d. “Sosyo-ekonomik düzey” ile “eğitim başarısı” arasında bir bağıntının araştırılması…………..yöntemi ile olur.
+1.5 PSİKOLOJİDE ETİK KURALLAR
+DÜŞÜNELİM
+Kendinizi üzerinde deney yapılan bir varlık yerine koyun. Size nelerin yapılmasını
+istemezdiniz?
+Hangi eylemin doğru ve iyi olduğunu, hangilerinin yanlış ve kötü olduğunu irdeleyen
+etiğin (ahlakın), bilim insanlarının eylemlerini de konu edinmesine bilim etiği denir.
+Türk psikologları derneğinin 2004 yılında kabul ettiği etik yönetmeliği, araştırma sırasında izlenmesi gereken temel ilkeleri belirtir. Bunlardan ilki, deneğin araştırma sırasında ya da sonunda fiziksel bir zarara ya da sakatlığa uğraması etik olarak doğru değildir.
+İkincisi, denek bilgilendirilmeli ve rızası alınmalıdır. Katılımcılar araştırmadan istedikleri
+zaman çıkabilmelidir. Katılımcılara araştırmanın sonunda araştırma hakkında bilgi edinme imkânı verilmelidir. Son olarak da deneklerin gizlilik hakkıdır. Yani kişi hakkında
+elde edilen bilgiler saklı tutulmalı ve deneğin rızası olmadan başkalarına verilmemelidir.
+23
+1.6 PSİKOLOJİNİN ALT DALLARI
+DENEYSEL ALT DALLARI
+UYGULAMALI ALT DALLARI DİĞER ALT DALLAR
+Daha çok akademik
+araştırmaları içerir. Bilimsel
+amaç esastır. Davranışın
+temellerini bulma ve anlama
+ThisIsTestLineForAlgorithm
+gibi konularla ilgilenir.
+Akademik çalışmalarla elde
+Psikolojinin birçok
+edilen bilgilerin, sorunların tes- boyutunun çeşitli alanpit ve çözümünde uygulamaya
+larda kullanılmasıyla
+konmasıyla ilgilenir
+ilgilenir.
+1) Deneysel Psikoloji
+2) Bilişsel Psikoloji
+3) Gelişim Psikolojisi
+4) Sosyal Psikoloji
+5) Kişilik Psikolojisi
+ThisIsTestLineForAlgorithm
+1) Klinik Psikoloji
+2) Endüstri Psikolojisi
+3) Eğitim Psikolojisi
+4) Psikolojik Danışma ve
+Rehberlik Psikolojisi
+5) Sağlık Psikolojisi
+1)Adli Psikoloji
+2)Çevresel Psikoloji
+3)Din Psikolojisi
+4)Spor Psikolojisi
+5)Trafik Psikolojisi
+1.6.1 Deneysel Alt Dallar
+Görsel 1.12 Deneysel psikolojiye
+ThisIsTestLineForAlgorithm
+akademik psikoloji de denilmektedir.
+Görsel 1.13 İnsan diğer canlılardan
+farklı olarak bilişsel işlevlerini yoğun
+biçimde kullanan varlıktır.
+24
+1) Deneysel Psikoloji: Psikolojinin bu dalı
+öğrenme, bellek, güdü, duygu ve davranışın fizyolojik temelleri üzerinde laboratuvar çalışmaları yapar. Organizmanın anatomik yapısının, sinir sistemi, salgı bezleri gibi fizyolojik olayların
+davranışlarla olan ilişkisini deneysel çalışmalara
+dayalı olarak saptamaya çalışır. Yasal ve ahlaksal
+sorunlar nedeniyle deneysel psikologlar hayvanlar üzerinde araştırma yaparlar. Deneyler ile değişik çevre koşullarının davranışı nasıl etkilediği
+araştırmalar ile bulunmaya çalışılır.
+2) Bilişsel psikoloji: Dikkat, düşünme, bellek,
+algılama, öğrenme gibi zihinsel süreçlerle ilgilenir. Bu süreçleri gözlemlenebilen tepki ve davranışlar üzerinden anlamaya çalışırlar. Örneğin,
+illüzyon içeren resimlere baktığımızda, her seferinde aynı resme bakıyor olmamıza rağmen aynı
+görüntüyü algılayamamamız, beynimizin algılama esnasında uyaranları nasıl zihinsel olarak
+değiştirebildiğine işaret eder. Biliş-beyin ilişkisinin incelendiği biyopsikoloji, beyindeki hasar ve
+bozuklukların araştırıldığı nöropsikoloji gibi alt
+dalları vardır.
+3) Gelişim Psikolojisi: Bireyin doğumdan ölümüne kadar yaşa bağlı fiziksel ve zihinsel süreç ve
+davranış değişikliklerini inceler. Doğumdan ileri
+yaşlara kadar insanların zihinsel yetilerinin hangi
+sebeplerle ne şekilde değiştiğini ve bu değişimlerin
+nasıl sonuçlara yol açtığını anlamaya çalışırlar. Kendi içerisinde bebeklik, çocukluk, ergenlik, yetişkinlik ve yaşlılık olmak üzere bazı alt dallara ayrılır.
+Gelişim psikologları özellikle çocukluk dönemi ve
+bu dönemdeki deneyimlerin kişinin erişkin hayatına
+etkileri ile ilgilenirler. Örneğin, bebeklik döneminde anne ile çocuk arasındaki bağlanmanın, çocuğun
+erişkin olduktan sonraki ilişkilerine nasıl yansıdığı
+gibi konularda sorular sorar ve araştırmalar yaparlar.
+4) Sosyal Psikoloji: Sosyal bir varlık olan insanın
+davranışları üzerinde toplumun etkisini ve insanın
+grup içindeki davranışlarını inceler. Grupların insanların tutum ve davranışlarına etkisinden, önyargı, ikna, propaganda, kamuoyu, moda, liderlik, algı
+operasyonu, itaat gibi konular sosyal psikolojinin inceleme alanındadır.
+5) Kişilik Psikolojisi: Kişilik gelişimi, benlik algısı, öz saygı, kişilik gelişiminde rol oynayan faktörler
+gibi konuları araştırır. İnsanların karakter özelliklerini anlayabilmek için geliştirdikleri kişilik testleri ile her bir bireyin dışadönüklük, yeniliğe açıklık,
+duygusallık gibi kişilik özelliklerine ne düzeyde sahip olduğunun anlaşılmasını amaç edinir. Bu kişilik özelliklerinin başkalarına önyargıyla yaklaşma,
+stresle baş edebilme, depresyon riski gibi pek çok
+konuyla ilişkisini inceler.
+ThisIsTestLineForAlgorithm
+Görsel 1.14 Bireyin kronolojik
+yaşı ile davranışları arasında
+ilişki vardır.
+Algı Operasyonu:
+Yanıltıcı bilgi, söz ve semboller aracılığı ile hedef kitleyi
+etkilemek, yönlendirmek ve
+önceden belirlenmiş amaca
+hizmet ettirme yoluyla toplumların algılarının, motivasyonlarının duygularının
+etki altına alınmasıdır.
+1.6.2 Uygulamalı Alt Dalları
+ThisIsTestLineForAlgorithm
+1) Klinik Psikoloji: Psikolojinin tıpta uygulanması sonucu ortaya çıkan bu alan davranış bozukluklarını tanıma, tedavi etme ve nedenlerini bilimsel
+olarak araştırmayı konu edinir. Hayal kırıklığı, stres,
+mesleki başarısızlık gibi etkenlerin neden olduğu
+Görsel 1.15 Psikoloji tıbbın en
+büyük yardımcısıdır.
+25
+Serbest çağrışım: Psikolojik tedavilerde kullanılan
+ve hastadan mantıklı veya
+birbiriyle ilişkili olup olmadığına bakmaksızın aklına
+gelen her şeyi söylemesinin
+istendiği, bu yolla kurulacak diyalog yardımıyla hastalığın teşhis edilmeye çalışıldığı tekniktir.
+Görsel 1.16 Büyük endüstri
+kuruluşlarında bir araştırma
+ve mesleğe yöneltme bölümü
+bulunur.
+ruhsal problemleri çözümlemeyi amaçlayan psikolog ve psikiyatristler telkin, hipnoz ve serbest
+çağrışım tekniklerini kullanırlar.
+ThisIsTestLineForAlgorithm
+Psikolog, psikoloji eğitimi almış, Psikiyatrist ise
+tıp eğitimi almış olup sadece anormal davranışların tedavisi ile ilgilenen kişidir.
+2) Endüstri Psikolojisi (Örgütsel Psikoloji):
+Ülkemizde yeni gelişmekte olan bu uygulamalı
+alan, iş ortamındaki davranışlarla ilgilenir. Personel seçimi ve eğitimi, iş analizi, üretilen malların
+pazarlanmasında alıcı-satıcı etkileşimi ve yapılan
+reklamlar, iş verimi, işten alınan tatmin, ekip çalışması, çalışanların motivasyonu gibi konular bu
+alanın sağladığı verilere dayanmaktadır.
+3) Eğitim Psikolojisi: Etkin, kalıcı öğrenme ve
+öğretmeyi konu edinen alandır. Hangi konunun
+kime ve hangi yöntemle öğretileceğini araştıran
+psikoloji dalıdır. Eğitim ortamının öğrenmeyi artıracak şekilde düzenlenmesi, öğrenme koşulları,
+ThisIsTestLineForAlgorithm
+öğrenme teknikleri, uygun eğitim programları,
+öğrencilerin okuldaki memnuniyetlerinin artırılmasıyla ilgili çalışmalar eğitim psikolojisinin başlıca konularıdır.
+4) Psikolojik Danışma ve Rehberlik: Ruh sağlığı açısından normal, ancak gelişimsel ve uyum
+sorunları olan bireylere hizmet veren bu alan
+kendi içinde hizmet alanına göre eğitim, sağlık ve
+sosyal rehberlik; problem alanına göre ise kişisel,
+eğitsel ve mesleki rehberlik olarak ayrılmaktadır.
+Görsel 1.17 Eğitim alanında birçok
+sorunun çözümünde psikolojinin
+verilerinden yararlanılır.
+26
+5) Sağlık Psikolojisi: Toplum sağlığını desteklemek ve sağlıksız davranışların azaltılmasını sağlamak üzerine çalışır. Zararlı madde kullanımının
+azaltılmasından, düzenli sağlık kontrollerinin artırılması ve kanser, kalp krizi gibi sağlık riskleri ile
+mücadeleye kadar toplum sağlığı ile ilgili çeşitli
+konular sağlık psikolojisinin ilgi alanındadır.
+1.6.3 Diğer Alt Dalları
+ThisIsTestLineForAlgorithm
+Bu uygulamalı alanların yanında günümüzde gittikçe önemi artan psikoloji dalları da
+vardır. Bunlar:
+Yasaların yapımı ve uygulanması süreçlerinde ortaya çıkan evlat edinme, çocuk suçlular, sorgulama teknikleri, tanıklığın değerlendirilmesi gibi durumlarda psikoloji verilerinden yararlanıldığı adli psikoloji,
+Gürültü, hava kirliliği gibi fiziksel çevrenin insanın zihinsel süreçlerine ve davranışlarına nasıl etki ettiğini araştıran çevresel psikoloji,
+Dinlerin ve dinsel inancın insanların bilişsel süreçleriyle davranışlarını nasıl şekillendirdiği üzerinde bilimsel araştırmalar yapan din psikolojisi,
+Psikolojik olgu ve ilkeleri spor alanındaki insan davranışlarına (sporcuların motivasyonu, sporun topluma etkisi gibi) uygulayan spor psikolojisidir.
+1.7 İŞ ALANLARI
+Psikoloji, birçok alt dalı olan bir alan olduğundan, psikologlar danışmanlıktan eğitime
+ve insan kaynaklarına kadar pek çok farklı iş alanında çalışabilmektedirler.
+Eğitim Kurumları: Psikologlar, ortaöğretimde dahil olmak üzere her düzeydeki eğitim öğretim kurumlarında görev alabilirler.
+Sağlık Kurumları: Hastaneler, klinikler, tanı ve tedavi merkezlerinde klinik psikolog
+olarak çalışabilirler.
+ThisIsTestLineForAlgorithm
+Adli Kurumlar: Adalet Bakanlığı ve cezaevlerinde çalışabilirler.
+Araştırma Merkezleri: Toplumsal araştırmaların yapıldığı merkezlerde sosyal psikolog olarak çalışabilirler.
+Üniversiteler: Psikoloji alanında akademisyen olarak çalışabilirler.
+1.8 PSİKOLOJİNİN DİĞER BİLİMLERLE İLİŞKİSİ
+Psikoloji, insanı ve onun davranışlarını anlayabilmek ve açıklayabilmek için bazı bilimlerin bulgularından yararlanır. Psikoloji özellikle;
+Sinir sistemi, duyu organları ve iç salgı bezlerinin işlevlerinin davranış üzerindeki etkilerini incelerken biyolojinin alt dalı olan fizyolojiden,
+Dış uyaranlardan (ısı, ışık, ses vs)etkilenen ve kimyasal bir yapıya sahip olan organizmanın davranışlarını anlamada kimyanın bulgularından,
+Ses, koku, görme, dokunma duyuları ile duyum ve algı konusunda çalışırken fizik ve
+biyolojiden,
+27
+İlkel insan davranışları ile bugünkü insan davranışları arasındaki karşılaştırma yapmak gerektiğinde antropolojiden,
+İçinde yaşanılan toplumsal çevrenin birey davranışları üzerindeki etkilerini araştırırken sosyolojiden,
+Anormal davranışların teşhis ve tedavisinde tıptan özellikle nöroloji ve psikiyatriden,
+İnsan ihtiyaçlarının giderilmesi konusunda geliştirilen her türlü üretim araçlarının
+davranış üzerindeki etkileri incelenirken ekonomiden,
+ThisIsTestLineForAlgorithm
+Yönetim biçimlerinin insan davranışları üzerindeki etkilerini araştırırken siyaset biliminden,
+İklim ve yeryüzü şekillerinin insan davranışları üzerindeki etkisinde coğrafyadan yararlanır.
+ThisIsTestLineForAlgorithm
+3. UYGULAMA
+Aşağıda verilen açıklamalar ile bu açıklamalara uygun psikoloji dallarını eşleştiriniz.
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+1. İnsan davranışları üzerinde beynin, sinir sisteminin, iç salgı bezlerinin işlevlerinin etkisi vardır.
+a. Sosyal Psikoloji
+ThisIsTestLineForAlgorithm
+2. Liderlik, ne yalnızca kişilik özelliklerine bağlıdır ne de yalnızca toplumsal koşullara. Her iki
+koşulun birlikte gerçekleşmesi gerekir.
+b. Endüstri psikolojisi
+3. Çalışanların iş doyumu, üretimde verimlilik
+düzeyi, hizmet içi eğitim sonuçlarını değerlendirme, çalışma ortamında insan ilişkilerini geliştirme konuları ile ilgilenir.
+c. Deneysel psikoloji
+4. Sınıf ortamını etkileyen değişkenlerin değerlendirilmesi, öğrenme teknikleri, öğretim programlarının düzenlenmesi, öğretmenlerin nasıl
+yetiştirileceği gibi konularla ilgilenir.
+d. Klinik psikoloji
+5. Davranış bozukluklarının teşhis ve tedavisi
+28
+e. Eğitim psikolojisi
+NELER ÖĞRENDİK?
+Psikolojinin konusunu ve bir bilim dalı olma sürecini öğrendik.
+Psikoloji, konuşmak, hareket etmek gibi gözle görülebilir davranışların yanında,
+duygu, rüya, algı, motivasyon, tutum gibi doğrudan gözlenemeyen ama dolaylı olarak
+ölçülebilen davranışları da inceleyen sistematik, nesnel, doğrulanabilir ve genellenebilir
+bir bilim dalıdır.

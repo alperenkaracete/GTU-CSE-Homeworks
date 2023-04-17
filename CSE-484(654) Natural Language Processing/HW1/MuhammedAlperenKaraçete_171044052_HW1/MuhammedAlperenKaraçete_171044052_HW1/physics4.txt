@@ -1,0 +1,420 @@
+ThisIsTestLineForAlgorithm
+topun ne kadar uzağa gideceği vuruş açısına ve ona verilen ilk hıza bağlıdır.
+3. Fiziksel Niceliklerin Sını landırılması:
+Bir büyüklüğün kendi cinsinden seçilmiş birim adı verilen sabit büyüklükle karşılaştırılmasına
+ölçme denir. Ülkeler arası ilişkiler ve ticaret arttıkça ölçü birimlerinde birlik ve bir standart sağlamak
+zorunlu hale gelmiş ve Uluslararası Birim Sistemi (SI) oluşturulmuştur. Bilimsel çalışmalarda ölçümler
+çok hassas yapılır. Bu nedenle de ölçmenin bilimdeki yeri çok önemlidir.
+Işık yılı;SI Birim Sisteminde ışığın bir yılda katetdiği mesafe olarak ifade edilir. Bir uzunluk
+birimidir.
+a) Temel ve Türetilmiş Büyüklükler:
+Tek başına anlam ifade edebilen büyüklüklere temel büyüklükler denir. Temel büyüklükler, uzunlık,
+kütle, zaman, elektrik akımı, sıcaklık, madde miktarı ve ışık şiddetidir.
+Temel büyüklükler cinsinden ifade edilebilen diğer büyüklüklere türetilmiş büyüklükler adı verilir.
+Türetilmiş büyüklüklere örnek olarak hacim, alan, hız, kuvvet, öz kütle ve basınç verilebilir.
+b) Skaler ve Vektörel Büyüklükler:
+İfade etmek için yalnızca sayı ve birimin yeterli olduğu büyüklüklere, skaler büyüklükler
+denir. Örneğin, sürat, uzunluk, hacim ve sıcaklık skaler büyüklüklerdir.
+Sayı ve birimin yanında mutlaka yönünü de belirtmemiz gereken büyüklüklere vektörel
+büyüklükler denir. Vektörel büyüklüklere örnek olarak hız, kuvvet ve yer değiştirme verilebilir.
+Vektörel büyüklükler vektör adı verilen yönlendirilmiş doğru parçası ile gösterilir.
+A
+ThisIsTestLineForAlgorithm
+Vektörler birbiri ile toplanabilir, toplama işlemi sonunda yeni vektör elde edilir. Birden fazla
+vektörün toplanması ile elde edilen vektöre bileşke vektör denir. Bileşke vektör bulunurken
+vektörler aynı doğrultulu ve aynı yönlü ise bileşke vektör bu iki vektörün toplamına eşittir.
+Eğer vektörler aynı doğrultulu fakat zıt yönde bileşke vektör iseler büyük olandan küçük
+olan çıkarılarak bulunur ve yönü büyük olanın yönündedir.
+ÜNİTE ÖZETİ
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+29
+4. Bilim Araştırma Merkezleri
+Bilim Araştırma Merkezleri ve Fizik Bilimi İçin Önemi
+Özellikle doğa bilimlerinde temel ve uygulamalı akademik araştırmaları desteklemek ve
+ThisIsTestLineForAlgorithm
+teşvik etmek amaçlı kurulan kuruluşlardır. Bilim merkezlerinde temel bilimler, mühendislik,
+uzay teknolojileri, yazılım, tıp meteoroloji, savunma sanayi gibi farklı alanlarda bilimsel
+araştırmalar yapılmaktadır. Araştırmaların teknolojik yenliklere dönüştürülmesini için
+ülkemizde TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu), TAEK (Türkiye
+Atom Enerjisi Kurumu) ve ASELSAN (Askeri Elektronik Silah Sanayi) gibi bilim araştırma
+merkezleri kurulmuştur. Dünyada bilim araştırma merkezlerinden önde gelenlerinden
+biri Amerika Birleşik Devletleri’nin bir kuruluşu olan NASA (Ulusal Havacılık ve Uzay
+Dairesi)’dir. Avrupa’da ise uzay araştırmaları ise Avrupa Uzay Ajansı olan ESA ( European
+Space Agency) tarafından yapılmaktadır. Yine Avrupa’da İsviçre’nin Cenevre kentinde Avrupa
+ülkelerinin bir araya gelmesi ile CERN (Avrupa Nükleer Araştırma Merkezi ) kurulmuştur.
+Bilimsel Araştırmalarda Etik İlkeler:
+Bilimsel araştırma ve yayınlarda yüksek ahlak, dürüstlük ve açıklık, özgünlük, tarafsızlık
+prensiplerinin uygulanması gereklidir. Bir çalışma faaliyetinde bulunan insanların ahlak
+ilkelerini, davranış biçimlerini, görevlerini ve zorunluluklarını belirleyen kurallar zincirine
+etik denir. Türkiye’de araştırma ve yayın etiği ile ilgili kurullar YÖK, TÜBİTAK, TÜBA ve
+üniversiteler arası etik kurullardır.
+Bir bilimsel araştırmada araştırmanın değerini ve güvenilirliğini azaltan her tür girişim
+bilimsel yanıltma olarak adlandırılır. Bilimsel yanıltmaya disiplinsiz araştırma, bilimsel
+yalancılık ve saptırmalar neden olmaktadır. Bilimsel yanıltmalar kaynak ve zaman israfına
+yol açar. Başkalarının fikirlerini, metotlarını, verilerini, yazı veya çizimlerini kullanmak
+aşırma (intihal) olarak adlandırılır ve etik değildir. Bu bilgiler ancak bilimsel kurallara uygun
+bir şekilde o kişi kaynak gösterilerek ve etik kurullarınca belirlenen kurallara uyularak
+kullanılabilir.
+30
+ÜNİTE SONU DEĞERLENDİRME SORULARI
+temel büyüklükler, manyetizma, mekanik, skaler, enerji
+A. Aşağıdaki cümlelerde bulunan boşluklara yukarıda verilen kelimelerden uygun
+olanı yazınız.
+1. Madde ve ………… arasındaki etkileşimi inceleyen ve doğada gerçekleşen olaylara
+mantıklı açıklamalar bulmaya çalışan bilim dalına fizik denir.
+2. Cisimlerin nasıl hareket ettiklerini, kuvvet ve hareket arasındaki ilişki inceleyen fiziğin alt
+alanına …………… denir.
+3. İletkenlik ve ……………… alanındaki gelişmeler sayesinde manyetik raylı trenler (maglev)
+üretilmiştir.
+4.
+Tek başına anlam ifade eden büyüklüklere ………… denir.
+5.
+İfade etmek için yalnızca sayı ve birimin yeterli olduğu büyüklükler ………. büyüklüklerdir.
+B. Aşağıdaki ifadelerden doğru olduğunu düşündüklerinize D, yanlış olduğunu
+düşündüklerinize Y yazınız.
+6. Sürat vektörel bir büyüklüktür. (
+)
+7. Sayı ve birimin yanında yön belirtmemiz gereken büyüklüklere vektörel büyüklükler denir. ( )
+8. Uluslararası Birim Sistemin’de kütle birimi mol olarak belirtilmiştir. (
+)
+9. Atomu ve atomu oluşturan parçacıkların birbiriyle olan etkileşimini inceleyen fiziğin alt
+ThisIsTestLineForAlgorithm
+)
+alanı “Atom Fiziği” olarak adlandırılmıştır. (
+C. Aşağıdaki soruların doğru cevaplarını işaretleyiniz.
+10. Uluslararası birim sisteminde aşağıdaki birimlerden hangisi kullanılmaz?
+a) metre
+b) endaze
+c) kilogram
+d) saniye
+11. Aşağıda verilen büyüklüklerden hangisi temel büyüklük değildir?
+a) kütle
+b) hacim
+c) uzunluk
+ThisIsTestLineForAlgorithm
+d) sıcaklık
+12. Aşağıdakilerden hangisi vektörel büyüklüktür?
+a)sıcaklık
+b) kütle
+c) kuvvet
+d) zaman
+13. Aşağıdakilerden hangisi bilimsel bir çalışma faaliyetinde bulunan insanların ahlak ilkelerini,
+davranış biçimlerini, görevlerini ve zorunluluklarını belirleyen kurallar anlamındadır?
+a) disiplin
+b) aşırma
+c) görgü
+d) etik
+14. Aşağıdakilerden hangisi başkalarının fikirlerini, metotlarını, verilerini, yazı veya çizimlerini
+izinsiz ve kaynak göstermeden etik kurullarınca belirlenen kurallara uymadan kullanma
+anlamına gelir?
+a) etik
+b) intihal
+ThisIsTestLineForAlgorithm
+c) açıklık
+d) disiplinsiz çalışma
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+31
+15. Aşağıdaki tabloda yer alan büyüklüklerin hangisinin skaler, hangisinin vektörel olduğunu
+ilgili kutucuğu işaretleyerek belirtiniz.
+Skaler Büyüklük
+Kütle
+ThisIsTestLineForAlgorithm
+Vektörel Büyüklük
+ₓ
+Hacim
+İvme
+Özkütle
+Kuvvet
+ThisIsTestLineForAlgorithm
+Zaman
+Sürat
+Hız
+16. Aşağıdaki tabloda yer alan büyüklüklerden hangileri temel büyüklüktür? İlgili kutucuğu
+işaretleyerek belirtiniz.
+Temel Büyüklük
+Türetilmiş Büyüklük
+Uzunluk
+Enerji
+Kütle
+Sıcaklık
+Hacim
+Zaman
+Özkütle
+Elektrik akımı
+Hız
+Madde miktarı
+Kuvvet
+17. Aşağıdaki tabloda isimleri verilen bilim araştırma merkezlerini kuruluş amaçları ile
+eşleştiriniz.
+NASA
+(ABD Ulusal Havacılık ve Uzay Dairesi)
+TAEK
+(Türkiye Atom Enerjisi Kurumu)
+TÜBİTAK
+(Türkiye Bilimsel ve Teknolojik Araştırma Kurumu)
+ASELSAN
+(Askeri Elektronik Sanayi)
+CERN
+( Avrupa Nükleer Araştırma Merkezi )
+1963 yılında ülkemizde birçok alanda bilimsel
+ve teknolojik araştırmalar yapmak amacıyla
+kurulmuştur.
+Türk Silahlı Kuvvetleri’nin haberleşme ve cihaz
+ThisIsTestLineForAlgorithm
+ihtiyaçlarını karşılamak üzere 1975 yılında
+kurulmuştur.
+1982 yılında ülkemizde nükleer teknolojiden
+yararlanılmasını sağlamada öncü olması
+amacıyla kurulmuştur.
+Maddenin temel yapısını, parçacıkları ve onları
+bir arada tutan kuvvetleri araştırmak amacıyla
+kurulmuştur.
+Havacılık ve Uzay araştırmaları
+amacıyla kurulmuştur.
+yapmak
+2. Ünite
+MADDE VE ÖZELLİKLERİ
+1. Bölüm
+Madde ve Özkütle
+2. Bölüm
+Dayanıklılık
+3. Bölüm
+Yapışma ve Birbirini Tutma
+Anahtar Kavramlar
+Kütle, hacim, özkütle(yoğunluk), dayanıklılık, yapışma (adezyon),
+birbirini tutma (kohezyon), yüzey gerilimi, kılcallık
+34
+1. Bölüm
+MADDE VE ÖZKÜTLE
+Neler Öğreneceğiz?
+•
+•
+Özkütlenin kütle ve hacimle ilişkisini,
+Günlük hayatta saf maddelerin ve karışımların özkütlelerinden
+faydalanılan durumları öğreneceğiz.
+2. Ünite - MADDE VE ÖZELLİKLERİ
+ÖZKÜTLE, KÜTLE VE HACIM ARASINDAKI İLIŞKI
+Etrafımıza baktığımızda çiçek, kuş, ağaç (Resim 2.1) gibi canlı varlıklar;
+ThisIsTestLineForAlgorithm
+hava su gibi maddeler, masa, defter, gözlük (Resim 2.2.) gibi cansız varlıklar
+görürüz. Evrendeki bütün varlıklar boşlukta yer kaplar ve belirli kütleleri vardır.
+Ünitemizin bu bölümünde kütle ve hacmi tanımlayarak aralarında nasıl bir
+ilişki olduğunu inceleyeceğiz.
+Resim.2.1. Çiçek ve kuş
+Resim.2.2 Masa üzerinde defter ve gözlük
+Kütle
+Kütle, bir cisimde bulunan madde miktarıdır. Kütlenin fizik bilimindeki
+temel büyüklüklerden biri olduğunu 1. ünitede öğrenmiştik. Kütle “m” sembolü
+ile gösterilir ve Uluslararası Birim Sisteminde birimi kilogram (kg) dır. Bir
+ThisIsTestLineForAlgorithm
+cismin kütlesini terazi ile ölçebiliriz (Resim 2.3.a.b.c.). Manavda, markette,
+kuyumcuda veya bir ilaç yapımında kullanılan terazilerin duyarlılıkları farklıdır.
+Kütlesini ölçeceğimiz cismin kütlesine uygun bir terazi seçmemiz gerekir.
+a
+b
+c
+Resim 2.3.Kütle ölçmek için kullanılan araçlar a.Eşit kollu terazi, b. Dijital terazi, c. Analog terazi
+Resim 2.3.a’daki eşit kollu terazide cismin kütlesini ölçmek için kütleleri
+daha önceden bilinen cisimler kullanılır. Kütlesi ölçülecek cisim bir kefeye,
+kütlesi bilinen cisim diğer kefeye konularak ölçüm yapılır. Bazı varlıkların
+kütlelerini incelediğimizde, kütlelerinin çok büyük ve çok küçük olduğunu
+görürüz. Tablo 2.1’de bazı varlıkların yaklaşık kütle değerleri verilmiştir.
+35
+36
+Dünya
+5,98.1029 kg
+Ay
+7,36.1024 kg
+İnsan
+70 kg
+Karınca
+3.10-6 kg
+Elektron
+9,11.10-31 kg
+Tablo 2.1. Bazı varlıkların kütlesi
+1ton=1000 kilogram=1000.000 gram= 1000. 000. 000 miligram
+On üzeri ifade ile göstermek daha
+Ton (t)
+pratik olacağından aşağıdaki gibi de
+yazılabilir.
+1t =10³ kg =106 g=109 mg
+Kilogram (kg)
+Birim dönüşümlerini yaparken
+bilişim
+teknolojilerinden
+de
+Gram (g)
+yararlanılabilir. Şimdi kütle birimleri
+arasında dönüşümün nasıl yapıldığını
+Miligram (mg)
+daha iyi kavramak için birkaç örnek
+Tablo 2.2. Kütle birim dönüşümleri
+yapalım.
+1000’e bölünür
+1000’le çarpılır
+Günlük yaşamda karşılaştığımız cisimlerin kütlelerini her zaman kilogram
+birimi ile ifade etmek doğru olmaz. Örneğin, bir ilaç fabrikasında çalışıyorsanız
+hazırladığınız ilacın etken maddesinin kütlesini kilogram ile değil miligram
+ile ifade etmek daha doğrudur. En yaygın kullanılan kütle ölçüm birimleri
+kilogram (kg), gram (g), miligram (mg) ve Uluslararası Birim Sistemi (SI)’nde
+kullanılmayan ton (t)’dur. Tablo 2.2’de bu birimler arasındaki dönüşümler
+verilmiştir.
+ÖRNEK 1
+Soru
+Bir futbol topunun kütlesi 410 g olduğuna göre topun kilogram cinsinden
+kütle değerini bulalım.
+Çözüm
+m= 410 g
+1kg=1000 g olduğuna göre gramı kilograma çevirmek için 1000’e bölmek
+veya 10 ̄³ ile çarpmak gerekir.
+410
+=0,41kg olarak bulunur.
+m=
+1000
+ÖRNEK 2
+Soru
+Dünyanın kütlesi 5,98.1029 kg’dır. Dünyamızın kütlesinin kaç ton
+olduğunu hesaplayalım.
+Çözüm
+m=5,98.1029 kg
+1t=1000 kg olduğuna göre kilogramı ton’a çevirmek için 1000’e bölmek
+veya 10 ̄³ ile çarpmak gerekir.
+m=
+29
+5, 98x10
+1000
+=5,981026 t olarak bulunur.
+2. Ünite - MADDE VE ÖZELLİKLERİ
+Hacim
+Bütün maddeler evrende bir yer kaplar. Maddenin evrende kapladığı yere
+hacim denir. Örneğin, Resim 2.4’te tuğlalardan örülmüş duvardan bir tuğlayı
+çıkardığımızda oluşan boşluk tuğlanın hacmi kadardır .
+Resim 2.4. Tuğladan örülmüş duvar
+metreküp (m3)
+1000’e bölünür
+ThisIsTestLineForAlgorithm
+1000’le çarpılır
+Hacim “V” harfiyle gösterilir ve Uluslararası Birim Sistemi (SI)’nde birimi
+m³ tür. Hacim birim dönüşümleri Tablo 2.3’te verilen değerler kullanılarak
+ThisIsTestLineForAlgorithm
+kolayca yapılabileceği gibi bilgisayar uygulamaları kullanarak da yapılabilir.
+desimetreküp (dm3)
+ThisIsTestLineForAlgorithm
+santimetreküp (cm3)
+milimetreküp (mm3)
+Tablo 2.3. Hacim birim dönüşümleri
+1metreküp (m³) =10³ desimetreküp (dm³) =10⁶ santimetreküp (cm³).
+Birimler arası dönüşüm Tablo 2.2 kullanılarak
+yapılabilir.
+Sıvıların hacimleri ölçülürken konuldukları
+kabın şeklini almaları özelliğinden yararlanılır.
+Sıvıların hacmi ölçeklendirilmiş kaplar yardımıyla
+ölçülür (Resim 2.5). Sıvı ölçü birimleri metreküpün
+alt ve üst katlarıdır ancak günlük yaşantıda
+genellikle litre kullanılır. 1 litrenin karşılığı
+ThisIsTestLineForAlgorithm
+1desimetre küpe eşittir (1L =1 dm³). 1 litre 1
+mililitrenin 1000 katıdır.
+1 litre(L)=1000 mililitre (mL). Diğer dönüşümleri
+de aşağıdaki gibi yapabiliriz.
+1 m³ = 1000 L
+1cm³ = 1mL
+1 L = 1 dm³ = 1000 cm³ = 1000 mL = 10³ mL
+Resim 2.5. Dereceli kap
+37
+38
+ThisIsTestLineForAlgorithm
+ÖRNEK 3
+Soru
+10 litre süt aldığımızda kaç metreküp süt almış oluruz?
+Çözüm
+1L=1 dm³ olduğuna biliyoruz. Buna göre 10 L=10 dm³ olur, kaç m³
+olduğunu bulmak için dm³ ü m³ e çevirmeliyiz.
+dm³, m³ ten bir basamak küçük olduğu için ve hacim ölçüleri 1000’er
+1000’er büyüdüğü için 10 dm³ ü 1000’e bölmeliyiz veya 10-3 ile çarpmalıyız.
+Buna göre 10 dm³ süt m³ cinsinden
+10 dm³=
+10
+=0,01 m³ olarak elde edilir.
+1000
+Şimdi düzgün geometrik şekilli cisimlerin ve şekli düzgün olmayan
+cisimlerin hacminin nasıl belirlendiğini inceleyelim.
+a) Düzgün geometrik şekilli cisimlerin hacmi
+Cisimler düzgün geometrik şekle sahip ise o geometrik şeklin özel hacim
+formülü ile cismin hacmi hesaplanabilir. Şekil 2.1’de küp, dikdörtgenler
+prizması, silindir ve kürenin hacim formülleri verilmiştir.
+Küp
+Dikdörtgenler Prizması
+a
+a
+Silindir
+a
+b
+r
+h
+c
+a
+Küre
+r
+V= a3
+V= a . b . c
+V= ∏ r2 . h
+V= 34 ∏ . r3
+Şekil 2.1. Küp, dikdörtgenler prizması, silindir ve küre
+ÖRNEK 4
+Soru
+ThisIsTestLineForAlgorithm
+Yandaki resimde görülen akıl küpünün
+(Rubik küp) bir kenarının uzunluğu 3 cm’dir. Buna
+göre akıl küpünün hacmi ne kadardır?
+3 cm
+Çözüm
+Akıl küpünün bir kenarının uzunluğu a=3 cm olduğuna göre hacmi, küpün
+hacim bağıntısından
+V=a3=33=27 cm3 olarak hesaplanır.
+2. Ünite - MADDE VE ÖZELLİKLERİ
+39
+ÖRNEK 5
+Soru
+Şekildeki kitabın kalınlığı 3 cm, uzunluğu 30
+cm ve eni 20 cm olduğuna göre kitabın hacmi kaç
+cm³ tür?
+3 cm
+30 cm
+20 cm
+ThisIsTestLineForAlgorithm
+a=3 cm, b=30 cm, c=20 cm boyutlarındaki kitap bir dikdörtgenler prizmasıdır.
+Dikdörtgenler prizmasının hacmi
+V= a.b.c formülü ile bulunur. Kitabın boyutlarını formülde yerine
+yazdığımızda kitabın hacmini
+V=3.30.20=1800 cm³ olarak elde ederiz.
+Çözüm
+ThisIsTestLineForAlgorithm
+ÖRNEK 6
+Soru
+Bir futbol topunun yarıçapı yaklaşık 12 cm’dir.
+Buna göre futbol topunun küre şeklinde olduğu
+ThisIsTestLineForAlgorithm
+kabul edilirse hacmi kaç cm³ olarak hesaplanır?
+(∏=3)
+12 cm
+Futbol topunun yarıçapı r =10 cm ve kürenin hacim bağıntısı
+4
+V= π . r³ olduğuna göre verilen değerleri yerine yazdığımızda topun hacmi
+3
+4
+V= 3.10³= 4.1000 =4000 cm³ olarak hesaplanır.
+3
+Çözüm
+ÖRNEK 7
+Soru
+Yandaki şekilde verilen silindir şeklindeki kutunun
+taban yarıçapı r= 5 cm ve yüksekliği h= 40 cm’dir.
+Buna göre silindir kutunun hacmi kaç cm³ tür?
+40 cm
+5 cm
+Silindirin şeklindeki bir cismin hacmi V= π.r2.h bağıntısı ile hesaplanır.
+Soruda verilen değerleri hacim bağıntısında yerine yazdığımızda silindir
+kutunun hacmi,
+V= 3.52.40= 3000 cm³ olarak bulunur.
+Çözüm

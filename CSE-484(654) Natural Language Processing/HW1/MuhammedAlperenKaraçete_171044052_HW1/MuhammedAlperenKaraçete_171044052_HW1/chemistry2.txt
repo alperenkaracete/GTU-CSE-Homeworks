@@ -1,0 +1,423 @@
+Kimya kelimesinin İngilizce karşılığı olan “alchemy” kelimesi de, Cabir bin Hayyan’
+ın çalışmalarının neticesi olarak Arapça “al-Kimiya” kelimesinden türemiştir.
+Ebubekir er-Râzî (864 - 925)
+Farsî bilgin er-Razî felsefe ve bilimle ilgilenmiş, kimya alanlarında yapmış olduğu çalışmalarla bilim tarihinde seçkin bir
+yer edinmiştir. Aristo’nun dört element fikirlerine katılmayan
+Ebubekir er-Râzî, maddenin oluşumunu atomların birleşmesiyle açıklama eğiliminde olmuştur. Laboratuvar kurmuş ve
+Cabir bin Hayyan gibi, yaptığı deneylerde saf elementi elde etmeye çalışmıştır. Ebubekir er Râzî’ nin en önemli başarılarından birisi; farklı organik maddeleri damıtmak suretiyle çeşitli
+yağlar, tuzlar ve boyalar elde etmiş olmasıdır. Ayrıca, demir
+ThisIsTestLineForAlgorithm
+gibi zor eriyen metallerin eritilme işlemleri ile ilgili araştırmalar da yapmıştır.
+Görsel 1.8
+Ebubekir er-Râzi
+Razi, deneyleri esnasında gliserin, soda, sirke asidi, alkol ve nitrik asit gibi kimyasal
+maddeleri bulmuş olması sebebiyle kimyayı teoriden pratiğe geçirmiş, dolayısıyla bu
+bilimin kurucularından kabul edilmiştir.
+Cabir bin Hayyan ve er-Râzî’ den ancak yaklaşık 700 yıl sonra, Robert Boyle ve Antoine Lavoisier ile kimya alanında çalışmalara yeniden başlanmıştır.
+17
+Kimya 1
+Robert Boyle (1627-1691)
+İrlanda da doğan Robert Boyle (Rabırt Boyl) bir doğa
+filozofu, kimyager ve fizikçidir. O dönemde kullanılan birçok
+deney aletini geliştirmiş ve gerçekleri saptamak için uyguladığı
+kontrollü deneylerle modern kimyanın kurucularından
+olmuş, bilimsel yöntemin öncülüğünü yapmıştır. Gazlarla
+yaptığı çalışmalarda; sabit basınçlı kapalı bir sistemde, bir
+gazın basıncı ile hacminin ters orantılı olduğunu gösteren
+Boyle Yasası'nı geliştirmiştir.
+Görsel 1.9
+Robert Boyle
+Antoine Lavoisier (1743-1794)
+Görsel 1.10
+Antoine Lavoisier
+Antoine Lavoisier (Antuan Lavoziyer) modern kimyanın
+babası olarak anılan Fransız bir kimyagerdir. Kimyacıların
+belirli bir amaçlarının olmadığı 18. yüzyılda, birçok önemli
+keşifte bulunmuş ve modern kimyanın sağlam temellere
+oturmasını sağlamıştır. Laboratuvarında kapalı kaplarda
+yaptığı deneylerde hassas ölçümlerle, maddedeki kimyasal
+değişimler sonucu toplam kütlenin değişmediğini (Kütlenin
+Korunumu Yasası) bulmuştur. Ayrıca yanma, solunum ve
+madenlerin paslanması olaylarını açıklamıştır. Daha yalın
+ThisIsTestLineForAlgorithm
+unsurlara ayrıştırılmamış maddeleri element olarak ifade
+etmiştir.
+1. Uygulama Aşağıda verilen kimyanın öncüleri ile yaptıkları çalışmaları eşleştiriniz.
+1. Democritus
+2. Ebu Musa Cabir bin Hayyan
+3. Ebubekir er-Râzî
+c. İmbiği geliştirmiştir.
+ç. Kimyasal değişimlerde toplam kütlenin
+değişmediğini ispatlamıştır.
+d. Maddenin bölünemeyeceğini düşündüğü en küçük
+parçasına atom adını vermiştir.
+4. Robert Boyle
+5. Antoine Lavoisier
+Çözüm 1-d
+18
+2-c
+a. Gazların basıncı ve hacminin ters orantılı olduğunu
+öne süren yasayı geliştirmiştir.
+b. Organik maddeleri damıtarak yağlar, boyalar
+vb. elde etmiştir.
+3-b
+4-a
+5-ç
+1.Ünite Kimya Bilimi
+1.2. KİMYA DİSİPLİNLERİ VE KİMYACILARIN ÇALIŞMA ALANLARI
+Görsel 1.11 Ağaçların ilaçlanması
+Görsel 1.12 Alevden etkilenmeyen kıyafetler
+Kimya bilimi, günlük hayatımızın bir parçası hâline gelen atıkların geri
+dönüşümü, kremlerin hazırlanması, lekelerin kıyafetlerden çıkarılması,
+yemeklerin bozulması, alevden etkilenmeyen kıyafetler, ağaçların ilaçlanması,
+mayanın hamuru kabartması, solunum vb. birçok olayın nedenini anlamamıza
+yardımcı olmaktadır.
+Kimyanın çalışma alanı çok geniş olduğundan çeşitli disiplinlere (uygulama
+alanlarına) ayrılmıştır.
+KIMYA DISIPLINLERI
+Kimya; Organik Kimya, Anorganik Kimya, Biyokimya, Analitik Kimya,
+Fizikokimya, Polimer Kimyası ve Endüstriyel Kimya olmak üzere çeşitli dallara
+ayrılmıştır.
+Organik Kimya
+ThisIsTestLineForAlgorithm
+Kimyanın, karbon ve hidrojen elementlerinden
+oluşan bileşiklerle ilgilenen ana bilim dalıdır. Örneğin
+canlı organizmaların yapı taşları olan karbon temelli
+yapılar; proteinler, yağlar, şekerler ve DNA organik
+kimyanın uğraş alanındadır. Ayrıca bitkilerden elde
+edilen yağlar, kokular, boyalar vb. organik maddelerle
+de organik kimya ilgilenir. Organik kimya; bu
+bileşiklerin yapısal özellikleri, elde edilişleri ve
+tepkimeleri ile ilgilenir .
+Görsel 1.13
+Bitkilerden elde edilen sıvı yağ
+19
+Kimya 1
+Anorganik Kimya
+Organik bileşikler dışında kalan bileşikler ile periyodik cetvelde yer alan her
+elementle ilgilenen bilim dalıdır. Örneğin
+asitler, bazlar, tuzlar, metaller, ametaller
+anorganik kimyanın uğraş alanındadır.
+Görsel 1.14
+Mağaradaki tuz kristalleri
+Biyokimya
+Canlıların yapısını oluşturan bileşik ve elementler ile bunların kimyasal
+tepkimeleri ve süreçleri ile uğraşan ana bilim dalıdır. Örneğin DNA,
+solunum, enzimler, kan ve idrar testleri vb. biyokimyanın ilgi alanıdır.
+Görsel 1.15
+Kan testi
+Analitik Kimya
+Kimyanın daha çok nitel ve nicel olarak incelemesini yapan ve bu incelemeleri yapabilmek için
+ölçüm aletlerini geliştiren ana bilim dalıdır. Örneğin sulardaki zehirli (toksik) madde oranının tayini, hastalık tanısı için yapılan pH ölçümü, ilaçların
+yapısındaki maddelerin oranları, titrasyon
+deneyleri vb. analitik kimyanın ilgi alanıdır.
+Görsel 1.16
+Titrasyon deneyi
+Fizikokimya
+Görsel 1.17
+Piller
+Fiziksel yasalarla kimyasal olayların oluş nedenini inceleyen anabilim
+dalıdır. Bazı tepkimeler neden yavaş bazıları neden hızlı, tepkimenin
+olabilmesi için ne kadar enerjiye ihtiyaç vardır, bir kimyasal tepkime
+sonucunda ne kadar iş yapılabilir vb. konularla uğraşır. Metal kaplamacılık,
+piller, elektroliz vb. fizikokimyanın uğraş alanıdır.
+Polimer Kimyası
+ThisIsTestLineForAlgorithm
+Polimer kimyası, polimer olarak bilinen sentetik
+ve organik kimyasal maddelerin incelenmesi ve elde
+edilmesiyle uğraşır. Polimer kimyası kimyanın diğer tüm
+alanlarını kapsar; organik,
+anorganik, fizikokimya,
+biyokimya vb.
+20
+Görsel 1.18
+PVC çerçeve
+1.Ünite Kimya Bilimi
+ThisIsTestLineForAlgorithm
+Saçlarımız, ceketlerde, ayakkabıda kullandığımız deri, yün, ipek doğal birer
+polimerdir. Polimer gözlükler, silikonlar, cam çerçevelerdeki PVC, sentetik
+kumaş, dokuma iplikleri ise yapay polimerlerden bazılarıdır.
+Endüstriyel Kimya
+Endüstriyel kimya, maddelerin ve materyallerin
+geliştirilmesi, imalat süreçleri, atıkların yok edilmesi
+ve geri dönüşümü ile ilgilidir. Kimya endüstrisi hayatımızın neredeyse her yönünü etkileyen kozmetik,
+petrol ürünleri, kâğıt, deterjan, tekstil gibi çok çeşitli
+ürünler üretir. Kimya alanında çalışmak isteyenler
+için endüstriyel kimya sektörü büyük bir istihdam
+alanı açar.
+Görsel 1.19
+Kimya endüstrisi
+KIMYACILARIN ÇALIŞMA ALANLARI
+Boya-Tekstil
+Hayvansal (yün, tiftik, ipek) ve bitkisel (keten, pamuk, bambu) kaynaklı tekstil ürünleri kıyafetlerde, döşemelerde vb. birçok alanda yaygın olarak
+ThisIsTestLineForAlgorithm
+karşımıza çıkmaktadır. Ancak doğal kaynakların yetersizliği ve kullanım alanındaki kısıtlılık nedeniyle yapay olmakla birlikte teknolojik de olan polimer,
+seramik ve nanoteknolojik kimyasal ürünler tekstil sektöründe kullanılmaya
+başlanmıştır.
+Doğal tekstil ürünleri ham hâlinden işlenebilir duruma getirilme sürecinde; yağlarından arıtma, ağartma, nemden ve mikroorganizmalardan koruma vb.
+işlemlerden geçirilir. Bu işlemlerde çeşitli kimyasallar kullanılmakta, istenilen renkler ve özellikler için
+ThisIsTestLineForAlgorithm
+ise boyalar üretilmektedir.
+Görsel 1.20 Tekstil ürünlerinin
+işlenmesi
+Boyada kullanılan bitkiler ve böceklerin hızla yok olması, talebi karşılamakta
+yetersiz kalması ve çok pahalıya mal olması nedeniyle 19. yüzyılın ikinci
+yarısından itibaren bazı boyar maddeler kimyasal olarak elde edilmeye
+başlanmıştır. Zamanla gelişen boya sanayi ürünleri, gıdadan tekstile, inşaattan
+otomotive birçok alanda kullanılmaya başlanmıştır.
+21
+Kimya 1
+İlaç
+ThisIsTestLineForAlgorithm
+Canlılarda hastalıkların tanısı, önlenmesi ve tedavi amacıyla
+kullanılan, vücut fonksiyonlarını koruyan, değiştiren ve düzenleyen kimyasal maddeler ilaç olarak tanımlanır. İyileşmek için
+kullanılan tertiplerden, zehirlere, hormonlara ve alkole kadar
+birçok madde ilaç olarak kabul edilir.
+Görsel 1.21 İlaç
+İlacın vücuda etkileri, vücudun ilaca verdiği tepki, ilacın hangi yolla vücuttan atılabileceği, ilacın etki süresi, diğer ilaçlarla
+etkileşimi, ilaçların saklama koşulları ve kullanım süreleri kimyanın uğraş alanına girmektedir. Genetik ve nanoteknolojideki
+baş döndürücü gelişmeler ile koruyucu ve iyileştirici ilaç tedavilerin kişiselleşmesi diğer bilimler ile birlikte kimyanın da yeni
+uğraş alanlarından biridir.
+Gübre
+Tarımda üretimi artırmak ve daha kısa sürede ürün elde edebilmek için yapılan tarımsal faaliyetlerden birisi de gübre kullanımıdır. Gübreler toprağa besin sağlamanın yanında su tutma,
+toprağın havalanma özellikleriyle de toprağın veriminin zenginleşmesini sağlar. Gübreler organik ya da inorganik olabilir.
+Görsel 1.22
+Organik gübre
+Organik gübre organik kökenli tarımsal atıklar ile doğal kökenli organik maddelerden oluşur. Kimyasal gübre ise bileşimlerinde bir veya birden fazla bitki besin maddesini bir arada bulundurur. Organik gübrelerden farklı olarak yüksek miktarda bitki
+besin maddesi içerir ve suda kolayca çözünür.
+ThisIsTestLineForAlgorithm
+Örneğin,
+Görsel 1.23
+Kimyasal gübre
+• Azotlu gübreler yaprak büyümesinde,
+• Fosforlu gübreler kökler, çiçekler, tohumlar ve meyve gelişiminde,
+• Potasyumlu gübreler bitkilerde su hareketi, kökün güçlenmesi,
+çiçek ve meyve oluşumunda kullanılır.
+Kimya bilimi toprak analizi yaparak, bitkinin gelişmesi için
+toprağın ihtiyaç duyduğu gübreyi, kurak bölgeler için su tutucu
+polimerleri ve zararlılarla mücadele için gerekli ilaçları geliştirir.
+22
+1.Ünite Kimya Bilimi
+Petrokimya
+Bitki ve hayvan kalıntılarından milyonlarca yıl süren süreç sonucunda oluşan petrol organik bir bileşik olan hidrokarbonlardan oluşur. Bunun yanı sıra
+petrol az miktarda azot, oksijen ve kükürt de içerir. Ham petrol, arıtım işlemi
+görmemiş, yanıcı, doğal bir mineral yağdır.
+Ham petrol rafinerilerde işlenerek (damıtılarak) bileşenlerine ayrıştırılır. Ham petrolün
+damıtılması ile benzin, yağ yakıt, doğal gaz,
+motorin, LPG, jet yakıtı, asfalt ve farklı
+kimyasal ürünler elde edilir. Petrolden elde
+edilen ürünlerin en çok kullanım alanı ulaşım
+ve enerjidir. Elde edilen bu ürünler yakıt
+Görsel 1.24 Petrolün damıtılması
+ThisIsTestLineForAlgorithm
+başta
+olmak
+üzere
+birçok
+alanda
+kullanılmaktadır.
+Ham petrolün damıtılması sonucu kimya ve diğer sanayi kollarının
+ihtiyacı olan kimyasal maddelerin üretimi petrokimya sanayinin uğraş
+alanıdır. Bu bağlamda petrol, petrokimya sanayi için önemli bir ham madde
+kaynağıdır. Örneğin petrolden yapay lif (sentetik ip), gübre, kozmetik
+ürünleri, filmler, parafin, vazelin, besin maddeleri, plastikler vb. birçok ürün
+elde edilir. Tüm sanayi alanları içinde önemli bir yer tutan petrokimya
+sanayi büyük bir istihdam alanıdır..
+ThisIsTestLineForAlgorithm
+Arıtım
+Genel anlamı ile arıtım; ürünün istenmeyen
+özelliklerinden kurtarılması, istenen özelliklerinin kalması olarak tanımanabilir.
+Gün geçtikçe artan çevre kirliliği ve etkileri
+yaşamı, çevreyi olumsuz etkilemektedir. Bu nedenle yaşadığımız alanlardaki havanın ve endüstrideki baca gazlarının yerinde filtrelenmesi, kirlenen suların arıtılması işlemleri büyük
+önem taşımaktadır.
+Görsel 1.25 Su arıtımı
+23
+Kimya 1
+ThisIsTestLineForAlgorithm
+Arıtma işlemleri daha çok su arıtımı olarak algılanmaktadır. Birçok ülkede
+kullanılan suyu tekrar kazanmak için fabrikalarda, endüstriyel ve sosyal tesislerde, konutlarda arıtma tesisleri kurulumu zorunlu hâle gelmektedir.
+Su arıtımında sulardaki istenmeyen büyük parçacıklar önce süzme, yüzdürme ve çöktürme biçiminde mekanik olarak temizleme işlemine tabi tutulur.
+Bu işlemlerle temizlenemeyen maddelere kimyasal olarak çözme, çöktürme
+ve daha küçük parçalara ayırma yöntemleri uygulanır. Ardından dezenfekte
+ThisIsTestLineForAlgorithm
+işlemleri uygulanarak bakterilerin öldürülmesi biçimindeki kimyasal ve biyolojik yöntemlerle su arıtılır. Ayrıca sert suların yumuşatılması, havuz suyunun
+arıtılması işlemleri de kimya bilimi ile ilgilidir.
+KIMYA ALANI ILE ILGILI MESLEKLER
+Kimyanın, maddenin özelliklerini ve maddenin enerjiyle nasıl etkileşim
+kurduğunu inceleyen bilim dalı olduğunu öğrenmiştik. Buna göre, kimyanın
+ilgi alanı maddenin en küçük parçacığından yıldızlara, cansız varlıklardan canlı organizmalara kadar uzanır. Bu nedenle kimya birçok bilimle de yakından
+ilişkilidir. Kimya; biyoloji, yer bilimi ve fizik gibi diğer bilimlerin de önemli
+ThisIsTestLineForAlgorithm
+bir parçasıdır. Bu bilim dalının en çok bilinen meslek alanları olarak kimya
+mühendisliği, metalürji mühendisliği, eczacı, kimyager, kimya öğretmenliği
+sayılabilir.
+Kimya mühendisliği
+Görsel 1.26 Kimya mühendisliği ve
+ThisIsTestLineForAlgorithm
+üretim sektörü
+Kimya mühendisi, kimyasal madde üreten veya kimyasal madde kullanarak üretim
+yapan tesislerin tasarlanması, kurulması ve
+işletilmesi alanlarında çalışan kişidir. Kimya
+endüstrisinde var olan problemleri çözmeye
+çalışır, üretim kalitesini artırmak ve daha iyi
+performans yakalamak için öneriler hazırlar.
+Kimya mühendislerinin çalışma alanları çok geniştir. Bunlardan bazıları:
+ThisIsTestLineForAlgorithm
+endüstriyel tesisler, özel ve kamu proje büroları, ithalat-ihracat büroları, petrokimya, otomotiv, gıda, çimento, seramik, ilaç sektörü, gübre, lastik ve kauçuk,
+ThisIsTestLineForAlgorithm
+tekstil ve boya sektörleri, cam, metal ve kaplama, savunma sanayidir.
+24
+ThisIsTestLineForAlgorithm
+1.Ünite Kimya Bilimi
+Kimyager
+Kimyagerler maddeyi atomik düzeyde
+inceleyen, tanımlayan, maddelerin kimyasal yapıları üzerinde araştırma yapabilme
+yeterliliğine sahip kimselerdir. Araştırma ve
+geliştirme, malzeme bilimi, gıda, sağlık (tıp
+ve eczacılık), petrokimya, otomotiv, gübre,
+plastik, kauçuk, lastik, çimento, cam, seramik, deri, boya, metal kaplama, deterjan,
+tekstil, sabun, kozmetik ve savunma sanayi
+vb. sanayi dalları kimyagerler için istihdam
+alanlarıdır.
+Görsel 1.27 Kimya laboratuvarı
+Uygulamada kimyagerler ve kimya mühendisleri ortak çalışan meslek gruplarıdır. Kimya mühendisleri mühendislik dersleriyle birlikte kimya eğitimini
+genel hatlarıyla alırlar. Üretilecek maddeyi tasarlayan ve geliştiren kimyagerler, bu maddeyi büyük ölçekte üretenler ise kimya mühendisleridir. Dolayısıyla
+kimyagerler daha çok bilim insanlarıyken, kimya mühendisleri daha çok endüstrinin ve halkın hizmetindedir.
+Kimya öğretmenliği
+Kimya öğretmenleri yükseköğretim kurumlarında genel kültür, ortaöğretime yönelik teorik ve pratik kimya alan dersleri ve
+pedagojik formasyon eğitimi alırlar. Kimya
+öğretmeni olarak ortaöğretim kurumlarında, kurs ve seminerlerde görev alırlar. Ayrıca
+okullarda İleri Kimya, Fen Bilgisi, Bilim ve
+Teknoloji, Bilgi Teknolojisi, Çevre ve İnsan,
+Teknik Atölye, Kimya Uygulamaları,
+Plastik İşleme, Gıda Teknolojisi, Lastik Teknolojisi ve Petrokimya derslerine de girerler.
+Görsel 1.28 Kimya öğretmenliği
+sınıf ortamı
+Metalurji mühendisliği
+Üniversitelerde genellikle Metalurji ve Malzeme Mühendisliği bölümünden
+ThisIsTestLineForAlgorithm
+mezun olan mühendislerdir. Metal, polimer, seramik, kompozit malzemeler
+üzerinde çalışılan bir bilim ve mühendislik dalı olarak tanımlanabilir.
+25
+Kimya 1
+Metalürji mühendisinin çalışma süreci malzemenin hammadde hâlini,
+tasarım, üretim ve kalite kontrolünü kapsar. Bununla da kalmayarak
+üretilmek istenen malzemenin Ar-Ge çalışması da yapılır. Kısacası ürünün
+kullanılacağı alandaki çalışma koşullarına göre (mekanik, fiziksel, çevresel
+koşullar) malzeme seçimi ve tasarımı metalurji mühendisleri tarafından
+yapılır.
+Çalışma alanları:
+• Demir-çelik, demir dışı metal üretim, döküm, savunma, uzay
+ve havacılık, otomotiv, gemi sanayi ve yan sanayileri.
+• Cam, seramik, beton, çimento, makine imalat, nanoteknoloji
+ve ileri teknoloji malzemeleri üretim sanayi.
+Görsel 1.29 Demir-çelik
+malzeme üretimi
+• Kompozit, biyomedikal, yarı iletken, elektrik ve elektronik,
+manyetik, kaynak malzemeleri üretimi.
+• Plastik teknolojisi, metal şekillendirme ve işleme, yüzey
+işlemleri ve kaplama, kalite kontrol ve gözetim şirketleri,
+alternatif sanayiler.
+Eczacı
+Görsel 1.30 Eczacı
+Sentetik, yarı sentetik ve biyolojik kökenli ilaç
+hammaddelerinin elde edilmesi; ilaçların fiziksel, kimyasal
+ve biyolojik özelliklerinin incelenmesi, değerlendirilmesi,
+saklanması, kullanılması gibi konularda eğitim almış
+kimselerdir.
+Eczacılar doktorlarca düzenlenen reçetede yer alan ilaçların ya da gerekirse
+hazırladığı ilaçların kullanımı hakkında hastayı bilgilendirir. Tıbbi veya
+diğer amaçlar için kullanılan zehirli maddeleri hazırlar ve kurallarına göre
+dağıtımını yapar, bozulmaya karşı önlem alır. Özel zehirli maddeleri içeren
+reçetelerin kayıtlarını tutar, veteriner ilaçları, tarım ilaçları, tuvalet ve kozmetik
+ürünlerinin kullanılmaları konusunda önerilerde bulunur. Laboratuvarda
+araştırma çalışmaları yapar.
+Eczacılar laboratuvarlarda, kendilerine veya başkalarına ait eczanelerde
+eczacı olarak çalışırlar. Ayrıca ilaç endüstrisinde araştırmacı veya ilaç tanıtıcı
+olarak çalışabilirler. Küçük bir kısmı ise eğitim ile uğraşır. Eczacı, sağlık
+hizmetleri grubundan bir meslek insanı, aynı zamanda ticaretle uğraşan
+kimsedir.
+26
+1.Ünite Kimya Bilimi
+1.3. KİMYANIN SEMBOLİK DİLİ
+ELEMENT ADLARI VE SEMBOLLERI
+Duyularla algılanabilen, uzayda yer kaplayan ve kütlesi olan her şey maddedir. Maddelerin yapısı incelendiğinde, doğada bazılarının saf, büyük bir çoğunluğunun ise karışım olarak bulunduğunu söyleyebiliriz. Maddeler ister
+saf, ister karışım hâlde olsun, tamamı elementlerden veya elementlerin
+ThisIsTestLineForAlgorithm
+fiziksel veya kimyasal yollarla bir araya gelmesinden oluşur.
+Madde
+Saf madde
+Element
+Karışım
+ThisIsTestLineForAlgorithm
+Bileşik
+Elementler ve bileşikler saf maddelerdir. Tüm maddeleri oluşturan, tek tür temel birimlerden oluşan saf maddelere element denir. Evrende bilinen 118 çeşit element vardır. Bunların 92 kadarı
+doğaldır. Geri kalanı ise laboratuvar ortamında yapay olarak elde
+edilmektedir. Doğal elementlerin çok azı doğada saf hâlde bulunur.
+Örneğin kuyumcuların vitrininde ışıltıları ile dikkat çeken elmas,
+soluduğumuz havadaki oksijen (O2), azot (N2) gazları ve soy gazlar
+doğada saf olarak bulunabilen elementlerdendir.
+Görsel 1.31 Saf elmas
+Element sembolleri
+Semboller bazen duyguları, bazen gizlenmesi isteneni, bazen de ifade edilmek isteneni kısa yoldan gösteren simgelerdir. Semboller anlam yüklenmiş
+bir harf, bir şekil de olabilir. Kimya biliminde de farklı dillerden de olsa kimya
+ile ilgilenen herkesin anlayabileceği basit ve anlaşılır element sembolleri geliştirilmiştir. Tüm uluslar element adlarını kendi dilinde kullanmalarına rağmen,
+aynı ortak sembolleri kullanmaktadırlar. Ortak sembollerin kullanılması bilim
+alanında iletişimi kolaylaştırmaktadır.
+ThisIsTestLineForAlgorithm
+27
+Kimya 1
+Element sembolleri harflerle gösterilmektedir. Elementin Latince adının
+ilk harfi element sembolü olarak kabul edilmiştir. Ancak element sayısına
+kıyasla alfabedeki harflerin azlığı ve bazı element adlarının aynı harfle
+başlamaları nedeniyle elementlerin bir kısmı bir harfle temsil edilirken diğerleri iki veya üç harfle temsil edilmektedir. Aşağıdaki tabloda bazı elementlerin
+Latince adları ve sembolleri yer almaktadır:
+Element Adı
+Elementin Latince Adı
+Sembolü
+Bakır
+Cuprum
+Cu
+Karbon
+Carboneum
+C
+Altın
+Aurum
+Au
+Tablo1.1 Elementlerin latince adları ve sembolleri
+Element adının sadece ilk harfi sembol olarak kullanıldığında büyük harf
+kullanılır. Birden fazla sayıda harf sembol olarak kullanıldığında ise ilk harf
+büyük, diğer harfler küçük yazılır. Tablo 1.2’ de en hafif ilk 20 element ve
+gündelik hayatta sıkça karşılaştığımız bazı elementlerin adları ve sembolleri
+yer almaktadır:
+Atom No
+1
+2
+3
+4
+5
+6
+7
+8
+ThisIsTestLineForAlgorithm
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Sembol
+H
+He
+Li
+Be
+B
+C
+N
+O
+F
+Ne

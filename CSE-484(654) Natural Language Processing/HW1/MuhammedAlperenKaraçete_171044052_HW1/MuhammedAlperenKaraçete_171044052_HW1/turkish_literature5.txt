@@ -1,0 +1,427 @@
+A) I	B) II	C) III	D) IV
+ThisIsTestLineForAlgorithm
+12. İki heceli bazı kelimeler ünlüyle başlayan bir ek aldıklarında ikinci hecelerindeki dar ünlüler düşer.
+Aşağıdakilerin hangisinde bu tür kelimelerin yazımında yanlışlık yapılmıştır?
+A) Alnına ışıklar vuranlarındır…
+B) Göğsünden vurulup tam ercesine
+C) Sencileyin hasmı rüyada değil,
+D) Bir tarih boyunca onun uğurunda
+• Aşk üzerine şiirler bularak okuyunuz. Sözlü iletişim çalışmalarında kullanmak üzere beğendiğiniz şiirlerden bir şiir defteri hazırlayınız.
+Ben Sana Mecburum
+ben sana mecburum bilemezsin adını mıh gibi aklımda tutuyorum büyüdükçe büyüyor gözlerin
+ben sana mecburum bilemezsin içimi seninle ısıtıyorum
+ağaçlar sonbahara hazırlanıyor bu şehir o eski istanbul mudur
+karanlıkta bulutlar parçalanıyor sokak lambaları birden yanıyor kaldırımlarda yağmur kokusu
+ben sana mecburum sen yoksun
+sevmek kimi zaman rezilce korkuludur insan bir akşam üstü ansızın yorulur tutsak ustura ağzında yaşamaktan
+kimi zaman ellerini kırar tutkusu birkaç hayat çıkarır yaşamasından hangi kapıyı çalsa kimi zaman arkasında yalnızlığın hınzır uğultusu
+fatih’te yoksul bir gramofon çalıyor eski zamanlardan bir cuma çalıyor durup köşe başında deliksiz dinlesem sana kullanılmamış bir gök getirsem haftalar ellerimde ufalanıyor
+ne yapsam ne tutsam nereye gitsem ben sana mecburum sen yoksun (…)
+Attilâ İLHAN, Ben Sana Mecburum
+mıh: Büyük çivi.
+Bilgi Kutusu
+   Şiiri diğer edebî türlerden ayıran en önemli özelliklerden biri de ahenktir. Çünkü keli- me ve kelime grupları dil bilgisi kurallarından çok şiire özgü söyleyişle ahenk etrafında bir araya gelir.
+   Ahenk; dizelerdeki kelimelerin birbiriyle olan uyumudur. Şiirde ahenk; ritim, ses akışı, söyleyiş, ses ve kelime tekrarları ile sağlanır. Ahenksiz şiir olmadığı ve her şiirin kendine özgü bir ahengi olduğu söylenebilir.
+   Ritim, şiirde belirli aralıklarla ortaya çıkan etki, tesir, uyarıcı, vurgu demektir. Şiirde ritmi ölçü, uyak ve redif sağlar. Türk edebiyatında üç türlü ölçü kullanılmıştır:
+1. Hece ölçüsü
+2. Aruz ölçüsü
+3. Serbest ölçü
+   Hece ölçüsü dizelerdeki hece sayısının eşitliğine dayanır. Bu ölçü İslamiyet Öncesi Türk Edebiyatı’ndan bugüne kadar özellikle halk şiirinde yaygın olarak kullanılagelmiş- tir. Dizeler, hece kalıbına göre oluşturulur. Örneğin 8 heceli bir dizenin kalıbı “sekizli”dir. Buna göre bütün dizeler 8 heceden oluşur. Hece ölçüsüyle oluşturulan şiirlerde dizeler iki ya da daha çok parçaya bölünür. 8’li kalıbı 4+4 ya da 5+3 şeklinde ikiye bölebiliriz. Dizele- rin bu bölüm yerlerine “durak” denir. Duraklar belirlenirken kelimeler bölünmez; durak yerleri kelimelerin sonuna getirilir.
+Ben yürürem / yana yana (4+4) Aşk boyadı / beni kana	(4+4) Ne akîlem / ne divâne	(4+4) Gel gör beni / aşk neyledi (4+4)
+   Aruz ölçüsü hecelerin açık, kapalı oluşuna dayanır. Ünsüzle biten heceler uzun (ka- palı), ünlüyle biten heceler kısa (açık) olarak tanımlanır, ölçüyü gösterirken uzun heceler çizgi (-) ile kısa heceler nokta (.) ile gösterilir. Fuzûlî’nin “Su Kasidesi” fâilâtün / fâilâtün
+/ fâilâtün / fâilün ile yazılmıştır.
+Saçma ey gö /z eşkden gön / lümdeki od / lare su
+_ . _ _	/ _ . _ _	/ _ . _ _	/ _ . _
+Kim bu denlü / tutuşan od / lare kılmaz / çâre su
+_ . _ _	/ _ . _ _	/ _ . _ _	/ _ . _
+ThisIsTestLineForAlgorithm
+   Serbest ölçü ise hecelerin arasında daha önceden bir kalıpla belirlenmemiş ama oriji- nal bir bağlantı içinde oluşturulan ölçüdür. Serbest ölçüyle yazılan şiirlerde dizelerin uzun- luk ve kısalığı farklıdır. Cumhuriyet Dönemi Türk Edebiyatı’nda şiirler daha çok serbest ölçüyle yazılır. Örneğin Orhan Veli’nin ‘‘İstanbul’u Dinliyorum’’ şiiri serbest ölçüyle ya- zılmıştır:
+İstanbul’u dinliyorum, gözlerim kapalı Önce hafiften bir rüzgar esiyor;
+ThisIsTestLineForAlgorithm
+Yavaş yavaş sallanıyor Yapraklar ağaçlarda; Uzaklarda, çok uzaklarda,
+Sucuların hiç durmayan çıngırakları İstanbul’u dinliyorum, gözlerim kapalı.
+   Tekrar, dize içinde veya dizeler arasında tekrar edilen harf, hece ve kelimelere dayalı bir ahenk unsuruna denir. Bir dize içinde veya devam eden dizeler arasında aynı ünsüz- lerin tekrar edilmesine ‘‘aliterasyon’’, ünlü seslerin art arda tekrar edilmesiyle elde edilen uyuma da ‘‘asonans’’ denir. Şiirimizde sıklıkla başvurulan ahenk unsurlarından bir diğeri de kelime ve kelime grupları tekrarlarıdır. Belli aralıklarla kelime gruplarının, dizelerin yinelenmesi ses açısından bir etkileme sağlarken aynı zamanda bir uyum, bir ritimde oluşturur. Nakarat, dörtlük sonlarında tekrarlanan dizelerin oluşturduğu bir ahenk un- suruna denir.
+Attilâ İlhan (1925 - 2005)
+   Attilâ İlhan küçük yaşlardan itibaren edebiyata ilgi duymaya başlar. Lise yıllarında katıldığı bir şiir yarışmasında Cahit Sıtkı’nın ardından ikinci olur. Hukuk fakültesini bi- tirdikten sonra birkaç defa Fransa’ya gider. Türkiye’ye dönüşünde Mavi hareketine katı- larak dönemin sanat anlayışlarını (Garipçilerden, Toplumculara bütün sanatçıları) eleş- tirir. Eleştirileri edebiyat dünyasında geniş yankılar uyandırır. Daha sonra Mavicilerle yolları ayrılır. Farklı türlerde birçok eser veren Attilâ İlhan 2005 yılında vefat eder.
+   “Ben Sana Mecburum” şiirinde sevgiliye duyulan özlem ve bundan kaynaklanan ay- rılık acısı dile getirilir. Diğer şiirlerinde olduğu gibi lirizm bu şiirinde de kendini hissetti- rir. Şiir boyunca sevgilisini aklından çıkaramayan, ona çaresiz bir şekilde ihtiyaç duyan, düşüncelerinde onunla yaşamaya ve hislerini onunla paylaşmaya devam eden bir âşığın duyguları dile getirilir. Baştan sona şairin iç konuşmalarından oluşan şiire iç konuşma üslûbu hâkimdir. Oldukça sade bir Türkçe ile yazılan bu şiirde imlâ kurallarına ve nokta- lama işaretlerine uyulmamıştır. Bu durum şairin üslubundandır.
+ThisIsTestLineForAlgorithm
+içini   ısıtmak:  ……………………………………………………………………………
+aklında   tutmak:  …………………………………………………………………………
+1. Yukarıda verilen kelime gruplarının anlamını metnin bağlamından hareketle tahmin ediniz.
+2. Şiirin temasını ve konusunu belirleyiniz.
+ThisIsTestLineForAlgorithm
+3. Şiirdeki söyleyici hakkında aşağıdakilerden hangisi söylenemez?
+A) Sevgilisinden bir süre ayrı kalmıştır.
+B) Sevgilisine tutkuyla bağlıdır.
+C) Sevgilisine tekrar kavuşma umudu ona yaşama sevinci verir.
+D) Söyleyici karamsar bir ruh hâline sahiptir.
+4. Okuduğunuz şiirde ahenk unsurları önemsenmemiş ve düzensiz bir uyak örgüsü kul- lanılmıştır. Buna göre şiirde ahengi sağlayan unsurları belirleyerek aşağıdaki tabloyu doldurunuz. Şiirin ahenk ve şekil özelliklerinin içerikle ilişkisinin olup olmadığını inceleyiniz.
+Ölçü
+Uyak
+Redif
+5. Aşağıdaki cümleyi tamamlayınız.
+Bu şiirin nazım biçimi serbest nazım biçimi, türü ise lirik şiirdir. Çünkü
+……………………………………..………………………………………………….…
+…………………………………………………………………………………………
+…….……………………………………………………………………………………
+6. Şiirin içeriğini anlam bakımından çözümleyip şiiri yorumlayarak şiirle yorumunuzu/ beğeninizi metne dayanarak/gerekçelendirerek aşağıdaki tabloda ilgili yerlere yazınız.
+Birimlerin Açıklaması
+Yorumum/Beğenme Nedenim
+Gerekçem
+1. bent
+Sevgilisine olan bağlılığın anlatılması.
+2. bent
+Söyleyicinin, sevgilisini düşü- nerek İstanbul sokaklarında dolaşması.
+3. bent
+Söyleyicinin aşkın ve âşık ol- manın anlamını kendi kendi- ne düşünmesi.
+4. bent
+Fatih sokaklarında dolaşırken duyduğu bir gramofon sesinin sevgilisini ve onunla geçirdiği zamanları hatırlatması.
+7. Attilâ İlhan imge oluşturmakta usta bir şairdir. Örneğin şair, bu şiirinde “İçimi se- ninle ısıtıyorum” imgesiyle sevgilisine duyduğu aşkın ona hayat verdiğini ve kavuş- ma ümidinin onu hayata bağladığını vurguluyor. “karanlıkta bulutlar parçalanıyor”, “kimi zaman ellerini kırar tutkusu”, “arkasında yalnızlığın uğultusu”, “sana kullanıl- mamış bir gök getirsem” dizelerindeki gibi daha birçok imge ile zengin bir şiirsel dil yaratmıştır. Buna göre;
+ben sana mecburum bilemezsin adını mıh gibi aklımda tutuyorum
+dizelerindeki imgeyi ve edebî sanatı belirleyerek bunların şiirin anlamına katkısını açıklayınız.
+İmge
+Edebî Sanat
+8. Okuduğunuz şiirde ahengi sağlayan unsurları (ölçü, redif, uyak ve uyak örgüsünü) belirleyerek boş bırakılan yerde gösteriniz ve bunların şiire katkısı olup olmadığını düşününüz.
+………………………………………………….………………………………………
+………….………………………………………………….……………………………
+…………………………………………………………………………………………
+…………………………………….………………………………………………….…
+……………………………………………….…………………………………………
+   Tüm dünyada olduğu gibi Türk toplumunda da aşk olgusu önemli bir yere sahiptir. Aşk anlayışı, daha çok tasavvuf felsefesi çevresinde ortaya çıkmıştır. Ahmet Cevizci, Fel- sefe Sözlüğü’nde aşkı şöyle tarif ediyor: “İnsanı belli bir varlığa, bir nesneye ya da evrensel bir değere doğru sürükleyip bağlayan gönül bağı. İnsan tarafından temelde kendisi dışın- daki en yüce varlığa, varlıklara veya güzelliğe duyulan yoğun ve aşırı sevgi.”
+   “Ben Sana Mecburum” şiiri de aşkın en güzel ifadelerinden biridir. Ancak buradaki aşk sadece tasavvufî aşk değil beşeri aşktır. Seven kişinin kendi varlığını aşk denizinde eritmesi, sevilen kişiyle özdeşleştirmiştir. Bu bakımdan bu şiirde şair, adeta sevgilisinde kendi varlığını yok etmiştir.
+9. Siz de şiirden hareketle aşk anlayışı/değeri hakkındaki düşüncelerinizi aşağıda boş bırakılan yere yazınız.
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+ThisIsTestLineForAlgorithm
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+10. ağaçlar sonbahara hazırlanıyor bu şehir o eski istanbul mudur
+   Şair, bu dizelerde ve şiirin genelinde imlâ kurallarına uymaz ve noktalama işaret- lerini de kullanmaz. Okuduğunuz şiirden alınan yukarıdaki dizeler, imlâ kurallarına ve noktalama işaretlerine uygun hâle getirilmek istenirse aşağıdaki değişikliklerden hangisi yapılabilir?
+A) Ağaçlar sonbahara hazırlanıyor… B) Ağaçlar sonbahara hazırlanıyor. Bu şehir o eski İstanbul mudur?	Bu şehir, o eski İstanbul mudur?
+C) Ağaçlar sonbahara hazırlanıyor,    D) Ağaçlar sonbahara hazırlanıyor, Bu şehir o eski İstanbul mudur?	Bu şehir o eski istanbul mudur!
+Şiir Türleri
+   Konusuna göre şiir türleri; epik şiir, lirik şiir, pastoral şiir, didaktik şiir, dra- matik şiir, satirik şiir olmak üzere altı çeşide ayrılır. Şiir türünün gelişim çizgi- si, şairlerin tercihleri ve sanat anlayışları vb. nedenlerle modern şiirlerde hem lirik hem pastoral hem de satirik bir yön bulu- nabilir.
+1. Lirik Şiir
+   İçten gelen heyecanları coşkulu bir dille anlatan duygusal şiir türüdür. Akıl- dan çok hayal gücüne, duygusallığa hitap eder. Gurbet, ayrılık, hasret, aşk gibi te- malar işlenir.
+Nerdesin
+Geceleyin bir ses böler uykumu, İçim ürpermeyle dolar: - Nerdesin? Arıyorum yıllar var ki, ben onu, Aşıkıyım beni çağıran bu sesin.
+Ahmet Kutsi TECER
+2. Didaktik Şiir
+   Belli bir düşünceyi aşılamak ya da belli bir konuda öğüt, bilgi vermek, ahlaki bir ders çıkarmak amacıyla öğretici nite- likte yazılan şiirlerdir. Bu tarz şiirler duy- gu değil düşünce ağırlıklıdır.
+Ey Yolcu
+Gitme, ey yolcu, beraber oturup ağlaşalım: Elemim bir yüreğin kârı değil, paylaşalım: Ne yapıp ye’simi kahreyleyeyim, bilmem ki? Öyle dehşetli muhitimde dönen matem ki!.. Ah! Karşımda vatan namına bir kabristan, Yatıyor şimdi... Nasıl yerlere geçmez insan? Şu mezarlar ki uzanmış gidiyor, ey yolcu, Nereden başladı yükselmeye, bak, nerde ucu!
+Mehmet Akif ERSOY
+3. Epik Şiir
+   Savaş, kahramanlık, yiğitlik ve yurt sev- gisi konularını işleyen ya da tarihsel bir olayı coşkulu bir anlatımla işleyen şiirlere denir. Epik şiirde olağanüstü olaylara yer verilebi- lir.
+Bir Yolcuya
+Dur yolcu! Bilmeden gelip bastığın Bu toprak, bir devrin battığı yerdir. Eğil de kulak ver, bu sessiz yığın Bir vatan kalbinin attığı yerdir.
+Necmettin Halil ONAN
+4. Pastoral Şiir
+   Doğa güzelliklerini, orman, yayla, dağ, köy ve çoban yaşamını ve bunlara karşı duyulan özlemleri anlatan şiir tü- rüdür. Sade, süssüz ve içtenlik  taşıyan bir dille yazılır. Doğrudan doğruya doğa manzaralarını monolog biçiminde anla- tan pastoral şiirlere “İdil” ,konuşma biçi- minde yazılanlara ise “Eglog” denir.
+Bingöl Çobanları
+Daha deniz görmemiş bir çoban çocuğuyum. Bu dağların eskiden âşinasıdır soyum, Bekçileri gibiyiz ebenced buraların.
+Bu tenha derelerin, bu vahşi kayaların Görmediği gün yoktur sürü peşinde bizi,
+Her gün aynı pınardan doldurur destimi- zi
+Kırlara açılırız çıngıraklarımızla...
+Kemalettin KAMU
+5. Dramatik Şiir
+   Dramatik konuları işleyen şiir türüdür. Genellikle acıklı, hüzünlü olayları anlatan harekete dayalı, manzum tiyatro yapıtlarıdır.
+       Gelinlik Kızın Ölümü Salâ verilirken kalktık kahveden, Cumaydı, yılın en beklemiş günü, Yemeni  gibi üstünde tabutun, Gölge veren ağaçsız bir gökyüzü. Kızın babası yanımızda, boyu uzun, Zayıf, ağzında mırıltılar.
+Melih Cevdet ANDAY
+6. 
+Satirik Şiir
+   Toplum hayatındaki bozuklukları, dü- zen-sizlikleri; yöneticilerin beceriksizlikle- rini, insan hayatındaki zaafların, kişilerin beğenilmeyen ve istenmeyen yönlerini eleş- tirmek amacıyla yazılan şiirlerdir. Güldürü unsuru katılarak dile getirilen bu tür şiirlerde didaktik bir yön de bulunabilir ancak bilgi vermeyi, bir bilgiyi öğretmeyi amaçlamadı- ğı için bu şiirler, didaktik şiirden ayrı bir tür olarak kabul edilir. Divan şiirindeki hicivler, halk şiirindeki taşlamalar ve modern şiirdeki yergiler bu türün örnekleridir.
+Adamın Biri
+Çifte koştuğun öküzler,
+Senin kadar yorgun değil kardaş! Sen ki kış ve yaz düşünceli
+Sen ki kış ve yaz yalınayak!
+Cahit KÜLEBİ
+11. Okuduğunuz “Gece”, “Bu Vatan Kimin” ve “Ben Sana Mecburum” şiirlerinin konusu- na göre türlerini belirleyiniz.
+Şiir Adı
+Konusuna Göre Türü
+Gece
+Bu Vatan Kimin
+Ben Sana Mecburum
+Manzume ve Şiir
+   Ölçülü ve uyaklı söz dizisine nazım denir. Nazım biçiminde yazılmış eserlere “man- zum eser”, kısa nazım parçalarına da “manzume” denir. Estetik kaygı taşıyarak yazılan nazım parçalarına (manzumelere) ise şiir denir. Her şiir bir manzumedir ancak her man- zum eser şiir değildir. Şiirler muhatabında güzellik duygusu uyandıran, kelimelere yan ve mecaz anlamlar kazandıran, ses ve söyleyiş özellikleri ile büyülü bir havası olan edebî metinlerdir. Şiiri, düzyazıdan ayıran özellik ölçü, mısra, ahenk gibi unsurlara sahip olma- sıdır.
+1. Metin Otel Odaları
+Bir merhamettir yanan, daracık odaların İsli lâmbalarında, isli lâmbalarında
+ThisIsTestLineForAlgorithm
+Kulak verin ki zaman, tahtayı kemiriyor, Tavan aralarında, tavan aralarında.
+Ağlayın âşinasız, sessiz can verenlere, Otel odalarında, otel odalarında
+Necip Fazıl Kısakürek
+2. 
+Metin Seyfi Baba
+Geçen akşam eve geldim. Dediler: Seyfi Baba Hastalanmış, yatıyormuş Nesi varmış acaba?
+- Bilmeyiz, oğlu haber verdi geçerken bu sabah.
+- Keşki ben evde olaydım... Esef ettim, vah vah!
+Bir fener yok mu, verin... Nerde sopam? Kız çabuk ol!
+Gecikirsem kalırım beklemeyin... Zira yol hem uzun, hem de bataktır...
+Mehmet Akif Ersoy
+   1. metin şiir, 2. metin ise manzumedir. “Otel Odaları” şiirinde şair yalnızlık temasını işlemektedir. Bu şiirde bireysellik, duygusallık ve çağrışım vardır. “Seyfi Baba” ise 1. met- nin aksine bir olay anlatılmaktadır. Seyfi Baba hastadır ve şair onun hastalığının sebebini merak etmektedir. Bunun üzerine onu ziyaret etmeye karar verir. Söz konusu olay bu metinde, hikâyelerde olduğu gibi düzyazı (nesir) hâlinde değil de dizeler hâlinde (nazım) ve kafiyeli, uyaklı bir şekilde anlatılmaktadır. İşte böyle olay ağırlıklı yazılara manzum hikâye denmektedir. Tıpkı hikâyelerde olduğu gibi manzumelerde de olay örgüsü, şahıs,
+zaman, mekân unsurları görülür. Manzume ile şiir arasındaki benzerlik farklılıklar şun- lardır:
+Benzerlikler
+• Her ikisi de dizeler hâlinde yazılır.
+• Her ikisinde de ahenk ve ritim unsurları (ölçü, kafiye, redif...) kullanılır.
+Farklılıklar
+• 	Şiirlerde olay örgüsü ve öğretici özellik yoktur ancak manzumelerde öğretici özellik bulunur, yaşanmış ya da yaşanabilecek bir olay vardır.
+• 	Manzume, anlatmaya bağlı edebî metinler içinde sayılırken şiir coşku ve heyecan dile getiren metinlerdendir.
+• 	Kelimeler, manzumelerde genellikle gerçek anlamları ile kullanılırken şiirde yan ve mecaz anlamda kullanılır.
+• 	Manzumeler nesir şekline dönüştürülebilir ancak şiirler dönüştürüle- mez.
+ThisIsTestLineForAlgorithm
+Dünya Edebiyatından Şiir Örneği İle Türk Şiiri Örneği Karşılaştırması
+Aşk Ki Sevgili Kızım…
+ThisIsTestLineForAlgorithm
+Aşk ki sevgili kızım, aynaya benzer en çok, Bakmaya bayılırlar güzel ve şık bayanlar Baktıkça düş kurarlar, mutlu olurlar.
+Aynadaki görüntüleri büyüler onları, Kötülükten, günahtan arınır yürekleri Ruhları saydam beyaz bir sayfaya can atar. Sakın inmeye kalkma yoksa ayağın kayar, Tutunacak dal yoksa uçurum bekler seni Direnemezsen kapılır kaybolursun girdapta, Aşk ki güzeldir kızım, saf ama ölümlüdür Senin gibi küçük yaşta akıntıya kapılanlar Kendi yansımalarını görür, yunar, boğulur.
+Victor Hugo, Çev: Tozan Alkan
+Ben Sana Mecburum
+ben sana mecburum bilemezsin adını mıh gibi aklımda tutuyorum büyüdükçe büyüyor gözlerin
+ben sana mecburum bilemezsin içimi seninle ısıtıyorum
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+ağaçlar sonbahara hazırlanıyor bu şehir o eski istanbul mudur karanlıkta bulutlar parçalanıyor sokak lambaları birden yanıyor kaldırımlarda yağmur kokusu ben sana mecburum sen yoksun
+…
+Attilâ İLHAN, ben sana mecburum
+   Önceki bölümlerde okuduğunuz Attilâ İlhan’ın “Ben Sana Mecburum” şiirinden alı- nan bu parça ile “Aşk Ki Sevgili Kızım… ” şiirini tema, nazım birimi, nazım türü, ahenk, dil ve anlatım bakımından karşılaştırınız.
+Aşk Ki Sevgili Kızım…
+Ben Sana Mecburum
+Tema
+Nazım birimi
+Nazım türü
+Ahenk
+Dil ve anlatım
+Sıfatlar (Ön Adlar)
+Dil Bilgisi
+   “Bu kitap, destanlardan günümüze ulaşmış, özgün metinler içeriyor.” cümlesinde “kitap, metin” isimlerinin önlerine getirilen “bu, özgün” kelimeleri bu isimleri nitelik ve nicelik yönünden tamamlanmıştır. “Bu kitap”, “özgün metinler” kelime gruplarında ol- duğu gibi; isimlerden önce gelerek onların anlamlarını sayı, renk, durum, hareket, biçim, yer, işaret ve soru yönlerinden tamamlayan; onları niteleyen ve belirten kelime ve kelime gruplarına sıfat denir. Nesnelerin birbirinden farklarını göstermek için kullanıldıkların- dan sıfatlar çok önemlidir.
+ThisIsTestLineForAlgorithm
+Sıfatların Özellikleri
+   1. Sıfatlar cümlede tek başlarına görev yapamaz, bir kelimenin sıfat olabilmesi için bir ismin önüne gelerek onunla tamlama kurması gerekir. Sıfat ve isimlerin oluşturduk- ları bu kelime grubuna da sıfat tamlaması denir. Örneğin; “Küçük kız giderken dönüp annesine el salladı.” cümlesindeki “küçük” kelimesi “kız” isminin önüne gelerek onunla tamlama kurduğu için sıfattır.
+    2. Sıfatlar, niteleme ve belirtme görevli olduklarından çekim eklerinden birini alamaz. Sıfatlar, çekim eki alırsa isimleşir:
+Uyarı: Sıfatlar çekim eki almadan da isim gibi kullanılabilir:
+ThisIsTestLineForAlgorithm
+   3. Sıfat olarak kullanılan çoğu kelime bir kavramın karşılığıdır. Örneğin; “Mavi”, bir renk ismidir; “iki” sayı ismidir. Ancak bu kelimeler isimlerin özelliklerini bildirecek du- ruma gelirse sıfat olur. “Mavi gözlerine bayıldım.” cümlesinde “mavi”, “göz” isminin rengini bildirdiğinden sıfattır.
+   4. Sıfatlar; fiillerden, fiilimsilerden veya başka sıfatlardan önce gelip onların anlamını pekiştirir ya da onların anlamını daraltırsa zarf olur. “Bu sene de sınavlara iyi hazırlan- mamışsın!” cümlesinde “iyi” kelimesi “hazırlan-” fiilinden önce zarf görevinde kullanıl- mıştır.
+Çok genç yaşlarda çıkardığı ilk romanından itibaren benzersiz üslubu, yaşayışı, sert tavır- ları ve bağımsız yazarlığıyla, attığı her adımda tartışmalar yarattı.
+Bu parçada altı çizili kelimelerden kaç tanesi sıfat görevindedir?
+A)1	B) 2	C) 3	D) 4
+ThisIsTestLineForAlgorithm
+Çözüm: Bu parçada “genç, ilk, sert ve her” kelimeleri önüne geldikleri isimleri niteledikleri ya da belirttikleri için sıfat; “yazarlık” kelimesi ise “yazarın yaptığı iş”i karşıladığı için isim görevindedir. Cevap: C
+   “Kısa” kelimesi, aşağıdakilerin hangisinde “Kısa zaman içinde bize yetişti.” cümlesin- dekinden farklı bir görevde kullanılmıştır?
+A) Tatilde yaşadıklarını arkadaşlarına kısa bir yazıyla anlattı.
+B) Kısa oyunlar çocukları neşelendiriyor.
+C) Boğazından kısa kısa ay sonunu getiriyordu.
+D) Kısa bir ara verildi toplantıya.
+Çözüm
+   “Kısa” kelimesi soru kökünde verilen cümlede sıfat görevindedir. A, B ve D seçenek- lerinde sıfat, C seçeneğinde ise zarf görevinde kullanılmıştır. Bu yüzden soruda istenen farklı görevdeki kelimenin C’de olduğu görülür. Cevap: C
+ThisIsTestLineForAlgorithm
+Aşağıdaki yargılar doğruysa yay ayraç içine (D), yanlışsa (Y) yazınız.
+Birden fazla sıfat bir isimi niteleyebilir. (…) Bir sıfat birden fazla ismi niteleyemez. (…)
+İsimlerden önce gelerek onları niteleyen ve belirten kelimelere sıfat denir. (…) Sıfatlar tek başına kullanıldığında isimleşir. (…)
+Sıfatlar isimler gibi çekim eki almaz. (…)
+ThisIsTestLineForAlgorithm
+Aşağıdaki atasözlerinde yer alan sıfat görevli kelimeleri bulunuz.
+Ağır kazan geç kaynar. ( 	)
+Tatsız aşa tuz neylesin, akılsız başa söz neylesin.( 	)
+Karga yavrusuna bakmış, “Benim ak pak evladım!” demiş. ( 		) Hayırlı komşu, hayırsız akrabadan iyidir. ( 	)
+Kurtlu baklanın, kör alıcısı olur. ( 		) Her vaktin bir padişahı var. ( 	)
+Allah sağ eli sol ele muhtaç etmesin. ( 	)
+İki testi çarpışınca biri kırılırsa biri çatlar. ( 	)
+Yarım hekim candan eder, yarım hoca dinden eder. ( 		) Hangi gün vardır akşam olmadık? ( 	)
+A. SIFAT ÇEŞİTLERİ Niteleme Sıfatları
+Niteleme sıfatları isimlerin durumlarını, biçimlerini, renklerini ve unvanlarını bildi-
+rir:
+   Uyarı: Niteleme sıfatları isimlere sorulan “Nasıl” sorusunun cevabıdır. “Nasıl yol?”, “Düz yol.”
+Niteleme Sıfatlarının Özellikleri
+a. Genellikle karşıtları vardır: güzel-çirkin, uzun-kısa, temiz-kirli gibi.
+b. Kişilerin rütbe, makam, meslek gibi toplumsal durumlarını bildiren unvan sıfatları isimden önce veya sonra kullanılabilir: Sinan Öğretmen ya da Öğretmen Sinan gibi...
+c. Niteleme sıfatları bir isme yöneltilen nasıl sorusunun cevabıdır: Nasıl insan? -Dürüst insan
+      ç.Niteleme sıfatları fiil veya fiilimsiye yönelik olduğunda, niteleme zarfı olur: O konuyu, güzel anlattı.
+ThisIsTestLineForAlgorithm
+      d. Niteleme sıfatları genellikle soyut kavramlardır; ancak sıfat isimleştiğinden bu soyut özellik somuta dönüşür:
+Kötü insanlardan uzak dur.(soyut) Kötülerden fayda gelmez. (somut)
+Aşağıdaki cümlelerin hangisinde bir isim birden fazla sıfatla nitelenmiştir?
+A) Duygu yüklü dakikalar, saatler, günler geçirmişlerdi.
+B) Bu içtenlikli davranış hepsini ağlatmıştı.
+C) Sessiz, akıllı, uslu çocuklardı hepsi.
+D) Bu çocuklara hiçbir soru soramazdım.
+Çözüm: Cümleleri incelediğimiz zaman, A seçeneğinde “duygu yüklü” sıfatının birden fazla ismi nitelediğini, B seçeneğinde belirtme ve niteleme sıfatlarının birlikte kullanıldı- ğını, D seçeneğinde belirtme sıfatlarına yer verildiği, C seçeneğinde ise “çocuklar” ismi- nin “sessiz, akıllı, uslu” sıfatları tarafından nitelendiğini görürüz. Cevap: C
+Sokaktayım, kimsesiz bir sokak ortasında; Yürüyorum, arkama bakmadan yürüyorum. Yolumun karanlığa saplanan noktasında, Sanki beni bekleyen bir hayal görüyorum.
+Bu dizelerdeki niteleme sıfatları aşağıda boş bırakılan yere yazınız.
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+…………………………………………………………………………………………
+ThisIsTestLineForAlgorithm
+Belirtme Sıfatları
+İsimleri gösterme, belirsizlik, sayı ve soru yoluyla belirten sıfatlardır. Dörde ayrılır:
+1. İşaret (Gösterme) Sıfatları
+   Varlıkların, nesnelerin yerlerini işaret yoluyla belirten sıfatlardır: bu, şu, o; böyle, öyle, şöyle; öteki, beriki; öte, beri; diğer, işte…
+İşaret Sıfatlarının Özellikleri
+a. “Bu” en yakındaki varlık için, “şu” biraz daha uzaktaki varlık için, “o” daha uzakta olan varlık için kullanılır.
+b. “Bu, şu, o” kelimeleri ismi belirttiğinde sıfat, isim yerine kullanıldığındaysa zamir olur.
+c. 	“Böyle, öyle, şöyle” kelimeleri ismi belirttiğinde sıfat; eyleme ve eylemsiye yönelik kullanıldığında zarf olur; çekim eki alarak isim yerine kullanıldığından zamir olur:
+Böyle iş mi olur? sıfat
+Bu soruları şöyle çözmelisin. zarf
+Öylesini bugüne kadar hiç görmedim zamir
+ç. Öteki ve beriki kelimeleri ada yönelikse sıfat, isim yerine kullanılmışsa zamir olur: Öteki, bugün beriki odada yatacak.
+zamir	sıfat
+ThisIsTestLineForAlgorithm
+2. Belgisiz Sıfatlar
+   Varlıkları, kavramları onlara kesinlik kazandırmadan, yani, aşağı yukarı belirten sı- fatlardır: bir, biraz, çoğu, kimi, birçok, hiçbir, bütün, tüm, birkaç, bazı, birtakım, her, nice.
+Belgisiz Sıfatların Özellikleri
+a. Bir kelimesi ismin sayısını belirterek isme sorulan “Kaç?” sorusuna yanıt veriyorsa sayı sıfatı, ismi “herhangi” anlamıyla ona kesinlik kazandırmadan belirtiyorsa belgisiz sıfat olur:
+Dolmuşta bir kişilik yer kaldı. Sıcak bir havada yola çıktık. sayı sıfatı	belgisiz sıfat
+b. “Her” kelimesi yalnızca belgisiz sıfattır: Verilen her işi yaparım.
+c. Belgisiz sıfat olarak kullanılan kelimeler çekim eki alırsa zamirleşir: Bazıları yine geç kaldı.
+ç.	“Biraz” kelimesi eyleme yönelik ise zarf olur: Biraz da çalışalım.
+3. Sayı Sıfatları
+İsimleri sayı yoluyla belirten sıfatlardır. Dörde ayrılır:
+a. Asıl Sayı Sıfatları
+İsimlerin sayısını belirtir ve isimlere sorulan “Kaç?” sorusunun yanıtıdır:
+– Kaç kilo elma istersiniz? – On kilo elma istiyorum.
+b. Sıra Sayı Sıfatları
+   İsimlerin sıralarını, derecelerini belirten sıfatlardır. “–nci” ekiyle yapılır: Birinci katta oturuyordu.
+c. Üleştirme Sayı Sıfatları
+   Varlıkların ayrıldığı eşit bölümleri anlatır. Sayılara getirilen “-ar , -er” ekiyle yapılır: İkişer gömlek dağıttık.
+ç.	Kesir Sayı Sıfatları
+   Eşit parçalara ayrılan bir bütünün belli bölümlerini gösteren sıfatlardır. İki sayıyla kurulur ve birincisi de eki alır: Şirkette yüzde elli hissesi var.
+   (I) Yazar, yirmi beş yıllık meslek yaşamında edindiği izlenimleri okurlara duyurmak istemiş. (II) Mesleğinin sorunlarını, iyi ve kötü yanlarını dile getirmeye çalışmış. (III) Çok akıcı bir dili var. (IV) Kişilerin belirleyici özelliklerini en ince ayrıntılarına değin, somut bir biçimde yansıtmış.”
+ThisIsTestLineForAlgorithm
+Bu parçadaki numaralanmış cümlelerin hangisinde, sayı sıfatı kullanılmıştır?
+A) I	B) II	C) III	D) IV
+   Çözüm: Birinci cümlede “yirmi beş yıllık meslek yaşamı” tamlamasında “yirmi beş yıllık” sayı sıfatıdır. Cevap: A
+4. Soru Sıfatları
+ThisIsTestLineForAlgorithm
+İsimleri soru yoluyla belirten sıfatlardır. Kaçıncı sayfayı anlamadınız?
+Soru Kelimesi
++
+İsim	=
+Soru Sıfatı
+Kaçıncı
++
+Sayfa	=
+Kaçıncı
+Soru Sıfatlarının Özellikleri
+ThisIsTestLineForAlgorithm
+a. Soru sıfatları cümleyi genellikle soru cümlesi yapar: Hangi türlerde yazmaktan hoşlanırsınız? (Soru cümlesi)
+Dinletiye kaç kişinin geleceği bilmiyorum. (Soru cümlesi değil)
+b. Bir cümlede soru sıfatı olduğu halde soru anlamı soru sıfatıyla değil de mi soru eda- tıyla sağlanabilir.
+   “Hangi gün gelemediğini mi sordu?” cümlesinde soru anlamı “mi” soru edatıyla sağ- lanmıştır.
+c. Ne kadar kelimesi isme yönelikse soru sıfatı eyleme ya da eylemsiye yönelikse soru zarfı çekim eki alırsa soru zamiri olur.
+Günlük ne kadar su içersiniz?
+sıfat
+Yolculuk için ne kadar harcadınız? zamir
+Bu meyvelerin ne kadarını alacaksınız? zamir
+Aşağıdakilerin hangisinde soru anlamı sıfatla sağlanmıştır?
+A) Kaçımız yarın konuşacağız?	B) Kaçar kaçar yürüyelim?
+C) Neredeki satılıkmış?	D) Hangi yol daha kısa?
+Çözüm: Verilen cümlelerde soru anlamı, A ve C seçeneklerinde soru zamiriyle, B seçene- ğinde soru zarfıyla, D seçeneğinde ise soru sıfatı ile sağlanmıştır. CEVAP: D
+Aşağıdaki cümlelerde altı çizili sıfatların türlerini karşılarına yazınız. Ahmet Hâşim Türk şiirine  birçok yenilik getirmiştir. ( 		) Şiirlerinde kendine has bir estetik anlayışı vardı. ( 	) Hâşim’in güzel şiirleri en azından on beş yıllık bir çalışmanın mahsulüdür. (
+ 	)
+Şiiri, ince bir dil yapısı olarak kabul ederdi. ( 		) Böyle zengin şiir dünyasına az rastlanır. ( 	)
+Deneme alanındaki bu yazıları estetik bakımdan şiirleri kadar değerlidir. ( 	)
+Basmakalıp fikirler insan düşüncesini uyuşturur. ( 	)
+O günün benim için en büyük nimeti, onu yakından görmem olmuştur. (
+ 	)
+ThisIsTestLineForAlgorithm
+Mart güneşi, uzviyette yatan bütün yılanları uyandırıyor. ( 	) Ünlü şair hangi yıl vefat etmiştir? ( 	)
+Şairi ölümünün seksen dördüncü yılında anacağız.( 	)
+B. YAPILARINA GÖRE SIFATLAR
+   Sıfatlar da isimler gibi yapı bakımından basit, türemiş ve birleşik olmak üzere üçe ayrılır:
+   1. Basit sıfat: Herhangi bir yapım eki almamış ve başka bir kelimeyle birleşmemiş sıfatlardır: kolay soru, temiz gömlek, eski mahalle…
+   2. Türemiş sıfat: İsim ya da fiil köklerine ve gövdelerine getirilen isim yapım ekleriyle oluşturulmuş sıfatlardır: aydınlık günler, tuzlu yemekler, düşünceli insanlar…
+   3. Birleşik sıfat: Yapısında birden fazla kelime barındıran sıfatlardır: birkaç sandalye, güler yüzlü adam, çantası mavi kadın…
+   Uyarı: Birleşik sıfatlar anlamca kaynaşmış birleşik sıfatlar ve kurallı birleşik sıfatlar olarak ikiye ayrılır:
+   Nedir beyaz rengin tüm renklere üstünlüğü? “Bütün renkler aynı hızla kirleniyordu. Birinciliği beyaza verdiler” der Özdemir Asaf... Bir kez giyilir o beyaz giysiler, akşama kalmaz toza, toprağa, çamura bulanır. Bu yüzden az giyilir, bu azlıktan ötürü anılarda büyüktür yeri, derindir, anlamlıdır. Tüm çocukluk yaşar bir beyaz pantolonda, bir beyaz cekette... Hele yakaları mavi çizgili gömlek ise paçalar da bolsa, başta da denizci kepi varsa…
+Bu parçada altı çizili kelimelerden hangisi yapıca birleşik sıfattır?
+A) Tüm
+B) Bütün
+C) Beyaz
+D) Mavi çizgili
+   Çözüm: Soruda yapıca birleşik sıfatın olduğu seçenek soruluyor. A,B ve C seçenek- lerindeki sıfatlar yapıca basittir. D seçeneğinde ise “mavi çizgili” sıfatı, “mavi çizgi” sıfat tamlamasına –li eki getirilerek birleşik sıfat yapılmıştır. Bu yüzden “ mavi çizgili “ sıfatı soruda istenilen yapıya uygun bir sıfattır. Cevap: D
+   Anlamca kaynaşmış birleşik sıfatlar: İki kelimenin kalıplaşarak birleşmesinden olu- şan sıfatlardır: biraz sabır, birtakım elbise, boşboğaz çocuk,
+Kurallı birleşik sıfatlar: Bu tür bileşik sıfatlar farklı yollarla yapılabilir:
+a. Sıfat tamlamalarına –li eki getirilerek: Sarı saçlı çocuk
+b. Sıfat tamlamalarında isimle sıfatın yerleri değiştirildikten sonra isme –i , -si iyelik eklerinden biri getirilerek: Kırmızı elbise > elbisesi kırmızı kız
+c. Asıl sayılarla kurulmuş sıfat tamlamalarına –lik eki getirilerek: iki günlük iş
+ç.	Sıfat-fiillerden önce iyelik eki almış bir isim kullanılarak: hayallerini gerçekleştirmiş öğrenciler
+ThisIsTestLineForAlgorithm
+d. Bir sıfatı durum eki almış bir isimle tamlayarak: evine bağlı adam
+C. SIFATLARDA PEKİŞTİRME
+   Anlatımı çekici hâle getirmek, sıfatların anlamlarını güçlendirmek, kuvvetlendirmek amacıyla sıfatlarda pekiştirme yapılır. Bu tür sıfatlara pekiştirilmiş sıfat denir. Sıfatlarda pekiştirme çeşitli yollarla yapılır.
+   1. Bir sıfatın ilk iki sesine “m, p, r, s” ünsüzlerinden biri eklenip, oluşan hecenin o sıfatın başına getirilmesiyle oluşur. Ünlüyle başlayan sıfatlarda ilk ünlüye “m, p, r, s” ün- süzlerinden biri eklenir: beyaz>bembeyaz, temiz>tertemiz…
+   Uyarı: Bazı pekiştirme sıfatları bu kurala uymaz: sapasağlam, yapayalnız, çırılçıplak, çepeçevre…
+ThisIsTestLineForAlgorithm
+   2. Tekrar yoluyla da anlam kuvvetlendirilebilir. Tekrar edilen kelimeler arasına “mi” soru eki de konabilir: yüce yüce dağlar, büyük büyük evler, yalan yanlış haberler, güzel mi güzel manzara…
+Aşağıdakilerin hangisinde pekiştirilmiş sıfat yanlış yapılandırılmıştır?
+A) Tatlı mı tatlı bir gülüşü vardı.
+B) Bu aralar yapyalnız bir adam oldu.
+C) Saatler sonra eğri büğrü bir yola çıktık.
+D) Koca koca adamlar pamuk şekeri yiyordu.
+   Çözüm: B seçeneğinde kullanılan “yapyalnız” pekiştirilmiş sıfatı “yapayalnız” şeklin- de yapılandırılmalıydı. Cevap: B
+Ç. SIFATLARDA KÜÇÜLTME
+   Sıfatlara “-cik, -çe, -(i)msi, -(i)mtırak” ekleri getirilerek küçültme yapılabilir: genişçe bir oda, ekşimsi elma, daracık oda, mavimtırak çanta…
+Sıfatlarla İlgili Aşağıdaki Çoktan Seçmeli Soruları Cevaplayınız
+1. Aşağıdakilerin hangisinde, bir ismi belirten veya niteleyen bir kelime kullanılma- mıştır?
+A) Çağımızda gelişmiş ülkeler, sanata verdikleri önemle büyük kazançlar elde etmişlerdir.
+B) En eski çağlardan bu yana topraklarımız sanat eserleriyle donanmıştır.
+C) Atatürk, cumhuriyetin kuruluşundan beri sanata ve sanatçıya hep önem vermiştir.
+D) Bugün birçok sanatçımız özgün yapıtlarıyla dış ülkelerde tanınmaktadır.
+2. “Bu” kelimesi aşağıdakilerden hangisinde sıfat olarak kullanılmıştır?
+A) Ben de öyle bir resim çektirmiştim bu yazlıkta.
+B) Öz yaşamından alınmış bu öyküleri herkes benimseyerek okur, sever, anlar...
+C) Yazarın kavgalarını, umutlarını, umutsuzluklarını tanıyoruz bu mülakatında.
+D) “Yok, bu olmaz, bunu yapmaz, yapamaz!” diyor.
+3. (I) İlk öykülerini dergilerde yayımlamaya başladığı zaman yirmi yaşındaydı. (II) Bu öy- külerinde sıfatlardan, söz sanatlarından kaçınan yalın dili ve ayrıntıları gözlemlemedeki ustalığı ile dikkati çekti. (III) Yazın yaşamı boyunca ülkesinin insanlarından söz etti.
+(IV) Çağ dışı olaylara karşı savaşmaktan bir an geri durmadı, bu savaşını öykü türünün sınırları içinde kalarak gerçekleştirdi.
+Bu parçada numaralandırılmış cümlelerin hangisinde, yapıca birleşik bir sıfat kul- lanılmıştır?
+ThisIsTestLineForAlgorithm
+A) I	B) II	C) III	D)IV
+4. Aşağıdaki cümlelerin hangisindeki sıfat türeten “-ki” eki kullanılmamıştır?
+A) İlkokul çağındaki çocuklar için hikâye kitabı çıkardı.
+B) Kocaman adamsın sen, çocuk değilsin ki!
+C) Bütün gece kitaptaki soruları çözdü.
+D) Millî takım yarınki maça iyi hazırlandı.
+5. Aşağıdakilerin hangisinde altı çizili sıfat “yapıca” diğerlerinden farklıdır?
+A) Hepimiz için heyecanlı bekleyiş başlamıştı.
+B) Ünlü yazarı beklerken her kafadan bir ses çıkıyordu.
+C) Akşama doğru büyük salon yavaş yavaş doldu.
+D) Dilâver Bey altıya doğru sırtında rengi atmış lacivert elbisesi çıkageldi.
+6. Pekiştirme sıfatları, bir sıfatın birinci ünlüsünden sonra m, p, r, s seslerinden uygun olanının getirilmesiyle oluşur.
+Aşağıdakilerin hangisinde pekiştirme sıfatı bu kurala aykırı oluşmuştur?
+A) Tezgâhtaki capcanlı balıkları görünce alası geldi.
+B) Bu tertemiz havada yürüyüş yapmak iyi geldi.
+C) Yapayalnız yıllardan sonra ailesine kavuşmuştu.
+D) Üniversiteye yazıldı yazılalı büsbütün değişti.
+7. Hüseyin Rahmi’nin etkisi, başarısı; öyküde değil, romandadır. Bu yüzden en tanınmış romanlarının giriş bölümlerinde canlandırdığı konuşmalı bölümler gibi hatırlanma-   sı her zaman olanak içinde bulunan ancak birkaç öykü örneği vardır derlemelerinde: “Ecir ve Sabır”, “Tosun”, “Misafir”, “Tövbeler Tövbesi”, “Kedi Yüzünden”.
+Bu parçada aşağıdaki sıfat türlerinden hangisine örnek yoktur?
+A) İşaret sıfatı         B) Niteleme sıfatı	C) Sayı sıfatı	D) Belgisiz sıfat
+a. Yazma Tür ve Tekniklerini Tanıma
+   Şiir, duygu ve düşüncelerin kelimelerle kısa ve yoğun bir şekilde ifade edilmesidir. Bir başka ifadeyle şiir, şairin sesidir. İyi şiir yazmanın ve iyi şair olmanın yolunun dilin ince- liklerini bilmek ve dili iyi kullanmak olduğunu ve şiirde kullanılan her kelimenin yerli ye- rinde kullanılması gerektiğini unutmayınız. Şairin insana özgü bir gerçekliği muhatabın- da güzellik duygusu uyandıracak şekilde anlattığını, üzerinde yaşadığı dünyada yaşanan ve hayal edilen gerçekliği yorumlayarak değiştirdiğini, dil ile yeniden anlamlandırdığını göz önünde bulundurarak; siz de aşağıda yazma sürecinin uygulama bölümünde verilen “Çoban Çeşmesi” şiirinden esinlenip bir dörtlük yazmaya çalışınız.
+b. Yazma Sürecini Uygulama
+Çoban Çeşmesi şiirini daha önceki bölümlerde öğrendiğiniz hususlara dikkat ederek ta-
+mamlayınız. Yazma çalışmalarınızda şiir türüyle ilgili bilgilerinizi hatırlayınız ve bunları kullanınız. Taslak şiirinizi oluşturduktan sonra gözden geçiriniz. Yazdığınız şiiri arkadaş- larınıza okuyunuz.
+Çoban Çeşmesi
+Derinden derine ırmaklar ağlar, Uzaktan uzağa çoban çeşmesi,
+Ey suyun sesinden anlıyan bağlar, Ne söyler şu dağa çoban çeşmesi.
+Faruk Nafiz ÇAMLIBEL
+……………………………………………………………
+……………………………………………………………
+……………………………………………………………
+……………………………………………………………
+a. Sözlü İletişim Tür ve Tekniklerini Tanıma
+   Yüzyıllardan beri insanlar duygularını şiir yoluyla dile getirmişlerdir. Cahit Sıtkı Ta- rancı “Şiir, sözcüklerle güzel biçimler kurmak sanatıdır. Ama sözcük nedir? Bir anlam, bir çağrışımı, bir gölgesi, hatta bir rengi ve tadı olan nesnedir. Sözcük insanoğlundan haber verir. Sözcük boş bir kalıp değildir. Ozanın duyguları, düşünceleri hayalleri, dünya gö- rüşü, felsefesi, kişiliği, her şeyi şiirde belli olur. Sözcükleri tanımak, sevmek, okşamasını bilmek gerek. Hangi sözcük hangi sözcükle yan yana geldiğinde nasıl bir ışık ortaya çıkar? Bunu bilmek gerek.” der.
+   Ahmet Haşim’e göre de şair ne bir gerçek habercisi, ne bir güzel ve etkileyici konuşan insan, ne de yasa koyucudur. Şairin dili, “düzyazı” (nesir) gibi anlaşılmak için değil, fakat duyulmak üzere var olmuş, müzik ile söz arasında, sözden çok müziğe yakın ortalama bir dildir. “Düzyazı”da biçemin (üslup) oluşması için
+zorunlu olan ögelerden hiçbiri şiir için söz konusu olamaz. Şiir ile düzyazı, bu bakımdan birbiriyle ya- kınlığı ve ilgisi olmayan, ayrı düzenlere bağlı, ayrı alanlarda, ayrı boyutlar ve biçimler üzerinde yük- selen, ayrı iki yapıdır. Düzyazının doğurucusu akıl ve mantık; şiirin ise algılama alanları dışında gizle- rin ve bilinmezlerin geceleri içine gömülmüş, yal- nız aydınlık sularının ışıkları, zaman zaman du- yuşlarımızın ufuklarına yansıyan kutsal ve adsız kaynaktır.
+ThisIsTestLineForAlgorithm
+   Şiir okumak okura ne kazandırır? Şiir okumak, ezberlemek, özellikle yaşa ve ilgiye uy- gun şiirler ezberlemek, insana ruhen ve bedenen çok faydalıdır. Şiir insanın duygularını ortaya çıkarır. Kimi zaman insanın yüzü kızarır kimi zaman da size tebessüm ettirir, içini ısıtır. Ayrıca kişinin edebî zevkini, hayal gücünü, zihnini de geliştirir.
+b. Sözlü İletişim Sürecini Uygulama
+   Beğendiğiniz şiirlerden oluşan bir şiir defteri hazırlayınız ve bu şiirleri çevrenizdeki kişilere okuyunuz.
+ÖZET
+   Şiir; muhatabında yoğun duygu ve heyecan uyandıran, ahenkli bir söyleyişe sahip, yan anlam bakımından zengin edebî metinlere denir. Bunlar, sanat değeri taşıyan man- zumelerdir. Ölçülü ve uyaklı söz dizisine nazım denir. Nazım biçiminde yazılmış eserlere “manzum eser”; kısa nazım parçalarına da “manzume” denir. Şiirler ile şairleri arasında kuvvetli bir bağ bulunduğundan şairlerin hayatları, duygularından ayırmak neredeyse imkânsızdır. Şairlerin şiirlerinde kullandıkları takma adlara mahlas denir. Şiirde şair tarafından kurgulanmış; konuşan, şairin sesini ve söyleyişini emanet ettiği “kişi/varlığa söyleyici denir.
+   Şiiri oluşturan her birim temayı destekleyen bir düşünceyi, duyguyu, hayali; olayı, durumu dile getirir. Tema; şiirdeki ana duygudur. Konu ise temanın kişi, yer ve zaman bakımından sınırlandırılmış, somutlaştırılmış hâlidir.
+   Şairler, üzerinde yaşadığı dünyada yaşanan ve hayal edilen bir gerçekliği yorumlaya- rak değiştirir, dil ile yeniden anlamlandırır ve şiirdeki edebî gerçekliği yaratır.
+   Birimlerin bir tema etrafında belli bir düzene göre bir araya gelmesiyle oluşan bü- tünlüğe şiirin yapısı denir. Şiirin yapısı nazım birimi( dize, beyit, bent, dörtlük) ve nazım biçimidir. Nazım biçiminin konusuna göre çeşidine de nazım türü denir. Şiirlerin yapısı yazıldığı dönemin sanat zevkine ve anlayışına göre değişir.
+   Şiiri diğer edebî türlerden ayıran en önemli özelliklerden biri de ahenktir. Çünkü ke- lime ve kelime grupları dil bilgisi kurallarından çok şiire özgü söyleyişle ahenk etrafında bir araya gelir. Ahenk; dizelerdeki kelimelerin birbiriyle olan uyumudur. Şiirde ahenk; ritim, ses akışı, söyleyiş, ses ve kelime tekrarları ile sağlanır. Ahenksiz şiir olmadığı ve her şiirin kendine özgü bir ahengi olduğu söylenebilir. Ritim, şiirde belirli aralıklarla ortaya çıkan etki, tesir, uyarıcı, vurgu demektir. Şiirde ritmi ölçü, uyak ve redif sağlar.
+   Dize sonlarındaki yazılışları ve okunuşları aynı, anlamları ve görevleri farklı kelimeler ve eklerdeki ses, hece benzeşmesine uyak (kafiye) denir. Redif ise dize sonlarında görev- leri aynı olan eklerin ya da anlamları aynı olan kelimelerin tekrarlanmasıdır. Günümüz şiirinde halk ve divan şiiri örneklerinde olduğu gibi sistemli bir uyak kullanılmasa da şiire serpiştirilen ve düzenli olmayan ses benzeşmeleri şiirde ahenk oluşturmak için önemlidir.

@@ -1,0 +1,421 @@
+ThisIsTestLineForAlgorithm
+ANADOLU İMAM HATİP LİSESİ
+SİYER
+Ders Kitabı
+YAZARLAR
+Fatih DİLEKÇİ
+Firdevs EFE
+Hilal ÇELİKKOL KARA
+İlknur APAK
+……………………., 2021
+MİLLİ EĞİTİM BAKANLIĞI YAYINLARI NO.........................................................................6711
+YARDIMCI VE KAYNAK KİTAPLAR DİZİSİ NO....................................................................1002
+Her hakkı saklıdır ve Milli Eğitim Bakanlığına aittir. Kitabın metin, soru ve şekilleri
+kısmen de olsa hiçbir surette alınıp yayımlanamaz.
+Editör
+Prof. Dr. Âdem APAK
+Program Geliştirme Uzmanı
+Talip AYDEMİR
+Dil Uzmanı
+Mehmet Emin SARIKAYA
+Ölçme ve Değerlendirme Uzmanı
+Turgay ÜNAL
+Rehberlik ve Psikolojik
+Danışma Uzmanı
+Kenan PINARBAŞI
+Grafik Tasarım Uzmanı
+Yahya ÖZTÜRK
+ISBN 978-975-11-4575-6
+Millî Eğitim Bakanlığı, Talim ve Terbiye Kurulunun 25.06.2018 gün ve 12254648 sayılı
+kararı ile ders kitabı olarak kabul edilmiştir.
+İSTİKLÂL MARŞI
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+Bastığın yerleri toprak diyerek geçme, tanı:
+Düşün altındaki binlerce kefensiz yatanı.
+ThisIsTestLineForAlgorithm
+Sen şehit oğlusun, incitme, yazıktır, atanı:
+Verme, dünyaları alsan da bu cennet vatanı.
+Çatma, kurban olayım, çehreni ey nazlı hilâl!
+Kahraman ırkıma bir gül! Ne bu şiddet, bu celâl?
+Sana olmaz dökülen kanlarımız sonra helâl.
+Hakkıdır Hakk’a tapan milletimin istiklâl.
+Kim bu cennet vatanın uğruna olmaz ki feda?
+Şüheda fışkıracak toprağı sıksan, şüheda!
+Cânı, cânânı, bütün varımı alsın da Huda,
+Etmesin tek vatanımdan beni dünyada cüda.
+Ben ezelden beridir hür yaşadım, hür yaşarım.
+Hangi çılgın bana zincir vuracakmış? Şaşarım!
+Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+Yırtarım dağları, enginlere sığmam, taşarım.
+Ruhumun senden İlâhî, şudur ancak emeli:
+Değmesin mabedimin göğsüne nâmahrem eli.
+Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+Garbın âfâkını sarmışsa çelik zırhlı duvar,
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Benim iman dolu göğsüm gibi serhaddim var.
+Ulusun, korkma! Nasıl böyle bir imanı boğar,
+Medeniyyet dediğin tek dişi kalmış canavar?
+O zaman vecd ile bin secde eder -varsa- taşım,
+Her cerîhamdan İlâhî, boşanıp kanlı yaşım,
+Fışkırır ruh-ı mücerret gibi yerden na’şım;
+O zaman yükselerek arşa değer belki başım.
+Arkadaş, yurduma alçakları uğratma sakın;
+Siper et gövdeni, dursun bu hayâsızca akın.
+Doğacaktır sana va’dettiği günler Hakk’ın;
+Kim bilir, belki yarın, belki yarından da yakın
+Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+Olsun artık dökülen kanlarımın hepsi helâl.
+Ebediyyen sana yok, ırkıma yok izmihlâl;
+Hakkıdır hür yaşamış bayrağımın hürriyyet;
+Hakkıdır Hakk’a tapan milletimin istiklâl!
+Mehmet Âkif Ersoy
+GENÇLİĞE HİTABE
+Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini,
+ilelebet muhafaza ve müdafaa etmektir.
+Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel, senin en
+kıymetli hazinendir. İstikbalde dahi, seni bu hazineden mahrum etmek
+isteyecek dâhilî ve hâricî bedhahların olacaktır. Bir gün, istiklâl ve
+cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için, içinde
+bulunacağın vaziyetin imkân ve şeraitini düşünmeyeceksin! Bu imkân
+ve
+şerait,
+çok namüsait bir mahiyette tezahür edebilir. İstiklâl ve
+cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş
+bir galibiyetin mümessili olabilirler. Cebren ve hile ile aziz vatanın bütün
+kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış
+ve memleketin her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şeraitten
+daha elîm ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip
+olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu
+iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle tevhit
+edebilirler. Millet, fakr u zaruret içinde harap ve bîtap düşmüş olabilir.
+Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerait içinde dahi vazifen,
+ThisIsTestLineForAlgorithm
+Türk istiklâl ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret,
+damarlarındaki asil kanda mevcuttur.
+Mustafa Kemal ATATÜRK
+MUSTAFA KEMAL ATATÜRK
+İÇ İNDEKİL ER
+İSLAMİYET ÖNCESİ ARAP YARIMADASI
+1. Ünite
+1. Peygamberimizin Hayatını
+Öğrenmenin Önemi
+ThisIsTestLineForAlgorithm
+2. Siyer İlminin Temel
+Kavramları ve Kaynakları
+3. İslamiyet Öncesi Arap
+Yarımadası’na Genel Bakış
+3.1. Dinî Hayat
+3.2. Siyasi Hayat
+3.3. Sosyal Hayat
+3.4. Kültürel Hayat
+4. İslamiyet Öncesi Hicaz
+4.1. Mekke
+4.2. Taif
+4.2. Yesrib
+Ölçme ve Değerlendirme
+15
+16
+18
+19
+21
+23
+25
+ThisIsTestLineForAlgorithm
+26
+ThisIsTestLineForAlgorithm
+27
+29
+29
+31
+HZ. PEYGAMBER’İN RİSALET ÖNCESİ HAYATI
+2. Ünite
+1. Peygamberimizin
+Soyu ve Ailesi
+2. Peygamberimizin
+Doğumu ve Çocukluğu
+3. Peygamberimizin
+Gençlik Dönemi
+4. Peygamberimizin Nübüvvet
+Öncesi Ahlaki Olgunluğu
+5. Peygamberimizin Hira’da
+Tefekkür Günleri
+Ölçme ve Değerlendirme
+37
+39
+43
+48
+49
+51
+RİSALETİN MEKKE DÖNEMİ
+3. Ünite
+1. Risalet Öncesi
+Dünyanın Dinî Durumu
+ThisIsTestLineForAlgorithm
+2. Risalet ve Peygamberimiz
+2.1. İlk Vahiy
+2.2. Gizli ve Açık Davet
+2.3. İlk Müslümanlar
+3. Mekke’de İslam Davetine Tepkiler
+3.1. Mekke’de İslam’ı Kabul
+Edenlerin Genel Özellikleri
+3.2. Müşriklerin İslam Davetine
+Karşı Çıkma Sebepleri
+3.3. Mekke Dönemi ve İşkence
+57
+58
+59
+60
+62
+64
+66
+67
+69
+7
+4. Habeşistan’a Hicret
+5. Hz. Hamza (r.a.) ve Hz. Ömer’in (r.a.)
+Müslüman Oluşları
+6. Boykot Yılları
+7. Taif Yolculuğu
+8. İsra ve Miraç
+9. Yeni Yurt Arayışı
+9.1. Yesriblilerle İlk Temas
+9.2. Akabe Biatları
+10. Yesrib’e Hicret
+10.1. Müslümanların Hicreti
+10.2. Peygamberimizin Hicreti
+10.3. Kuba’ya Varış
+Ölçme ve Değerlendirme
+71
+73
+74
+75
+77
+78
+78
+79
+80
+80
+81
+83
+84
+RİSALETİN MEDİNE DÖNEMİ
+4. Ünite
+1. Medine’de İslam
+Toplumunun Oluşumu
+1.1. Mescid-i Nebi’nin İnşası
+1.2. Ashâb-ı Suffe
+ThisIsTestLineForAlgorithm
+1.3. Muhacir-Ensar Kardeşliği
+1.4. Medine Sözleşmesi
+1.5. Namaza Davet: Ezan
+1.6. Medine Pazarının Kurulması
+1.7. Kıblenin Değişmesi
+2. Seriyye ve Gazveler
+2.1. Savaşa İzin Verilmesi
+2.2. İlk Seriyyeler
+2.3. Bedir Gazvesi
+2.4. Uhud Gazvesi
+2.5. Recî ve Bi’r-i Maune
+2.6. Hendek Gazvesi
+2.7. Hudeybiye Antlaşması
+2.8. Mekke’nin Fethi
+2.9. Huneyn Gazvesi
+3. Nifak ve Münafıklar
+4. Diğer Din Mensuplarıyla Münasebetler
+4.1. Yahudiler
+4.2. Hıristiyanlar
+5. İslam’a Davet Mektupları
+6. Heyetlerle Görüşmeler
+ThisIsTestLineForAlgorithm
+7. Veda Haccı ve Veda Hutbesi
+8. Peygamberimizin Vefatı
+Ölçme ve Değerlendirme
+Kronoloji
+Sözlük
+Kaynakça
+Cevap Anahtarı
+8
+91
+91
+92
+93
+93
+94
+95
+95
+96
+ThisIsTestLineForAlgorithm
+97
+98
+99
+100
+102
+102
+104
+107
+108
+110
+114
+114
+116
+118
+120
+121
+123
+126
+131
+136
+141
+146
+KİTABIMIZI TANIYALIM
+KAVRAMLAR
+Vahiy, davet, tebliğ, risalet, fetret, aşere-i mübeşşere, sahabi, isra, miraç, biat, hicret
+ThisIsTestLineForAlgorithm
+NELER ÖĞRENECEKSİNİZ?
+•
+Peygamberimizin risaletinden önce dünyanın dinî durumu,
+•
+Peygamberliğin insanlık tarihi açısından önemi,
+•
+Peygamberimizin İslam’a davet sürecini ve davet metodu,
+•
+ThisIsTestLineForAlgorithm
+•
+Peygamberimizin tebliğine karşı tepkileri ve nedenleri,
+Habeşistan hicretlerinin sebep ve sonuçları,
+ThisIsTestLineForAlgorithm
+•
+Hz. Hamza (r.a.) ve Hz. Ömer’in (r.a.) Müslüman olmalarının
+Müslümanların güçlenmesine katkıları,
+•
+Kureyşli müşriklerin Müslümanlara uyguladığı baskılar,
+•
+Peygamberimizin Taif yolculuğunun sebep ve sonuçları,
+•
+•
+İsra ve miraç olayının, Peygamberimiz ve Müslümanlar açısından önemi,
+Akabe biatlarının Yesrib’de İslam’ın yayılışı açısından önemi,
+•
+•
+Yesrib’e hicretin sebeplerini ve önemi,
+Peygamberimizin Kuba’daki faaliyetleri,
+•
+Hicretin sosyal, siyasi, ekonomik ve kültürel sonuçları.
+HAZIRLIK ÇALIŞMALARI
+1. İslamiyet öncesi dönemde mevcut olan dinlerden hangilerini biliyorsunuz?
+2. Cahiliye taassubu dikkate alındığında İslam davetine ne tür tepkilerin olması
+beklenir?
+3. İnsanları yurtlarını terk etmeye mecbur bırakan sebepler neler olabilir?
+4. Bir dava uğruna mücadele ederken sabır ve sebat etmenin sizce önemi nedir?
+5. Mübarek gün ve gecelerden biri olan Miraç ile ilgili neler biliyorsunuz?
+Kavramlar,
+ThisIsTestLineForAlgorithm
+Neler Öğreneceksiniz?
+Hazırlık Çalışmaları
+Ünite Kapağı,
+Ünite numarası
+ve adı
+Kitabın PDF’sine
+ulaşabileceğiniz
+karekod
+ThisIsTestLineForAlgorithm
+Konu metni
+Etkinlik kutusu
+Açıklayıcı
+bilgiler
+9
+KİTABIMIZI TANIYALIM
+Haritalar
+Etkileşimli içerik
+linkleri
+AYETLERİN IŞIĞINDA
+ARAŞTIRALIM
+EŞLEŞTİRELİM
+HADİSİN REHBERLİĞİNDE
+OKUMA PARÇASI
+SAHABENİN DİLİNDEN
+TARİHTEN BİR SAYFA
+YORUMLAYALIM
+YAZALIM
+SÖZ SİZDE
+DEĞERLENDİRELİM
+SUNUM YAPALIM
+ThisIsTestLineForAlgorithm
+Konunun daha iyi anlaşılmasına
+katkı sağlayacak ilave bilgi ve
+etkinlikler
+10
+KİTABIMIZI TANIYALIM
+Ünite Sonu Ölçme ve
+Değerlendirme Çalışmaları
+Kitap sonunda sözlük,
+kaynakça ve görsel kaynakça
+ThisIsTestLineForAlgorithm
+bölümleri bulunmaktadır.
+11
+KISALTMALAR
+a.s.
+b.
+bk.
+bnt.
+C
+c.c.
+çev.
+DİA
+Hz.
+km
+m
+MEB
+MÖ
+MS
+r.a.
+s.
+s.a.v.
+thk.
+ts.
+vb.
+12
+: Aleyhisselam
+: bin
+: bakınız
+: binti
+: cilt
+: Celle Celalühü
+: çeviren
+: Türkiye Diyanet Vakfı İslam Ansiklopedisi
+: Hazreti
+: kilometre
+: metre
+: Milli Eğitim Bakanlığı
+: Milattan önce
+: Milattan sonra
+ThisIsTestLineForAlgorithm
+: Radiyallahuanhu/anhâ
+: sayfa
+ThisIsTestLineForAlgorithm
+: Sallallahu aleyhi ve sellem
+: tahkik
+: tarihsiz
+: ve benzeri
+1. ÜNİTE
+İSLAMİYET ÖNCESİ
+ARAP YARIMADASI
+KAVRAMLAR
+Siyer, tevhid, hanif, şirk, cahiliye, bedevi, hadari, Dârünnedve, harem, muallakat, ficar.
+NELER ÖĞRENECEKSİNİZ?
+•
+İslam’ı anlamada Peygamberimizin hayatını öğrenmenin önemi,
+•
+Peygamberimizi tanımada siyer ilminin temel kaynaklarını ve kavramlarını tanımanın
+önemi,
+•
+İslamiyet öncesi Arap Yarımadası’nın coğrafi, siyasi, sosyal, kültürel, ekonomik yapısı
+ve dinî özellikleri,
+•
+Cahiliye kavramı ve cahiliye zihniyetinin genel özellikleri,
+•
+İslamiyet öncesi Hicaz’ın tarihi; dinî, sosyal ve kültürel hayatı.

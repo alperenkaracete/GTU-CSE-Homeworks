@@ -1,0 +1,424 @@
+bunların etkileşimlerini araştırır ve evrendeki düzeni keşfetmeye çalışır. İlk
+çağlardan günümüze kadar fizikteki gelişmeler, doğadaki olayları ve evrenin
+işleyişini anlamamızda büyük rol oynamaktadır. Şimdi evrendeki olayların
+anlaşılmasında fizik biliminin rolünü daha iyi kavrayabilmek için fiziğin
+tarihçesine bir göz atalım.
+Eski Yunancada “physis’’ doğa anlamına gelir. Bu nedenle tarihte doğayı
+sorgulayan filozofların bilgileri doğa felsefesi çatısı altında olgunlaşmıştır.
+Evreni anlamak için önce maddeyi anlamak gerekmektedir. M.Ö. 460370 yılları arasında yaşayan filozof Demokritos (Demokritus) da evreni
+anlayabilmek için önce maddeyi anlamaya çalışmış ve maddenin bölünemeyen
+ve “atom” adı verilen parçacıklardan oluştuğunu söylemiştir. Günümüzde de
+fizikteki gelişmeler sayesinde maddenin atomlardan daha küçük parçalardan
+oluştuğunu, atomun çekirdeğinde proton, nötron ve daha küçük parçacıklar
+olduğunu biliyoruz.
+Fizik bilim tarihinin Archimedes (Arşimet, M.Ö. 287-212) ile başladığı kabul
+edilir. Archimedes, günümüzden 26 yüzyıl önce, modern bilimsel yöntem
+anlayışına çok yakın bir anlayışla, bugün de geçerli olan mekanik ve hidrostatik
+kanunlarını bulmuştur. Fizik biliminde en büyük gelişme 17. yüzyılda olmuştur.
+İtalyan fizikçi, matematikçi, gökbilimci ve filozof Galileo Galilei ( Galileo Galilei,
+1564- 1642) mekanik ve astronomi konularında yaptığı çalışmalarla fiziğin
+10
+matematiksel ve deneysel bir nitelik kazanmasında
+büyük rol oynamıştır. Galilei, 1609 yılında yapılmış
+basit bir teleskoptan ilham alarak geliştirdiği
+teleskopla (Resim 1.2) uzay hakkında daha önce
+hiç yapılmamış gözlemler yapmıştır.
+Resim1.2 Eski bir teleskop
+Bilgimizi Artıralım:
+Galilleo, gözlemlerinde fizik alanında bir gelişme olan teleskobu kullanarak
+çizimler yapmıştır. Çizimler incelendiğinde Ay’ın yüzeyinin düz olmadığı
+girintili çıkıntılı olduğu, Güneş üzerindeki karartıların gök cisimlerinin
+gölgeleri değil, bunların Güneş yüzeyindeki lekeler olduğu anlaşılmaktadır.
+Resim1.3 Aristo
+Resim1.4 Galileo Galilei
+Galilei’nin fizik bilim tarihinde yaptığı en önemli keşiflerinden biri
+doğadaki cisimlerin düşmesi ile ilgilidir. Galilei yaptığı deneylerle
+kendisinden 9 yüzyıl önce yaşamış olan Aristo’nun (Resim 1.3)
+“ağır cisimler hafif cisimlerden daha kısa sürede yere düşer”
+görüşünün doğru olmadığını keşfetti. Pisa Kulesi'nden çeşitli
+ağırlıkta cisimleri aynı anda bırakarak yere düşme sürelerinin eşit
+olduğunu, tüy gibi maddelerin yere geç düşmesinin yüzeylerine
+uygulanan hava direncinden kaynaklandığını söyledi. Ancak
+cisimlerin yere düşme nedenlerini açıklayamadı. Aynı zamanda
+Galilei, Aristo’nun Dünya merkezli evren anlayışından da şüphe
+duymuş ve yeni bir evren anlayışı ortaya koymuştur. Copernicus
+(Kopernik, 1473- 1543) ve Kepler (1571-1630)’in evren hakkındaki
+çalışmalarından yararlanarak evrenin Güneş merkezli olduğunu
+ve Dünya’nın Güneş etrafında döndüğünü öne sürmüştür. Galilei
+bu konudaki yayınları nedeniyle engizisyon mahkemesinde
+yargılanmış ve ev hapsine mahkum edilmiştir. Bütün bunlara
+rağmen fikirlerini duyurmayı başarmıştır (Resim 1.4).
+17. yüzyılın sonunda klasik fiziğin kurucusu olarak kabul
+edilen Newton (Nivton), Galilei’nin mekanik alanda yaptığı
+çalışmalardan yararlanarak cisimlerin yere düşme nedenlerini
+açıkladı. 3. ünitede öğreneceğimiz Newton’ın Hareket Yasaları bu
+ThisIsTestLineForAlgorithm
+açıklamalar sonunda oluştu. Newton’ın çalışmaları sonucunda
+ulaştığı kütle çekim yasası sadece dünyadaki maddeler arasında
+değil evrendeki tüm maddeler için de geçerlidir. Newton’a göre
+bir elmanın ağaçtan düşmesine neden olan kuvvet, Dünya ile Ay
+ThisIsTestLineForAlgorithm
+arasındaki kuvvet ile aynıdır. Bu nedenle Newton’ın kütle çekim
+yasası evrensel çekim yasası olarak adlandırılmaktadır.
+Amber Etkisi
+ve Elektriksel
+Çekim Kuvveti
+Doğal Hareket ve Zorlanmış Hareket
+Suyun
+Kaldırma
+Kuvveti
+Dünya
+ThisIsTestLineForAlgorithm
+Merkezli
+Evren
+Optik
+Güneş
+Merkezli
+Evren
+Teleskobun
+Keşfi
+Tales
+MÖ 580
+Aristo
+MÖ 370
+Arşimet
+ThisIsTestLineForAlgorithm
+MÖ 240
+Ptolemy
+MÖ 130
+İbn_i Heysem
+1010
+Kopernik
+1543
+Galileo
+1609
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+11
+Newton’ın evrensel çekim yasası 18. yüzyılın sonuna kadar gezegenlerin
+hareketini ve doğa olaylarını başarıyla açıklamıştır. Öyle ki bazı bilim insanları
+fizik biliminde her şeyin keşfedildiğini, artık büyük buluşların yapılamayacağını
+düşünüyorlardı. Ancak 19. yüzyıla girilirken evrensel çekim yasasının bazı
+olayları açıklayamadığı görüldü. Özellikle ışık hızına yakın hızlardaki hareketi
+açıklamada Newton yasaları yetersiz kaldı. 20. yüzyılda, başta Albert Einstein
+(Albırt Aynştayn) olmak üzere birçok ünlü fizikçi ışık hızına yakın hızlarda
+hareketi tanımlayan kuramlar ortaya atarak fizik bilimine yeni bir bakış
+açısı getirmişlerdir. Yaptıkları çalışmaların sonucunda elde edilen verilerle
+günümüzde evrenin oluşumu ve yapısı ile ilgili bilgilere ulaşmak mümkün hâle
+gelmiştir (Resim 1.5).
+Günümüzde evrenin başlangıcı ile ilgili birçok teori vardır. Bunlardan en
+kabul gören teori Big Bang Teorisi’dir. Big Bang Teorisi, evrenin büyük bir
+patlama sonrası oluştuğunu ve gittikçe genişlediğini öne sürmektedir. Bilim
+insanları bu teoriden yola çıkarak parçacık hızlandırıcı laboratuvarlarında
+parçacıkları çarpıştırarak evrende maddenin nasıl oluştuğunu belirlemeye
+çalışmaktadırlar.
+Bir doğa bilimi olan fizik bilimi yıllar içinde değişebilen ve gelişebilen bilgiler
+topluluğudur. Fizik bilimi ile uğraşan bilim insanlarının çalışmaları, evren ve
+evrendeki olaylar hakkında yeni bilgiler edinmemizi sağlamaktadır. İlk çağlarda
+ThisIsTestLineForAlgorithm
+insanların doğayı anlama çabaları ile başlayan fizik biliminde bugün, en küçük
+madde parçacıklarından biri olan Higgs bozonunun kütlesini belirlemek için
+çalışmalar yapılmaktadır.
+Resim1.5
+Evrenin
+başlangıcı
+Gezegenlerin
+Hareket
+Yasaları
+Hareket
+Yasaları
+ThisIsTestLineForAlgorithm
+Elektromanyetik
+Teori
+Elektromanyetik
+Dalgalar
+Görelilik
+Teorisi
+Kuantum
+ThisIsTestLineForAlgorithm
+Mekaniği
+Higgs
+Bozonu
+Kepler
+1619
+ThisIsTestLineForAlgorithm
+Newton
+1687
+Maxwell
+1864
+Hertz
+1887
+Einstein
+1915
+Schröndinger
+1926
+Cern
+2013
+12
+2. Bölüm
+FİZİĞIN UYGULAMA ALANLARI
+Neler Öğreneceğiz?
+Fiziğin uygulama alanlarını,
+Fiziğin alt dallarını ve diğer disiplinlerle ilişkisini öğreneceğiz.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+13
+FIZIĞİN UYGULAMA ALANLARI
+Doğaya duyulan merakla başlayan fizik bilimi geliştikçe teknolojinin
+de geliştiğini gözlemlemekteyiz. Etrafımızda temel bir bilim olan fiziğin
+uygulama alanlarından yararlanılarak yapılmış birçok alet vardır. Evlerimizde
+ThisIsTestLineForAlgorithm
+kullandığımız elektrikli aletler ve makinalar, bilgisayarlar, telefonlar, internet ilk
+aklımıza gelenlerdendir.
+Resim1.6
+Uzay mekiği
+Resim1.7
+Drone (insansız hava aracı)
+Resim1.8
+Bilgisayar ve akıllı telefon
+Elektronik, haberleşme, tıp, uzay çalışmaları (Resim 1.6), savunma
+ThisIsTestLineForAlgorithm
+sanayi (Resim 1.7) gibi alanlardaki gelişmeler fizikteki gelişmelere paralel
+olarak devam etmektedir. İnsansız hava araçları, kablosuz ağlar (Resim
+1.8), yanmayan ve ıslanmayan kumaşlar bu gelişmelerden bazılarıdır. Fizik
+biliminin alt dallarını uygulama alanları ile birlikte inceleyelim.
+Fiziğin Alt Dalları
+ThisIsTestLineForAlgorithm
+Fizik bilimi neredeyse hayatımızın her alanında geniş bir yere sahiptir.
+Bilim insanlarının elde ettikleri bilgiler arttıkça kavramlar gelişmiş, bazı bilgiler
+ise değişmiştir. Bu artan bilgileri kaydederek sonraki nesillere aktarmak, daha
+sistemli bir çalışma yapabilmek için fiziğin alt dalları oluşmuştur. Fizik bilimi;
+kuvvet, hareket, enerji, madde, ses, ışık, elektrik, Güneş Sistemi vb. konularla
+ilgilenir. Evrende gezegenlerden atom altı parçacıklara çok geniş bir alanı
+kapsayan fizik bilimi mekanik, termodinamik, elektromanyetizma, optik,
+katıhal fiziği, atom fiziği, nükleer fizik, yüksek enerji ve plazma fiziği olarak alt
+dallara ayrılır. Şimdi bu alt dalları sırasıyla inceleyelim.
+Mekanik:
+Cisimlerin nasıl hareket ettiklerini, kuvvet ve hareket
+arasındaki ilişkiyi inceler.
+Makaraların, vinçlerin (Resim 1.9), makinaların, arabaların
+çalışmasından depreme karşı dayanıklı binaların yapılmasına
+kadar birçok alan mekanikle ilgilidir.
+Elektromanyetizma:
+ThisIsTestLineForAlgorithm
+Atomun yapısındaki proton ve elektronların sahip oldukları
+elektrik yükleri ve etkileşimleri, oluşturdukları elektrik alan ve
+ThisIsTestLineForAlgorithm
+elektriksel kuvveti inceler.
+Pilin icat edilmesi ve elektrik akımının incelenmesiyle
+telgraf, telefon, akümülatör, ampül, dinamo gibi birçok icat art
+arda gelmiştir. Günümüzde ise elektrik ve mekanik alanındaki
+gelişmeler sayesinde fosil yakıt kullanan otomobillerin yerini
+artık elektrikli arabalar almaktadır (Resim 1.10).
+Resim1.9 Vinç
+Resim1.10
+Elektirikle şarj edilen araba
+14
+Dünyanın manyetik alanını, manyetik maddeleri ve akım
+geçen telin etrafında oluşan manyetik alanı inceler. Manyetizma
+ve elektrikteki gelişmelerin bir sonucu olarak Manyetik raylı
+trenler (maglev) (Resim 1.11) yapılmıştır.
+Resim1.11
+Maglev (Manyetik raylı tren)
+ThisIsTestLineForAlgorithm
+Termodinamik:
+Isının madde içinde nasıl yayıldığını ve iletimini inceler. Evlerimizde
+kullandığımız buzdolabı, kombi, klima, fiziğin, termodinamik alt dalındaki
+çalışmaların ürünüdür.
+Optik:
+Işık olaylarını ve ışığın davranışlarını inceler.
+Resim1.12 Radyoteleskop
+Resim1.13 Mikrodalga fırın
+Resim1.14 Laser
+Röntgen, radar, radyo teleskop (Resim 1.12), mikrodalga fırın (Resim 1.13)
+gibi cihazlar fizikte dalgalar ve optik alanındaki çalışmalarla geliştirilmiştir.
+Optik ve dalgalardaki gelişmeler gökyüzü gözlemlerini ve uzay çalışmalarını
+başlatmıştır ve bu çalışmalar fiziğe paralel olarak gelişmeye devam
+etmektedir. Yine optikteki ve atom fiziğindeki gelişmeler sonucu bulunan
+laser (Resim 1.14) tıpta ameliyatlarda kullanılmaktadır.
+Katıhâl Fiziği:
+Yoğun haldeki maddelerin elektriksel, manyetik, optik ve esneklik gibi
+özelliklerini inceler. Yarı iletkenler üzerindeki çalışmalar transistör, diyot,
+led, mikroçipler dibi devre elemanları katıhal fiziğinin çalışma alanına girer.
+Bilgisayar teknolojisinde bilgi kaydedici ortamlar, şarj edilebilir piller katıhal
+fiziğinin bir ürünüdür.
+Atom Fiziği:
+Atomu ve atomu oluşturan parçacıkların birbiriyle olan etkileşimini inceler.
+Atom fiziği alanında yapılan çalışmalar sayesinde nano teknoloji alanında
+büyük gelişmeler olmuş ıslanmayan kumaşlar, su tutmayan camlar, kendini
+temizleyen boyalar, laser yazıcılar yapılmıştır.
+Resim1.15 Nükleer santral
+Nükleer Fizik:
+Atomun çekirdeğini ve çekirdekteki taneciklerin birbirleriyle
+olan etkileşimlerini, kararsız çekirdeklerin yaptıkları ışımaları
+inceler.
+Çekirdek bozunmaları sırasında açığa çıkan enerji, nükleer
+santrallerde (Resim 1.15) kontrol altına alınarak birçok ülke
+tarafından enerji üretiminde kullanılmaktadır. Ülkemizde de
+Mersin Akkuyu’da nükleer santral kurma çalışmaları devam
+etmektedir.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+ThisIsTestLineForAlgorithm
+Yüksek Enerji ve Plazma Fiziği:
+Yüksek enerjili parçacıkların hızlandırıcılarda
+çarpıştırılmasıyla
+ortaya
+çıkan
+parçacıkları,
+birbirleriyle olan etkileşimlerini ve maddenin 4. hali
+olan plazmayı (Resim 1.16) inceler.
+Dünyanın en önemli yüksek enerji ve parçacık
+fiziği laboratuvarı olan CERN (Avrupa Nükleer
+Araştırma Merkezi) yüksek hızlara ulaştırılan
+parçacıkların
+çarpıştırıldığı
+ThisIsTestLineForAlgorithm
+ve
+sonuçların
+gözlemlenerek çeşitli araştırmaların yapıldığı bir bilim
+merkezidir. Floresan lambalar, plazma televizyonlar,
+meteryal işleme, elektronik çip üretimi, silah
+teknolojileri, atık ve baca gazlarını arıtma, kanser ve
+ThisIsTestLineForAlgorithm
+diş tedavisi gibi birçok alanda yüksek enerji ve
+ThisIsTestLineForAlgorithm
+plazma fiziği kullanılmaktadır.
+Resim1.16 Plazma topu
+Fizik biliminin alt alanlarını ve uygulama alanlarını öğrendik. Bu alanlarda
+yer alan birçok meslek vardır. Elektrik, elektronik, elektronik haberleşme,
+bilgisayar, makine, mekatronik, inşaat, otomotiv, uçak ve malzeme
+mühendislikleri gibi meslekler fizik bilimini temel almaktadır. Pilotluk ve
+astronotluk özel koşullar gerekmekle birlikte fizik alanında başarılı olmayı
+gerektiren mesleklerdir.
+Fiziğin Diğer Disiplinlerle İlişkisi
+Doğa bilimi olan fiziğin felsefe, biyoloji, kimya, teknoloji, mühendislik,
+sanat, spor ve matematik gibi birçok alanla ilişkisi vardır. Fizik felsefi köklerini
+antik Yunan felsefesinden almaktadır. Thales (Tales), maddeyi ilk karakterize
+eden felsefecidir. Demokritus ise maddeyi bölünemez en küçük parçaya
+indirgemesiyle ilk atom fikrini ortaya atmıştır. Ünitemizin “Fiziğin Evrendeki
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Rolü” konusunda fiziğin tarihsel gelişiminden söz ederken bu görüşlere yer
+vermiştik. İlk çağlarda filozoflar doğayı sorgulamışlardır. Filozofların doğa
+felsefesi adı altında toplanan görüşleri bugünkü fiziğin başlangıcı
+sayılmaktadır. Fizik 19. yüzyılda felsefeden ve diğer bilimlerden ayrılmıştır.
+Günümüzde felsefenin fizik felsefesi adı altında modern fiziğin temelinde yer
+alan sorunları inceleyen bir alt alanı vardır.
+Resim1.18 Ağaçlar
+Resim1.17 Göz kesiti
+15
+16
+•
+Fizik bilimi, kimya bilimi ile oldukça yakından ilgilidir. Örneğin; kimyada
+metal ve ametaller arasında iyonik bağ, fiziğin bir konusu olan elektriksel
+kuvvet ile açıklanır. Ayrıca fizik ve kimyada termodinamik, atom, radyoaktivite
+gibi konular, ortak konulardır.
+•
+Canlıları inceleyen bilim dalı olan biyolojide de fizik kanunlarının
+büyük rolü vardır. Gözümüze gelen ışınların, göz merceği tarafından kırılarak
+görüntünün oluşması, fiziğin bir alt alanı olan optik ile açıklanır (Resim 1.17).
+Kalbimizin kanı pompalaması basınç kavramıyla, bitkilerin suyu köklerden
+yapraklara kadar (Resim 1.18) iletmesi basınç ve kılcallık olaylarıyla ilgilidir.
+Kulağımızın sesleri duyması, midede gerçekleşen fiziksel sindirim, gibi birçok
+olay da fizik kanunlarıyla açıklanır.
+•
+Bir fizik yasasından yararlanarak doğrudan günlük hayata çözüm
+üretmek mühendislik, tıp, teknoloji gibi alanların işidir. Fiziğin uygulama alanları
+oldukça geniştir. Fizikteki gelişmeler inşaat, elektronik, haberleşme, nano
+teknoloji, uzay ve havacılık gibi birçok mühendislik alanlarında ve teknolojide
+gelişmelere yol açmıştır. Fizikteki araştırmalar ve gelişmeler teknolojinin
+gelişmesini, teknolojinin gelişmesi ise araştırma imkânlarını artırarak birçok
+ThisIsTestLineForAlgorithm
+alanda yeni buluşlara imkân sağlar. Sonuç olarak fizikte ve teknolojideki
+gelişmeler sürekli birbirini desteklemektedir.
+Fizikte, özellikle hızlandırıcı fiziğindeki gelişmeler, tıpta teşhis ve tedavi
+yöntemlerini geliştirmiştir. Röntgen (Resim 1.19), bilgisayarlı tomografi (BT),
+manyetik rezonans (MR), pozitron emisyon tomografisi(PET) (Resim 1.20)
+gibi görüntüleme yöntemlerini bunlara örnek verebiliriz.
+Resim1.19 Röntgen
+Resim1.20 Bilgisayarlı tomografi
+Resim1.21 Fiber optik kablolar
+Hadron çarpıştırıcılardaki teknoloji artık kanser hastalığında hadron
+terapisi adı verilen tedavide kullanılmaktadır. Hadron terapinin diğerlerinden
+farkı, kanserli hücreye odaklanabilmesi ve yok edebilmesidir.
+Optikteki gelişmeler, fiber optik kablolarla (Resim 1.21) ışık sayesinde
+verilerin taşınması gibi bir teknolojiye ulaşmamızı sağlamıştır.
+Cenevre’de yer alan CERN’de (Avrupa Nükleer Araştırma Merkezi)
+fizikçilerin kendi aralarında haberleşmek için oluşturdukları ağ bugün
+internette kullandığımız www (world wide web) kurumlar arası bilgi paylaşımını
+sağlamaktadır.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+Resim1.22 Bilgisayarlar
+Kullandığımız telefonlar, bilgisayarlar (Resim
+1.22), televizyonlar, otomobiller ve hızlı trenler,
+hayatımızı ve mesleklerimizi kolaylaştıran birçok
+alet ve araç, fizikteki gelişmeler sayesinde
+yapılmıştır. Uzay araştırmaları sırasında yapılan
+buluşlar da şu an hayatımızın içindedir; uydular
+(Resim 1.23), kablosuz ağlarla iletişim, navigasyon,
+kablosuz aletler, kumandalar, telefon, kulak
+termometresi,
+vakum
+aletleri
+vb.
+ThisIsTestLineForAlgorithm
+bunun
+Resim1.23 Uydu
+örneklerindendir.
+•
+Fiziğin matematikle olan ilişkisi oldukça önemlidir. Çünkü matematik
+fiziğin dilidir. Fizik yasaları matematiksel modellerle ifade edilir. Teoriler
+matematiksel olarak ispat edilmesi gerekir.
+•
+ThisIsTestLineForAlgorithm
+Fizik sanatla da ilgilidir. İlk çağlarda yapılan antik tiyatroların yapısı sesin
+dağılımı için uygun şekilde tasarlanmıştır. Müzik aletlerinin titreşimler sonucu
+çıkardığı sesler, sesin oluşumu, ses dalgalarının yayılması, hızı ve frekansı
+fiziğin araştırma alanına giren konulardır. Fizik sanat arasındaki ilişki yalnızca
+müzikle sınırlı değildir. Fizikteki birçok gelişme sanatçıları etkilemiş ve yeni
+sanatlara yer açmıştır. Fotoğrafın icadından sonra sinemanın gelişmesi gibi
+birçok örnek verebiliriz.
+•
+Fizik her alanda olduğu gibi sporun da içindedir. Çünkü spor, kuvvet,
+sürat ve gücün önemli olduğu bir alandır. Spor yapılan zeminin, giyilen
+ayakkabının veya kıyafetin yapısı sürati etkileyen faktörlerdir. Bir topun ne
+kadar uzağa gideceği vuruş açısına ve ona verilen ilk hıza bağlıdır. Tenisten
+cirite yüzmeden uzun atlamaya, koşu, dağcılık, kayak gibi birçok sporda fizik
+bilimi teknik anlamda spora katkı sağlamaktadır.
+17
+18
+3. Bölüm
+FİZİKSEL NİCELİKLERİN
+SINIFLANDIRILMASI
+Neler Öğreneceğiz?
+Fiziksel nicelikleri sınıflandırmayı öğreneceğiz.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+FIZIKSEL NICELIKLERIN SINIFLANDIRILMASI
+Fizik deneye ve gözleme dayalı bir bilimdir. Deney sonuçları genellikle
+sayısal olarak ifade edilir. Maddenin ölçülebilen sayısal değerleri fiziksel
+nicelik olarak adlandırılır. Ölçüm sonucu elde edilen büyüklükler standart
+büyüklüklerle karşılaştırılır. Bilimsel çalışmalarda nicelik birimlerinde birliği
+sağlamak amacıyla Uluslararası Birim Sistemi (SI) oluşturulmuştur. Fiziksel
+nicelikler temel-türetilmiş ve skaler-vektörel olarak sınıflandırılır.
+Temel ve Türetilmiş Büyüklükler
+Uzunluk temel bir büyüklüktür ve birimi metredir. Uluslararası Birim
+Sistemi tarafından ışığın boşlukta 1/3 ×10 ̄⁸saniyede aldığı yol 1 metre olarak
+ThisIsTestLineForAlgorithm
+tanımlanmıştır.
+Aşağıdaki tabloda temel büyüklükler, birimleri, kısaltmaları ve ölçme
+araçları belirtilmiştir. Tek başına anlam ifade edebilen büyüklüklere temel
+büyüklükler denir. Fizikte 7 adet temel büyüklük (Tablo 1.1) vardır.
+Temel
+Büyüklükler
+Uluslararası
+Birim
+Sistemindeki
+Birimi
+Birimin Sembolü
+Ölçme Aracı
+Uzunluk
+Metre
+m
+Metre
+Kütle
+Kilogram
+kg
+Eşit kollu terazi

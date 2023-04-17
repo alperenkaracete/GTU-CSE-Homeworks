@@ -1,0 +1,420 @@
+ORTAÖĞRETİM
+SAĞLIK BİLGİSİ
+VE
+TRAFİK KÜLTÜRÜ
+9
+DERS KİTABI
+Yazarlar
+Gülgün GÜLEÇ
+Burcu ALPER
+ThisIsTestLineForAlgorithm
+Edir CAN
+Fatih DEMİRHAN
+Mürüvvet YILMAZ
+Yeliz GÜNDOĞDU KALIN
+DEVLET KİTAPLARI
+……………………., 2021
+MİLLÎ EĞİTİM BAKANLIĞI YAYINLARI ............................................................................: 6775
+DERS KİTAPLARI DİZİSİ ..................................................................................................: 1796
+Her hakkı saklıdır ve Millî Eğitim Bakanlığına aittir. Kitabın metin, soru ve şekilleri
+kısmen de olsa hiçbir surette alınıp yayımlanamaz.
+HAZIRLAYANLAR
+EDİTÖR
+Prof. Dr. Fevzi YILMAZ
+Serhat TURAN
+DİL UZMANI
+Emine SERDAR
+Züleyha TÜRKERİ BALTACI
+PROGRAM GELİŞTİRME UZMANI
+Doç. Dr. Hasan Hüseyin SAHAN
+Zekiye KEMANCI
+ÖLÇME VE DEĞERLENDİRME UZMANI
+Doç. Dr. Erdoğan TEZCİ
+Yard. Doç. Dr. Serkan ARIKAN
+REHBERLİK VE GELİŞİM UZMANI
+Canan DURSUN
+İlyas TİPİ
+GÖRSEL TASARIM UZMANI
+Hacer ÖZÇELİK
+Mehmet ZEBER
+Rıknedin BALIK
+ISBN 978-975-11-4679-3
+Millî Eğitim Bakanlığı, Talim ve Terbiye Kurulunun 28.05.2018 gün ve 78 sayılı kararı
+ile ders kitabı olarak kabul edilmiştir.
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+Bastığın yerleri toprak diyerek geçme, tanı:
+Düşün altındaki binlerce kefensiz yatanı.
+Sen şehit oğlusun, incitme, yazıktır, atanı:
+Verme, dünyaları alsan da bu cennet vatanı.
+Çatma, kurban olayım, çehreni ey nazlı hilâl!
+Kahraman ırkıma bir gül! Ne bu şiddet, bu celâl?
+ThisIsTestLineForAlgorithm
+Sana olmaz dökülen kanlarımız sonra helâl.
+ThisIsTestLineForAlgorithm
+Hakkıdır Hakk’a tapan milletimin istiklâl.
+Kim bu cennet vatanın uğruna olmaz ki feda?
+Şüheda fışkıracak toprağı sıksan, şüheda!
+Cânı, cânânı, bütün varımı alsın da Huda,
+Etmesin tek vatanımdan beni dünyada cüda.
+Ben ezelden beridir hür yaşadım, hür yaşarım.
+Hangi çılgın bana zincir vuracakmış? Şaşarım!
+Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+Yırtarım dağları, enginlere sığmam, taşarım.
+Ruhumun senden İlâhî, şudur ancak emeli:
+Değmesin mabedimin göğsüne nâmahrem eli.
+Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+Garbın âfâkını sarmışsa çelik zırhlı duvar,
+Benim iman dolu göğsüm gibi serhaddim var.
+Ulusun, korkma! Nasıl böyle bir imanı boğar,
+Medeniyyet dediğin tek dişi kalmış canavar?
+ThisIsTestLineForAlgorithm
+O zaman vecd ile bin secde eder -varsa- taşım,
+Her cerîhamdan İlâhî, boşanıp kanlı yaşım,
+Fışkırır ruh-ı mücerret gibi yerden na’şım;
+O zaman yükselerek arşa değer belki başım.
+Arkadaş, yurduma alçakları uğratma sakın;
+Siper et gövdeni, dursun bu hayâsızca akın.
+Doğacaktır sana va’dettiği günler Hakk’ın;
+Kim bilir, belki yarın, belki yarından da yakın
+Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+Olsun artık dökülen kanlarımın hepsi helâl.
+Ebediyyen sana yok, ırkıma yok izmihlâl;
+Hakkıdır hür yaşamış bayrağımın hürriyyet;
+Hakkıdır Hakk’a tapan milletimin istiklâl!
+Mehmet Âkif Ersoy
+GENÇLİĞE HİTABE
+Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini,
+ilelebet muhafaza ve müdafaa etmektir.
+Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel, senin en
+kıymetli hazinendir. İstikbalde dahi, seni bu hazineden mahrum etmek isteyecek
+dâhilî ve hâricî bedhahların olacaktır. Bir gün, istiklâl ve cumhuriyeti müdafaa
+ThisIsTestLineForAlgorithm
+mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin
+imkân ve şeraitini düşünmeyeceksin! Bu imkân ve şerait, çok namüsait bir
+mahiyette tezahür edebilir. İstiklâl ve cumhuriyetine kastedecek düşmanlar,
+bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler. Cebren
+ve hile ile aziz vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş,
+bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir.
+Bütün bu şeraitten daha elîm ve daha vahim olmak üzere, memleketin dâhilinde
+iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler.
+Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle
+tevhit edebilirler. Millet, fakr u zaruret içinde harap ve bîtap düşmüş olabilir.
+Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerait içinde dahi
+vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret,
+damarlarındaki asil kanda mevcuttur.
+Mustafa Kemal Atatürk
+ThisIsTestLineForAlgorithm
+MUSTAFA KEMAL ATATÜRK
+İÇİNDEKİLER
+KİTABIMIZI TANIYALIM
+1. ÜNİTE
+10
+SAĞLIK BİLGİSİ
+1.1. KİŞİSEL VE TOPLUMSAL SAĞLIK
+14
+1.1.1. SAĞLIK KAVRAMI, ÇEVRESEL ETMENLER, SAĞLIK HİZMETLERİNDEN YARARLANMA YOLLARI,
+14
+ThisIsTestLineForAlgorithm
+HASTA HAKLARI VE AKILCI İLAÇ KULLANIMI
+1.1.1.1. Sağlık Kavramı
+15
+ThisIsTestLineForAlgorithm
+1.1.1.2. Çevresel Etmenlerin Kişi ve Toplum Sağlığına Etkileri
+17
+ThisIsTestLineForAlgorithm
+1.1.1.3. Sağlık Hizmetlerinden Yararlanma Yolları
+20
+1.1.1.4. Hasta Hakları ve Sorumlulukları
+24
+1.1.1.5. Akılcı İlaç Kullanımı
+25
+1.1.2. HİJYEN, AĞIZ VE DİŞ SAĞLIĞI, BULAŞICI HASTALIKLARDAN KORUNMA
+28
+1.1.2.1. Sağlıklı Yaşam İçin Hijyenin Önemi
+29
+1.1.2.2. Ağız ve Diş Sağlığının Korunması
+34
+1.1.2.3. Bulaşıcı Hastalıklardan Korunma Yolları
+36
+1.2 ERGENLİK
+43
+43
+1.2.1. ERGENLİK DÖNEMİ
+1.2.2.1. Ergenlik Döneminde Fiziksel, Duygusal ve Sosyal Değişimler
+1.3. BESLENME VE FİZİKSEL AKTİVİTE
+44
+46
+1.3.1. FİZİKSEL AKTİVİTE, YETERLİ VE DENGELİ BESLENME, OBEZİTE
+46
+1.3.1.1. Fiziksel Aktivitenin Sağlığın Geliştirilmesi Üzerindeki Etkileri
+47
+1.3.1.2. Yeterli ve Dengeli Beslenmenin Önemi
+50
+1.3.1.3. Obezite
+53
+1.4. ZİHİNSEL, DUYGUSAL VE SOSYAL SAĞLIK
+57
+1.4.1. ZİHİNSEL, DUYGUSAL VE SOSYAL SAĞLIK, STRES KAYNAKLARI, STRESLE BAŞA ÇIKMA
+57
+YOLLARI VE ŞİDDET
+1.4.1.1. Sağlıklı Bir Yaşam İçin Zihinsel, Duygusal ve Sosyal Sağlığın Ergen Bireyler
+58
+ThisIsTestLineForAlgorithm
+Açısından Önemi
+1.4.1.2. Stres Kaynakları
+59
+1.4.1.3. Stres ile Başa Çıkma Yolları
+60
+1.4.1.4. Şiddetin Birey Üzerindeki Etkileri
+64
+1.5. SAĞLIĞA ZARARLI ALIŞKANLIKLAR VE MADDE KULLANIMI
+1.5.1. TÜTÜN ÜRÜNLERİ, ALKOL, MADDE VE TEKNOLOJİ BAĞIMLILIĞININ SONUÇLARI
+67
+67
+1.5.1.1. Tütün Ürünleri, Alkol ve Madde Kullanımının Sonuçları
+68
+1.5.1.2 Bağımlılık Yapıcı Maddelerden Korunma
+71
+1.5.1.3 Teknoloji Bağımlılığı
+72
+7
+ThisIsTestLineForAlgorithm
+1.6. İLK YARDIMLA İLGİLİ TEMEL BİLGİLER
+75
+1.6.1. İLK YARDIMIN ÖNEMİ, AMAÇLARI VE TEMEL UYGULAMALARI,
+GÜVENLİ İLK YARDIM UYGULAMASI
+75
+1.6.1.1. İlk Yardımın Önemi
+76
+1.6.1.2. İlk Yardımın Amaçları ve Temel Uygulamaları
+79
+1.6.1.3. Güvenli İlk Yardım Uygulaması İçin Alınması Gereken Önlemler
+82
+1.6.2. HASTA/YARALININ DURUMUNUN DEĞERLENDİRİLMESİ, SOLUNUM YOLU TIKANIKLIĞI,
+KANAMALAR VE ŞOKTA İLK YARDIM
+85
+86
+1.6.2.2. Solunum Yolu Tıkanmalarında İlk Yardım
+89
+1.6.2.3. Kanamalarda Yapılacak İlk Yardım
+90
+1.6.2.4. Şok Durumunda Yapılması Gereken İlk Yardım
+92
+1.6.2.5. Zehirlenmelerde İlk Yardım
+94
+1. ÜNİTE ÖLÇME DEĞERLENDİRME
+98
+2. ÜNİTE TRAFİK KÜLTÜRÜ
+1.6.2.1. Hasta/Yaralının Durumunun Değerlendirilmesi
+2.
+ÜNİTE
+TRAFİK KÜLTÜRÜ
+91
+2.ÜNİTE
+TRAFİK KÜLTÜRÜ
+2.1. TRAFİK ADABI
+ThisIsTestLineForAlgorithm
+104
+2.1.1. TRAFİKTE SERGİLENMESİ GEREKEN TUTUM VE DAVRANIŞLAR
+2.1.2. TRAFİKTE ETKİLİ İLETİŞİM
+2.2. TRAFİK KURALLARI
+2.2.1. TOPLU TAŞIMA ARAÇLARINDA VE OKUL SERVİSLERİNDE UYULMASI GEREKEN KURALLAR
+2.2.1.1. Toplu Taşıma Araçlarında Uyulması Gereken Kurallar
+2.2.1.2. Okul Servislerinde Uyulması Gereken Kurallar
+2.2.2. TRAFİK İŞARETLERİ VE İŞARET LEVHALARI
+2.2.2.1. Işıklı İşaret Cihazları
+2.2.2.2. Trafik İşaret Levhaları
+2.2.2.3. Yol Çizgileri
+2.2.2.4. Trafik İşaret Levhalarını Korumanın Önemi
+2.2.3. KARA YOLLARINDA UYULMASI GEREKEN KURALLAR
+2.2.3.1. Kara Yolunda Şerit Takip Kuralları
+2.2.3.2. Trafik İşaret ve Görevlilerine Uyma Mecburiyeti ile Bunlarda Öncelik Sırası
+2.2.3.3. Hız Sınırları
+2.2.3.4. Geçitlerde Uyulması Gereken Kurallar
+2.2.4. TRAFİKTE İLK GEÇİŞ HAKKI VE GEÇİŞ ÜSTÜNLÜĞÜ
+2.2.4.1. Geçiş Hakkı
+2.2.4.2. Geçiş Üstünlüğü
+8
+105
+107
+110
+110
+111
+113
+116
+117
+119
+130
+132
+133
+134
+137
+138
+140
+142
+143
+144
+2.3. TRAFİK GÜVENLİĞİ
+2.3.1. TRAFİK EĞİTİMİ
+2.3.1.1. Trafik Eğitiminin Önemi
+2.3.1.2. Sürücü Kursları
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+2.3.1.3. Sürücü Belgeleri
+2.3.1.4. Trafik Sigortasının Önemi
+2.3.2. GÜVENLİ YOLCULUK
+2.3.2.1. Güvenli Yolculukta Alınması Gereken Önlemler
+2.3.2.2. Raylı sistemlerde Güvenli Yolculuk
+2.3.2.3. Deniz Yolu Araçlarında Güvenli Yolculuk
+2.3.2.4. Hava Yolu Araçlarında Güvenli Yolculuk
+2.3.2.5. Trafikte Bisiklet ve Motosikletin Güvenli Kullanımı
+2.3.2.6. Trafikte Aydınlatmanın Yetersiz Olduğu ve Hava Koşullarının Fark Edilmeyi Güçleştirdiği
+ThisIsTestLineForAlgorithm
+Durumlarda Alınacak Önlemler
+ThisIsTestLineForAlgorithm
+2.4. TRAFİK KAZALARI
+2.4.1. TRAFİK KAZALARININ NEDENLERİ
+2.4.1.1. İnsan, Araç, Yol, Çevre ve İklim
+2.4.1.2. Yorgun, Dikkatsiz ve Uykusuzken Araç Kullanımı
+2.4.1.3. Kural İhlalleri
+2.4.1.4. Alkol, Uyuşturucu veya Uyarıcı Madde Kullanımı
+2.4.2. TRAFİK KAZALARININ SONUÇLARI
+2.5. TRAFİK VE ÇEVRE
+2.5.1. TRAFİĞİN ÇEVRE ÜZERİNDEKİ OLUMSUZ ETKİLERİ VE BU KONUDA ALINACAK ÖNLEMLER
+2.5.2. TOPLU TAŞIMA ARAÇLARININ KULLANILMASININ ÖNEMİ
+2.5.3. BİSİKLET KULLANIMI
+2. ÜNİTE ÖLÇME VE DEĞERLENDİRME
+PROJE
+PROJE
+PROJE DEĞERLENDİRME FORMU
+CEVAP ANAHTARLARI
+SÖZLÜK
+KAYNAKÇA
+9
+148
+148
+149
+151
+153
+156
+157
+158
+162
+163
+163
+164
+166
+167
+167
+168
+170
+171
+172
+ThisIsTestLineForAlgorithm
+174
+176
+177
+179
+180
+183
+189
+190
+191
+192
+197
+201
+Ünite numaralarını gösterir.
+Ünite adlarını gösterir.
+Karekod okuyucu ile taratarak resim,
+video, animasyon, soru ve çözümleri
+vb. ilave kaynaklara ulaşabileceğiniz
+ThisIsTestLineForAlgorithm
+barkod.
+10
+Üst başlıkları gösterir.
+Ana başlıkları gösterir.
+O konuda öğrenilecekleri
+gösterir.
+ThisIsTestLineForAlgorithm
+Konuya hazırlık soru ve
+görsellerinin bulunduğu
+bölümleri gösterir.
+Ünite numaralarını gösterir.
+Konu ile ilgili
+etkinliklerin olduğu
+bölümleri gösterir.
+Konu ile ilgili ilginç
+bilgilerin verildiği
+bölümleri gösterir.
+Konu ile ilgili ölçme
+ve değerlendirme
+bölümlerini gösterir.
+Konu ile ilgili çarpıcı söz
+ve afişlerin yer aldığı
+bölümleri gösterir.
+11
+Ünite sonu sorularını kapsayan
+bölümleri gösterir.
+2. ÜNİTE TRAFİK KÜLTÜRÜ
+Konu ile ilgili metinlerin yer aldığı bölümleri gösterir.
+Görsel 2.6
+Her vatandaşın toplu taşıma araçlarını rahatça kullanabilmesi
+Çocuklu, yaşlı, engelli, gazi ve hamile
+vatandaşların trafikte güvenle yer almaları bütün
+insanların duyarlılığı ile doğru orantılıdır. Özellikle
+toplu taşıma araçlarında bu bireylerin rahat yolculuk yapmaları herkesin sorumluluğundadır (Görsel
+ThisIsTestLineForAlgorithm
+2.6). Çocuklu, yaşlı, engelli, gazi ve hamile bireylere toplu taşıma araçlarına binerken öncelik
+sağlanmalı, seyir hâlindeyken oturacak yer verilmelidir. Bu bireyler araçtan inerken ve araca binerken bu kişilerin yüklerine yardımcı olunmalıdır.
+Yaya kaldırımlarında engelliler için düzenlenen
+bölümler, araç sürücüleri tarafından işgal edilmemelidir. Bu bireyler karşıdan karşıya geçerken
+sürücülerin ve yayaların güler yüzlü, yardımsever
+ve daha duyarlı davranmaları gerekmektedir.
+Konunun işlenişi sırasında ilgili görsellerin
+numaralarını gösterir.
+Sıra Sizde
+• İnsanların toplu taşıma araçlarını daha fazla tercih etmelerini sağlamak böylece toplu taşıma araçlarının kullanımını yaygınlaştırmak amacıyla bir broşür hazırlayınız. Hazırladığınız broşürünüzü sınıfınızda tanıtınız.
+• Aşağıda yer alan çözüm önerilerinden hareketle engelli vatandaşların trafikte karşılaştığı sorunları
+aşmak amacıyla siz de bir proje geliştiriniz.
+102
+Kahramanmaraş’ın Elbistan ilçesinde yaşayan görme engellilerin karşıdan karşıya geçmelerini kolaylaştırmak amacıyla trafik lambalarının bulunduğu bölümlere sesli sinyalizasyon sistemi kuruldu.
+Kütahya Belediyesi, toplu taşımada engelli ve yaşlı vatandaşlara hizmet verecek iki özel otobüsü kentte
+hizmete sundu.
+Ankara’da görme engelli bireylere destek olmak üzere Hacettepe Teknokentte akıllı otobüs durakları
+projesi hazırlandı. Bu proje ile telefona yüklenecek bir yazılımla görme engelli bir vatandaş; gitmek istediği
+durağın yerini, gelen otobüsün numarasını ve güzergâhını bu uygulamadan öğrenebilecek. Durak ile toplu
+taşıma aracı arasındaki iletişim, elektronik etiketleme sistemi teknolojisi ile sağlanacak ve şoföre durakta bir
+engelli yolcu olduğu bildirilecek.
+• Toplu taşıma araçlarında gözlemlediğiniz görgü kurallarına aykırı, başkalarını rahatsız edecek bir
+dizi söz ve davranışa rastlamış; bunları yazılı, görsel ve dijital medya kaynaklarından okuyup izlemişsinizdir. Bu davranışları önlemek için siz de orijinal, uygulanabilir fikirler üretiniz. Bu fikirlerinizden hareketle bir kompozisyon yazınız. Daha sonra bu çalışmalarınızı akran değerlendirmesi için
+arkadaşlarınızla paylaşınız ve herkes bir diğer arkadaşının kompozisyonunu okuyup 187. sayfadaki
+akran değerlendirme formuna göre değerlendirsin.
+Konu ile ilgili çarpıcı söz
+ve afişlerin yer aldığı bölümleri gösterir.
+En iyi şoför; yalnızca sürücü belgesi
+ve gerekli evrakları olan değil, trafik
+İlgilenelim Bilgilenelim
+İlk Trafik Lambası
+Trafik lambası, 7 metre yüksekliğindeki demir kolonlar
+üzerinde ilk olarak Londra’nın parlamento alanına yerleştirilmiştir. 10 Aralık 1868 günü hizmete giren bu ilk trafik lambası,
+parlamenterlerin parlamento binasına daha güvenli ulaşabilmelerini kolaylaştırmak için düşünülmüştür. İlk trafik lambasında kırmızı “DUR” ve yeşil “DİKKAT” anlamına geliyordu.
+Türkiye’de ise ilk trafik ışığı 1929 yılında İstanbul’da kullanılmaya başlanmıştır.
+2.2. Trafik İşaret Levhaları
+mıştır:
+Trafik işaret levhaları, genel nitelikleri aşağıda belirtilen beş gruba ayrıla) Tehlike Uyarı İşaret Levhaları
+b) Trafik Tanzim İşaret Levhaları
+c) Trafik Bilgi İşaret Levhaları
+ç) Duraklama ve Park Etme İşaret Levhaları
+d) Erişme Kontrollü Kara Yolu İşaret Levhaları
+109
+Trafik işaretlerine uy, sevdiklerinle
+huzur bul!
+a) Tehlike Uyarı İşaret Levhaları: Kara yolu ve yakın çevresindeki tehlikeler hakkında yoldan yararlananlara uyarı görevi yapar (Görsel 2.19).
+Görsel 2.19
+Tehlike uyarı işaret levhaları
+Konu ile ilgili ilginç, tarihî
+tarihi ve
+güncel bilgilerin bulunduğu

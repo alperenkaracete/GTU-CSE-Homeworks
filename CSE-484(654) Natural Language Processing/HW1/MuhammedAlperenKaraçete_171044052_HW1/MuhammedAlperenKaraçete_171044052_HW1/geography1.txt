@@ -1,0 +1,425 @@
+MİLLÎ EĞİTİM BAKANLIĞI
+HAYAT BOYU ÖĞRENME GENEL MÜDÜRLÜĞÜ
+ThisIsTestLineForAlgorithm
+AÇIK ÖĞRETİM DAİRE BAŞKANLIĞI
+COĞRAFYA
+1
+DERS KİTABI
+YAZARLAR
+Eşref YILMAZ
+Hülya YAVUZ
+Leman AVAN
+ANKARA - 2022
+1
+MEB HAYAT BOYU ÖĞRENME GENEL MÜDÜRLÜĞÜ YAYINLARI
+AÇIK ÖĞRETİM OKULLARI
+Dil Uzmanı
+Bülent Kenan ERKAN
+Görsel Tasarım
+Fatih SAĞLAM
+Grafik Tasarım Uzmanı
+Nuran AKGÜN
+Copyright c MEB
+Her hakkı saklıdır. MillÎ Eğitim Bakanlığına aittir. Tümü ya da bölümleri izin
+alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+2
+İSTİKLÂL MARŞI
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+Bastığın yerleri toprak diyerek geçme, tanı:
+Düşün altındaki binlerce kefensiz yatanı.
+Sen şehit oğlusun, incitme, yazıktır, atanı:
+ThisIsTestLineForAlgorithm
+Verme, dünyaları alsan da bu cennet vatanı.
+Çatma, kurban olayım, çehreni ey nazlı hilâl!
+Kahraman ırkıma bir gül! Ne bu şiddet, bu celâl?
+Sana olmaz dökülen kanlarımız sonra helâl.
+Hakkıdır Hakk’a tapan milletimin istiklâl.
+Kim bu cennet vatanın uğruna olmaz ki feda?
+Şüheda fışkıracak toprağı sıksan, şüheda!
+Cânı, cânânı, bütün varımı alsın da Huda,
+Etmesin tek vatanımdan beni dünyada cüda.
+Ben ezelden beridir hür yaşadım, hür yaşarım.
+Hangi çılgın bana zincir vuracakmış? Şaşarım!
+Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+Yırtarım dağları, enginlere sığmam, taşarım.
+Ruhumun senden İlâhî, şudur ancak emeli:
+Değmesin mabedimin göğsüne nâmahrem eli.
+Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+Garbın âfâkını sarmışsa çelik zırhlı duvar,
+Benim iman dolu göğsüm gibi serhaddim var.
+Ulusun, korkma! Nasıl böyle bir imanı boğar,
+Medeniyyet dediğin tek dişi kalmış canavar?
+O zaman vecd ile bin secde eder -varsa- taşım,
+Her cerîhamdan İlâhî, boşanıp kanlı yaşım,
+Fışkırır ruh-ı mücerret gibi yerden na’şım;
+O zaman yükselerek arşa değer belki başım.
+Arkadaş, yurduma alçakları uğratma sakın;
+Siper et gövdeni, dursun bu hayâsızca akın.
+Doğacaktır sana va’dettiği günler Hakk’ın;
+Kim bilir, belki yarın, belki yarından da yakın.
+Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+Olsun artık dökülen kanlarımın hepsi helâl.
+Ebediyyen sana yok, ırkıma yok izmihlâl;
+Hakkıdır hür yaşamış bayrağımın hürriyet;
+Hakkıdır Hakk’a tapan milletimin istiklâl!
+Mehmet Âkif ERSOY
+ThisIsTestLineForAlgorithm
+3
+MUSTAFA KEMAL ATATÜRK
+4
+GENÇLİĞE HİTABE
+Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini,
+ilelebet muhafaza ve müdafaa etmektir.
+Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel,
+senin en kıymetli hazinendir. İstikbalde dahi, seni bu hazineden
+mahrum etmek isteyecek dâhilî ve hâricî bedhahların olacaktır. Bir
+gün, istiklâl ve cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye
+atılmak için, içinde bulunacağın vaziyetin imkân ve şeraitini
+düşünmeyeceksin! Bu imkân ve şerait, çok namüsait bir mahiyette
+tezahür edebilir. İstiklâl ve cumhuriyetine kastedecek düşmanlar,
+bütün dünyada emsali görülmemiş bir galibiyetin mümessili
+olabilirler. Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş,
+bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her
+köşesi bilfiil işgal edilmiş olabilir. Bütün bu şeraitten daha elîm ve daha
+vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar gaflet
+ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu iktidar sahipleri
+şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle tevhit edebilirler.
+Millet, fakr u zaruret içinde harap ve bîtap düşmüş olabilir.
+Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerait içinde dahi
+vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır. Muhtaç olduğun
+kudret, damarlarındaki asil kanda mevcuttur.
+Mustafa Kemal Atatürk
+5
+İÇİNDEKİLER
+I. ÜNİTE: DOĞAL SİSTEMLER..................................................8
+ThisIsTestLineForAlgorithm
+1.1. BÖLÜM: COĞRAFYA, İNSAN VE DOĞA...............................10
+1.1.1. DOĞA VE İNSAN ETKİLEŞİMİ.................................................... 11
+1.1.2. COĞRAFYANIN KONUSU VE BÖLÜMLERİ............................... 17
+1.1.3. COĞRAFYANIN TANIMI,ÖNEMİ VE GELİŞİMİ........................ 20
+1. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULARI....................... 27
+1.2. BÖLÜM: DÜNYANIN ŞEKLİ VE HAREKETLER....................31
+1.2.1. DÜNYANIN ŞEKLİ..........................................................................32
+1.2.2. DÜNYANIN HAREKETLERİ.......................................................... 35
+1.2.2.1. Dünya’nın günlük (Eksen) Hareketleri................................ 35
+ThisIsTestLineForAlgorithm
+1.2.2.2. Dünya’nın yıllık (Yörünge) Hareketleri............................... 37
+1.2.3. İKLİM KUŞAKLARI....................................................................... 43
+2. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULARI....................... 48
+1.3. BÖLÜM: COĞRAFİ KOORDİNAT SİSTEMİ.......................... 51
+1.3.1. COĞRAFİ KOORDİNAT SİSTEMİ........ ....................................... 52
+1.3.2. COĞRAFİ KONUM....................................................................... .52
+1.3.2.1. Mutlak Konum.............................................................................. 52
+ThisIsTestLineForAlgorithm
+1.3.2.2. Göreceli konum............................................................................ 61
+1.3.3. TÜRKİYE'NİN COĞRAFİ KONUMU........................................... 61
+3. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULARI....................... 66
+1.4. BÖLÜM: HARİTA BİLGİSİ.......................................................69
+1.4.1. HARİTA VE HARİTAYI OLUŞTURAN UNSURLAR.................... 70
+1.4.2. BİLGİLERİN HARİTALARA AKTARILMASI.............................. 79
+1.4.3. YERYÜZÜ ŞEKİLLERİNİN HARİTALARA AKTARILMASI....... 81
+4. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULARI....................... 88
+6
+1.5. BÖLÜM: İKLİM BİLGİSİ....................................................91
+1.5.1. ATMOSFER VE HAVA OLAYLARI.................................................92
+1.5.2. ATMOSFERİN KATMANLARI.......................................................94
+1.5.3. HAVA DURUMU VE İKLİM............................................................96
+1.5.4. İKLİM ELEMANLARI...................................................................100
+1.5.4.1. Sıcaklık.........................................................................................100
+1.5.4.2. Basınç ve Rüzgârlar.....................................................................115
+1.5.4.3. Nem ve yağış................................................................................133
+5. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULARI......................146
+1.6. BÖLÜM: YERYÜZÜNDEKİ İKLİMLER VE ÜLKEMİZDE
+GÖRÜLEN İKLİM TİPLERİ....................................................150
+1.6.1. DÜNYADAKİ İKLİM TİPLERİ.....................................................151
+1.6.2. TÜRKİYE'DE İKLİM ÖZELLİKLERİ............................................161
+6. BÖLÜM ÖLÇME VE DEĞERLENDİRME SORULARI......................179
+SÖZLÜK ................................................................................. 182
+KAYNAKÇA............................................................................ 189
+GÖRSEL KAYNAKÇA ............................................................ 191
+7
+BİRİNCİ ÜNİTE
+DOĞAL SİSTEMLER
+8
+Birinci Bölüm
+Coğrafya, Doğa ve İnsan
+NELER ÖĞRENECEĞİZ
+• Doğa ve İnsan etkileşimini,
+• Coğrafyanın konusunu ve bölümlerinin neler olduğunu,
+• Coğrafya biliminin ortaya çıkmasını ve tarihsel gelişimini öğreneceğiz.
+ANAHTAR KELİMELER
+•
+•
+•
+•
+•
+•
+•
+ThisIsTestLineForAlgorithm
+Doğal çevre
+Çağ
+Coğrafya
+Biyosfer
+Litosfer
+Hidrosfer
+Atmosfer
+ThisIsTestLineForAlgorithm
+9
+1.1. COĞRAFYA, DOĞA VE İNSAN
+ThisIsTestLineForAlgorithm
+Hazırlık Köşesi
+Çevrenize baktığınızda doğa ve insan arasında sizce ne gibi bir etkileşim vardır?
+ThisIsTestLineForAlgorithm
+İnsanın doğayla olan ilişkisi var insanın olduğu günden başlar ölümüne kadar
+devam eder. Doğa insanın yaşam alanını belirler. İnsan bu yaşam alanı içindeki
+unsurlarla bir bütünlük oluşturur ve onun bir parçası olmak için gayret eder. Doğa
+da tıpkı insan gibi canlı bir varlıktır. Ağaçlardan, hayvanlardan ve insanlardan
+oluşan bu canlı küre iklimsel farklılıklardan etkilenir. Aynı canlı farklı iklim
+koşullarında temel özelliklerini korumuş olsalar bile görüntü olarak bazı farklılıklar
+meydana gelebilmektedir. Canlıların doğaya olan uyumuna adaptasyon süreci denir.
+Her canlı yaşadığı ortama uyum sağlamaya çalışır ancak insan en hızlı uyum
+sağlayan canlıdır. İnsan yaşadığı çevrenin koşullarına uyum sağlamanın yanında
+ThisIsTestLineForAlgorithm
+sahip olduğu doğal kaynakları kendi faydasına da kullanır. Doğayı şekillendirir hatta
+bazen bu şekillendirme çevre sorunları olarak ona geri döner.
+10
+1.1.1. Doğa ve İnsan Etkileşimi
+Ekvatoral bölgede yıl içinde düşen yağış miktarı oldukça fazladır yağış rejimi düzenlidir. Bu durum
+ormanların geniş yer kaplamasına neden olur.
+Ekvatoral sahadaki bitki florası dünyanın en zengin
+florasıdır. Ağaçların boyları 50 m’yi bulur. Akarsu
+rejimleri düzenlidir. Evlerin çatılarının üçgen şeklinde
+ThisIsTestLineForAlgorithm
+ve uzun sazlardan yapıldığı gözlenir. Pirinç, mısır gibi
+suyu seven tarım ürünleri yetiştirilir. İnsanların günlük
+kıyafetleri incedir.
+Kutup ikliminin hâkim olduğu yüksek enlemlerde
+ise karalar buzullarla kaplı olduğu için tarım
+hayvancılık gibi ekonomik faaliyetler yapılamaz. Bu
+sahalar soğuk çöl grubuna girer. Yıllık yağış miktarı
+azdır. Gıda bakımından fakir olduğu gibi bitki
+örtüsünden yoksun sahalardır.
+Kutuplarda yaşayan canlıların derilerinin altında kalın bir yağ tabakası vardır. Bu tabaka onları, zor iklim
+koşullarına karşı korur. Güneşten gelen yansımalar bu
+bölgede yaşayan hayvanların açık renkli olmasına da
+neden olur.
+Görsel 1. 2 Kutup iklimi
+11
+11
+Görsel 1.2 Ekvatoral Orman
+Yıllık yağışın az olduğu çöl alanları Afrika kıtasında
+geniş yer kaplamaktadır. Doğal bitki örtüsü, dikenli çalılardan, kaktüslerden ve suyun bulunduğu vahalarda ise
+hurma ağaçlarından oluşmaktadır. Rüzgâr erozyonun
+ThisIsTestLineForAlgorithm
+oldukça fazla hissedildiği çöllerde, kum fırtınalarına sık
+rastlanır.
+Görsel 1. 3 Çöl iklimi
+Bu iklime en iyi uyum sağlayan hayvanlardan birisi
+develerdir. Develerin ağız ve çene yapısı dikenli bitkileri
+çiğnemeye uygun yaratılmıştır.
+Develer uzun kirpikleri sayesinde kum fırtınalarına
+karşı gözlerini korur. Ayrıca develer hörgüçlerinde tutmuş oldukları su ve yağ sayesinde günlerce süren susuzluğa dayanabilir. Besin ihtiyacını karşılayabilirler. Develerin dışında “akrep, kertenkele, yılan, çöl tilkisi, çöl
+faresi” gibi hayvanlar da vardır.
+Orta enlemlerde ise iklim ılımanlaşır. Sıcaklık ve nem
+koşulları daha normal hâle gelir. Dolayısıyla bu kuşakta tarım, hayvancılık turizm, sanayi gibi ekonomik faaliyetler yoğun olarak yapılmaktadır. Evlerin yapımında
+kullanılan malzemelerde ve mesken tiplerinde farklılıklar ortaya çıkar, tarım ürünlerinde çeşitlilik artar. Dünya nüfusunun büyük bir kısmının bu kuşakta yer alması
+kültürel zenginliği de beraberinde getirir.
+Görsel 1.4 Ilıman iklim
+12
+1. Uygulama
+Aşağıda boş bırakılan yerleri uygun ifadelerle tamamlayınız.
+1. Ekvatoral bölgede evlerin çatıları …………………şeklindedir.
+2. Ekvatoral bölgede ……………………………bol ve düzenli olması ormanlık
+ThisIsTestLineForAlgorithm
+alanların geniş yer kaplamasına neden olur.
+3. Dünya nüfusunun büyük bir kısmı …………………………….. enlemlerde yer
+almaktadır.
+4. Yeryüzündeki suların kirlenmesinin, temiz su kaynaklarının azalmasının başlıca
+nedenleri nüfus artışı ve …………………………dır.
+5. Ekvatoral bölgede ……………………. , ………………………… gibi suyu seven
+tarım ürünleri yetiştirilir
+6. Deve, kertenkele, yılan gibi hayvanlar ………… , ………….. çöl iklimine
+uyum sağlar.
+7. Kutuplarda ……………….. ve ………………….. gibi ekonomik faaliyetler yapılamaz.
+2. Uygulama
+Aşağıdaki verilen ifadelerden doğru olanların karşısına "D", yanlış olanların
+karşısına "Y" yazınız.
+1. Doğa ve insan sürekli etkileşim hâlindedir.
+( )
+2. İklim bilimine jeomorfoloji denir.
+( )
+3. Denizlerin, akarsuların ve göllerin kirlenmesinde sanayileşme ve nüfus artışının
+etkisi yoktur.
+( )
+4. Denizler, insan müdahalesi olmadan oluşan doğal
+unsurlardır.
+5. Yeryüzünü saran hava küreye biyosfer denir.
+6. Develerin uzun kirpikleri kum fırtınalarından gözlerini korur.
+7. Orta enlemlerde flora çöllere göre daha zengindir.
+13
+( )
+( )
+( )
+( )
+Bilgi Kutusu
+SU YOLLARI
+Manş Tüneli (Dünyadan bir örnek)
+Görsel 1.5 Manş Tüneli
+Marmaray Projesi (Ülkemizden bir örnek)
+İstanbul’un Avrupa ve Asya yakalarındaki demiryolu hatlarını İstanbul Boğazının altından geçen bir tüp tünelle birleştiren, Halkalı ile Gebze arasında 76 km’lik
+bir demiryolu iyileştirme ve geliştirme projesidir. Projenin boğaz geçişini de içine
+alan, Ayrılıkçeşme ve Kazlıçeşme arasındaki 14 km’lik bölümü 29 Ekim 2013
+tarihinde hizmete açılmıştır.
+Türk bilim adamları ve uzmanlar, potansiyel sismik olayların özelliklerinin tanımlanması üzerinde yoğun olarak çalışmaktadırlar ve bugüne kadar Türkiye’ de toplanan
+ve tarihsel verilere dayanan tüm bilgiler İzmit-Bolu Bölgesinde 1999 yılında yaşanan
+olaydan elde edilen en son veriler dâhil olmak üzere analiz edilmiş ve kullanılmıştır.
+Görsel 1.6 Marmaray Tüneli
+ThisIsTestLineForAlgorithm
+14
+Yukarıdaki resimler incelendiğinde insanın aslında doğal çevrenin içinde yaşadığı ve günlük yaşamını devam ettirirken içinde yaşadığı doğal çevrenin ona
+sağladığı imkânlardan da faydalandığını görmekteyiz. Siz de günlük yaşamınızı
+sürdürürken içinde yaşadığınız çevrenin hangi imkânlarından faydalandığınızı
+araştırınız.
+Yapılan değerlendirmelerin sonucunda coğrafyayı tanımlamak gerekirse coğrafya;
+insan ile doğal çevre arasındaki ilişkileri dağılış, nedensellik ve kıyaslama prensiplerine göre araştıran sonuçlarını açıklayan (sentez) bilimdir. Coğrafyanın çalışma alanı
+oldukça geniştir. Doğada var olan ve insan tarafından değiştirilmemiş, bozulmamış
+ve yapay olmayan canlı ve cansız varlıkların bir arada bulunduğu bütüne doğal
+ortam denir. Bu ortam kendi arasında hava küre (Atmosfer), su küre (hidrosfer),
+taş küre (litosfer), canlı küre (biyosfer)olarak dörde ayrılır.
+15
+Hava Küre (Atmosfer)
+Görsel 1.7 Hava Küre
+Atmosferin kelime anlamı “nefes almak”tır. Hava
+küre, içinde bulundurduğu gazlar sayesinde canlıların
+yaşamasına olanak sağlar. İçerisinde canlıların yaşamı
+için olmazsa olmaz su buharı, oksijen ve azot gibi hayati gazlar vardır. Bunların dışında karbondioksit ve asal
+gazlar atmosferde bulunan diğer gazlardır. Atmosfer
+dünyamızı çepeçevre saran ve Dünya'nın dönüş hızını
+bize hissettirmeyen doğal ortamdır. Dünyamızın şekli
+ve hızı atmosfer kalınlığını da etkiler. Ekvator’dan
+kutuplara doğru gittikçe incelir.
+Su Küre(Hidrosfer)
+Görsel 1.8 Su Küre
+‘‘Hidro’’nun kelime anlamı “su” dur. Hidrosfer
+yüzey suları, okyanus, denizler ve yer altı sularını
+ThisIsTestLineForAlgorithm
+inceleyen araştıran bilim dalıdır. Yeryüzündeki bütün
+suların kaynağı atmosferdeki su buharıdır. Yani denizlerin oluşması, akarsuların oluşması ve kaynak sularının oluşmasını sağlayan faktör, havada asılı bulunan su
+buharıdır. Güneşten gelen enerji ile yeryüzündeki sular
+ısınıp buharlaşır. Atmosfer içinde yükselerek önce bulutları oluşturur. Daha sonra bulutun içerisindeki nem
+doyma noktasına ulaştığında ise yağışa dönerek tekrar
+yeryüzüne düşer.
+Taş Küre (Litosfer)
+Görsel 1.9 Taş Küre
+Üzerinde yaşadığımız, ayağımızı bastığımız kara parçasına yer kabuğu denir. Dünya’nın en dış katmanıdır.
+Litosfer de denilen bu katmanın kalınlığı her yerde aynı
+değildir. Litosfer özellikle denizel ortamların altında ince
+iken sıra dağların bulunduğu yerlerde kalınlaşır. Litosfer
+ne kadar kalın olursa olsun Dünya’nın en ince katmanıdır çünkü yer kabuğunun derinlerine indikçe katı olan
+bu ortamdan daha akışkan ve yoğun olan lav yani magmanın bulunduğu başka bir ortama geçilir. Magmanın
+bulunduğu bu katmana manto katmanı denir.
+16
+Manto katmanın altında ise çekirdek kısmı bulunur
+ki çekirdek yoğunluk olarak demir ve nikel bileşiklerinden oluşmuştur.
+Canlı Küre (Biyosfer)
+Atmosfer, su küre ve taş kürenin bir arada bulunduğu ve içinde canlıların olduğu doğal ortama canlı küre
+(biyosfer) denir. Biyosferde bitkilerin oluşturduğu fitolojik çevre, hayvanların oluşturduğu zoolojik çevre Görsel 1.10 Canlı Küre
+ve insanların oluşturduğu insan çevresi bulunmaktadır. Kuşkusuz bu ayrım teoriktir. Gerçekte çevre, doğal
+ve beşerî unsurların oluşturduğu bir organizasyondur.
+Bu sistemler birer yaşama birliği olup ekosistem terimi
+ile ifade edilmektedir. Bütün ekosistemler bir denge
+hâlinde varlığını sürdürür. Devamlılık en önemli unsurdur. Ekosistemlerdeki bitki ve
+hayvanların cinsini ve türce zenginliğini belirleyen en önemli unsur iklim koşullarıdır.
+1.1.2. Coğrafyanın Konusu ve Bölümleri
+COĞRAFYA
+ÖZEL COĞRAFYA
+GENEL COĞRAFYA
+FİZİKİ COĞRAFYA
+BEŞERİ COĞRAFYA
+• Nüfus ve yerleşme coğrafyası
+• Ekonomik coğrafya
+• Evren
+• Güneş sistemi
+• Kıtalar
+• Ülkeler
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+• Bölgeler
+Jeomorfoloji
+(Yer Şekilleri Bilimi)
+Hidrografya
+(Su Bilimi)
+Klimatoloji
+ThisIsTestLineForAlgorithm
+(İklim Bilimi)
+Matematik
+Coğrafya
+Biyocoğrafya
+Jeoloji
+Hidroloji
+Meteoroloji
+Astronomi
+Biyoloji
+Jeofizik
+ThisIsTestLineForAlgorithm
+Fluvial
+Fizik
+Matematik
+Botanik
+Kartografya
+Limnoloji
+Zooloji
+Pedoloji
+Oseonografya
+Tıp
+Litoloji
+Hidrojeoloji
+Şekil 1.1 Coğrafyanın Bölümleri
+17
+1.1.2.1 Genel Coğrafya
+a. Fiziki Coğrafya: Coğrafyanın doğal unsurlarını konu edinen alanına fiziki coğrafya denir. Fiziki coğrafya, yeryüzünde doğal ortamı oluşturan biyotik,yer şekilleri,
+sular, iklim, toprak gibi öğeleri ve bunlar arasındaki ilişkiyi inceler. İncelediği konulara göre fiziki coğrafya aşağıdaki alt dallara ayrılmıştır:
+Jeomorfoloji (yer şekilleri bilimi): Dağ, ova, plato ve diğer yeryüzü şekillerini inceler ve oluşumunda etkili olan iç ve dış kuvvetlerin etkilerini açıklar. Litosfer bu bilimin araştırma sahasına girer. Jeomorfoloji çalışmalarını yaparken, jeoloji, jeofizik,
+kartografya (haritacılık), pedoloji (toprak bilimi) ve litoloji (taş bilimi) gibi bilimlerden yararlanır.
+Hidrografya (Su Bilimi): Okyanus ve denizlerdeki su hareketlerini, gölleri, akarsuları, yer altı sularını ve bunların dağılışlarını inceler. Hidrosfer bu dalın inceleme
+alanına girer. Hidrografya bilimi de hidroloji, akarsu bilimi, göl bilimi (limnoloji) ve
+okyanus bilimi (oseanografya) gibi bilim dallarından yararlanır.
+Klimatoloji (İklim Bilimi): İklim özelliklerinin oluşmasını sağlayan doğal ortam
+ThisIsTestLineForAlgorithm
+şartlarını, iklim tiplerini ve bunların yeryüzündeki dağılışlarını inceler. Atmosfer bu
+dalın ilgi alanına girer. Klimatoloji bilimi, meteoroloji ve fizik gibi bilim dallarından
+yararlanır.
+Biyocoğrafya (Canlılar Bilimi): Bitki ve hayvan topluluklarının yeryüzündeki dağılışını ve bunların dağılışına etki eden coğrafi nedenleri inceler. Biyosfer, coğrafyanın
+bu bölümünün ilgi alanına girer. Biyocoğrafya; biyoloji, botanik (bitki bilim), zooloji
+(hayvan bilimi) ve tıp gibi bilim dallarından yararlanır.
+b. Beşerî ve Ekonomik Coğrafya: Nüfus, göç, yerleşme, ekonomik coğrafya gibi
+insan faaliyetleriyle ortaya çıkan beşerî unsurların dağılış ve sonuçlarını inceler.
+• Nüfus coğrafyası (demografi)
+• Yerleşme coğrafyası
+• Tarım coğrafyası
+• Ulaşım coğrafyası
+• Turizm coğrafyası
+• Enerji coğrafyası
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+• Sanayi coğrafyası
+• Siyasi coğrafya
+Görsel 1.11 İstanbul
+ThisIsTestLineForAlgorithm
+18
+1.1.2.2 Özel Coğrafya
+Evren, güneş sistemi, kıtalar, ülkeler ve bölgeler, özel coğrafyanın inceleme alanına
+girer.
+Bilgi Kutusu
+Dağılış Prensibi: Ne nerededir? Örneğin; ülkemizdeki volkanik dağlar hangi
+bölgede yoğun olarak bulunur?
+Birinci olarak Doğu Anadolu bölgesinde daha sonra İç Anadolu bölgesinde yer
+alır. Ege ve Güneydoğu Anadolu ’da da volkanik alanlar vardır.
+Nedensellik Prensibi: Volkanik dağların yüksekliğinin birbirinden farklı olmasının nedenini açıklayınız.
+Konileri ortaya çıkan lavların akışkanlığı magmanın yoğunluğuna bağlıdır.
+Eğer katı, yoğun bir lav çıkarsa koni yüksek olur. Eğer lavlar akışkan, yoğunluğu
+az olursa koni yayvan tabanlı olur.

@@ -1,0 +1,429 @@
+be
+elif
+HARFİN
+ADI
+p
+b
+a, e
+SES
+KARŞILIĞI
+‫ظ‬
+‫س ش ص ض ط‬
+‫ژ‬
+‫ز‬
+ThisIsTestLineForAlgorithm
+HARFİN
+ŞEKLİ
+zı
+ThisIsTestLineForAlgorithm
+tı
+dad
+sad
+şın
+sin
+je
+ze
+HARFİN
+ADI
+z
+t, d
+d, z
+s
+ThisIsTestLineForAlgorithm
+ş
+s
+j
+z
+SES
+KARŞILIĞI
+‫ر‬
+‫ذ‬
+‫د‬
+‫خ‬
+‫ح‬
+ThisIsTestLineForAlgorithm
+‫چ‬
+ra
+zel
+dal
+hı
+ha
+ThisIsTestLineForAlgorithm
+çim
+cim
+se
+te
+pe
+r
+z
+d
+ThisIsTestLineForAlgorithm
+h
+h
+ç
+c
+s
+t
+‫غ ف ق‬
+ThisIsTestLineForAlgorithm
+‫ع‬
+kaf
+fe
+k
+f
+gayın ayın
+g, ğ
+‘
+‫ب پ ت ث ج‬
+‫ى‬
+‫ال‬
+‫ه‬
+ThisIsTestLineForAlgorithm
+‫و‬
+‫ن‬
+‫م‬
+ThisIsTestLineForAlgorithm
+ye
+lamelif
+he
+vav
+nun
+mim
+y
+la
+h
+v
+n
+m
+‫ل‬
+‫ڭ‬
+nef
+lam (nazal
+ne)
+l
+n
+‫گ‬
+ThisIsTestLineForAlgorithm
+‫ك‬
+HARFİN
+ŞEKLİ
+gef
+kef
+HARFİN
+ADI
+g, ğ
+k
+SES
+KARŞILIĞI
+(Dikkat: Tabloda kırmızı olarak yazılan harfler, Kur’an alfabesinde olmayan harflerdir.)
+İş Birliği
+ThisIsTestLineForAlgorithm
+•
+•
+Ders öğretmeninizin yardımıyla sınıfınızda, Kur’an alfabesini daha önceden öğrenmiş arkadaşlarınız varsa belirleyebilirsiniz.
+Kur’an alfabesini bilen arkadaşlarınızın, alfabeyi yeni öğrenen arkadaşlarınıza yardımcı olmaları için ikili gruplar oluşturabilirsiniz.
+32
+İKİNCİ ÜNİTE
+Yorumlayalım
+Dine, vatana, millete ait manevi değeri olan şeylere mukaddesat (kutsal
+şeyler) denir. Temel ilkelerimizden biri de "mukaddesata hürmet" olmalıdır.
+Camilerimiz, peygamberimiz, vatanımız, bayrağımız bizim için nasıl mukaddes
+ise Kur’an ve Kur’an harfleri de saygı gösterilmesi gereken değerlerimizdendir.
+Ecdadımız, Kur’an’ın yazılmasında kullanıldığı için kâğıda bile hürmet etmiş;
+kâğıda ayakla basmayı hürmetsizlik saymıştır. Osmanlı Devleti’nin kurucusu
+Osman Bey’in Kur’an’a saygısından, ağırlandığı odada geceyi uykusuz geçirdiği de öteden beri anlatılagelmiştir.
+Bu paragrafta anlatılanlarla ilgili neler söyleyebilirsiniz? Düşüncelerinizi arkadaşlarınızla paylaşınız.
+Yazalım
+Aşağıda Osmanlı Türkçesi alfabesinin harfleri karışık olarak sıralanmıştır. Harflerin adlarını boş bırakılan yerlere yazınız.
+‫ن‬
+‫ش‬
+.........
+ThisIsTestLineForAlgorithm
+‫ح‬
+.........
+‫ه‬
+.........
+.........
+.........
+‫ر‬
+.........
+‫چ‬
+ThisIsTestLineForAlgorithm
+.........
+.........
+‫غ‬
+.........
+.........
+‫گ‬
+.........
+.........
+.........
+‫ق‬
+.........
+‫ع‬
+.........
+‫ا‬
+.........
+.........
+‫ك‬
+.........
+‫پ‬
+.........
+‫م‬
+‫ت‬
+‫ض‬
+‫ظ‬
+.........
+ThisIsTestLineForAlgorithm
+‫ج‬
+‫ط‬
+.........
+‫ث‬
+.........
+‫ژ‬
+‫ز‬
+‫ب‬
+.........
+‫س‬
+.........
+‫خ‬
+‫ص‬
+‫د‬
+.........
+‫ڭ‬
+.........
+.........
+‫و‬
+ThisIsTestLineForAlgorithm
+.........
+‫ذ‬
+.........
+.........
+‫ال‬
+.........
+Bulalım
+‫ل‬
+lam
+‫ى‬
+.........
+‫ف‬
+.........
+Kutucuklarda verilen harf gruplarının karşıladığı ortak sesi bulup boş bırakılan yerlere yazınız.
+T
+.....................
+.....................
+.....................
+.....................
+.....................
+.....................
+.....................
+‫ت ط‬
+‫ذ ز ض ظ‬
+‫ح خ ه‬
+ThisIsTestLineForAlgorithm
+‫ك ق‬
+‫ث س ص‬
+‫د ض ط‬
+‫ن ڭ‬
+İKİNCİ ÜNİTE
+33
+Harf Kartları
+Osmanlı Türkçesi alfabesini iyice öğrenmek için aşağıdaki yönergeyi takip
+ederek harflerle ilgili bilgilerinizi pekiştirebilirsiniz.
+• Osmanlı Türkçesi alfabesindeki harflerin biçimlerini ve adlarını gösteren harf
+ThisIsTestLineForAlgorithm
+kartları hazırlayınız. (Harf biçimleri ön, harf isimleri arka tarafa yazılmalıdır.)
+• Kartlardaki harfleri birbirinize sormak için ikili gruplar oluşturunuz.
+• Hazırladığınız kartları kullanarak Osmanlı Türkçesi alfabesindeki harflerin biçimlerini ve adlarını birbirinize sorarak bilgilerinizi pekiştiriniz.
+ThisIsTestLineForAlgorithm
+• Osmanlı Türkçesi alfabesinde yer alan ancak Kur’an alfabesinde olmayan
+harfleri birbirinden ayırt ediniz.
+2.2. Harflerin Birleşme Durumları
+Hazırlanalım
+Düz yazı ile bitişik eğik el yazısı arasında ne gibi faklılıklar vardır? Düşüncelerinizi söyleyiniz.
+ThisIsTestLineForAlgorithm
+Dikkat
+Osmanlı Türkçesi alfabesinde harfler genel olarak birbirine bitiştirilerek yazılır. Harfler, bitişme sırasında kelimenin başında, ortasında ve sonunda değişik
+şekiller alır.
+İnceleyelim
+Aşağıdaki tabloda Osmanlı Türkçesi alfabesindeki harflerin birleşme durumları gösterilmektedir. Tabloyu inceleyerek Osmanlı Türkçesi alfabesindeki harflerin kelime başında, ortasında ve sonunda aldığı şekilleri öğrenmeye çalışınız.
+Osmanlı Türkçesi Alfabesi
+Kelimenin
+başında
+ortasında
+sonunda
+‫ ��ء‬،‫اﺎﺎ‬
+‫ببب‬
+ThisIsTestLineForAlgorithm
+‫ﭙﭙﭗ‬
+‫تتت‬
+‫ثثث‬
+Kelime
+sonunda
+Kelime
+ortasında
+Kelime
+başında
+Harfin müstakil
+hâli
+‫ ء‬،‫ﺎ‬
+‫ﺐ‬
+‫ﭗ‬
+‫ﺖ‬
+‫ﺚ‬
+� ،‫ﺎ‬
+‫ﺒ‬
+‫ﭙ‬
+‫ﺘ‬
+‫ﺜ‬
+� ،‫ا‬
+‫ﺑ‬
+‫ﭘ‬
+‫ﺗ‬
+‫ﺛ‬
+‫ ء‬،‫ا‬
+‫ب‬
+‫پ‬
+‫ت‬
+‫ث‬
+‫‪34‬‬
+‫‪İKİNCİ ÜNİTE‬‬
+‫‪Osmanlı Türkçesi Alfabesi‬‬
+ThisIsTestLineForAlgorithm
+‫‪Harfin müstakil‬‬
+ThisIsTestLineForAlgorithm
+‫‪hâli‬‬
+‫‪Kelime‬‬
+‫‪başında‬‬
+‫‪Kelime‬‬
+‫‪ortasında‬‬
+‫‪Kelime‬‬
+‫‪sonunda‬‬
+‫ج‬
+‫چ‬
+‫ح‬
+‫خ‬
+‫د‬
+‫ذ‬
+‫ر‬
+‫ز‬
+‫ژ‬
+‫س‬
+‫ش‬
+‫ص‬
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+‫ض‬
+‫ط‬
+‫ظ‬
+‫ع‬
+‫غ‬
+ThisIsTestLineForAlgorithm
+‫ف‬
+‫ق‬
+‫ك‬
+‫گ‬
+‫ڭ‬
+‫ل‬
+‫م‬
+‫ن‬
+‫و‬
+‫ه‬
+‫ال‬
+‫ی‬
+‫ﺟ‬
+‫ﭼ‬
+‫ﺣ‬
+ThisIsTestLineForAlgorithm
+‫ﺧ‬
+‫د‬
+‫ذ‬
+‫ر‬
+‫ز‬
+‫ژ‬
+‫ﺳ‬
+‫ﺷ‬
+‫ﺻ‬
+‫ﺿ‬
+‫ﻃ‬
+‫ﻇ‬
+‫ﻋ‬
+‫ﻏ‬
+‫ﻓ‬
+‫ﻗ‬
+‫ﻛ‬
+‫ﮔ‬
+‫ﯕ‬
+‫ﻟ‬
+‫ﻣ‬
+‫ﻧ‬
+‫و‬
+‫ﻫ‬
+‫ﻻ‬
+‫ﺠ‬
+‫ﭽ‬
+‫ﺤ‬
+‫ﺨ‬
+‫ﺪ‬
+‫ﺬ‬
+‫ﺮ‬
+‫ﺰ‬
+‫ﮋ‬
+‫ﺴ‬
+‫ﺸ‬
+‫ﺼ‬
+‫ﻀ‬
+‫ﻄ‬
+‫ﻈ‬
+ThisIsTestLineForAlgorithm
+‫ﻌ‬
+‫ﻐ‬
+‫ﻔ‬
+‫ﻘ‬
+‫ﻜ‬
+‫ﮕ‬
+‫ﯖ‬
+‫ﻠ‬
+‫ﻤ‬
+‫ﻨ‬
+‫ﻮ‬
+‫ﻬ‬
+‫ﻼ‬
+‫ﺞ‬
+‫ﭻ‬
+ThisIsTestLineForAlgorithm
+‫ﺢ‬
+‫ﺦ‬
+‫ﺪ‬
+‫ﺬ‬
+ThisIsTestLineForAlgorithm
+‫ﺮ‬
+‫ﺰ‬
+‫ﮋ‬
+‫ﺲ‬
+‫ﺶ‬
+‫ﺺ‬
+‫ﺾ‬
+‫ﻂ‬
+‫ﻆ‬
+‫ﻊ‬
+‫ﻎ‬
+‫ﻒ‬
+‫ﻖ‬
+‫ﻚ‬
+‫ﻚ‬
+‫ﯔ‬
+‫ﻞ‬
+‫ﻢ‬
+‫ﻦ‬
+‫ﻮ‬
+‫ﻪ‬
+‫ﻼ‬
+‫ﻰ‬
+‫ﻳ‬
+‫ﻴ‬
+‫‪Kelimenin‬‬
+‫‪başında‬‬
+‫‪ortasında‬‬
+‫‪sonunda‬‬
+‫ججج‬

@@ -1,0 +1,430 @@
+Zaman
+Saniye
+s
+Kronometre
+Elektrik akımı
+Amper
+A
+Ampermetre
+Sıcaklık
+Kelvin
+K
+Termometre
+Madde miktarı
+Mol
+mol
+ThisIsTestLineForAlgorithm
+-
+Işık şiddeti
+Candela
+cd
+Fotometre
+Tablo1.1 Temel büyüklükler
+Diğer büyüklükler, temel büyüklüklerden türetilmiştir. Temel büyüklükler
+cinsinden ifade edilebilen diğer büyüklüklere türetilmiş büyüklükler adı
+verilir. Türetilmiş büyüklüklerden bazıları Tablo 1.2’de verilmiştir.
+Türetilmiş
+Büyüklüklerden
+Bazıları
+Uluslararası
+Birim Sistemindeki
+Birimi
+Birimin Sembolü
+Hacim
+ThisIsTestLineForAlgorithm
+Metreküp
+m³
+Yüzey
+Metrekare
+m²
+Hız
+Metre/saniye
+m/s
+Kuvvet
+Newton
+N
+Öz kütle
+kilogram/(metre)3
+kg/m3
+Basınç
+Newton/(metre)2
+N/m2
+Tablo 1.2 Türetilmiş büyüklükler
+19
+20
+Skaler ve Vektörel Büyüklükler
+Fiziksel büyüklüklerden bazılarını ifade etmek için yalnızca sayı ve
+birim kullanmamız yeterli olur. Örneğin; “3 metre” denildiğinde fiziksel
+büyüklük olan uzunluktan, “5 kilogram” denildiğinde de kütleden söz
+ettiğimiz açıkça anlaşılır. İfade etmek için yalnızca sayı ve birimin yeterli
+olduğu büyüklüklere, skaler büyüklükler denir.
+ThisIsTestLineForAlgorithm
+Bazı fiziksel büyüklükleri ifade etmek için ise yalnızca sayı ve birim
+yeterli değildir. Örneğin; rüzgarın hızı 5 m/s denildiğinde, rüzgarın yönü
+belirtilmediği için ifade eksik olur ve bu veriyi kullanamayız. Sayı ve
+birimin yanında mutlaka yönünü de belirtmemiz gereken büyüklüklere
+vektörel büyüklükler denir.
+Bir sıraya iki öğrenciden biri 3 N, diğeri 5 N kuvvet uyguluyor olsun,
+sıranın hangi yöne, kaç newton ile hareket ettiğini bulmak için bu veriler
+yeterli midir? Öğrencilerin sıraya uyguladığı kuvvetlerin yönü
+belirtilmediğinde bu sorunun cevabını kesin olarak bulamayız; çünkü aynı
+yönde çekiyorlarsa 8 N ve zıt yönde çekiyorlarsa 2 N olmak üzere iki
+farklı sonuca ulaşırız. Hızı ifade ederken olduğu gibi kuvveti ifade
+ederken de sayısal değerinin yanında mutlaka yönünü belirtmeliyiz.
+Aşağıdaki şemada skaler ve vektörel büyüklüklerden bazıları verilmiştir.
+Skaler Büyüklükler
+Vektörel Büyüklükler
+Kütle
+Kuvvet
+Hacim
+Hız
+Özkütle
+ThisIsTestLineForAlgorithm
+ivme
+Zaman
+Yer degistirme
+Sürat
+Sıcaklık
+Vektörel büyüklükler, vektör adı verilen yönlendirilmiş doğru parçası ile
+gösterilir. Şekil olarak bir doğru parçasının ucuna, yönünü belirten bir ok
+konulur. Vektörün ismini belirten harf yazılır, harfin üzerine de küçük bir ok
+konulur.
+A 		
+veya
+O
+OA
+A
+A : A vektörü
+OA : OA vektörü
+Vektörel büyüklüklerde;
+Vektörün ucundaki ok yönünü,
+başlangıç ve uç noktalarından geçen çizgi doğrultusunu,
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+doğru parçasının uzunluğu vektörün büyüklüğünü (şiddetini) gösterir.
+O
+OA
+A
+Bilgimizi Artıralım:
+K
+ThisIsTestLineForAlgorithm
+L
+Bir doğrultu üzerinde iki yön vardır. K ve L vektörlerinin doğrultuları aynı
+yönleri zıttır.
+M
+ThisIsTestLineForAlgorithm
+N
+M ve N vektörlerinin doğrultuları ve yönleri aynıdır.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+21
+Vektörler, birbiri ile toplanabilir; toplama işlemi sonunda yeni vektör elde
+edilir. Birden fazla vektörün toplanması ile elde edilen vektöre bileşke vektör
+denir. Bileşke vektör R ile gösterilir.
+Daha öncede belirttiğimiz gibi vektörel büyüklükler toplanırken yönü,
+ThisIsTestLineForAlgorithm
+doğrultusu ve şiddeti dikkate alınır. Hız ve kuvvet kavramlarının vektörel
+büyüklük olduğunu biliyoruz. Şimdi vektörel büyüklüklerde toplama işlemini
+örnekler üzerinde inceleyelim:
+ÖRNEK 1
+=
+F1 3 N
+F2=6 N
+Soru
+Bir sandık iki kişi tarafından şekildeki yön ve doğrultuda çekilmektedir.
+Sandığa etki eden bileşke kuvvetin büyüklüğünü (R) bulunuz.
+Kuvvet vektörlerinin ikisi de sandığa aşağıdaki yön ve doğrultuda etki
+etmektedir.
+F1
+Çözüm
+F2
+F1 + F2 bileşke kuvvetini bulurken iki kuvvet vektörünü uç uca ekleriz.
+R = F1 + F2
+Bileşke kuvvetin büyüklüğü ise
+F1 + F2 = 6 N + 3 N = 9 N ‘dur.
+şeklinde çizeriz.
+ÖRNEK 2
+F2=7 N
+ThisIsTestLineForAlgorithm
+F1=4 N
+Soru
+Bir sandık iki kişi tarafından şekildeki yön ve doğrultuda çekilmektedir.
+Kuvvetler F1=7 N ve F2=4 N şiddetindedir. Buna göre kutuya etki eden
+bileşke kuvveti ve büyüklüğünü bulunuz.
+ThisIsTestLineForAlgorithm
+Büyük olan kuvvetten küçük olan kuvvet çıkarılır. Bileşke kuvvet büyük
+olan kuvvetin yönündedir.
+ThisIsTestLineForAlgorithm
+F1
+F2
+F1 = 4 N
+F2 = 7 N
+Bileşke kuvvet R = F2 + F1 yazılır. Büyüklüğü ise R = F2 - F1 dir.
+R=7-4
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+R=3 N
+Çözüm
+22
+4. Bölüm
+BILIM ARAŞTIRMA MERKEZLERI
+Neler Öğreneceğiz?
+•
+•
+Bilim araştırma merkezlerinin fizik bilimi için önemini
+Bilimsel araştırmalarda etik ilkelerin önemini öğreneceğiz.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+BILIM ARAŞTIRMA MERKEZLERINİN
+FIZIK BILIMI İÇIN ÖNEMI
+ThisIsTestLineForAlgorithm
+Bilim
+araştırma
+merkezleri,
+özellikle doğa bilimlerinde temel ve
+uygulamalı akademik araştırmaları
+desteklemek
+ve
+teşvik
+etmek
+amaçlı kurulan kuruluşlardır. Bilim
+merkezlerinde
+temel
+bilimler,
+mühendislik,
+uzay
+teknolojileri,
+yazılım, tıp meteoroloji, savunma
+ThisIsTestLineForAlgorithm
+sanayi gibi faklı alanlarda bilimsel
+araştırmalar yapılmaktadır (Resim
+1.24). Yapılan bilimsel araştırmaların
+teknolojik yeniliklere dönüştürülmesini,
+özel sektörün teknolojik araştırma ve
+geliştirmelere katılımını sağlamak için
+programlar düzenlemektedir. Ayrıca
+Resim1.24
+Bilimsel araştırma yapan bilim insanları
+bilim insanlarının, araştırmacıların,
+yetiştirilmesi ve geliştirilmesine katkı
+sağlamaktadır.
+Ülkemizde TÜBİTAK, TAEK ve ASELSAN bu amaçlarla kurulan bilim
+araştırma merkezleridir. İlk araştırma merkezlerimizden olan TÜBİTAK
+(Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) 1963 yılında
+kurulmuştur. TÜBİTAK birçok alanda bilimsel ve teknolojik araştırmalar
+yapmaktadır. Açılan bilim fuarları, proje yarışmaları ve yayınları ile gençleri
+bilime teşvik etmekte, yüksek lisans ve doktora programları için burs
+vererek bilim insanı yetiştirilmesine katkı sağlamaktadır.
+Türk
+Silahlı
+ThisIsTestLineForAlgorithm
+Kuvvetleri'nin
+ThisIsTestLineForAlgorithm
+haberleşme ve cihaz ihtiyaçlarını
+karşılamak üzere 1975 yılında
+ASELSAN (Askeri Elektronik Silah
+Sanayi) kurulmuştur (Resim 1.25).
+ASELSAN Türkiye'nin elektronik,
+savunma ve yazılım alanlarında
+yapılan çalışmalar sonucunda askeri
+haberleşme
+sistemleri,
+radar
+sistemleri, silah sistemleri, elektronik
+ve optik sistemler geliştiren ve üreten
+bir kuruluşudur. ASELSAN teknolojik
+olarak dışa bağımlılığı azaltmak
+yenilikçi ve güvenilir çözümler
+sunmak
+yolunda
+bilimsel
+araştırmalarına devam etmektedir.
+ThisIsTestLineForAlgorithm
+Resim1.25 Aselsan
+TAEK (Türkiye Atom Enerjisi Kurumu) 1982 yılında nükleer teknolojiden
+yararlanılmasını sağlamada öncü olması amacıyla kurulmuştur. TAEK nükleer
+alanda düzenleyici ve denetleyici faaliyetleri yürütmektedir.
+23
+24
+Dünya’da birçok bilim araştırma merkezi
+vardır. Bilim ve araştırma merkezlerinde yapılan
+araştırmalar sayesinde bilimde özellikle de fizikte
+birçok gelişme sağlanmıştır. Örneğin; Amerika
+Birleşik Devletlerinin bir kuruluşu olan NASA
+(Ulusal Havacılık ve Uzay Dairesi) uzay
+çalışmaları
+yapmak üzere kurulmuştur (Resim
+1.26). NASA uzaya gönderdiği araçlar, uydular,
+teleskoplar sayesinde
+evren hakkında bilgi
+edinmemizi sağlayarak fiziğin bir alanı olan
+astronominin gelişmesine katkı sağlamaktadır.
+Resim1.26 NASA
+Avrupa Uzay Ajansı olan ESA (European Space Agency) 1975 yılında
+uzayın keşfini amaçlayan uluslararası bir organizasyon olarak kurulmuştur.
+ThisIsTestLineForAlgorithm
+Genel merkezi Paris’te olan kuruluşun 22 asil üyesi vardır. ESA’nın uzay
+ThisIsTestLineForAlgorithm
+programı insanlı ve insansız uçuşları kapsamaktadır. Ayrıca gezegenleri ve
+Ay’ı araştırmak için görevler oluşturulmuştur. Türkiye ESA'ya asil üye
+değildir; ancak 15 Temmuz 2004 tarihinde ESA ve Türkiye adına Tübitak
+Uzay arasında bir iş birliği anlaşması imzalanmıştır.
+Nükleer fizik alt alanında yapılan araştırma ve
+çalışmalarla ortaya çıkan parçacıkların çeşitliliği,
+kuantum fiziğinin doğmasına neden olmuştur. İkinci
+Dünya Savaşından sonra, Avrupa’nın fizikle ilgili
+gelişmelerde Amerika ile rekabet edebilmesi
+amacıyla 1954 yılında İsviçre’nin Cenevre kentinde
+on iki Avrupa ülkesinin bir araya gelmesi ile Avrupa
+ThisIsTestLineForAlgorithm
+Nükleer Araştırma Merkezi (CERN) kurulmuştur
+Resim1.27 CERN’de bulunan parçacık
+(Resim 1.27). Bugün CERN' in üye sayısı 21 ülkeye
+hızlandırcı yerin 100 m altında ve 27
+ulaşmıştır.
+km çapında bir alanda yer almaktadır.
+Avrupa Nükleer Araştırma Merkezi CERN
+(Sern)’de yapılan deneyler ve çalışmaların amacı; maddenin temel
+yapısını, parçacıkları ve onları bir arada tutan kuvvetleri araştırmaktır.
+CERN’de CMS, ATLAS, LHC ve ALICE şeklinde isimlendirilen dört büyük
+deney yapılmaktadır. Hızlandırıcılarla parçacıklar yüksek hızlara
+ulaştırılarak çarpıştırılmakta ve evrenin Büyük Patlama’dan hemen sonraki
+ilk anları anlaşılmaya çalışılmaktadır. Yine bu merkezde parçacıkların nasıl
+kütle kazandığı ile ilgili sorunu açıklığa kavuşturacak olan Higgs (higs)
+Parçacığı 2012 yılında bulunmuş ve 2013 yılında da Peter Higs (Pitır Higs)
+bu kuramıyla Nobel ödülü kazanmıştır.
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+CERN’de deneyler yapılmaya devam etmekte ve hızlandırıcılarda daha
+fazla veri elde edilerek sonuçlar değerlendirilmektedir. Büyük Hadron
+Çarpıştırıcısı (LHC) güzergahında belli noktalarda deneyler ve ölçümler
+yapılmaktadır. Yukarıdaki fotoğraf CMS deneyindeki algıca aittir (Resim 1.28).
+LHC çarpıştırıcında üretilen bilgileri toplamak ve Dünya geneline dağıtmak ve
+işlemek üzere oluşturulan GRİD ağ yapısı geleceğin internet altyapısı olarak
+görülmektedir. CERN de kullanılan teknolojilerin birçoğu doğurgan (jenerik)
+teknoloji olarak adlandırılmaktadır. Sonuçları daha iyi incelemek için geliştirilen
+teknoloji başka bir teknolojiye veya bir buluşa öncülük etmektedir. Akıllı
+malzemeler, süper iletken magnetler, dedektörler, görüntüleme,
+radyoterapi vakum teknikleri, veri depolama ve işleme bu çalışmalar
+sırasında geliştirilmiştir. Araştırmalar sırasında fiziğin elektromanyetizma ve
+optik gibi başka birçok alanında da gelişmeler elde edilmektedir. Bu
+gelişmeler hayatımıza tıp, elektronik, bilişim gibi alanlarda teknoloji olarak
+katılmaktadır. Fiziğin diğer bilimler ve teknoloji ile ilişkisi konusunda
+belirttiğimiz MR, PET ve www (world wide web, “vörld vayd veb”) kurumlar
+arası bilgi paylaşımını sağlayan ağlar CERN’de araştırmalar sırasında
+ThisIsTestLineForAlgorithm
+bulunanlara verilebilecek güncel örneklerdir.
+Günümüzde sonsuz küçükten sonsuz büyüğün keşfine doğru yapılan
+çalışmalar ve deneyler araştırma merkezlerinde devam etmektedir.
+Araştırma ve deney fizik bilimin gelişmesi için şarttır. Bütün bu örnekler bize
+göstermektedir ki bilim ve araştırma merkezleri bilimin özellikle de fiziğin
+gelişmesine büyük katkılar sağlamaktadır. Ülkeler araştırmaya ve
+geliştirmeye ayırdıkları bütçe oranında gelişmekte ve büyümektedirler.
+ThisIsTestLineForAlgorithm
+25
+Resim1.28
+CMS deneyi
+26
+ThisIsTestLineForAlgorithm
+Bilimsel Araştırmalarda Etik İlkeler
+Toplumumuzda yaşayan fertlerin iyi birer insan olmak için sahip olması
+gereken değerler vardır. Dürüst, çalışkan, güvenilir ve tutarlı olmak, vatanına
+ve milletine bağlı olmak, kanun ve kurallara uymak, doğal mirasa ve çevreye
+duyarlı olmak bu değerlerden bazılarıdır. Tabii ki bu değerler bilim insanlarının
+da sahip olması gereken değerlerdir. Bilimsel araştırmalarda ve çalışmalarda
+bu saydığımız değerleri de içinde barındıran bilimsel araştırmalarda etik ilkeler
+adı altında evrensel ilkeler vardır.
+Bilimsel araştırmalar bir teoriye veya bilgiye katkıda bulunabilecek sistem
+ve disiplin içinde yürütülen çalışmalardır. Bilimsel araştırma ve yayınlarda
+yüksek ahlak, dürüstlük ve açıklık, özgünlük, tarafsızlık prensiplerinin
+uygulanması gereklidir. Bir çalışma faaliyetinde bulunan insanların ahlak
+ilkelerini, davranış biçimlerini, görevlerini ve zorunluluklarını belirleyen kurallar
+zincirine etik denir. Türkiye’de araştırma ve yayın etiği ile ilgili kurullar YÖK,
+TÜBİTAK, TÜBA ve üniversiteler arası etik kurullardır.
+Bir bilimsel araştırmada araştırmanın değerini ve güvenilirliğini azaltan her
+tür girişim bilimsel yanıltma olarak adlandırılır. Bilimsel yanıltmaya disiplinsiz
+araştırma, bilimsel yalancılık ve saptırmalar neden olmaktadır. Bilimsel
+yanıltmalar kaynak ve zaman israfına yol açar. Bilimsel araştırma ve yayınlarda
+etik dışı kabul edilen durumlar vardır. Başkalarının fikirlerini, metotlarını,
+ThisIsTestLineForAlgorithm
+verilerini, yazı veya çizimlerini kullanmak aşırma (intihal) olarak adlandırılır ve
+etik değildir. Bu bilgiler ancak bilimsel kurallara uygun bir şekilde o kişi kaynak
+gösterilerek ve etik kurullarınca belirlenen kurallara uyularak kullanılabilir.
+Bilgimizi Artıralım:
+Deneylerde hayvanların kullanılması sürecinin etik kurallara uygun
+olarak sürdürülmesini ve denetlenmesini, Hayvan Deneyleri Merkezi Etik
+Kurulu (HADMEK) sağlamaktadır.
+ThisIsTestLineForAlgorithm
+Bilgi Notu:
+Başkalarının fikirlerini,
+metotlarını, verilerini, yazı
+veya çizimlerini izinsiz ve
+kaynak göstermeden etik
+kurullarınca belirlenen
+kurallara uymadan kullanmaya
+aşırma (intihal) denir.
+ÜNİTE ÖZETİ
+1. Ünite - FİZİK BİLİMİNE GİRİŞ
+27
+1. Fizik Biliminin Evrendeki Rolü
+Dünyamız da dâhil olmak üzere, bütün gök cisimleri ile madde ve enerjinin bütününe evren denir.
+Fizik bilimi, evrendeki olayların sebep sonuç ilişkileriyle birbirine bağlar, maddenin temel özelliklerini
+inceler, temel yapıtaşlarını arar, bunların etkileşimlerini araştırır ve evrendeki düzenliliği keşfetmeye
+çalışır. Fizik; madde ve enerji arasındaki etkileşimi inceleyen ve doğada gerçekleşen olaylarla
+ilgili mantıklı açıklamalar getirmeye çalışan bir bilim dalıdır. Diğer bilimlerin ya da bu bilimlerin
+uygulama alanlarının yasaları da fizik yasalarına dayanır. Kozmoloji (evrenbilim): Evrenin yapısını
+ve gelişimini inceleyen bilim dalıdır. Evrenbiliminde, fizik ve gökbilimi (astronominin) bilgilerinden
+ThisIsTestLineForAlgorithm
+yararlanılmaktadır.
+Fizikteki gelişmeler evreni anlamamızda büyük rol oynamaktadır. Teknolojik imkanlar arttıkça
+evren hakkındaki bilgilerimizde artmaktadır. Doğayı, evreni anlamak ve insanlığın yararına çalışmalar
+yapabilmek için fizik öğrenmeliyiz.
+2. Fizik Biliminin Uygulama Alanları
+Fizik biliminin uygulama alanları oldukça geniştir. Elektrikli aletler, telefonlar, internet,
+röntgen, tomografi, radar vb. birçok imkân veya alet fiziğin uygulama alanlarının bir
+ürünüdür. Fizik biliminde elde edilen bilgiler ve buluşlar arttıkça bu bilgiler alt dallara
+ayrılmıştır.
+ThisIsTestLineForAlgorithm
+a) Fizik biliminin alt dalları
+Mekanik, elektrik, termodinamik, manyetizma, optik, katıhal fiziği, atom fiziği, nükleer
+fizik, yüksek enerji ve plazma fiziği.
+Mekanik: Cisimlerin nasıl hareket ettiklerini, kuvvet ve hareket arasındaki ilişkiyi inceler.
+Elektromanyetizma: Atomun yapısındaki proton ve elektronların sahip oldukları elektrik yükleri ve
+etkileşimleri, oluşturdukları elektrik alan ve elektriksel kuvveti inceler. Dünyanın manyetik
+alanını, manyetik maddeleri ve akım geçen telin etrafında oluşan manyetik alanı inceler.
+Termodinamik: Isının madde içinde nasıl yayıldığını ve iletimini inceler.
+Optik: Işık olaylarını ve ışığın saydam ortamlarda davranışını inceler.
+Katıhâl Fiziği: Yoğun hâldeki maddelerin ve elektriksel, manyetik, optik ve esneklik gibi
+özelliklerini inceler.
+Atom Fiziği: Atomu ve atomu oluşturan parçacıkların birbiriyle olan etkileşimini inceler.
+Nükleer Fizik: Atomun çekirdeğini ve çekirdekteki taneciklerin birbirleriyle olan
+ThisIsTestLineForAlgorithm
+etkileşimlerini kararsız çekirdeklerin yaptıkları ışımaları inceler.
+Yüksek Enerji ve Plazma Fiziği: Yüksek enerjili parçacıkların hızlandırıcılarda
+çarpıştırılmasıyla ortaya çıkan parçacıkları, birbirleriyle olan etkileşimlerini ve maddenin 4.
+hâli olan plazmayı inceler.
+Bu alanlarda yer alan birçok meslek vardır. Elektrik, elektronik, elektronik haberleşme,
+bilgisayar, makine, mekatronik, inşaat, otomotiv, uçak ve malzeme mühendislikleri gibi
+meslekler fizik bilimini temel almaktadır.
+b) Fiziğin Diğer Disiplinlerle İlişkisi:
+Temel bir bilim dalı olan fiziğin diğer temel bilimlerle ve teknolojiyle ilişkisi vardır. Ayrıca evreni
+ve doğayı sorgulayan Thales, Demokritus, Aristo gibi filozoflarların fizik biliminin ortaya çıkmasında
+büyük katkıları vardır. Thales, maddeyi ilk karakterize eden felsefecidir. Demokritus ise maddeyi
+bölünemez en küçük parçaya indirgemesiyle ilk atom fikrini ortaya atmıştır.
+ÜNİTE
+ÜNİTE ÖZETİ
+ÖZETİ
+28
+Kimyada metal ve ametaller arasında iyonik bağ fiziğin bir konusu olan elektriksel kuvvet ile açıklanır.
+Fizik ve kimyada termodinamik, atom, radyoaktivite gibi konular, ortak konulardır. Biyolojide de fizik
+kanunlarının büyük rolü vardır. Gözümüze gelen ışınların göz merceği tarafından kırılarak görüntünün
+oluşması fiziğin bir alt alanı olan optik ile açıklanır. Kalbimizin kanı pompalaması basınç kavramıyla,
+bitkilerin suyu köklerden yapraklara kadar iletmesi basınç ve kılcallık olaylarıyla ilgilidir. Kulağımızın
+sesleri duyması, midede gerçekleşen fiziksel sindirim, gibi birçok olay da fizik kanunlarıyla açıklanır.
+Fiziğin matematikle olan ilişkisi oldukça önemlidir, çünkü matematik fiziğin dilidir. Fizik yasaları
+matematiksel modellerle ifade edilir.
+Teknolojik gelişmelerin birçoğu fizik bilimindeki gelişmelerin sonucudur. Ultrason, röntgen,
+bilgisayarlı tomografi (BT), manyetik rezonans (MR), pozitron emisyon tomografisi(PET) gibi
+görüntüleme yöntemleri, kullandığımız akıllı telefonlar, elektrikli aletler ve makineler, robotlar,
+haberleşme uyduları, uzay mekikleri ve internet gibi buluşlar fizik bilimindeki araştırmalar sırasında
+geliştirilmiştir. Fiziğin sanat ile olan ilişkisine örnek olarak müzik aletlerinin çalışma prensipleri fizik
+kanunlarıyla yakından ilgilidir. Ses bir dalgadır ve fiziğin bir optik ve dalgalar alt alanının konusudur.
+Fizik her alanda olduğu gibi sporun da içindedir, çünkü spor kuvvet, sürat ve gücün önemli olduğu bir
+alandır. Spor yapılan zeminin, giyilen ayakkabının veya kıyafetin yapısı sürati etkileyen faktörlerdir. Bir

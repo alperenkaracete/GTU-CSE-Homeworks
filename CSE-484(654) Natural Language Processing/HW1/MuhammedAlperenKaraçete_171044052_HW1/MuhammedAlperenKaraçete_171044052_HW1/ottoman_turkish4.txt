@@ -1,0 +1,424 @@
+‫ححح‬
+ThisIsTestLineForAlgorithm
+‫خخخ‬
+‫دﺪﺪ‬
+‫ذﺬﺬ‬
+‫رﺮﺮ‬
+‫زﺰﺰ‬
+‫ژﮋﮋ‬
+‫سسس‬
+‫ششش‬
+‫صصص‬
+‫ضضض‬
+‫ططط‬
+‫ظظظ‬
+‫ععع‬
+‫غغغ‬
+‫ففف‬
+‫ققق‬
+‫ككك‬
+‫ﮔﮕﻚ‬
+‫ﯕﯖﯔ‬
+‫للل‬
+‫ممم‬
+‫ننن‬
+‫وﻮﻮ‬
+‫ههه‬
+ThisIsTestLineForAlgorithm
+‫ﻻﻼﻼ‬
+‫ييى‬
+İKİNCİ ÜNİTE
+35
+Dikkat
+Aşağıdaki harfler kendinden sonra gelen harflerle birleşmez, bunların dışında kalan harfler birleşir.
+ThisIsTestLineForAlgorithm
+‫ا د ذ ر ز ژ و ال‬
+‫المبه‬
+‫بول‬
+‫ژیلت‬
+‫بزلیه‬
+‫رچل‬
+‫ذكي‬
+‫دیز‬
+‫امك‬
+Yazalım
+Aşağıda verilen harflerin ses karşılıklarını ve yazım şekillerini (başta-ortadasonda) harfin altındaki kutucuklara örnekteki gibi yazınız.
+‫ژ‬
+‫ﮔ‬
+‫ﻮ‬
+‫ﻆ‬
+‫ذ‬
+‫ﻜ‬
+‫ا‬
+...............
+ThisIsTestLineForAlgorithm
+...............
+ThisIsTestLineForAlgorithm
+...............
+...............
+...............
+kef
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+ortada
+...............
+...............
+‫ﺮ‬
+‫ﻗ‬
+‫ﺒ‬
+‫ط‬
+‫ﺪ‬
+‫ﺼ‬
+‫ﺦ‬
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+‫ﭗ‬
+‫ﯔ‬
+‫ﻴ‬
+‫ﺜ‬
+‫ﻬ‬
+‫ﺰ‬
+ThisIsTestLineForAlgorithm
+‫ﻏ‬
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+ThisIsTestLineForAlgorithm
+...............
+...............
+‫ﻌ‬
+‫ﺴ‬
+‫ﻔ‬
+‫ﭽ‬
+‫ﻟ‬
+‫ﺗ‬
+‫ﺿ‬
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+‫ء‬
+‫ﺞ‬
+‫ﻼ‬
+‫ﻤ‬
+‫ﺶ‬
+‫ﻧ‬
+‫ﺣ‬
+...............
+ThisIsTestLineForAlgorithm
+...............
+...............
+...............
+...............
+ThisIsTestLineForAlgorithm
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+...............
+ThisIsTestLineForAlgorithm
+...............
+36
+İKİNCİ ÜNİTE
+Eşleştirelim
+Aşağıdaki kutucuklarda ayrı ve bitişik yazılışları verilen harfleri örnekteki gibi uygun şekilde eşleştiriniz.
+‫طاغ‬
+‫بایراق‬
+‫بولوط‬
+‫چیچك‬
+‫چيچك‬
+‫صاقساغان‬
+‫صاقساغان‬
+‫بولوط‬
+‫بایراق‬
+‫طاغ‬
+‫ياپراق‬
+‫ياپراق‬
+ThisIsTestLineForAlgorithm
+‫كونش‬
+‫كونش‬
+Pekiştirelim
+ThisIsTestLineForAlgorithm
+Kitabınızın “Ek Etkinlikler” bölümünde yer alan (140. sayfa) “Harfler Kutuda”
+etkinliğini yapabilirsiniz.
+İKİNCİ ÜNİTE
+37
+ThisIsTestLineForAlgorithm
+İnceleyelim
+Aşağıdaki tablolarda harflerin bitişik yazılışları (kelime başında, ortasında ve
+ThisIsTestLineForAlgorithm
+sonundaki şekilleri) gösterilmektedir. Harflerde meydana gelen şekil değişikliklerini, harf adlarını birbirinize söyleyerek inceleyiniz.
+Kendinden sonraki harflerle birleşenler
+‫فلت‬
+‫طبخ‬
+‫عرش‬
+‫رقص‬
+‫وعظ‬
+‫مانع‬
+‫منیف‬
+‫چیچك‬
+‫خلل‬
+‫امل‬
+‫گلن‬
+‫پچه‬
+‫ایكی‬
+‫جپق‬
+‫مچن‬
+‫چشم‬
+‫مصر‬
+‫فظل‬
+‫قعده‬
+‫طقل‬
+ThisIsTestLineForAlgorithm
+‫پكر‬
+‫كلن‬
+‫كمال‬
+‫جنت‬
+‫تهلكه‬
+‫پینری‬
+‫بشص‬
+‫جرح‬
+‫سوت‬
+‫صاغ‬
+‫طیش‬
+‫عنی‬
+‫فجر‬
+ThisIsTestLineForAlgorithm
+‫گوڭل‬
+‫لنس‬
+‫مشك‬
+ThisIsTestLineForAlgorithm
+‫نقض‬
+‫هركس‬
+‫یاز‬
+‫ ث‬،‫ ت‬،‫ پ‬،‫ب‬
+‫ خ‬،‫ ح‬،‫ چ‬،‫ج‬
+‫ ش‬،‫س‬
+‫ ض‬،‫ص‬
+‫ ظ‬،‫ط‬
+‫ غ‬،‫ع‬
+‫ ق‬،‫ف‬
+‫ ڭ‬،‫ گ‬،‫ك‬
+‫ل‬
+‫م‬
+‫ن‬
+‫ه‬
+‫ی‬
+Kendinden sonraki harflerle birleşmeyenler
+‫كما‬
+‫مقد‬
+‫اخذ‬
+‫منرب‬
+‫قزی‬
+‫شرژ‬
+‫صفو‬
+‫اعال‬
+‫طاس‬
+‫یدام‬
+‫جذب‬
+‫سرچه‬
+‫بزل‬
+‫نژط‬
+‫گوی‬
+‫بالد‬
+‫ابج‬
+‫دصل‬
+‫ذكی‬
+‫رجب‬
+‫زهر‬
+‫ژلت‬
+‫وند‬
+‫الشه‬
+‫ا‬
+‫د‬
+‫ذ‬
+‫ر‬
+ThisIsTestLineForAlgorithm
+‫ز‬
+‫ژ‬
+‫و‬
+‫ال‬
+38
+İKİNCİ ÜNİTE
+2.3. Rakamlar ve Noktalama İşaretleri
+Hazırlanalım
+• Rakamların günlük hayatımızdaki işlevleri nelerdir? Sözlü olarak ifade ediniz.
+• Noktalama işaretlerinin okuma ve yazmaya katkıları nelerdir? Söyleyiniz.
+İnceleyelim
+Aşağıda Osmanlı Türkçesinde kullanılan rakamlar verilmiştir. Tabloda verilen rakamların yazılışlarını inceleyiniz.
+RAKAMLAR VE SAYILAR
+On bir
+11
+On iki
+12
+On üç
+13
+On dört
+14
+On beş
+15
+On altı
+16
+On yedi
+17
+On sekiz
+18
+On dokuz
+19
+Yirmi
+20
+Yüz
+100
+ThisIsTestLineForAlgorithm
+۱۱
+۱۲
+ThisIsTestLineForAlgorithm
+۱٣
+۱٤
+۱٥
+۱٦
+۱٧
+۱٨
+۱٩
+۲٠
+١٠٠
+Bir
+1
+İki
+2
+Üç
+3
+Dört
+4
+Beş
+5
+Altı
+6
+Yedi
+7
+Sekiz
+8
+Dokuz
+9
+ThisIsTestLineForAlgorithm
+Sıfır
+0
+On
+10
+١
+٢
+٣
+٤
+٥
+٦
+٧
+٨
+٩
+٠
+١٠
+Dikkat
+•
+•
+Osmanlı Türkçesinde sayılar, rakamlarla yazıldığında soldan
+sağa doğru yazılır ve okunur.
+Tarihlerin yazımında gün, ay, yıl
+kısımları yazıda olduğu gibi sağdan sola doğru (YYYY/AA/GG)
+sıralanır.
+٥٧۱
+٥٧۱/٠٤/۲٠
+ThisIsTestLineForAlgorithm
+571
+571/04/20
+۱٤٥٣
+۱٩٦٠/٠٤/٠٣
+1453
+ThisIsTestLineForAlgorithm
+1960/04/03
+۲٠۱٦
+(٣٤٤) ۲۱٥٠٩٧٦
+2016
+(344) 2150976
+İKİNCİ ÜNİTE
+39
+Eşleştirelim
+Aşağıdaki rakamlarla okunuşlarını örnekteki gibi eşleştiriniz.
+٤٥
+١٧
+٢٦
+٣٨
+38
+45
+17
+26
+٥٣
+ThisIsTestLineForAlgorithm
+٩٠
+٦٢
+٨٧
+90
+53
+87
+62
+Yazalım
+Aşağıdaki saatlere bakarak saatin kaç olduğunu noktalı alanlara yazınız.
+............................
+............................
+............................
+............................
+İnceleyelim
+Aşağıdaki tabloda Osmanlı Türkçesi metinlerinde kullanılan noktalama işaretlerinden bazıları gösterilmiştir. Verilen noktalama işaretlerini inceleyerek günümüzdeki şekilleriyle karşılaştırınız.
+NOKTALAMA İŞARETLERİ
+Ünlem
+!
+Soru işareti
+‫؟‬
+Noktalı virgül
+‫؛‬
+Virgül
+،
+Nokta
+.
+İnceleyelim
+Aşağıda Osmanlı Türkçesiyle yazılmış bir metin verilmiştir. Metni inceleyerek
+Osmanlı Türkçesinde kullanılan noktalama işaretlerini daire içine alınız.
+‫هم نه اچیون بين ييللرجه بارينديرمش اوالن بر يردن‬
+،‫—“ئوله جكسڭ!” دييه قوغمق؟ بو قوغوملقدر؛ بن‬
