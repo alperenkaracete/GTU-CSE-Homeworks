@@ -1,0 +1,421 @@
+T. C.
+MİLLÎ EĞİTİM BAKANLIĞI
+HAYAT BOYU ÖĞRENME GENEL MÜDÜRLÜĞÜ
+AÇIK ÖĞRETİM DAİRE BAŞKANLIĞI
+KİMYA
+1
+DERS KİTABI
+YAZAR
+Asiye Özle
+İnciser İpek
+ThisIsTestLineForAlgorithm
+ANKARA - 2022
+Dil Uzmanı
+Bülent Kenan Erkan
+Görsel Tasarım Uzmanı
+Fatih Sağlam
+Grafik Tasarım Uzmanı
+Neslihan Kılıç
+Copyright c MEB
+Her hakkı saklıdır. MillÎ Eğitim Bakanlığı’na aittir. Tümü ya da bölümleri izin
+alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+İSTİKLÂL MARŞI
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+Bastığın yerleri toprak diyerek geçme, tanı:
+Düşün altındaki binlerce kefensiz yatanı.
+Sen şehit oğlusun, incitme, yazıktır, atanı:
+ThisIsTestLineForAlgorithm
+Verme, dünyaları alsan da bu cennet vatanı.
+Çatma, kurban olayım, çehreni ey nazlı hilâl!
+Kahraman ırkıma bir gül! Ne bu şiddet, bu celâl?
+Sana olmaz dökülen kanlarımız sonra helâl.
+Hakkıdır Hakk’a tapan milletimin istiklâl.
+Kim bu cennet vatanın uğruna olmaz ki feda?
+Şüheda fışkıracak toprağı sıksan, şüheda!
+Cânı, cânânı, bütün varımı alsın da Huda,
+Etmesin tek vatanımdan beni dünyada cüda.
+Ben ezelden beridir hür yaşadım, hür yaşarım.
+Hangi çılgın bana zincir vuracakmış? Şaşarım!
+Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+Yırtarım dağları, enginlere sığmam, taşarım.
+Ruhumun senden İlâhî, şudur ancak emeli:
+Değmesin mabedimin göğsüne nâmahrem eli.
+Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+Garbın âfâkını sarmışsa çelik zırhlı duvar,
+Benim iman dolu göğsüm gibi serhaddim var.
+Ulusun, korkma! Nasıl böyle bir imanı boğar,
+Medeniyyet dediğin tek dişi kalmış canavar?
+O zaman vecd ile bin secde eder -varsa- taşım,
+Her cerîhamdan İlâhî, boşanıp kanlı yaşım,
+Fışkırır ruh-ı mücerret gibi yerden na’şım;
+O zaman yükselerek arşa değer belki başım.
+Arkadaş, yurduma alçakları uğratma sakın;
+Siper et gövdeni, dursun bu hayâsızca akın.
+Doğacaktır sana va’dettiği günler Hakk’ın;
+Kim bilir, belki yarın, belki yarından da yakın
+Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+ThisIsTestLineForAlgorithm
+Olsun artık dökülen kanlarımın hepsi helâl.
+Ebediyyen sana yok, ırkıma yok izmihlâl;
+ThisIsTestLineForAlgorithm
+Hakkıdır hür yaşamış bayrağımın hürriyyet;
+Hakkıdır Hakk’a tapan milletimin istiklâl!
+Mehmet Âkif Ersoy
+ThisIsTestLineForAlgorithm
+GENÇLİĞE HİTABE
+Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk
+Cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir.
+Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel,
+senin en kıymetli hazinendir. İstikbalde dahi, seni bu hazineden
+mahrum etmek isteyecek dâhilî ve hâricî bedhahların olacaktır.
+Bir gün, istiklâl ve cumhuriyeti müdafaa mecburiyetine düşersen,
+vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şeraitini
+düşünmeyeceksin! Bu imkân ve şerait, çok namüsait bir mahiyette
+tezahür edebilir. İstiklâl ve cumhuriyetine kastedecek düşmanlar,
+bütün dünyada emsali görülmemiş bir galibiyetin mümessili
+olabilirler. Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş,
+bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin
+her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şeraitten daha elîm
+ThisIsTestLineForAlgorithm
+ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip
+olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu
+iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle
+tevhit edebilirler. Millet, fakr u zaruret içinde harap ve bîtap düşmüş
+olabilir.
+Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerait içinde dahi
+vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır. Muhtaç olduğun
+kudret, damarlarındaki asil kanda mevcuttur.
+ThisIsTestLineForAlgorithm
+Mustafa Kemal Atatürk
+MUSTAFA KEMAL ATATÜRK
+GÜVENLİK İŞARETLERİ
+Laboratuvar uygulamalarında karşılaşabileceğiniz tehlikelere karşı kendinizin ve çevrenizin güvenliğini
+sağlamak için uymanız gereken bazı kurallar bulunmaktadır. Bu kurallar ve bu kurallara ait sembol ve işaretler
+aşağıda verilmiştir.
+Koruyucu Giysi Giy
+Bu uyarı işareti, laboratuvar deneyleri
+sırasında kullanılan malzemelerin giysilere
+zarar vereceği bu nedenle önlük ya da tulum
+kullanılması gerektiği anlamını taşır.
+Maske Kullan
+Bu işaret, işlemlerde kimyasal tepkimeler
+sonucu zararlı gazlar oluşabileceğini, bu
+nedenle maske kullanılması gerektiğini
+belirtir.
+Kesici / Delici Cisim
+Yapılacak işlemlerde kesici/ delici malzemelerin
+kullanılacağını, bu tür malzemelerin yaralanmalara
+sebep olabileceğini gösterir.
+Toksik (Zehirli) Madde
+Bu işaret, solunduğunda ya da ağız yoluyla
+ThisIsTestLineForAlgorithm
+alındığında zehirleyici (toksik) etkiye sahip
+maddeler için kullanılır.
+Eldiven Giy
+Yapılacak işlemlerde sıcak bir yüzeyin
+olduğunu veya ısıtıcı kullanılacağını
+gösterir. Bu nedenle ıs ıya dayanıklı
+eldiven kullanılması gerektiği anlamını
+taşır.
+Gözlük Kullan
+Bu işaret, işlemlerde göz sağlığı için
+zararlı maddelerin kullanılacağını, bu
+nedenle gözlük kullanılması gerektiğini
+belirtir.
+Kırılabilir Malzeme
+Bu
+işaret,
+i şlemlerde,
+kırılabilecek
+ThisIsTestLineForAlgorithm
+malzemelerin kullanılacağını belirtir. Cam
+malzemelerin aşırı ısıtılmaması ve ani
+sıcaklık değişimlerine maruz bırakılmaması
+gerektiği anlamını taşır.
+Aşındırıcı (Korozif) Madde
+Bu işaret, temas hâlinde kimyasal olarak canlı
+dokulara ciddi zararlar verebilen ya da
+tamamıyla tahrip edebilen maddeler için
+kullanılır. Aşındırıcı maddeler metal yüzeyleri
+de aşındırır.
+Patlayıcı Madde
+Yakıcı (Oksitleyici) Madde
+Bu işaret; kıvılcım, ısınma, alev, vurma,
+çarpma ve sürtünmeye maruz kaldığında
+patlayabilen maddeler için kullanılır.
+Bu işaret, havasız ortamda bile yanabilen,
+maddelerle temas ettiğinde alev alabilen
+veya patlayabilen maddeler için kullanılır.
+ThisIsTestLineForAlgorithm
+Yanıcı Madde
+Tahriş Edici Madde
+Ateşe, güneş ışığına ve ısıya maruz kaldığında
+yanabilen maddeler için kullanılan uyarı
+işaretidir.
+Düşük şiddette sağlığa zararlı maddeler
+için kullanılan uyarı işaretidir. Bu tür
+maddeler ciltte tahrişe sebep olur.
+ThisIsTestLineForAlgorithm
+Kimya 1
+İÇİNDEKİLER
+1. ÜNİTE
+KİMYA BİLİMİ
+1.1. SIMYADAN KIMYAYA .........................................................................................................12
+ThisIsTestLineForAlgorithm
+KIMYANIN BILIM OLMA SÜRECI .....................................................................................................................12
+OKUMA PARÇASI: ESKI UYGARLIKLARIN KIMYA BILIMINE KATKILARI ............................................15
+SIMYADAN KIMYAYA GEÇIŞ SÜRECI ...............................................................................................................16
+MODERN KIMYA DÖNEMI .................................................................................................................................18
+1.2. KIMYA DISIPLINLERI VE KIMYACILARIN ÇALIŞMA ALANLARI .......................19
+KIMYA DISIPLINLERI ...........................................................................................................................................19
+KIMYACILARIN ÇALIŞMA ALANLARI ............................................................................................................21
+KIMYA ALANI ILE ILGILI MESLEKLER ...........................................................................................................24
+1.3. KIMYANIN SEMBOLIK DILI ............................................................................................27
+ELEMENT ADLARI VE SEMBOLLERI ...............................................................................................................27
+YAYGIN KULLANILAN BILEŞIKLER VE FORMÜLLERI ...............................................................................29
+1.4. KIMYA UYGULAMALARINDA İŞ SAĞLIĞI VE GÜVENLIĞI ..................................31
+KIMYASAL MADDELERIN INSAN SAĞLIĞI VE ÇEVREYE ETKILERI ....................................... .............31
+İNSAN SAĞLIĞINA VE ÇEVREYE ZARARLI ETKILERI OLAN BAZI MADDELER ................................34
+KIMYADA KULLANILAN SAĞLIK VE GÜVENLIK AMAÇLI TEMEL UYARI IŞARETLERI ..................37
+KIMYA LABORATUVARINDA UYULMASI GEREKEN IŞ SAĞLIĞI VE GÜVENLIĞI KURALLARI .....40
+KIMYA LABORATUVARINDA KULLANILAN BAZI TEMEL MALZEMELER ..........................................41
+ÖZET ....................................................................................................................................43
+1. ÜNITE ÖLÇME VE DEĞERLENDIRME SORULARI ...........................................................44
+8
+2.Ünite Atom ve Periyodik Sistem
+2. ÜNİTE
+ATOM VE PERİYODİK SİSTEM
+2.1. ATOM MODELLERI ...................................................................................................50
+ATOM MODELLERI ................................................................................................................................................50
+ATOMLARIN KATMAN-ELEKTRON DAĞILIMLARI ......................................................................................53
+MODERN ATOM TEORISI .....................................................................................................................................57
+2.2. ATOMUN YAPISI.......................................................................................................58
+ELEKTRON, PROTON VE NÖTRONUN YÜKLERI, KÜTLELERI VE ATOMDA
+BULUNDUKLARI YERLER...................................................................................................................................58
+- ATOM NUMARASI ......................................................................................................................................59
+- KÜTLE NUMARASI .....................................................................................................................................60
+- İZOTOP ..........................................................................................................................................................61
+- İZOTON .........................................................................................................................................................62
+ThisIsTestLineForAlgorithm
+- İZOBAR ..........................................................................................................................................................62
+- İZOELEKTRONIK ........................................................................................................................................63
+2.3. PERIYODIK SISTEM ...........................................................................................................64
+DMITRI IVANOVICH MENDELEYEV VE PERIYODIK SISTEM .................................................................64
+MOSELEY VE PERIYODIK SISTEMI .................................................................................................................65
+ATOMLARIN KATMAN-ELEKTRON DAĞILIMLARI VE PERIYODIK SISTEMDEKI YERLERI ...........66
+ELEMENTLERIN PERIYODIK SISTEMDEKI YERLERINE GÖRE SINIFLANDIRILMASI.......................69
+PERIYODIK ÖZELLIKLERIN DEĞIŞME EĞILIMLERI...................................................................................72
+-ATOM YARIÇAPI........................................................................................................................................72
+- İYONLAŞMA ENERJISI...............................................................................................................................73
+- ELEKTRON İLGISI.......................................................................................................................................76
+- ELEKTRONEGATIFLIK..............................................................................................................................76
+- METALIK AMETALİK KARAKTER..........................................................................................................77
+ÖZET...................................................................................................................................................78
+2. ÜNITE ÖLÇME VE DEĞERLENDIRME SORULARI...........................................................79
+CEVAP ANAHTARI.............................................................................................................83
+SÖZLÜK...............................................................................................................................85
+KAYNAKÇA.........................................................................................................................87
+9
+1.
+ÜNİTE
+KİMYA
+BİLİMİ
+1. 1. SIMYADAN KIMYAYA
+1. 2. KIMYA DISIPLINLERI VE KIMYACILARIN
+ÇALIŞMA ALANLARI
+1. 3. KIMYANIN SEMBOLIK DILI
+1. 4. KIMYA UYGULAMALARINDA İŞ SAĞLIĞI VE
+ThisIsTestLineForAlgorithm
+GÜVENLIĞI
+NELER ÖĞRENECEKSİNİZ?
+Bu üniteyi tamamladıktan sonra;
+• Simyanın kimya bilimine katkılarını fark edecek,
+• Kimya disiplinleri ve kimyacıların çalışma alanlarını açıklayabilecek,
+• Kimyanın sembolik dilini kullanarak yaygın element ve bileşikleri
+tanıyacak,
+• Kimya uygulamalarında iş sağlığı ve güvenliğinin önemini
+kavrayabilecek,
+• Kimyasal maddelerin insan sağlığı ve çevre üzerindeki etkilerini
+açıklayabilecek,
+• Kimya laboratuvarında kullanılan temel malzemeleri tanıyacaksınız.
+ANAHTAR KAVRAMLAR
+simya, kimya, madde, element, bileşik, sembol, formül,
+ThisIsTestLineForAlgorithm
+bilim insanı, laboratuvarda güvenlik
+Kimya 1
+1.1. SİMYADAN KİMYAYA
+KIMYANIN BILIM OLMA SÜRECI
+Kimya; maddelerin özelliklerini, yapısını, birbirine dönüşümlerini,
+maddeyi oluşturan taneciklerin neden ve nasıl bir arada kalabildiğini ve
+üretim yöntemlerini konu alan bir bilim dalıdır. Bu bilim dalının kökleri çok
+eskilere “simya” ya dayanmaktadır. İnsanlığın başlangıcıyla birlikte var olduğu
+düşünülen simya, daha çok maddeleri farklı maddelere dönüştürme, onlara
+istenilen özellikleri kazandırma çabasıdır. Simyacılar bu süreçte kurşun veya
+bakır gibi değersiz bazı metalleri altına dönüştürme, hastalık için bir çare
+bulma ve yaşamı uzatma uğraşı içinde olmuş zamanının araştırmacıları ve
+düşünürleridir.
+Simyacılar o dönemde değersiz metalleri altına dönüştürmeyi ve ölümsüzlük iksirini bulmayı başaramasalar da günümüzde de kullanılan birçok keşifte
+bulunmuş ve çalışmaları modern kimyanın temellerini oluşturmuştur.
+Simyacıların keşifleri gözlem, deneme, yanılma ve tesadüflere dayalıdır.
+Korunma, beslenme gibi temel ihtiyaçlar sonrasında doğa olaylarını anlama
+ve yaşamı daha kolay hâle getirme çabaları merak ve ilgi ile birleşince insanı
+ThisIsTestLineForAlgorithm
+daha gözlemci ve sorgulayıcı kılmıştır. Örneğin yıldırım, yanardağ, orman
+yangınları gibi doğal olaylarla ateşi tanıyan, yanıcı maddeleri fark eden insan
+ateşi ısınma, aydınlanma, yemek yapmada kullanmıştır. Daha sonraki süreçte
+ise insanlar deneme yanılma ile kömürü ocaklarda kullanmış, bakır ve demiri
+elde edebilmiştir.
+Yiyeceklerin tadı için kullanılan tuz zamanla yiyecekleri saklamada; nane,
+kekik, hint yağı, kimyon, zencefil, çörek otu vb. birçok bitki de şifa amaçlı
+kullanılmıştır.
+Simyadan günümüze aktarılan birçok keşiften
+bazıları şunlardır:
+• Ham derinin bozulmasını önleme, kıl köklerinden
+arındırma ve deriye dayanıklılık kazandırma
+işlemleri,
+• Toprak ve seramik kaplar, cam yapımı, kilden
+yapılan kaplara sır uygulanması,
+12
+Görsel 1.1
+Toprak kap
+1.Ünite Kimya Bilimi
+• İpek, yün, keten ve pamuk gibi bitkilerden
+iplik elde etme ve iplikleri dokuyarak elde
+edilen kumaşlardan giysi hazırlama,
+• Boyamada safran ve kökboyaların yanında kıbrıs taşı, şap, göz taşı gibi maddelerin kullanımı.
+Bu ve benzeri uygulamalar geniş kitlelere
+yayılarak günümüze kadar aktarılmış ve hâlen
+de kullanılmaktadır.
+Görsel 1.2 İplik dokuma ve boyama
+Simya aynı zamanda içinde fizik, tıp, astroloji, din ve sanatı da barındıran
+bir uğraş alanı olmuştur. Bu nedenle bu alanda uğraşan pek çok simyacı
+zamanının ciddi bilginleridir ve aynen ilk kimyagerler gibi kendi geliştirdikleri
+laboratuvarlarda belirli aletlerden faydalanmışlardır. Bu bilginlerin yaşadığı
+ThisIsTestLineForAlgorithm
+dönemlerde;
+• Barut, mürekkep, sabun, esans, soda, nitrik asit, amonyak, sülfürik asit,
+eter, etil alkol gibi önemli kimyasal maddeler ve kükürt, cıva, altın, bakır,
+demir gibi çeşitli elementler keşfedilmiştir.
+• Karışımları ayırmak için kullanılan;
+eleme, ısıtma, suda çözme, damıtma,
+ThisIsTestLineForAlgorithm
+kristallendirme gibi birçok deneysel
+yöntem ve teknikler günümüze kazandırılmıştır.
+• Madenler işlenerek mutfak eşyalarında, süs eşyalarında, av aletlerinde vb.
+kullanılmış, tunç (bakır-kalay alaşımı)
+üretilmiştir.
+Görsel 1.3 Simya dönemi damıtma aleti
+• Kimyasal işlemler ve bu işlemleri uygulamak için çanaklar, şişeler, maşalar, huniler vb. birçok araç gereç tasarlanmıştır.
+13
+Kimya 1
+Bugün de kullanılan birçok teknik ve yöntem simyacılar tarafından
+geliştirilmiş olmasına rağmen simyanın bir bilim olmadığı unutulmamalıdır.
+Simya ile kimya arasındaki farklara aşağıda kısaca değinilmiştir:
+SİMYA
+• Simyada deneyler ve deneyimler ön plandadır ancak bunlar çoğunlukla
+rastgele ve tesadüfe dayalıdır. Örneğin kömürün yandığı tesadüfen
+ThisIsTestLineForAlgorithm
+keşfedilmiştir ama "Kömür neden yanar?" sorusuyla ilgilenilmemiştir.
+• Simya, geliştiği kültürün etkisi ile din, astroloji, sihir, felsefe ile de ilgilidir.
+• Simya ile uğraşan kişiler (simyacılar) birer filozof, düşünür ve o dönemin bilginleridir.
+KİMYA
+• Kimya, kontrollü koşullarda (sabit sıcaklık, basınç ortamı gibi) yapılan
+deneysel ve gözlemsel verileri bir sistem dâhilinde kaydeder ve kullanır.
+Örneğin "Kömür yanar, acaba başka maddeler de yanar mı? Kömürün
+yanmasının nedeni nedir? Her yanan madde aynı ısıyı mı verir?" gibi
+elde edilen bilgileri temel alarak daha fazlasını ve nedenlerini sorgular,
+araştırır, tesadüflere bırakmaz.
+• Kimya evrenseldir. Modern kimya bilimsel teorilere, deney sonuçlarına
+ve gözlemlerden elde edilen sistematik bilgi birikimine dayanır.
+• Kimya bilimi ile uğraşan kişiler bilim insanıdır. Bilim insanı, sistematik
+bilgiyi bilimsel verilerle elde eder.
+Simya döneminde Mezopotamya, Çin, Hint, Mısır, Yunan, Orta Asya
+olmak üzere birçok uygarlıkta çok değerli bilginler yetişmiş ve bu kişiler kimya
+bilimine çok çeşitli katkılarda bulunmuşlardır. Yandaki okuma parçasında
+bu uygarlıkların kimyaya olan katkılarından ve bunların kültürler arası nasıl
+aktarıldığından kısaca bahsedilmiştir.
+14
+1.Ünite Kimya Bilimi
+OKUMA PARÇASI
+ESKİ UYGARLIKLARIN KİMYA BİLİMİNE KATKILARI
+İnsanlık tarihinin belli kesitlerine ait geçmiş kazanımlardan bazıları günümüze
+ulaşabilmişken kimi kaybolmuş kimisi de halâ bulunmayı beklemektedir. Bunlardan
+simyayla ilgili olanları bizleri milattan önce 15.000 ile 5000 yıllarına; Sümerlere,
+Bâbil’e, Antik Mısır’ a, Çin ve Mezopotamya’ ya kadar götürmektedir.
+• MÖ 4000’lerde altın, bakır, demir gibi metallerin elde edildiğine, bir alaşım olan
+tuncun kullanıldığına dair izler bulunmaktadır.
+• MÖ 3050' den, MÖ 30’lu yıllara kadar geçen süreçte Mısır’ da simya alanında
+birçok bulgu elde edilmiştir. Sıva yapımında alçı, mumyalama için çeşitli
+kimyasallar kullanılmıştır. Anadolu’ dan bronz yapımı (bakır alaşımlarının genel
+adı) için kalay ve bakırı temin etmişler. Antik Yunan (MÖ 756-146) ve Girit'ten
+keten ( kumaş), papirüs (kağıt) , cam ihraç etmişlerdir. İlk mısır yağı MÖ 4500
+yıllarında Antik Mısır’ da üretilmiştir.
+• MÖ 3000-600 yılları arasında Çinliler barutu keşfetmişlerdir. Hint, Çin, Mezopotamya ve Anadolu halkları İpek Yolu ticareti ile birbiriyle temas içinde olmuş, bu
+halkların edindikleri birikim ve kültür geniş bir coğrafyaya yayılmıştır.
+Mezopotamya halklarından olan Fenikeliler, Akdeniz’de altın, gümüş, bakır,
+zeytinyağı ticaretiyle uğraşmış, o dönemde sabunu kullanmışlardır.
+• MÖ 2000 ve 1200 yılları arasında Anadoluda Ege bölgesinde yaşayan ve doğudan
+geldiği bilinen İyonlar; Mısır, Fenike, Babil ve Anadolu’ da öğrendikleri tıp, felsefe, matematik, astronomi ve doğa ile ilgili kazanımlarını önce Yunan'a sonra da
+Roma'ya ulaştırmışlardır. Yunan ve Roma döneminde, simya deneysel bir sonucu
+olmaksızın daha çok felsefi boyutta ele alınmıştır. Batıdaki bütün eski çağ toplumları arasındaki olguları toplayıp karşılaştıran, tutarlı bir şekilde birleştiren, sağlam
+açıklamalar tasarlayan ilk doğa filozofları Yunan ve Romalılar olmuştur.
+• MS 375-1453 yılları arasında Orta Çağ Avrupa simyacıları çaresiz hastalıkların tedavisini bulma, ölümsüzlük iksirine (ab-ı hayat suyu) ulaşma ve değersiz madenleri
+altına çevirme uğraşısı içinde olmuşlardır. Bu dönemde, doğuda Müslüman âlimler
+kendilerinden öncekilerin geleneklerini alıp geliştirmişler; tıp, matematik,
+astronomi ve kimya gibi birçok bilimin oluşmasına kaynak olabilecek önemli
+çalışmalarda bulunmuşlardır. İslam'ın yayılması ile İslam dünyasındaki gelişmeler
+Anadolu ve Endülüs yoluyla (9-13.yüzyıl) Avrupa’ ya aktarılmıştır. 15 ve 16.
+ThisIsTestLineForAlgorithm
+yüzyılda Eski Roma ve Yunan' la bütünleşme olarak da görülen Rönesans sonrası
+dönemde Avrupa' da bilim hızla gelişmiştir.
+Yazar tarafından düzenlenmiştir.
+15
+Kimya 1
+SİMYADAN KİMYAYA GEÇİŞ SÜRECİ
+Empedokles (MÖ 482-423)
+Görsel 1.4
+ThisIsTestLineForAlgorithm
+Empedokles
+Empedokles (Empedokles) maddedeki değişimlerin neden ortaya çıktığını yorumlayan Sicilyalı doğa bilginidir.
+Maddeyi oluşturan temel öğe olarak kendinden önceki
+düşünürlerin belirlediği ateş, hava ve suya 4. öğe olan
+toprağı eklemiştir. Bu maddeleri birbirlerine yakınlaştıran
+ya da uzaklaştıran güçlerin sevgi ve nefret olduğuna
+inanmıştır.
+Democritus (MÖ 460-370)
+Görsel 1.5
+Democritus
+Yunan filozofu Democritus (Demokritos) evrendeki
+maddeleri bölmeye çalıştığımızda daha da bölünemeyecek
+bir son noktasının olması gerektiğini varsaymış ve bu son,
+bölünmez parçaya atom adını vermiştir. Ayrıca evrenin,
+atomların bir araya gelmesiyle oluştuğunu ve evrende gözlemlenen değişimlerin atomların birleşmesi ve dağılmasından ibaret olduğunu belirtmiştir.
+Aristo (MÖ 384-322)
+Görsel 1.6
+Aristo
+16
+İyon filozofu Aristo (Aristo) maddenin atomlu yapıda
+olduğu görüşüne katılmayıp evrendeki her şeyin element
+olarak varsaydığı ateş, hava, su ve topraktan oluştuğunu
+iddia etmiştir. Element olarak varsaydığı bu dört maddenin sıcak, soğuk, ıslak ve kuru gibi özelliklerinin olduğunu
+düşünmüştür. Ayrıca bu dört maddenin farklı oranlarda
+birleşmesiyle diğer maddelerin oluştuğunu öne sürmüştür.
+Aristo, dört element teorisi ile Orta Çağ boyunca tek otorite olarak kalmıştır.
+1.Ünite Kimya Bilimi
+Ebu Musa Cabir bin Hayyan (721-815)
+Abbasiler döneminde yaşamış Farsî bilgin Cabir bin
+Hayyan kendi geliştirdiği yöntemlerle kimyayı, analiz ve
+matematikle açıklamış ve kimya biliminin temelini atmıştır.
+Atomun parçalanabileceğini o zamanda söyleyen büyük bir
+bilim adamıdır.
+Kristalleşme, damıtma ve buharlaşma gibi birçok terimi
+ve tekniği kimyaya kazandırmış “imbik”i geliştirmiştir.
+Çalışmaları sonucu keşfettiklerinden bazıları; sülfürik asit,
+nitrik asit, hidrojen klorürün rafine ve kristalize yöntemleri ve
+“kral suyu” dur. Ayrıca çok zehirli olan arsenik tozunu elde
+eden ilk kişidir.
+Görsel 1.7
+Cabir Bin Hayyan

@@ -1,0 +1,4272 @@
+T. C.
+MİLLÎ EĞİTİM BAKANLIĞI
+HAYAT BOYU ÖĞRENME GENEL MÜDÜRLÜĞÜ
+AÇIK ÖĞRETİM DAİRE BAŞKANLIĞI
+
+KİMYA
+1
+DERS KİTABI
+
+YAZAR
+Asiye Özle
+İnciser İpek
+
+ANKARA - 2022
+
+Dil Uzmanı
+Bülent Kenan Erkan
+Görsel Tasarım Uzmanı
+Fatih Sağlam
+Grafik Tasarım Uzmanı
+Neslihan Kılıç
+
+Copyright c MEB
+Her hakkı saklıdır. MillÎ Eğitim Bakanlığı’na aittir. Tümü ya da bölümleri izin
+alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+
+İSTİKLÂL MARŞI
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+
+Bastığın yerleri toprak diyerek geçme, tanı:
+Düşün altındaki binlerce kefensiz yatanı.
+Sen şehit oğlusun, incitme, yazıktır, atanı:
+Verme, dünyaları alsan da bu cennet vatanı.
+
+Çatma, kurban olayım, çehreni ey nazlı hilâl!
+Kahraman ırkıma bir gül! Ne bu şiddet, bu celâl?
+Sana olmaz dökülen kanlarımız sonra helâl.
+Hakkıdır Hakk’a tapan milletimin istiklâl.
+
+Kim bu cennet vatanın uğruna olmaz ki feda?
+Şüheda fışkıracak toprağı sıksan, şüheda!
+Cânı, cânânı, bütün varımı alsın da Huda,
+Etmesin tek vatanımdan beni dünyada cüda.
+
+Ben ezelden beridir hür yaşadım, hür yaşarım.
+Hangi çılgın bana zincir vuracakmış? Şaşarım!
+Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+Yırtarım dağları, enginlere sığmam, taşarım.
+
+Ruhumun senden İlâhî, şudur ancak emeli:
+Değmesin mabedimin göğsüne nâmahrem eli.
+Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+
+Garbın âfâkını sarmışsa çelik zırhlı duvar,
+Benim iman dolu göğsüm gibi serhaddim var.
+Ulusun, korkma! Nasıl böyle bir imanı boğar,
+Medeniyyet dediğin tek dişi kalmış canavar?
+
+O zaman vecd ile bin secde eder -varsa- taşım,
+Her cerîhamdan İlâhî, boşanıp kanlı yaşım,
+Fışkırır ruh-ı mücerret gibi yerden na’şım;
+O zaman yükselerek arşa değer belki başım.
+
+Arkadaş, yurduma alçakları uğratma sakın;
+Siper et gövdeni, dursun bu hayâsızca akın.
+Doğacaktır sana va’dettiği günler Hakk’ın;
+Kim bilir, belki yarın, belki yarından da yakın
+
+Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+Olsun artık dökülen kanlarımın hepsi helâl.
+Ebediyyen sana yok, ırkıma yok izmihlâl;
+Hakkıdır hür yaşamış bayrağımın hürriyyet;
+Hakkıdır Hakk’a tapan milletimin istiklâl!
+Mehmet Âkif Ersoy
+
+GENÇLİĞE HİTABE
+Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk
+Cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir.
+Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel,
+senin en kıymetli hazinendir. İstikbalde dahi, seni bu hazineden
+mahrum etmek isteyecek dâhilî ve hâricî bedhahların olacaktır.
+Bir gün, istiklâl ve cumhuriyeti müdafaa mecburiyetine düşersen,
+vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şeraitini
+düşünmeyeceksin! Bu imkân ve şerait, çok namüsait bir mahiyette
+tezahür edebilir. İstiklâl ve cumhuriyetine kastedecek düşmanlar,
+bütün dünyada emsali görülmemiş bir galibiyetin mümessili
+olabilirler. Cebren ve hile ile aziz vatanın bütün kaleleri zapt edilmiş,
+bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin
+her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şeraitten daha elîm
+ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip
+olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu
+iktidar sahipleri şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle
+tevhit edebilirler. Millet, fakr u zaruret içinde harap ve bîtap düşmüş
+olabilir.
+Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerait içinde dahi
+vazifen, Türk istiklâl ve cumhuriyetini kurtarmaktır. Muhtaç olduğun
+kudret, damarlarındaki asil kanda mevcuttur.
+Mustafa Kemal Atatürk
+
+MUSTAFA KEMAL ATATÜRK
+
+GÜVENLİK İŞARETLERİ
+Laboratuvar uygulamalarında karşılaşabileceğiniz tehlikelere karşı kendinizin ve çevrenizin güvenliğini
+sağlamak için uymanız gereken bazı kurallar bulunmaktadır. Bu kurallar ve bu kurallara ait sembol ve işaretler
+aşağıda verilmiştir.
+
+Koruyucu Giysi Giy
+
+Bu uyarı işareti, laboratuvar deneyleri
+sırasında kullanılan malzemelerin giysilere
+zarar vereceği bu nedenle önlük ya da tulum
+kullanılması gerektiği anlamını taşır.
+
+Maske Kullan
+
+Bu işaret, işlemlerde kimyasal tepkimeler
+sonucu zararlı gazlar oluşabileceğini, bu
+nedenle maske kullanılması gerektiğini
+belirtir.
+
+Kesici / Delici Cisim
+
+Yapılacak işlemlerde kesici/ delici malzemelerin
+kullanılacağını, bu tür malzemelerin yaralanmalara
+sebep olabileceğini gösterir.
+
+Toksik (Zehirli) Madde
+
+Bu işaret, solunduğunda ya da ağız yoluyla
+alındığında zehirleyici (toksik) etkiye sahip
+maddeler için kullanılır.
+
+Eldiven Giy
+
+Yapılacak işlemlerde sıcak bir yüzeyin
+olduğunu veya ısıtıcı kullanılacağını
+gösterir. Bu nedenle ıs ıya dayanıklı
+eldiven kullanılması gerektiği anlamını
+taşır.
+
+Gözlük Kullan
+
+Bu işaret, işlemlerde göz sağlığı için
+zararlı maddelerin kullanılacağını, bu
+nedenle gözlük kullanılması gerektiğini
+belirtir.
+
+Kırılabilir Malzeme
+
+Bu
+işaret,
+i şlemlerde,
+kırılabilecek
+malzemelerin kullanılacağını belirtir. Cam
+malzemelerin aşırı ısıtılmaması ve ani
+sıcaklık değişimlerine maruz bırakılmaması
+gerektiği anlamını taşır.
+
+Aşındırıcı (Korozif) Madde
+
+Bu işaret, temas hâlinde kimyasal olarak canlı
+dokulara ciddi zararlar verebilen ya da
+tamamıyla tahrip edebilen maddeler için
+kullanılır. Aşındırıcı maddeler metal yüzeyleri
+de aşındırır.
+
+Patlayıcı Madde
+
+Yakıcı (Oksitleyici) Madde
+
+Bu işaret; kıvılcım, ısınma, alev, vurma,
+çarpma ve sürtünmeye maruz kaldığında
+patlayabilen maddeler için kullanılır.
+
+Bu işaret, havasız ortamda bile yanabilen,
+maddelerle temas ettiğinde alev alabilen
+veya patlayabilen maddeler için kullanılır.
+
+Yanıcı Madde
+
+Tahriş Edici Madde
+
+Ateşe, güneş ışığına ve ısıya maruz kaldığında
+yanabilen maddeler için kullanılan uyarı
+işaretidir.
+
+Düşük şiddette sağlığa zararlı maddeler
+için kullanılan uyarı işaretidir. Bu tür
+maddeler ciltte tahrişe sebep olur.
+
+Kimya 1
+
+İÇİNDEKİLER
+1. ÜNİTE
+
+KİMYA BİLİMİ
+
+1.1. SIMYADAN KIMYAYA .........................................................................................................12
+KIMYANIN BILIM OLMA SÜRECI .....................................................................................................................12
+OKUMA PARÇASI: ESKI UYGARLIKLARIN KIMYA BILIMINE KATKILARI ............................................15
+SIMYADAN KIMYAYA GEÇIŞ SÜRECI ...............................................................................................................16
+MODERN KIMYA DÖNEMI .................................................................................................................................18
+
+1.2. KIMYA DISIPLINLERI VE KIMYACILARIN ÇALIŞMA ALANLARI .......................19
+KIMYA DISIPLINLERI ...........................................................................................................................................19
+KIMYACILARIN ÇALIŞMA ALANLARI ............................................................................................................21
+KIMYA ALANI ILE ILGILI MESLEKLER ...........................................................................................................24
+
+1.3. KIMYANIN SEMBOLIK DILI ............................................................................................27
+ELEMENT ADLARI VE SEMBOLLERI ...............................................................................................................27
+YAYGIN KULLANILAN BILEŞIKLER VE FORMÜLLERI ...............................................................................29
+
+1.4. KIMYA UYGULAMALARINDA İŞ SAĞLIĞI VE GÜVENLIĞI ..................................31
+KIMYASAL MADDELERIN INSAN SAĞLIĞI VE ÇEVREYE ETKILERI ....................................... .............31
+İNSAN SAĞLIĞINA VE ÇEVREYE ZARARLI ETKILERI OLAN BAZI MADDELER ................................34
+KIMYADA KULLANILAN SAĞLIK VE GÜVENLIK AMAÇLI TEMEL UYARI IŞARETLERI ..................37
+KIMYA LABORATUVARINDA UYULMASI GEREKEN IŞ SAĞLIĞI VE GÜVENLIĞI KURALLARI .....40
+KIMYA LABORATUVARINDA KULLANILAN BAZI TEMEL MALZEMELER ..........................................41
+
+ÖZET ....................................................................................................................................43
+1. ÜNITE ÖLÇME VE DEĞERLENDIRME SORULARI ...........................................................44
+
+8
+
+2.Ünite Atom ve Periyodik Sistem
+
+2. ÜNİTE
+
+ATOM VE PERİYODİK SİSTEM
+
+2.1. ATOM MODELLERI ...................................................................................................50
+ATOM MODELLERI ................................................................................................................................................50
+ATOMLARIN KATMAN-ELEKTRON DAĞILIMLARI ......................................................................................53
+MODERN ATOM TEORISI .....................................................................................................................................57
+
+2.2. ATOMUN YAPISI.......................................................................................................58
+ELEKTRON, PROTON VE NÖTRONUN YÜKLERI, KÜTLELERI VE ATOMDA
+BULUNDUKLARI YERLER...................................................................................................................................58
+
+- ATOM NUMARASI ......................................................................................................................................59
+- KÜTLE NUMARASI .....................................................................................................................................60
+- İZOTOP ..........................................................................................................................................................61
+- İZOTON .........................................................................................................................................................62
+- İZOBAR ..........................................................................................................................................................62
+- İZOELEKTRONIK ........................................................................................................................................63
+
+2.3. PERIYODIK SISTEM ...........................................................................................................64
+DMITRI IVANOVICH MENDELEYEV VE PERIYODIK SISTEM .................................................................64
+MOSELEY VE PERIYODIK SISTEMI .................................................................................................................65
+ATOMLARIN KATMAN-ELEKTRON DAĞILIMLARI VE PERIYODIK SISTEMDEKI YERLERI ...........66
+ELEMENTLERIN PERIYODIK SISTEMDEKI YERLERINE GÖRE SINIFLANDIRILMASI.......................69
+PERIYODIK ÖZELLIKLERIN DEĞIŞME EĞILIMLERI...................................................................................72
+-ATOM YARIÇAPI........................................................................................................................................72
+- İYONLAŞMA ENERJISI...............................................................................................................................73
+- ELEKTRON İLGISI.......................................................................................................................................76
+- ELEKTRONEGATIFLIK..............................................................................................................................76
+- METALIK AMETALİK KARAKTER..........................................................................................................77
+
+ÖZET...................................................................................................................................................78
+2. ÜNITE ÖLÇME VE DEĞERLENDIRME SORULARI...........................................................79
+CEVAP ANAHTARI.............................................................................................................83
+SÖZLÜK...............................................................................................................................85
+KAYNAKÇA.........................................................................................................................87
+
+9
+
+1.
+ÜNİTE
+
+KİMYA
+BİLİMİ
+
+1. 1. SIMYADAN KIMYAYA
+1. 2. KIMYA DISIPLINLERI VE KIMYACILARIN
+ÇALIŞMA ALANLARI
+1. 3. KIMYANIN SEMBOLIK DILI
+1. 4. KIMYA UYGULAMALARINDA İŞ SAĞLIĞI VE
+GÜVENLIĞI
+
+NELER ÖĞRENECEKSİNİZ?
+Bu üniteyi tamamladıktan sonra;
+• Simyanın kimya bilimine katkılarını fark edecek,
+• Kimya disiplinleri ve kimyacıların çalışma alanlarını açıklayabilecek,
+• Kimyanın sembolik dilini kullanarak yaygın element ve bileşikleri
+tanıyacak,
+• Kimya uygulamalarında iş sağlığı ve güvenliğinin önemini
+kavrayabilecek,
+• Kimyasal maddelerin insan sağlığı ve çevre üzerindeki etkilerini
+açıklayabilecek,
+• Kimya laboratuvarında kullanılan temel malzemeleri tanıyacaksınız.
+
+ANAHTAR KAVRAMLAR
+simya, kimya, madde, element, bileşik, sembol, formül,
+bilim insanı, laboratuvarda güvenlik
+
+Kimya 1
+
+1.1. SİMYADAN KİMYAYA
+KIMYANIN BILIM OLMA SÜRECI
+Kimya; maddelerin özelliklerini, yapısını, birbirine dönüşümlerini,
+maddeyi oluşturan taneciklerin neden ve nasıl bir arada kalabildiğini ve
+üretim yöntemlerini konu alan bir bilim dalıdır. Bu bilim dalının kökleri çok
+eskilere “simya” ya dayanmaktadır. İnsanlığın başlangıcıyla birlikte var olduğu
+düşünülen simya, daha çok maddeleri farklı maddelere dönüştürme, onlara
+istenilen özellikleri kazandırma çabasıdır. Simyacılar bu süreçte kurşun veya
+bakır gibi değersiz bazı metalleri altına dönüştürme, hastalık için bir çare
+bulma ve yaşamı uzatma uğraşı içinde olmuş zamanının araştırmacıları ve
+düşünürleridir.
+Simyacılar o dönemde değersiz metalleri altına dönüştürmeyi ve ölümsüzlük iksirini bulmayı başaramasalar da günümüzde de kullanılan birçok keşifte
+bulunmuş ve çalışmaları modern kimyanın temellerini oluşturmuştur.
+Simyacıların keşifleri gözlem, deneme, yanılma ve tesadüflere dayalıdır.
+Korunma, beslenme gibi temel ihtiyaçlar sonrasında doğa olaylarını anlama
+ve yaşamı daha kolay hâle getirme çabaları merak ve ilgi ile birleşince insanı
+daha gözlemci ve sorgulayıcı kılmıştır. Örneğin yıldırım, yanardağ, orman
+yangınları gibi doğal olaylarla ateşi tanıyan, yanıcı maddeleri fark eden insan
+ateşi ısınma, aydınlanma, yemek yapmada kullanmıştır. Daha sonraki süreçte
+ise insanlar deneme yanılma ile kömürü ocaklarda kullanmış, bakır ve demiri
+elde edebilmiştir.
+Yiyeceklerin tadı için kullanılan tuz zamanla yiyecekleri saklamada; nane,
+kekik, hint yağı, kimyon, zencefil, çörek otu vb. birçok bitki de şifa amaçlı
+kullanılmıştır.
+Simyadan günümüze aktarılan birçok keşiften
+bazıları şunlardır:
+• Ham derinin bozulmasını önleme, kıl köklerinden
+arındırma ve deriye dayanıklılık kazandırma
+işlemleri,
+• Toprak ve seramik kaplar, cam yapımı, kilden
+yapılan kaplara sır uygulanması,
+
+12
+
+Görsel 1.1
+Toprak kap
+
+1.Ünite Kimya Bilimi
+
+• İpek, yün, keten ve pamuk gibi bitkilerden
+iplik elde etme ve iplikleri dokuyarak elde
+edilen kumaşlardan giysi hazırlama,
+• Boyamada safran ve kökboyaların yanında kıbrıs taşı, şap, göz taşı gibi maddelerin kullanımı.
+Bu ve benzeri uygulamalar geniş kitlelere
+yayılarak günümüze kadar aktarılmış ve hâlen
+de kullanılmaktadır.
+
+Görsel 1.2 İplik dokuma ve boyama
+
+Simya aynı zamanda içinde fizik, tıp, astroloji, din ve sanatı da barındıran
+bir uğraş alanı olmuştur. Bu nedenle bu alanda uğraşan pek çok simyacı
+zamanının ciddi bilginleridir ve aynen ilk kimyagerler gibi kendi geliştirdikleri
+laboratuvarlarda belirli aletlerden faydalanmışlardır. Bu bilginlerin yaşadığı
+dönemlerde;
+• Barut, mürekkep, sabun, esans, soda, nitrik asit, amonyak, sülfürik asit,
+eter, etil alkol gibi önemli kimyasal maddeler ve kükürt, cıva, altın, bakır,
+demir gibi çeşitli elementler keşfedilmiştir.
+• Karışımları ayırmak için kullanılan;
+eleme, ısıtma, suda çözme, damıtma,
+kristallendirme gibi birçok deneysel
+yöntem ve teknikler günümüze kazandırılmıştır.
+• Madenler işlenerek mutfak eşyalarında, süs eşyalarında, av aletlerinde vb.
+kullanılmış, tunç (bakır-kalay alaşımı)
+üretilmiştir.
+
+Görsel 1.3 Simya dönemi damıtma aleti
+
+• Kimyasal işlemler ve bu işlemleri uygulamak için çanaklar, şişeler, maşalar, huniler vb. birçok araç gereç tasarlanmıştır.
+
+13
+
+Kimya 1
+
+Bugün de kullanılan birçok teknik ve yöntem simyacılar tarafından
+geliştirilmiş olmasına rağmen simyanın bir bilim olmadığı unutulmamalıdır.
+Simya ile kimya arasındaki farklara aşağıda kısaca değinilmiştir:
+
+SİMYA
+• Simyada deneyler ve deneyimler ön plandadır ancak bunlar çoğunlukla
+rastgele ve tesadüfe dayalıdır. Örneğin kömürün yandığı tesadüfen
+keşfedilmiştir ama "Kömür neden yanar?" sorusuyla ilgilenilmemiştir.
+• Simya, geliştiği kültürün etkisi ile din, astroloji, sihir, felsefe ile de ilgilidir.
+• Simya ile uğraşan kişiler (simyacılar) birer filozof, düşünür ve o dönemin bilginleridir.
+
+KİMYA
+• Kimya, kontrollü koşullarda (sabit sıcaklık, basınç ortamı gibi) yapılan
+deneysel ve gözlemsel verileri bir sistem dâhilinde kaydeder ve kullanır.
+Örneğin "Kömür yanar, acaba başka maddeler de yanar mı? Kömürün
+yanmasının nedeni nedir? Her yanan madde aynı ısıyı mı verir?" gibi
+elde edilen bilgileri temel alarak daha fazlasını ve nedenlerini sorgular,
+araştırır, tesadüflere bırakmaz.
+• Kimya evrenseldir. Modern kimya bilimsel teorilere, deney sonuçlarına
+ve gözlemlerden elde edilen sistematik bilgi birikimine dayanır.
+• Kimya bilimi ile uğraşan kişiler bilim insanıdır. Bilim insanı, sistematik
+bilgiyi bilimsel verilerle elde eder.
+
+Simya döneminde Mezopotamya, Çin, Hint, Mısır, Yunan, Orta Asya
+olmak üzere birçok uygarlıkta çok değerli bilginler yetişmiş ve bu kişiler kimya
+bilimine çok çeşitli katkılarda bulunmuşlardır. Yandaki okuma parçasında
+bu uygarlıkların kimyaya olan katkılarından ve bunların kültürler arası nasıl
+aktarıldığından kısaca bahsedilmiştir.
+
+14
+
+1.Ünite Kimya Bilimi
+
+OKUMA PARÇASI
+ESKİ UYGARLIKLARIN KİMYA BİLİMİNE KATKILARI
+İnsanlık tarihinin belli kesitlerine ait geçmiş kazanımlardan bazıları günümüze
+ulaşabilmişken kimi kaybolmuş kimisi de halâ bulunmayı beklemektedir. Bunlardan
+simyayla ilgili olanları bizleri milattan önce 15.000 ile 5000 yıllarına; Sümerlere,
+Bâbil’e, Antik Mısır’ a, Çin ve Mezopotamya’ ya kadar götürmektedir.
+• MÖ 4000’lerde altın, bakır, demir gibi metallerin elde edildiğine, bir alaşım olan
+tuncun kullanıldığına dair izler bulunmaktadır.
+• MÖ 3050' den, MÖ 30’lu yıllara kadar geçen süreçte Mısır’ da simya alanında
+birçok bulgu elde edilmiştir. Sıva yapımında alçı, mumyalama için çeşitli
+kimyasallar kullanılmıştır. Anadolu’ dan bronz yapımı (bakır alaşımlarının genel
+adı) için kalay ve bakırı temin etmişler. Antik Yunan (MÖ 756-146) ve Girit'ten
+keten ( kumaş), papirüs (kağıt) , cam ihraç etmişlerdir. İlk mısır yağı MÖ 4500
+yıllarında Antik Mısır’ da üretilmiştir.
+• MÖ 3000-600 yılları arasında Çinliler barutu keşfetmişlerdir. Hint, Çin, Mezopotamya ve Anadolu halkları İpek Yolu ticareti ile birbiriyle temas içinde olmuş, bu
+halkların edindikleri birikim ve kültür geniş bir coğrafyaya yayılmıştır.
+Mezopotamya halklarından olan Fenikeliler, Akdeniz’de altın, gümüş, bakır,
+zeytinyağı ticaretiyle uğraşmış, o dönemde sabunu kullanmışlardır.
+• MÖ 2000 ve 1200 yılları arasında Anadoluda Ege bölgesinde yaşayan ve doğudan
+geldiği bilinen İyonlar; Mısır, Fenike, Babil ve Anadolu’ da öğrendikleri tıp, felsefe, matematik, astronomi ve doğa ile ilgili kazanımlarını önce Yunan'a sonra da
+Roma'ya ulaştırmışlardır. Yunan ve Roma döneminde, simya deneysel bir sonucu
+olmaksızın daha çok felsefi boyutta ele alınmıştır. Batıdaki bütün eski çağ toplumları arasındaki olguları toplayıp karşılaştıran, tutarlı bir şekilde birleştiren, sağlam
+açıklamalar tasarlayan ilk doğa filozofları Yunan ve Romalılar olmuştur.
+• MS 375-1453 yılları arasında Orta Çağ Avrupa simyacıları çaresiz hastalıkların tedavisini bulma, ölümsüzlük iksirine (ab-ı hayat suyu) ulaşma ve değersiz madenleri
+altına çevirme uğraşısı içinde olmuşlardır. Bu dönemde, doğuda Müslüman âlimler
+kendilerinden öncekilerin geleneklerini alıp geliştirmişler; tıp, matematik,
+astronomi ve kimya gibi birçok bilimin oluşmasına kaynak olabilecek önemli
+çalışmalarda bulunmuşlardır. İslam'ın yayılması ile İslam dünyasındaki gelişmeler
+Anadolu ve Endülüs yoluyla (9-13.yüzyıl) Avrupa’ ya aktarılmıştır. 15 ve 16.
+yüzyılda Eski Roma ve Yunan' la bütünleşme olarak da görülen Rönesans sonrası
+dönemde Avrupa' da bilim hızla gelişmiştir.
+Yazar tarafından düzenlenmiştir.
+
+15
+
+Kimya 1
+
+SİMYADAN KİMYAYA GEÇİŞ SÜRECİ
+
+Empedokles (MÖ 482-423)
+
+Görsel 1.4
+Empedokles
+
+Empedokles (Empedokles) maddedeki değişimlerin neden ortaya çıktığını yorumlayan Sicilyalı doğa bilginidir.
+Maddeyi oluşturan temel öğe olarak kendinden önceki
+düşünürlerin belirlediği ateş, hava ve suya 4. öğe olan
+toprağı eklemiştir. Bu maddeleri birbirlerine yakınlaştıran
+ya da uzaklaştıran güçlerin sevgi ve nefret olduğuna
+inanmıştır.
+
+Democritus (MÖ 460-370)
+
+Görsel 1.5
+Democritus
+
+Yunan filozofu Democritus (Demokritos) evrendeki
+maddeleri bölmeye çalıştığımızda daha da bölünemeyecek
+bir son noktasının olması gerektiğini varsaymış ve bu son,
+bölünmez parçaya atom adını vermiştir. Ayrıca evrenin,
+atomların bir araya gelmesiyle oluştuğunu ve evrende gözlemlenen değişimlerin atomların birleşmesi ve dağılmasından ibaret olduğunu belirtmiştir.
+Aristo (MÖ 384-322)
+
+Görsel 1.6
+Aristo
+
+16
+
+İyon filozofu Aristo (Aristo) maddenin atomlu yapıda
+olduğu görüşüne katılmayıp evrendeki her şeyin element
+olarak varsaydığı ateş, hava, su ve topraktan oluştuğunu
+iddia etmiştir. Element olarak varsaydığı bu dört maddenin sıcak, soğuk, ıslak ve kuru gibi özelliklerinin olduğunu
+düşünmüştür. Ayrıca bu dört maddenin farklı oranlarda
+birleşmesiyle diğer maddelerin oluştuğunu öne sürmüştür.
+Aristo, dört element teorisi ile Orta Çağ boyunca tek otorite olarak kalmıştır.
+
+1.Ünite Kimya Bilimi
+
+Ebu Musa Cabir bin Hayyan (721-815)
+Abbasiler döneminde yaşamış Farsî bilgin Cabir bin
+Hayyan kendi geliştirdiği yöntemlerle kimyayı, analiz ve
+matematikle açıklamış ve kimya biliminin temelini atmıştır.
+Atomun parçalanabileceğini o zamanda söyleyen büyük bir
+bilim adamıdır.
+Kristalleşme, damıtma ve buharlaşma gibi birçok terimi
+ve tekniği kimyaya kazandırmış “imbik”i geliştirmiştir.
+Çalışmaları sonucu keşfettiklerinden bazıları; sülfürik asit,
+nitrik asit, hidrojen klorürün rafine ve kristalize yöntemleri ve
+“kral suyu” dur. Ayrıca çok zehirli olan arsenik tozunu elde
+eden ilk kişidir.
+
+Görsel 1.7
+Cabir Bin Hayyan
+
+Kimya kelimesinin İngilizce karşılığı olan “alchemy” kelimesi de, Cabir bin Hayyan’
+ın çalışmalarının neticesi olarak Arapça “al-Kimiya” kelimesinden türemiştir.
+
+Ebubekir er-Râzî (864 - 925)
+Farsî bilgin er-Razî felsefe ve bilimle ilgilenmiş, kimya alanlarında yapmış olduğu çalışmalarla bilim tarihinde seçkin bir
+yer edinmiştir. Aristo’nun dört element fikirlerine katılmayan
+Ebubekir er-Râzî, maddenin oluşumunu atomların birleşmesiyle açıklama eğiliminde olmuştur. Laboratuvar kurmuş ve
+Cabir bin Hayyan gibi, yaptığı deneylerde saf elementi elde etmeye çalışmıştır. Ebubekir er Râzî’ nin en önemli başarılarından birisi; farklı organik maddeleri damıtmak suretiyle çeşitli
+yağlar, tuzlar ve boyalar elde etmiş olmasıdır. Ayrıca, demir
+gibi zor eriyen metallerin eritilme işlemleri ile ilgili araştırmalar da yapmıştır.
+
+Görsel 1.8
+Ebubekir er-Râzi
+
+Razi, deneyleri esnasında gliserin, soda, sirke asidi, alkol ve nitrik asit gibi kimyasal
+maddeleri bulmuş olması sebebiyle kimyayı teoriden pratiğe geçirmiş, dolayısıyla bu
+bilimin kurucularından kabul edilmiştir.
+Cabir bin Hayyan ve er-Râzî’ den ancak yaklaşık 700 yıl sonra, Robert Boyle ve Antoine Lavoisier ile kimya alanında çalışmalara yeniden başlanmıştır.
+
+17
+
+Kimya 1
+
+Robert Boyle (1627-1691)
+İrlanda da doğan Robert Boyle (Rabırt Boyl) bir doğa
+filozofu, kimyager ve fizikçidir. O dönemde kullanılan birçok
+deney aletini geliştirmiş ve gerçekleri saptamak için uyguladığı
+kontrollü deneylerle modern kimyanın kurucularından
+olmuş, bilimsel yöntemin öncülüğünü yapmıştır. Gazlarla
+yaptığı çalışmalarda; sabit basınçlı kapalı bir sistemde, bir
+gazın basıncı ile hacminin ters orantılı olduğunu gösteren
+Boyle Yasası'nı geliştirmiştir.
+
+Görsel 1.9
+Robert Boyle
+
+Antoine Lavoisier (1743-1794)
+
+Görsel 1.10
+Antoine Lavoisier
+
+Antoine Lavoisier (Antuan Lavoziyer) modern kimyanın
+babası olarak anılan Fransız bir kimyagerdir. Kimyacıların
+belirli bir amaçlarının olmadığı 18. yüzyılda, birçok önemli
+keşifte bulunmuş ve modern kimyanın sağlam temellere
+oturmasını sağlamıştır. Laboratuvarında kapalı kaplarda
+yaptığı deneylerde hassas ölçümlerle, maddedeki kimyasal
+değişimler sonucu toplam kütlenin değişmediğini (Kütlenin
+Korunumu Yasası) bulmuştur. Ayrıca yanma, solunum ve
+madenlerin paslanması olaylarını açıklamıştır. Daha yalın
+unsurlara ayrıştırılmamış maddeleri element olarak ifade
+etmiştir.
+
+1. Uygulama Aşağıda verilen kimyanın öncüleri ile yaptıkları çalışmaları eşleştiriniz.
+1. Democritus
+2. Ebu Musa Cabir bin Hayyan
+3. Ebubekir er-Râzî
+
+c. İmbiği geliştirmiştir.
+ç. Kimyasal değişimlerde toplam kütlenin
+değişmediğini ispatlamıştır.
+d. Maddenin bölünemeyeceğini düşündüğü en küçük
+parçasına atom adını vermiştir.
+
+4. Robert Boyle
+5. Antoine Lavoisier
+
+Çözüm 1-d
+
+18
+
+2-c
+
+a. Gazların basıncı ve hacminin ters orantılı olduğunu
+öne süren yasayı geliştirmiştir.
+b. Organik maddeleri damıtarak yağlar, boyalar
+vb. elde etmiştir.
+
+3-b
+
+4-a
+
+5-ç
+
+1.Ünite Kimya Bilimi
+
+1.2. KİMYA DİSİPLİNLERİ VE KİMYACILARIN ÇALIŞMA ALANLARI
+
+Görsel 1.11 Ağaçların ilaçlanması
+
+Görsel 1.12 Alevden etkilenmeyen kıyafetler
+
+Kimya bilimi, günlük hayatımızın bir parçası hâline gelen atıkların geri
+dönüşümü, kremlerin hazırlanması, lekelerin kıyafetlerden çıkarılması,
+yemeklerin bozulması, alevden etkilenmeyen kıyafetler, ağaçların ilaçlanması,
+mayanın hamuru kabartması, solunum vb. birçok olayın nedenini anlamamıza
+yardımcı olmaktadır.
+Kimyanın çalışma alanı çok geniş olduğundan çeşitli disiplinlere (uygulama
+alanlarına) ayrılmıştır.
+KIMYA DISIPLINLERI
+Kimya; Organik Kimya, Anorganik Kimya, Biyokimya, Analitik Kimya,
+Fizikokimya, Polimer Kimyası ve Endüstriyel Kimya olmak üzere çeşitli dallara
+ayrılmıştır.
+Organik Kimya
+Kimyanın, karbon ve hidrojen elementlerinden
+oluşan bileşiklerle ilgilenen ana bilim dalıdır. Örneğin
+canlı organizmaların yapı taşları olan karbon temelli
+yapılar; proteinler, yağlar, şekerler ve DNA organik
+kimyanın uğraş alanındadır. Ayrıca bitkilerden elde
+edilen yağlar, kokular, boyalar vb. organik maddelerle
+de organik kimya ilgilenir. Organik kimya; bu
+bileşiklerin yapısal özellikleri, elde edilişleri ve
+tepkimeleri ile ilgilenir .
+
+Görsel 1.13
+Bitkilerden elde edilen sıvı yağ
+
+19
+
+Kimya 1
+
+Anorganik Kimya
+Organik bileşikler dışında kalan bileşikler ile periyodik cetvelde yer alan her
+elementle ilgilenen bilim dalıdır. Örneğin
+asitler, bazlar, tuzlar, metaller, ametaller
+anorganik kimyanın uğraş alanındadır.
+
+Görsel 1.14
+Mağaradaki tuz kristalleri
+
+Biyokimya
+Canlıların yapısını oluşturan bileşik ve elementler ile bunların kimyasal
+tepkimeleri ve süreçleri ile uğraşan ana bilim dalıdır. Örneğin DNA,
+solunum, enzimler, kan ve idrar testleri vb. biyokimyanın ilgi alanıdır.
+Görsel 1.15
+Kan testi
+
+Analitik Kimya
+Kimyanın daha çok nitel ve nicel olarak incelemesini yapan ve bu incelemeleri yapabilmek için
+ölçüm aletlerini geliştiren ana bilim dalıdır. Örneğin sulardaki zehirli (toksik) madde oranının tayini, hastalık tanısı için yapılan pH ölçümü, ilaçların
+yapısındaki maddelerin oranları, titrasyon
+deneyleri vb. analitik kimyanın ilgi alanıdır.
+
+Görsel 1.16
+Titrasyon deneyi
+
+Fizikokimya
+
+Görsel 1.17
+Piller
+
+Fiziksel yasalarla kimyasal olayların oluş nedenini inceleyen anabilim
+dalıdır. Bazı tepkimeler neden yavaş bazıları neden hızlı, tepkimenin
+olabilmesi için ne kadar enerjiye ihtiyaç vardır, bir kimyasal tepkime
+sonucunda ne kadar iş yapılabilir vb. konularla uğraşır. Metal kaplamacılık,
+piller, elektroliz vb. fizikokimyanın uğraş alanıdır.
+Polimer Kimyası
+Polimer kimyası, polimer olarak bilinen sentetik
+ve organik kimyasal maddelerin incelenmesi ve elde
+edilmesiyle uğraşır. Polimer kimyası kimyanın diğer tüm
+alanlarını kapsar; organik,
+anorganik, fizikokimya,
+biyokimya vb.
+
+20
+
+Görsel 1.18
+PVC çerçeve
+
+1.Ünite Kimya Bilimi
+
+Saçlarımız, ceketlerde, ayakkabıda kullandığımız deri, yün, ipek doğal birer
+polimerdir. Polimer gözlükler, silikonlar, cam çerçevelerdeki PVC, sentetik
+kumaş, dokuma iplikleri ise yapay polimerlerden bazılarıdır.
+Endüstriyel Kimya
+Endüstriyel kimya, maddelerin ve materyallerin
+geliştirilmesi, imalat süreçleri, atıkların yok edilmesi
+ve geri dönüşümü ile ilgilidir. Kimya endüstrisi hayatımızın neredeyse her yönünü etkileyen kozmetik,
+petrol ürünleri, kâğıt, deterjan, tekstil gibi çok çeşitli
+ürünler üretir. Kimya alanında çalışmak isteyenler
+için endüstriyel kimya sektörü büyük bir istihdam
+alanı açar.
+
+Görsel 1.19
+Kimya endüstrisi
+
+KIMYACILARIN ÇALIŞMA ALANLARI
+Boya-Tekstil
+Hayvansal (yün, tiftik, ipek) ve bitkisel (keten, pamuk, bambu) kaynaklı tekstil ürünleri kıyafetlerde, döşemelerde vb. birçok alanda yaygın olarak
+karşımıza çıkmaktadır. Ancak doğal kaynakların yetersizliği ve kullanım alanındaki kısıtlılık nedeniyle yapay olmakla birlikte teknolojik de olan polimer,
+seramik ve nanoteknolojik kimyasal ürünler tekstil sektöründe kullanılmaya
+başlanmıştır.
+Doğal tekstil ürünleri ham hâlinden işlenebilir duruma getirilme sürecinde; yağlarından arıtma, ağartma, nemden ve mikroorganizmalardan koruma vb.
+işlemlerden geçirilir. Bu işlemlerde çeşitli kimyasallar kullanılmakta, istenilen renkler ve özellikler için
+ise boyalar üretilmektedir.
+
+Görsel 1.20 Tekstil ürünlerinin
+işlenmesi
+
+Boyada kullanılan bitkiler ve böceklerin hızla yok olması, talebi karşılamakta
+yetersiz kalması ve çok pahalıya mal olması nedeniyle 19. yüzyılın ikinci
+yarısından itibaren bazı boyar maddeler kimyasal olarak elde edilmeye
+başlanmıştır. Zamanla gelişen boya sanayi ürünleri, gıdadan tekstile, inşaattan
+otomotive birçok alanda kullanılmaya başlanmıştır.
+
+21
+
+Kimya 1
+
+İlaç
+Canlılarda hastalıkların tanısı, önlenmesi ve tedavi amacıyla
+kullanılan, vücut fonksiyonlarını koruyan, değiştiren ve düzenleyen kimyasal maddeler ilaç olarak tanımlanır. İyileşmek için
+kullanılan tertiplerden, zehirlere, hormonlara ve alkole kadar
+birçok madde ilaç olarak kabul edilir.
+
+Görsel 1.21 İlaç
+
+İlacın vücuda etkileri, vücudun ilaca verdiği tepki, ilacın hangi yolla vücuttan atılabileceği, ilacın etki süresi, diğer ilaçlarla
+etkileşimi, ilaçların saklama koşulları ve kullanım süreleri kimyanın uğraş alanına girmektedir. Genetik ve nanoteknolojideki
+baş döndürücü gelişmeler ile koruyucu ve iyileştirici ilaç tedavilerin kişiselleşmesi diğer bilimler ile birlikte kimyanın da yeni
+uğraş alanlarından biridir.
+Gübre
+Tarımda üretimi artırmak ve daha kısa sürede ürün elde edebilmek için yapılan tarımsal faaliyetlerden birisi de gübre kullanımıdır. Gübreler toprağa besin sağlamanın yanında su tutma,
+toprağın havalanma özellikleriyle de toprağın veriminin zenginleşmesini sağlar. Gübreler organik ya da inorganik olabilir.
+
+Görsel 1.22
+Organik gübre
+
+Organik gübre organik kökenli tarımsal atıklar ile doğal kökenli organik maddelerden oluşur. Kimyasal gübre ise bileşimlerinde bir veya birden fazla bitki besin maddesini bir arada bulundurur. Organik gübrelerden farklı olarak yüksek miktarda bitki
+besin maddesi içerir ve suda kolayca çözünür.
+Örneğin,
+
+Görsel 1.23
+Kimyasal gübre
+
+• Azotlu gübreler yaprak büyümesinde,
+• Fosforlu gübreler kökler, çiçekler, tohumlar ve meyve gelişiminde,
+• Potasyumlu gübreler bitkilerde su hareketi, kökün güçlenmesi,
+çiçek ve meyve oluşumunda kullanılır.
+Kimya bilimi toprak analizi yaparak, bitkinin gelişmesi için
+toprağın ihtiyaç duyduğu gübreyi, kurak bölgeler için su tutucu
+polimerleri ve zararlılarla mücadele için gerekli ilaçları geliştirir.
+
+22
+
+1.Ünite Kimya Bilimi
+
+Petrokimya
+Bitki ve hayvan kalıntılarından milyonlarca yıl süren süreç sonucunda oluşan petrol organik bir bileşik olan hidrokarbonlardan oluşur. Bunun yanı sıra
+petrol az miktarda azot, oksijen ve kükürt de içerir. Ham petrol, arıtım işlemi
+görmemiş, yanıcı, doğal bir mineral yağdır.
+Ham petrol rafinerilerde işlenerek (damıtılarak) bileşenlerine ayrıştırılır. Ham petrolün
+damıtılması ile benzin, yağ yakıt, doğal gaz,
+motorin, LPG, jet yakıtı, asfalt ve farklı
+kimyasal ürünler elde edilir. Petrolden elde
+edilen ürünlerin en çok kullanım alanı ulaşım
+ve enerjidir. Elde edilen bu ürünler yakıt
+Görsel 1.24 Petrolün damıtılması
+başta
+olmak
+üzere
+birçok
+alanda
+kullanılmaktadır.
+Ham petrolün damıtılması sonucu kimya ve diğer sanayi kollarının
+ihtiyacı olan kimyasal maddelerin üretimi petrokimya sanayinin uğraş
+alanıdır. Bu bağlamda petrol, petrokimya sanayi için önemli bir ham madde
+kaynağıdır. Örneğin petrolden yapay lif (sentetik ip), gübre, kozmetik
+ürünleri, filmler, parafin, vazelin, besin maddeleri, plastikler vb. birçok ürün
+elde edilir. Tüm sanayi alanları içinde önemli bir yer tutan petrokimya
+sanayi büyük bir istihdam alanıdır..
+Arıtım
+Genel anlamı ile arıtım; ürünün istenmeyen
+özelliklerinden kurtarılması, istenen özelliklerinin kalması olarak tanımanabilir.
+Gün geçtikçe artan çevre kirliliği ve etkileri
+yaşamı, çevreyi olumsuz etkilemektedir. Bu nedenle yaşadığımız alanlardaki havanın ve endüstrideki baca gazlarının yerinde filtrelenmesi, kirlenen suların arıtılması işlemleri büyük
+önem taşımaktadır.
+
+Görsel 1.25 Su arıtımı
+
+23
+
+Kimya 1
+
+Arıtma işlemleri daha çok su arıtımı olarak algılanmaktadır. Birçok ülkede
+kullanılan suyu tekrar kazanmak için fabrikalarda, endüstriyel ve sosyal tesislerde, konutlarda arıtma tesisleri kurulumu zorunlu hâle gelmektedir.
+Su arıtımında sulardaki istenmeyen büyük parçacıklar önce süzme, yüzdürme ve çöktürme biçiminde mekanik olarak temizleme işlemine tabi tutulur.
+Bu işlemlerle temizlenemeyen maddelere kimyasal olarak çözme, çöktürme
+ve daha küçük parçalara ayırma yöntemleri uygulanır. Ardından dezenfekte
+işlemleri uygulanarak bakterilerin öldürülmesi biçimindeki kimyasal ve biyolojik yöntemlerle su arıtılır. Ayrıca sert suların yumuşatılması, havuz suyunun
+arıtılması işlemleri de kimya bilimi ile ilgilidir.
+KIMYA ALANI ILE ILGILI MESLEKLER
+Kimyanın, maddenin özelliklerini ve maddenin enerjiyle nasıl etkileşim
+kurduğunu inceleyen bilim dalı olduğunu öğrenmiştik. Buna göre, kimyanın
+ilgi alanı maddenin en küçük parçacığından yıldızlara, cansız varlıklardan canlı organizmalara kadar uzanır. Bu nedenle kimya birçok bilimle de yakından
+ilişkilidir. Kimya; biyoloji, yer bilimi ve fizik gibi diğer bilimlerin de önemli
+bir parçasıdır. Bu bilim dalının en çok bilinen meslek alanları olarak kimya
+mühendisliği, metalürji mühendisliği, eczacı, kimyager, kimya öğretmenliği
+sayılabilir.
+Kimya mühendisliği
+
+Görsel 1.26 Kimya mühendisliği ve
+üretim sektörü
+
+Kimya mühendisi, kimyasal madde üreten veya kimyasal madde kullanarak üretim
+yapan tesislerin tasarlanması, kurulması ve
+işletilmesi alanlarında çalışan kişidir. Kimya
+endüstrisinde var olan problemleri çözmeye
+çalışır, üretim kalitesini artırmak ve daha iyi
+performans yakalamak için öneriler hazırlar.
+
+Kimya mühendislerinin çalışma alanları çok geniştir. Bunlardan bazıları:
+endüstriyel tesisler, özel ve kamu proje büroları, ithalat-ihracat büroları, petrokimya, otomotiv, gıda, çimento, seramik, ilaç sektörü, gübre, lastik ve kauçuk,
+tekstil ve boya sektörleri, cam, metal ve kaplama, savunma sanayidir.
+
+24
+
+1.Ünite Kimya Bilimi
+
+Kimyager
+Kimyagerler maddeyi atomik düzeyde
+inceleyen, tanımlayan, maddelerin kimyasal yapıları üzerinde araştırma yapabilme
+yeterliliğine sahip kimselerdir. Araştırma ve
+geliştirme, malzeme bilimi, gıda, sağlık (tıp
+ve eczacılık), petrokimya, otomotiv, gübre,
+plastik, kauçuk, lastik, çimento, cam, seramik, deri, boya, metal kaplama, deterjan,
+tekstil, sabun, kozmetik ve savunma sanayi
+vb. sanayi dalları kimyagerler için istihdam
+alanlarıdır.
+
+Görsel 1.27 Kimya laboratuvarı
+
+Uygulamada kimyagerler ve kimya mühendisleri ortak çalışan meslek gruplarıdır. Kimya mühendisleri mühendislik dersleriyle birlikte kimya eğitimini
+genel hatlarıyla alırlar. Üretilecek maddeyi tasarlayan ve geliştiren kimyagerler, bu maddeyi büyük ölçekte üretenler ise kimya mühendisleridir. Dolayısıyla
+kimyagerler daha çok bilim insanlarıyken, kimya mühendisleri daha çok endüstrinin ve halkın hizmetindedir.
+Kimya öğretmenliği
+Kimya öğretmenleri yükseköğretim kurumlarında genel kültür, ortaöğretime yönelik teorik ve pratik kimya alan dersleri ve
+pedagojik formasyon eğitimi alırlar. Kimya
+öğretmeni olarak ortaöğretim kurumlarında, kurs ve seminerlerde görev alırlar. Ayrıca
+okullarda İleri Kimya, Fen Bilgisi, Bilim ve
+Teknoloji, Bilgi Teknolojisi, Çevre ve İnsan,
+Teknik Atölye, Kimya Uygulamaları,
+Plastik İşleme, Gıda Teknolojisi, Lastik Teknolojisi ve Petrokimya derslerine de girerler.
+
+Görsel 1.28 Kimya öğretmenliği
+sınıf ortamı
+
+Metalurji mühendisliği
+Üniversitelerde genellikle Metalurji ve Malzeme Mühendisliği bölümünden
+mezun olan mühendislerdir. Metal, polimer, seramik, kompozit malzemeler
+üzerinde çalışılan bir bilim ve mühendislik dalı olarak tanımlanabilir.
+
+25
+
+Kimya 1
+
+Metalürji mühendisinin çalışma süreci malzemenin hammadde hâlini,
+tasarım, üretim ve kalite kontrolünü kapsar. Bununla da kalmayarak
+üretilmek istenen malzemenin Ar-Ge çalışması da yapılır. Kısacası ürünün
+kullanılacağı alandaki çalışma koşullarına göre (mekanik, fiziksel, çevresel
+koşullar) malzeme seçimi ve tasarımı metalurji mühendisleri tarafından
+yapılır.
+Çalışma alanları:
+• Demir-çelik, demir dışı metal üretim, döküm, savunma, uzay
+ve havacılık, otomotiv, gemi sanayi ve yan sanayileri.
+• Cam, seramik, beton, çimento, makine imalat, nanoteknoloji
+ve ileri teknoloji malzemeleri üretim sanayi.
+Görsel 1.29 Demir-çelik
+malzeme üretimi
+
+• Kompozit, biyomedikal, yarı iletken, elektrik ve elektronik,
+manyetik, kaynak malzemeleri üretimi.
+• Plastik teknolojisi, metal şekillendirme ve işleme, yüzey
+işlemleri ve kaplama, kalite kontrol ve gözetim şirketleri,
+alternatif sanayiler.
+Eczacı
+
+Görsel 1.30 Eczacı
+
+Sentetik, yarı sentetik ve biyolojik kökenli ilaç
+hammaddelerinin elde edilmesi; ilaçların fiziksel, kimyasal
+ve biyolojik özelliklerinin incelenmesi, değerlendirilmesi,
+saklanması, kullanılması gibi konularda eğitim almış
+kimselerdir.
+
+Eczacılar doktorlarca düzenlenen reçetede yer alan ilaçların ya da gerekirse
+hazırladığı ilaçların kullanımı hakkında hastayı bilgilendirir. Tıbbi veya
+diğer amaçlar için kullanılan zehirli maddeleri hazırlar ve kurallarına göre
+dağıtımını yapar, bozulmaya karşı önlem alır. Özel zehirli maddeleri içeren
+reçetelerin kayıtlarını tutar, veteriner ilaçları, tarım ilaçları, tuvalet ve kozmetik
+ürünlerinin kullanılmaları konusunda önerilerde bulunur. Laboratuvarda
+araştırma çalışmaları yapar.
+Eczacılar laboratuvarlarda, kendilerine veya başkalarına ait eczanelerde
+eczacı olarak çalışırlar. Ayrıca ilaç endüstrisinde araştırmacı veya ilaç tanıtıcı
+olarak çalışabilirler. Küçük bir kısmı ise eğitim ile uğraşır. Eczacı, sağlık
+hizmetleri grubundan bir meslek insanı, aynı zamanda ticaretle uğraşan
+kimsedir.
+
+26
+
+1.Ünite Kimya Bilimi
+
+1.3. KİMYANIN SEMBOLİK DİLİ
+ELEMENT ADLARI VE SEMBOLLERI
+Duyularla algılanabilen, uzayda yer kaplayan ve kütlesi olan her şey maddedir. Maddelerin yapısı incelendiğinde, doğada bazılarının saf, büyük bir çoğunluğunun ise karışım olarak bulunduğunu söyleyebiliriz. Maddeler ister
+saf, ister karışım hâlde olsun, tamamı elementlerden veya elementlerin
+fiziksel veya kimyasal yollarla bir araya gelmesinden oluşur.
+Madde
+
+Saf madde
+
+Element
+
+Karışım
+
+Bileşik
+
+Elementler ve bileşikler saf maddelerdir. Tüm maddeleri oluşturan, tek tür temel birimlerden oluşan saf maddelere element denir. Evrende bilinen 118 çeşit element vardır. Bunların 92 kadarı
+doğaldır. Geri kalanı ise laboratuvar ortamında yapay olarak elde
+edilmektedir. Doğal elementlerin çok azı doğada saf hâlde bulunur.
+Örneğin kuyumcuların vitrininde ışıltıları ile dikkat çeken elmas,
+soluduğumuz havadaki oksijen (O2), azot (N2) gazları ve soy gazlar
+doğada saf olarak bulunabilen elementlerdendir.
+
+Görsel 1.31 Saf elmas
+
+Element sembolleri
+Semboller bazen duyguları, bazen gizlenmesi isteneni, bazen de ifade edilmek isteneni kısa yoldan gösteren simgelerdir. Semboller anlam yüklenmiş
+bir harf, bir şekil de olabilir. Kimya biliminde de farklı dillerden de olsa kimya
+ile ilgilenen herkesin anlayabileceği basit ve anlaşılır element sembolleri geliştirilmiştir. Tüm uluslar element adlarını kendi dilinde kullanmalarına rağmen,
+aynı ortak sembolleri kullanmaktadırlar. Ortak sembollerin kullanılması bilim
+alanında iletişimi kolaylaştırmaktadır.
+
+27
+
+Kimya 1
+
+Element sembolleri harflerle gösterilmektedir. Elementin Latince adının
+ilk harfi element sembolü olarak kabul edilmiştir. Ancak element sayısına
+kıyasla alfabedeki harflerin azlığı ve bazı element adlarının aynı harfle
+başlamaları nedeniyle elementlerin bir kısmı bir harfle temsil edilirken diğerleri iki veya üç harfle temsil edilmektedir. Aşağıdaki tabloda bazı elementlerin
+Latince adları ve sembolleri yer almaktadır:
+Element Adı
+
+Elementin Latince Adı
+
+Sembolü
+
+Bakır
+
+Cuprum
+
+Cu
+
+Karbon
+
+Carboneum
+
+C
+
+Altın
+
+Aurum
+
+Au
+
+Tablo1.1 Elementlerin latince adları ve sembolleri
+
+Element adının sadece ilk harfi sembol olarak kullanıldığında büyük harf
+kullanılır. Birden fazla sayıda harf sembol olarak kullanıldığında ise ilk harf
+büyük, diğer harfler küçük yazılır. Tablo 1.2’ de en hafif ilk 20 element ve
+gündelik hayatta sıkça karşılaştığımız bazı elementlerin adları ve sembolleri
+yer almaktadır:
+Atom No
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+Sembol
+
+H
+He
+Li
+Be
+B
+C
+N
+O
+F
+Ne
+Na
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+
+Element Adı
+Hidrojen
+
+19
+
+Helyum
+
+20
+
+Lityum
+
+24
+
+Berilyum
+
+25
+
+Bor
+
+26
+
+Karbon
+
+27
+
+Azot
+
+28
+
+Oksijen
+
+29
+
+Flor
+
+30
+
+Neon
+
+35
+
+Sodyum
+
+47
+
+Magnezyum
+
+50
+
+Alüminyum
+
+53
+
+Silisyum
+
+56
+
+Fosfor
+
+78
+
+Kükürt
+
+79
+
+Klor
+
+80
+
+Argon
+
+82
+
+Tablo 1.2 Element adları ve sembolleri
+
+28
+
+Atom No
+
+Sembol
+
+K
+Ca
+Cr
+Mn
+Fe
+Co
+Ni
+Cu
+Zn
+Br
+Ag
+Sn
+I
+Ba
+Pt
+Au
+Hg
+Pb
+
+Element Adı
+Potasyum
+Kalsiyum
+Krom
+Mangan
+Demir
+Kobalt
+Nikel
+Bakır
+Çinko
+Brom
+Gümüş
+Kalay
+İyot
+Baryum
+Platin
+Altın
+Cıva
+Kurşun
+
+1.Ünite Kimya Bilimi
+
+YAYGIN KULLANILAN BİLEŞİKLER VE FORMÜLLERİ
+Maddelerin çoğu doğada element hâlinde bulunmaz. Bilinen maddeler daha
+çok farklı elementlerin belirli oranlarda bir araya gelmiş birleşimi hâlindedir.
+Örneğin karbon dioksit (CO2), karbon ve oksijen elementlerinden oluşurken, su (H2O) hidrojen ve oksijen elementlerinden oluşmaktadır. Bu maddeler
+
+kendini oluşturan elementlerden bambaşka özellikler kazanırlar. Oksijen yakıcı, hidrojen yanıcıdır. Oluşturdukları bileşik olan su ise kendini oluşturan
+elementlerden çok farklı özellikler içerir.
+
+Örneklerde görüleceği üzere en az iki ya da daha çok farklı tür elementin
+kimyasal olarak birleşmesiyle oluşan ve kendini oluşturan elementlerden
+belirgin biçimde farklı fiziksel ve kimyasal özelliklere sahip maddelere bileşik
+adı verilir. Bileşikler de elementler gibi saf maddelerdir.
+Günümüzde bilinen milyonlarca bileşiği daha kolay ifade etmek için d e
+çeşitli semboller kullanılır. Bileşiğin, kendisini oluşturan elementlerin
+sembolleri ve sayıları kullanılarak gösterimine formül denir. Bileşik formülü
+yazılırken;
+• Bileşiği oluşturan her elementin sembolü yazılır. Element sembolünün
+sağına da element atomunun sayısı alt indis olarak yazılır.
+• Bileşikteki element atomunun sayısı bir ise bu sayı formülde yer almaz.
+Aşağıda karbon dioksit bileşiğinin formülü yani bileşiği oluşturan
+elementlerin sembolleri ve formüldeki sayıları yer almaktadır:
+
+Karbon
+Sembolü
+
+Oksijen
+Sembolü
+
+CO2
+1 Karbon
+Atomu
+
+2 Oksijen
+Atomu
+
+29
+
+Kimya 1
+
+Aşağıdaki tabloda bazı bileşiklerin formülleri ve yaygın adları yer almaktadır.
+
+Formül
+
+Yaygın adı
+
+Formül
+
+Yaygın adı
+
+H 2O
+
+Su
+
+NaHCO3
+
+Yemek sodası
+
+HCl
+
+Tuz ruhu
+
+NaOH
+
+Sud kostik
+
+H2SO4
+
+Zaç yağı
+
+KOH
+
+Potas kostik
+
+HNO3
+
+Kezzap
+
+CaCO3
+
+Kireç taşı
+
+CH3COOH
+
+Sirke asidi
+
+CaO
+
+Sönmemiş kireç
+
+NH3
+
+Amonyak
+
+Ca(OH)2
+
+Sönmüş kireç
+
+NaCl
+
+Yemek tuzu
+
+Tablo1.3 Bazı bileşiklerin formülleri ve yaygın adları
+
+2. Uygulama Aşağıda verilen element/bileşiklerin adlarını yazınız.
+a) Cl
+b) CaO
+c) Cu
+ç) HCl		
+Çözüm a) Klor
+ç) Tuz ruhu
+
+b) Sönmemiş kireç
+d) Kurşun
+
+d) Pb
+
+c) Bakır
+
+3. Uygulama Aşağıda adları verilen element/bileşiklerin formüllerini yazınız.
+a) Karbon
+b) Zaç yağı
+c) Cıva
+ç) Sud kostik
+d) Helyum
+Çözüm a) C
+ç) NaOH
+
+30
+
+b) H2SO4
+d) He
+
+c) Hg
+
+1.Ünite Kimya Bilimi
+
+1.4. KİMYA UYGULAMALARINDA İŞ SAĞLIĞI VE GÜVENLİĞİ
+KIMYASAL MADDELERIN İNSAN SAĞLIĞI VE ÇEVREYE ETKILERI
+Bir önceki konuda bazı element ve bileşikleri adları, sembolleri ve
+formülleriyle tanıdık. Bu ve benzeri birçok kimyasal madde, insan sağlığı ve
+çevre üzerinde oldukça önemli etkiye sahiptir.
+İnsan sağlığı ve çevre için önemli olan bazı maddeleri yakından tanıyalım:
+Sodyum (Na)
+Deniz suyu, tuz gölü, kaya tuzu vb. maddelerin yapısında bulunan parlak, beyaz renkli yumuşak bir elementtir. Tepkimeye girme isteği oldukça fazladır.
+Sodyumun pek çok önemli bileşiği vardır. Bunlardan bazıları;
+• Sofra tuzu,
+
+Görsel 1.32
+Sodyum
+
+• Sağlık ve gıda alanında kullanılan kabartma tozu,
+• Cam, kâğıt ve petrol endüstrisinde kullanılan soda,
+• Sabun yapımında, kâğıt, tekstil, bitkisel yağların saflaştırılmasında ve petrol
+sanayiinde kullanılan sud kostiktir.
+Sodyum elementi vücuttaki su dengesinin korunmasında, kas ve sinir fonksiyonlarının sağlıklı bir şekilde çalışmasında etkilidir. Ayrıca besinlerin hücre duvarından geçişini sağlar. Endüstride ise diğer metallerin bileşiklerinden saf olarak
+elde edilmesinde kullanılır.
+Potasyum (K)
+Oda sıcaklığında yumuşak, düşük sıcaklıklarda sert ve
+kırılgan bir elementtir. Deniz suyunda ve birçok mineralin
+yapısında yaygın olarak bulunur. Potasyum da sodyum gibi
+diğer metallerin, bileşiklerinden saf olarak elde edilmesinde kullanılır.
+
+Görsel 1.33
+Potasyum
+
+31
+
+Kimya 1
+
+Yaşayan her hücrenin yapısında bulunur. Sinir iletişimi için sodyum gibi
+çok önemlidir. Aynı zamanda bitkiler için de vazgeçilmez bir elementtir. Bu
+nedenle endüstride üretilen potasyumun bileşiklerinin çoğu gübre olarak
+kullanılır. Diğer bir önemli bileşiği de potas kostiktir (KOH) ve genel olarak
+temizleyicilerin üretiminde (Arap sabunu vb.) ve nötralleşme tepkimelerinde
+kullanılır.
+Potasyum minerali sodyumla birlikte vücuttaki su ve mineral dengesinin
+korunmasına yardımcı olur. Sinir sistemindeki mesajların iletilmesi ve düzenli
+kalp ritmi için gereklidir. Beyne oksijen gitmesinde ve hücreler arası besinlerin taşınmasında önemli rol oynar. Görevlerinden biri de hipertansiyonu önlemektir.
+Demir (Fe)
+
+Görsel 1.34
+Demir
+
+Saf demir parlak, mavimtırak esmer renkte bir element olup,
+doğada daha çok diğer elementlerle oluşturduğu bileşikleri hâlinde bulunur. Yer kabuğunda oldukça yüksek oranda demir metali
+bulunmasından dolayı dünyanın manyetik alanına etki ettiği düşünülmektedir.
+
+Uygarlığın ilerlemesinde, endüstrinin gelişmesinde demirin büyük katkıları vardır. Mutfağımızdaki birçok araç gereçten, ameliyatlarda kullanılan aletlere,
+fabrikalardaki makinelere, otomotiv ve inşaat sektöründe kullanılan malzemeye,
+tren ve raylara, gemilere kadar birçok alanda demir kullanılmaktadır.
+Demir birçok konuda önemli bir hammadde iken, insan ve hayvanların sağlığı için de önemli bir mineraldir. Demir vücudumuzda, kanda oksijeni taşıyan,
+kırmızı kan hücrelerinde bulunan hemoglobin üretimi için kullanılır. Eğer vücudumuzda yeterli demir minerali yoksa daha az kırmızı kan hücresi üretilir, dolayısıyla hemoglobin miktarı azalır. Hemoglobinin azalmasıyla birlikte organlar ve
+dokular için hayati önemi bulunan oksijen miktarı azalır. Bunun sonucu olarak
+demir eksikliği anemisi oluşur.
+Kalsiyum (Ca)
+Sarımtırak beyaz renkte, doğada bileşikleri hâlinde bulunan bir elementtir. Bileşikleri tıpta, hummaya karşı ilaç olarak kullanılır. Elektrolitik pillerde, kâğıt endüstrisinde, çimento yapımında, yüzeylerin kaplanmasında, suyun yumuşatılması
+işlemlerinde ve çelik üretiminde kullanılır.
+
+32
+
+1.Ünite Kimya Bilimi
+
+Canlıların kemik ve dişlerinde, yumurta kabuklarında bulunur. Kanın pıhtılaşmasına, hücre içi uyarıların iletilmesine, kalp atışlarının düzenlenmesine
+ve sinir sisteminin onarılmasına yardımcı olur. Ayrıca kandaki magnezyum,
+fosfor ve potasyum seviyesini kontrol etmek için de kalsiyum kullanılır.
+Kalsiyum eksikliğinde, başta kemiklerin ve dişlerin zayıflaması sonucu raşitizm, kemik erimesi ve diş çürümesi
+gibi sorunlar ortaya çıkar. Fazla kalsiyum alınması ise böbrek taşı, kemiklerde kireçlenme gibi sağlık sorunlarına neden olur. Kalsiyum bileşiği olan kireç taşı uygulaması son
+yüzyılda çoğu tarım topraklarında verimliliğin sürdürülmesinde önemli ve bilinen bir uygulamadır.
+Magnezyum (Mg)
+
+Görsel 1.35
+Kalsiyum
+
+Yakılınca parlak bir alev vererek yanan, kolayca dövülebilen, çok hafif, gümüş renginde bir elementtir. Diğer metallerin saf olarak elde edilmesinde, fotoğraf makinelerinde, yangın bombalarında, işaret fişeklerinde oldukça fazla
+kullanılmaktadır. Alaşımları uçak ve füze imalatında tercih
+edilir.
+Vücutta gerçekleşen metabolik işlevlerde, DNA sentezinde kullanılan bir elementtir. Başta kemikler olmak
+üzere, kalp ve beyinde yoğun miktarda magnezyum bulunmaktadır. Sinir sistemindeki aşırı duyarlılığı azaltan,
+insanların sakinleşmesine yardımcı olan magnezyum anti-stres minerali olarak tanımlanır. Kandaki şekerin enerjiye dönüşmesine yardımcı olur. Vücuttaki enzimleri harekete geçirir. Fosfor, C vitamini, potasyum ve kalsiyum gibi
+maddelerin vücudumuzda etkin bir şekilde kullanılmasına
+yardımcı olur.
+
+Görsel 1.36
+Magnezyum
+
+Su (H2O)
+Dünyanın fiziksel ve iklimsel durumuna etki eden, birçok canlı yaşamı
+için toprak, hava ve enerji (ısı ve ışık vb.) gibi gerekli olan bir bileşiktir. Su
+aynı zamanda iyi bir çözücüdür.
+Birçok maddenin yeryüzünde dolaşımını ve canlılar tarafından kullanılmasını sağlar. Bu özelliği iyi bir temizleyici olmasının da nedenidir.
+
+33
+
+Kimya 1
+
+Görsel 1.37
+Dünyamız ve su
+
+Su, sağlık için gerekli besin maddesidir. Ter, gözyaşı, solunum
+ve idrar vb. birçok maddenin büyük bir çoğunluğunu su
+oluşturur. Vücudumuzdaki kimyasal tepkimeler su sayesinde
+gerçekleşir. Bu bakımdan canlılığın var olması için su çok önemli
+bir yere sahiptir.
+Yukarıda belirtilen element ve bileşiklerin hayatımız için ne kadar
+önemli olduğunu fark ettik. Ancak bazı element ve bileşiklerin de
+hayatımız üzerine olumsuz etkileri vardır.
+
+İNSAN SAĞLIĞI VE ÇEVRE ÜZERİNE
+ETKİLERİ OLAN BAZI MADDELER
+
+ZARARLI
+
+Cıva (Hg)
+
+Görsel 1.38 Cıva
+
+Parlak, gümüş beyazı renginde, oda sıcaklığında sıvı hâlde bulunan, renksiz ve kokusuz yoğun bir elementtir. Buharı ve bileşikleri
+zehirlidir. Termometre haznesinde altın, gümüş, platin gibi değerli madenleri filizinden ayırmada, cıva buhar lambalarında, diş
+dolgularında (malgama) ve pil yapımında yaygın olarak kullanılır.
+Cıva sindirim, solunum ve deri yoluyla vücuda alınır; beyin,
+karaciğer ve böbreklerde birikir. Vücuttan atılamaz. Kazayla cıvanın dağılmasında, cıvanın bulunduğu zemin kükürt tozu serpilerek
+dikkatlice silinmeli, cıvanın çok az miktarının bile zararlı olduğu
+unutulmamalıdır.
+Kurşun (Pb)
+
+Görsel 1.39 Kurşun
+
+34
+
+Gümüşe benzer beyaz ya da grimsi renkli, yumuşak, kolay dövülüp şekil verilebilen ağır bir metaldir. Çözünebilen kurşun bileşikleri zehirlidir. Kurşunun ses ve radyasyon geçirgenliği oldukça
+azdır. Kötü bir ısı ve elektrik iletkenidir. Üzerinde oluşan ince bir
+koruyucu tabaka nedeniyle dış tesirlere (korozyona) dayanıklıdır.
+
+1.Ünite Kimya Bilimi
+
+Bu nedenlerle geçmişte olduğu gibi günümüzde de birçok kullanım alanı
+bulunmaktadır. Su, elektrik ve radyasyon yalıtımında, otomobil akülerinde,
+mühimmatlar ve alaşımlarda (örneğin lehim), benzin katkı maddesi olarak,
+matbaa harflerinde, kimyasal maddeler ve boyalarda yaygın olarak kullanılır.
+İçme suları, deniz ürünleri ve solunum ile vücuda giren kurşun, insanlar ve
+hayvanlar için oldukça zehirlidir. Fazla miktarları ölüme neden olur. Yakın zamanda benzin kurşun katkı maddesi üretiminde çalışan işçiler ile Afrika’ da pil
+toplama bölgelerinde çalışan çocukların kurşun zehirlenmesi sonucu öldükleri
+bilinmektedir.
+Karbon dioksit (CO2)
+Renksiz ve kokusuz bir gazdır. Solunum ürünü olan karbon
+dioksit, bitkiler tarafından besin maddesine dönüştürülerek
+kullanılır. Ayrıca yangın söndürücülerde ve katı hâlde (kuru buz)
+soğutma amacıyla kullanılır. Karbon dioksit miktarı vücudumuz
+için de önemlidir. Kanda, belirli miktarlarda bulunmalıdır. Zehirli
+değildir, insan vücuduna zarar vermez ancak bulunduğumuz
+ortamda miktarı fazla olduğunda kanımızdaki miktarı da artar. Bu
+durumda yorgunluk, hâlsizlik, bilinç kaybı gibi çeşitli problemler
+Görsel 1.40
+yaşanabilir.
+Yangın söndürme
+Isınma için kullanılan yakıtlar, motorlu taşıtlar, bitkiler en büyük
+tüpü
+kaynaklarıdır. Günümüzde sanayileşme ve nüfus artışı sonrası
+üretilen fazla miktardaki karbon dioksit küresel ısınma ve diğer
+iklim olaylarına neden olmaktadır.
+Azot dioksit (NO2)
+Zehirli bir gazdır, öksürüğe yol açan keskin
+bir kokusu vardır. Azot dioksidin en büyük kaynağı volkanlar, bataklıklarda ve denizlerde meydana gelen oksijensiz çürümeler ile kontrolsüz
+kullanılan gübrelerdir (amonyak içeren). Bunun
+yanı sıra kömür vb. fosil yakıtların yanması sonucu ortaya çıkmaktadır. Yağmur damlaları ile
+birleştiğinde nitrik asidi (HNO3) oluşturarak
+asit yağmurlarına sebep olur. Bilindiği gibi asit
+yağmurları ekolojik dengeye olumsuz etki etmektedir.
+
+Görsel 1.41 Azot dioksit gazı
+
+35
+
+Kimya 1
+
+Kükürt trioksit (SO3)
+
+Görsel 1.42 Bacalardan çıkan
+kükürt oksitleri ve diğer gazlar
+
+Zehirli bir gazdır. Kükürt trioksitin en büyük
+kaynağı volkanlar, sanayide bacalardan çıkan gazlar,
+yanardağdan püsküren gazlar ve ısınma amaçlı yakılan yakıtlardır. Solunum yoluyla alındığında,
+solunum yollarını tahriş eder, bronşit, astım,
+kanser gibi hastalıklara neden olur.
+Kükürt trioksit gazı bulutlardaki su damlacıkları
+içinde çözünerek sülfürik asiti oluşturur ve asit yağmurlarına sebep olur.
+Karbon monoksit (CO)
+Renksiz ve kokusuz zehirli bir gazdır. Tahriş etme
+özelliği de olmadığından hissedilmeden etki eder.
+Motorlu taşıtların egzoz gazı ve ısıtma için
+kullandığımız yakıtlardan salınan gazlar karbon
+monoksit gazının önemli kaynaklarıdır. Sigara da
+karbon monoksit kaynağıdır.
+
+Görsel 1.43 Soba kullanımı
+ve karbon monoksit oluşumu
+
+Karbon monoksitin kanda oksijen taşıyan hemoglobine (Hb) bağlanma oranı oksijenden 200 kat daha
+hızlıdır. Bu durumda oksijen hemoglobine bağlanamaz ve dokulara yeterince oksijen taşınmaz. Baş ağrısı,
+yorgunluk, nefes darlığı, mide bulantısı ve baş dönmesi karbon monoksit zehirlenmesinin ilk belirtileridir.
+Sonrasında sersemlik, kusma, bilinç kaybı, kas koordinasyon kaybı görülür. Kalp ve beyin zarar görür. Takip
+eden süreçte koma ve ölümle sonuçlanır.
+Klor gazı (Cl2)
+
+Görsel 1.44 Klor gazı
+
+36
+
+Keskin kokulu, sarımsı yeşil renkli zehirli bir gazdır.
+Vücuda girdiğinde ağızda yanma, boğazda şişme, göğüste yanma ve sıkışma hissi olabilir. Kalıcı hasarlar verebilir. Fazla miktarda solunduğunda, akciğer ödemine
+sebep olur ve birkaç dakika içinde ölümle sonuçlanır.
+
+1.Ünite Kimya Bilimi
+
+Suyla (vücut nemi ile) temas ettiğinde hidroklorik asit oluşturur. Oluşan
+hidroklorik asit de vücutta tahrişlere sebep olur. Bununla birlikte klor ve bileşikleri kent içme sularının dezenfekte edilmesinde mikrop öldürücü olarak
+kullanılır. Kimya sektöründe birçok yapay maddenin üretilmesinde de klor
+elementinden yararlanılır.
+Evlerde temizlikte çamaşır suyu ile özellikle tuz ruhu birlikte kullanıldığında klor gazı oluşur. Bu nedenle zehirlenmelerden kaçınmak için evde
+kullanılan temizlik malzemeleri birbirine karıştırılmamalıdır.
+
+4. Uygulama Aşağıdaki maddelerden hangilerinin insan sağlığına zararlı etkileri vardır?
+a) Cıva
+b) Kalsiyum
+c) Kükürt trioksit
+ç) Kurşun d) Karbon monoksit e) Demir
+Çözüm
+
+Cıva, Kükürt trioksit, Kurşun, Karbon monoksit
+
+5. Uygulama Aşağıdaki maddelerin insan sağlığı için önemine birer özellik yazınız.
+a) Sodyum
+b) Demir
+c) Kalsiyum
+Çözüm a) Sodyum: Sofra tuzunun yapısında bulunur.
+b) Demir: Kanda oksijeni taşıyan hemoglobinin üretiminde görev alır.
+c) Kalsiyum: Kemik ve dişlerin yapısında bulunur.
+KİMYADA KULLANILAN SAĞLIK VE GÜVENLİK AMAÇLI TEMEL
+UYARI İŞARETLERİ
+Kimyasallar üretim, taşıma ve kullanım gibi birçok farklı adımda insan
+sağlığı ve çevre için gerçek bir tehlike oluşturmaktadır. Çocuklardan yaşlılara,
+okuma yazma bilmeyenlerden farklı dil ve alfabe kullananlara kadar her yaştaki
+insanlar, günlük olarak tehlikeli ürünler (kimyasallar, zirai ilaçlar, vb.) ile karşı
+karşıya kalabilmektedirler. Bu tür tehlikelerle ilgili toplumu bilgilendirmek
+ve uyarmak amacıyla kimyasalların kutu veya ambalajlarına uyarı işaretleri
+konulmaktadır. Sonraki sayfadaki tabloda güvenlik işaretlerine ve bu işaretlerin
+anlamlarına yer verilmiştir.
+
+37
+
+Kimya 1
+
+Temel Uyarı İşaretleri
+
+Anlamı
+
+Etkileri ve Önlemler
+
+Patlayıcı Madde
+Kıvılcım, ısınma, alev, vurma,
+
+Ateş, kıvılcım ve ısıdan uzak
+
+çarpma ve sürtünmeye maruz
+
+tutulmalıdır. Uygun mesafede
+
+kaldığında patlayabilen
+
+durulmalı ve koruyucu giysi
+
+maddelerdir.
+
+giyilmelidir.
+
+Örnek: TNT (trinitro toluen)
+
+Yakıcı (Oksitleyici) Madde
+Havasız ortamda bile yanabilen, Yanan maddelerle teması
+maddelerle temas ettiğinde alev önlenmelidir. Ateş, kıvılcım
+alabilen veya patlayabilen
+maddelerdir.
+Örnek: Hidrojen peroksit,
+nitrik asit
+
+ve ısıdan uzak tutulmalıdır.
+Uygun mesafede durulmalı ve
+koruyucu giysi giyilmelidir.
+
+Yanıcı madde
+Ateşe, güneş ışığına ve ısıya
+
+Alev, kıvılcım ve ısı
+
+maruz kaldığında yanabilen
+
+kaynaklarından uzak
+
+maddelerdir.
+
+tutulmalıdır.
+
+Örnek: Etil alkol, hidrojen
+
+Zehirli Madde (Toksik)
+Solunduğunda ya da ağız yoluyla Kullanımı sırasında herhangi
+alındığında zehirleyici (toksik) bir şey yenilip içilmemelidir.
+
+38
+
+etkiye sahip maddelerdir.
+
+Vücutla temasından
+
+Ölümcül olabilir.
+
+kaçınılmalıdır. Gerektiğinde
+
+Örnek: Baryum klorat, nikotin
+
+tıbbi yardım alınmalıdır.
+
+1.Ünite Kimya Bilimi
+
+Temel Uyarı İşaretleri
+
+Anlamı
+
+Etkileri ve Önlemler
+
+Tahriş Edici Madde
+
+Temas durumunda vücutta aşırı
+
+Düşük şiddette sağlığa zararlı
+
+derecede hassasiyet meydana
+
+maddelerdir. Ciltte tahrişe sebep
+
+getirir ve daha sonra olumsuz
+
+olur.
+
+etkilerinin ortaya çıkmasına
+
+Örnek: Etil alkol
+
+neden olur. Alerjik reaksiyona
+neden olabilir.
+
+Aşındırıcı (Korozif) Madde
+Temas hâlinde kimyasal olarak
+canlı dokulara ciddi zararlar
+verebilen ya da tamamıyla tahrip
+edebilen maddelerdir. Ayrıca metal
+yüzeyleride aşındırır.
+Örnek: Hidroklorik asit, sülfürik asit
+
+Ciltte yanıklara, göz
+hasarlarına vb. yol açabilir.
+Bu tür maddelerle çalışırken
+solunmamalıdır, ciltle temas
+ettirilmemelidir. Teması hâlinde
+bol suyla yıkanmalıdır.
+
+Çevreye Zararlı Madde
+Çevreye olumsuz etkileri ani veya
+
+Kullanılırken gerekli koruyucu
+
+gecikmeli olarak ortaya çıkan veya
+
+tedbirler alınmalı, gübreler
+
+risk taşıyan maddelerdir.
+
+toprağın ihtiyacı olduğu kadar
+
+Örnek: Tarım ilaçları, gübreler
+
+kullanılmalı, fabrika atıkları
+arıtılmalı vb.
+
+Radyoaktif Madde
+
+Radyoaktif maddelerin yaydığı
+
+Atom çekirdeği kararlı olmayan
+
+ışınlar canlılar için büyük
+
+maddelerdir. Yüksek enerjili ışınlar
+
+tehlike oluşturur. Işın türüne
+
+yayar.
+
+göre deride, dokularda ve
+
+Örnek: Uranyum
+
+genetik yapıda hasar oluşur.
+Kansere ve ölümlere neden olur.
+Temas hâlinde giysiler hemen
+çıkarılmalı ve duş alınmalı,
+ayrıca radyoaktif madde ve
+giysiler uzman kişiler tarafından
+yaşam ortamlarından
+uzaklaştırılmalıdır.
+
+Tablo1.4 Temel uyarı işaretleri ve anlamları
+
+39
+
+Kimya 1
+
+KİMYA LABORATUVARLARINDA UYULMASI GEREKEN İŞ SAĞLIĞI VE
+GÜVENLİĞİ KURALLARI
+Kimyasal maddelerle laboratuvar ortamında da karşı karşıyayız. Bu tür maddelerle çalışırken çeşitli güvenlik önlemleri alarak bu maddelerin aşındırıcı, yakıcı, zehirleyici vb. zararlarından korunabiliriz. Unutulmamalıdır ki her uğraşın bir tehlikesi olabilir. Özellikle
+kimyada uğraşılan maddelerin en küçük bir miktarı bile çok tehlikeli olabilecekken
+tonlarca miktarı tehlike içermeyebilir. Ya da bir kimyasal madde suyla yıkanarak
+uzaklaştırılabilecekken başka bir kimyasal madde tamamen zararlı hâle gelebilir. Bunun
+gibi örnekleri çoğaltmak mümkündür. Bunun için laboratuvarda uyulması gereken
+zorunlu kurallar vardır. Bunlardan bazıları şunlardır:
+• İnsan sağlığına zararlı kimyasallar ve laboratuvar kazalarında ilk yardım hakkında detaylı bilgiler edinilmelidir.
+• Laboratuvarda herhangi bir şey yenilip içilmemeli, ağıza herhangi bir şey alınmamalı
+ve çalışırken eller yüze sürülmemelidir.
+• Kullanılan her bir eşya, alet ve cihaz yöntemine uygun biçimde temizlenerek yerlerine
+kaldırılmalıdır. Atık maddeler doğrudan lavabolara dökülmemelidir.
+• Laboratuvarı yönetenlerin izni olmaksızın hiçbir madde ve malzeme laboratuvardan
+dışarı çıkarılmamalıdır.
+• Kimyasal maddeler gelişigüzel birbirine karıştırılmama lıdır.
+• Kimyasal maddeler risk gruplarına ve saklama koşullarına
+göre havalandırma sistemli ayrı oda, dolap veya depolarda
+bulundurulmalıdır.
+• Farklı kimyasal maddelerin şişelerinin kapak veya tıpa ları
+birbiriyle değiştirilmemelidir.
+
+Görsel 1.45 Kimyasal
+malzemeler
+
+• Asitler ve zehirli gaz içeren maddelerle çeker ocakta çalışılmalıdır.
+• Asit, baz gibi aşındırıcı, yakıcı maddeler deriye damladığı veya sıçradığı hâllerde
+derhal bol miktarda su ile yıkanmalıdır.
+• Pipetleme yapılırken kesinlikle üflenmemeli ya da ağıza çekilmemelidir.
+• Etil alkol gibi yanıcı, tutuşturucu maddeler beki alevi çevresinden uzak tutulmalıdır.
+Deney esnasında önlük, gözlük, eldiven ve gerekiyorsa maske kullanılmalıdır.
+
+40
+
+1.Ünite Kimya Bilimi
+
+KIMYA LABORATUVARINDA KULLANILAN BAZI TEMEL MALZEMELER
+Laboratuvarlarda kimyasal maddelerin olumsuz etkilerinden korunmak için alınan güvenlik önlemlerinin yanı sıra laboratuvar malzemelerini tanımak ve hangi amaçla kullanıldığını bilmek de önemlidir. Aşağıda kimya laboratuvarlarında kullanılan bazı temel malzemelerin tanıtımı, kullanım amacı ve görseli verilmiştir.
+Beherglas
+Düz bir tabanı ve maddeyi dökmeye uygun küçük bir ağzı bulunan silindir şeklinde cam bir kaptır. Çeşitli ebatlarda bulunur.
+Kimya laboratuvarında çözelti hazırlama, ısıtma ve kristallendirme gibi işlemlerde kullanılır. Yüksek sıcaklığa dayanıklıdır.
+Erlenmayer
+Koni biçimli bir gövdeye, silindir şeklindeki bir boyuna ve düz
+bir tabana sahip olan laboratuvar malzemesidir. Genellikle
+üzerinde ölçüm işaretleri vardır. Koni biçimi, buharlaşmadan
+kaynaklanan kayıpları azaltır ve sıvıyı karıştırırken dökülmeleri
+önlemeye yardımcı olur. Çözelti hazırlama ve saklamada, kristalizasyon işlemlerinde kullanılır. Çeşitli ebatlarda bulunur.
+Dereceli silindir (Mezür)
+Saf sıvı ve çözeltilerin hacimlerini ölçmek için kullanılan, üzeri
+mL ile ölçülendirilmiş uzun bir silindir şeklinde cam veya plastik
+malzemedir. Genellikle, 50-1000 mL arasındaki hacimlerde
+kullanılır.
+Pipet
+Sıvıları bir yerden başka yere aktarmak için kullanılan, küçük
+çaplı ama uzun cam tüplerdir. Pipetler bazen ölçüm için
+kullanılır.
+
+Huni
+Maddeleri dökmeden bir kap içine akıtmaya yardımcı olur.
+Geniş bir ağız ve dar bir borudan oluşur. Huniler kimya laboratuvarında, karışımı ayırmak için genellikle filtrelerle birlikte
+kullanılır.
+
+41
+
+Kimya 1
+
+Balon Joje
+Belirli derişimlerde standart çözeltiler hazırlamak için kullanılan cam malzemelerdir. İnce boyun kısmında hacmini net
+olarak gösteren çizgi bulunur. Çeşitli ebatlarda bulunur.
+
+Cam Balon
+İçinde bazı kimyasal tepkimelerin gerçekleştirildiği cam bir
+kaptır. Ayrıca ısıtma ve kaynatma işlemlerinde geri soğutucu takılarak damıtılacak malzemenin konduğu kaptır. Çeşitli
+ebatlarda bulunur.
+Ayırma Hunisi
+Sıvı-sıvı heterojen karışımların ayrılmasını sağlayan cam
+malzemelerdir. Cam kabın alt kısmında bulunan musluk ile
+kontrollü olarak önce yoğun maddeler olmak üzere karışımı
+oluşturan sıvılar birbirinden ayrılır. Örneğin zeytinyağı-su
+karışımının bileşenlerine ayrılmasında kullanılır.
+Büret
+Özellikle analitik kimya laboratuvarlarında, asit baz (titrasyon) deneylerinde kullanılan dereceli silindirik bir cam malzemedir. Üzerinde sıvının hacmini ölçmek için mL ölçekli çizgiler bulunur. Pipetten farklı olarak ucunda sıvının kontrollü
+olarak alınmasını sağlayan bir musluk bulunur.
+Deney tüpü
+İnce uzun, bir ucu açık diğer ucu kapalı küçük çaplı silindirik
+test tüpleridir. Küçük miktarlarda sıvı kimyasalların konularak karıştırıldığı cam veya plastik tüplerdir. Maddelerin birbiri ile etkileşimini görmek için kullanılır.
+
+42
+
+1.Ünite Kimya Bilimi
+
+ÖZET
+Kimya hakkında bir şeyler bilmek, günlük yaşantımıza yeni bir boyut kazandırır çünkü doğada bulunan her şey madde ya da maddelerin karışımıdır. Bu nedenle insanlığın
+varoluşuyla başlayan maddeye olan ilgisi sonucu birçok kültürde (Mezopotamya, Çin,
+Hint, Mısır, Yunan, Orta Asya ve İslam uygarlıkları) yetişmiş olan doğa bilginleri ve
+fel-sefecilerin (Empedokles, Democritus, Aristo, Câbir bin Hayyan, Ebubekir er-Razi,
+Robert Boyle, Antoine Lavoisier) katkısıyla birçok kazanımlar elde edilmişti r.
+Bu çalışmalar bir dönem ölümsüzlük iksirini arama ve değersiz metalleri altına çevirme uğraşısı (simya) olmuş olsa da o çalışmaların sonucu bugünkü kimya bilimi
+oluşmuştur. Ancak simya çalışmaları bilimsel basamakları içermeyip daha çok deneme
+yanılmalar içermektedir.
+Kimya ise maddelerin özelliklerini, yapısını ve dönüşümlerine eşlik eden enerji alışverişlerini, maddeyi oluşturan taneciklerin neden ve nasıl bir arada kalabildiğini ve üretim yöntemlerini konu alan bilim bir dalıdır.
+Kimya bilim dalının başlıca ana bilim dalları (disiplinleri): Biyokimya, analitik kimya,
+organik kimya, anorganik kimya, fizikokimya, polimer kimyası ve endüstriyel kimyadır.
+Kimya alan mesleklerinden bazıları ise kimya mühendisliği, metalurji mühendisliği,
+eczacı, kimyager, kimya öğretmenliğidir.
+Kimya birçok çalışma alanıyla da ilgilidir. Bunlardan bazıları: İlaç, gübre, petrokimya,
+arıtım ve boya-tekstildir.
+Kimyanın Sembolik Dili
+Günlük hayatta sıklıkla etkileşimde bulunulan elementler ile bilinen diğer tüm
+element adları sembollerle ifade edilir. Bileşikler ise element sembollerinden oluşan formüllerle gösterilmektedir. Ancak sembollerin oluşturulduğu element adları kullanılarak birçok bileşik isimlendirilse de, bazı bileşiklerin özel isimleri öyle benimsenmiştir ki
+hâlâ bu isimler kullanılmaya devam edilmektedir.
+Kimya Uygulamalarında İş Sağlığı ve Güvenliği
+Kimyasal maddelerin kullanımı, elde edilmesi, taşınması ve devam eden kimyasal
+madde araştırmaları sırasında bazı olumsuz sonuçlarla karşı karşıya kalınabilir. Bu nedenle, kullanılabilecek malzemeler, çalışma ortamı, koruyucu kıyafetler ve çalışılacak
+kimyasal maddelerin özelliklerini önceden bilmek çok önemlidir.
+
+43
+
+Kimya 1
+
+1. ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARI
+A. Aşağıda verilen soruları cevaplandırınız.
+1. Simya ile kimya arasındaki farklar nelerdir?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+2. Kimya bilimine katkı sağlayan bilim insanlarından 3 tanesinin adını yazınız.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+3. Aşağıda verilen elementlerin sembollerini yazınız.
+A) Bakır: .................................
+B) Hidrojen: ............................
+C) Flor: ...................................
+D) Sodyum: ............................
+4. Aşağıdakilerden hangileri element sembolü, hangileri bileşik formülüdür?
+A) He .......................................................
+B) H2SO4 .....................................................
+C) H2O .......................................................
+D) NaCl ......................................................
+E) Pt ...........................................................
+F) CH3COOH ...........................................
+G) Cu ..........................................................
+5. Kimya disiplinlerinden üç tanesini yazınız.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+
+44
+
+1.Ünite Kimya Bilimi
+
+6. Kimyanın çalışma alanlarından üç tanesini yazınız.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+7. Kimya laboratuvarında kullanılan ayırma hunisi hangi amaçla kullanılır?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+B. Aşağıda verilen çoktan seçmeli soruları cevaplayınız.
+1. Aşağıdakilerden hangisi simya zamanında keşfedilmemiştir?
+A) İmbik
+B) Barut
+C) Plastik
+D) Nitrik asit
+2. I. Ebubekir er-Razi
+II. Aristo
+III. Robert Boyle
+Yukarıda verilen kişilerden hangisi simyadan kimyaya geçiş sürecine katkı
+sağlamıştır?
+A) Yalnız II
+B) Yalnız III
+C) I ve II
+D) I, II ve III
+3. Aşağıdaki saf maddelerden hangisi bir bileşiktir?
+A) Karbon
+B) Amonyak
+C) Altın
+
+D) Oksijen gazı
+
+4. Aşağıdaki elementlerden hangisinin sembolü iki harften oluşur?
+A) Berilyum
+B) Hidrojen
+C) Karbon
+D) Flor
+5. Aşağıdaki saf maddelerden hangisi elementtir?
+A) H2O
+B) CO
+C) NH3
+D) Mg
+
+45
+
+Kimya 1
+
+6. Aşağıdakilerden hangisinde bileşiklerin ad ve formülleri yanlış eşleştirilmiştir?
+Geleneksel Adı
+
+A) Zaç yağı
+B) Kezzap
+C) Sud kostik
+D) Sönmemiş kireç
+
+Formülü
+
+H2SO4
+NH3
+NaOH
+CaO
+
+7. Tarımda kullanılan gübreler ile ilgili,
+I.
+Bitkinin ihtiyaç duyduğu besini sağlayan maddelerdir.
+II. Toprağın su tutma özelliğini artırır.
+III. Gübreler organik ya da inorganik olabilir.
+yargılarından hangisi doğrudur?
+A) Yalnız I
+C) I ve III
+
+B) I ve II
+D) I, II ve III
+
+8. Maddelerin daha çok nicel olarak incelemesini yapan kimya disiplini
+aşağıdakilerden hangisidir?
+B) Organik kimya
+A) Analitik kimya
+D) Polimer kimyası
+C) Fizikokimya
+9. Aşağıdakilerden hangisi kimyanın disiplinlerinden biri değildir?
+B) Fiziko
+A) Anorganik
+C) Kartografya
+D) Organik
+10. Aşağıdakilerden hangisi sağlık ve güvenlik amaçlı kullanılan zehirli madde
+uyarı işaretidir?
+A)
+
+B)
+
+C)
+
+D)
+
+11. Aşağıdakilerden hangisi kimya laboratuvarında asit-baz (titrasyon)
+tepkimelerinde kullanılan bir alettir?
+A) Beherglas
+B) Büret
+C) Cam balon
+D) Huni
+
+46
+
+1.Ünite Kimya Bilimi
+
+12. Aşağıdakilerden hangisi insan sağlığı ve çevre üzerine zararlı etkileri olan
+maddelerden birisidir?
+A) Kurşun
+B) Kalsiyum
+C) Demir
+D) Magnezyum
+C. Aşağıdaki tabloda verilen kelimelerin uygun olanlarını noktalarla belirtilen
+boşluklara yazınız.
+simya
+
+kimya
+
+zaç yağı
+
+arıtım
+
+Cabir bin Hâyyan
+
+petrokimya
+
+demir
+
+endüstriyel kimya
+
+Antoine Lavoisier
+
+1. ………………’ da deneyler ve deneyimler ön plandadır ancak bunlar
+
+çoğunlukla tesadüfe dayalıdır.
+2. Yaygın adı ………………….. olan bileşiğin formülü H2SO4'tür.
+3. ……………..... kristalleşme, damıtma ve buharlaşma gibi birçok terimi
+
+ve tekniği kimyaya kazandırmış, imbiği geliştirmiştir.
+
+maddelerin özelliklerini, yapısını ve dönüşümlerine
+eşlik eden enerji alışverişlerini, maddeyi oluşturan taneciklerin neden
+ve nasıl bir arada kalabildiğini konu alan bir bilim dalıdır.
+
+4. ………………
+
+5. …………………modern kimyanın babası olarak anılan Fransız bir kimyagerdir.
+6. Petrol, ………………………. sanayi için önemli bir hammadde kaynağıdır.
+7. ……………….., maddelerin ve materyallerin geliştirilmesi, imalat süreçleri,
+
+atıkların yok edilmesi ve geri dönüşümü ile ilgilidir.
+8. ……………. bir ürünün istenen özelliklerinin kalması, istenmeyen
+
+özelliklerden arındırılması olarak tanımlanır.
+9. ……………… kanda oksijeni taşıyan kırmızı kan hücrelerinde bulunan
+
+hemoglobin üretimi için kullanır.
+
+47
+
+2.
+ÜNİTE
+
+ATOM VE
+PERIYODIK SISTEM
+
+1. ATOM MODELLERİ
+2. ATOMUN YAPISI
+3. PERİYODİK SİSTEM
+
+NELER ÖĞRENECEKSİNİZ?
+Bu üniteyi tamamladıktan sonra;
+• Geçmişten günümüze atom modellerinin gelişim sürecini
+fark edecek,
+• Atomun yapısını açıklayabilecek,
+• Elementlerin periyodik sistemdeki yerleşim esaslarını
+kavrayabileceksiniz.
+
+ANAHTAR KAVRAMLAR
+atom, atom modeli, elektron, proton nötron,
+metal, ametal, yarı metal, izotop izobar,
+izoelektronik, emisyon (yayma), absorbsiyon
+(soğurma), izoton, periyodik sistem, atom
+yarıçapı, elektron ilgisi, iyonlaşma enerjisi, iyon
+ektronegatiflik, teori, grup, periyot
+
+Kimya 1
+
+2.1. ATOM MODELLERİ
+Evrenin bir parçası olan Güneş sistemimiz bizim için oldukça büyük, elementleri oluşturan atom ise bir o kadar küçüktür. Karmaşık olan ve de çok
+büyük ve çok küçük olan şeyleri incelemek ve anlamak oldukça zordur. Bu nedenle, bilim insanları yaptıkları çalışmalarda edindikleri bilgi ve deneyimlerini
+daha kolay anlatmak için modeller kullanırlar.
+Modeller gerçek olanın anlaşılabilir bir temsili, taklididir. Modeller gerçek
+olanla aynı boyutta olabileceği gibi, oranları aynı ama boyutları farklı da
+olabilir. Örneğin Dünyamızın bir modeli Dünyamızdan çok küçüktür. Atom
+modelleri ise tam tersine, gerçek atomdan çok çok büyüktür. Modeller bilimdeki
+gelişmelerle birlikte değişebilir ya da tamamen yeni bir model oluşturulabilir.
+Modern kimya döneminde atomla ilgili birçok buluş yapılmıştır. Bu
+buluşları sunabilmek, atomun yapısını ifade etmek için birçok atom modeli
+geliştirilmiştir. Bu bölümde John Dalton (Con Daltın), Joseph John Thomson
+(Cosef Con Tamsın) ve Ernest Rutherford (Örnıst Radırford) gibi önde gelen
+bilim adamlarının geliştirdikleri atom modellerini inceleyecek günümüzde
+kabul edilen atom teorisine olan katkılarını anlamaya çalışacağız.
+Dalton Atom Modeli
+1800'lü yılların başında John Dalton, maddenin her halinin (katı, sıvı,
+gaz) küçük parçacıklardan olıştuğunu öne sürmüştür. Dalton’ a göre;
+
+Görsel 2.1 John
+Dalton
+
+• Her element, atom olarak adlandırılan son derece küçük
+parçacıklardan oluşur.
+• Atomlar yaratılamaz, yok edilemez veya bölünemez.
+• Aynı elementin atomları özdeştir.
+• Maddeler aynı ya da farklı atomların birleşmesiyle oluşur.
+• Farklı elementlerin atomları farklı özelliklere sahiptir,
+örneğin kütleleri ve verdiği kimyasal tepkimeler farklıdır.
+• Bir elementin atomları, kimyasal tepkimelerde farklı atom
+türlerine dönüştürülmez.
+
+50
+
+2.Ünite Atom ve Periyodik Sistem
+
+Dalton, atomu içi dolu ve bölünemez kürelere benzeterek atom
+için yandaki görseldeki (Görsel 2.2) gibi bir model kullanmıştır.
+Thomson Atom Modeli
+Görsel 2.2 Dalton
+atom modeli
+
+Joseph John Thomson, Dalton’un atom modelinde belirttiği gibi
+atomun içi dolu ve bölünemez küreler olmadığını ispatlamıştır.
+1897’ de “ Crookes tüpü” (bir gaz boşaltma tüpü) ile yaptığı
+çalışmalarda atomun yapısından yüklü parçacıkların ayrıldığını
+keşfetti. Bu parçacıkların negatif yüklü olduğu ve her tür atomu
+oluşturan ortak parçalardan biri olduğu sonucuna vardı. Bu
+negatif yüklü parçacıklara elektron adı verildi. Ona göre,
+elektronlar atomu terk edip tüpün içinde hareket edebiliyorsa
+atomun bölünmezliği düşüncesi de terk edilmeliydi.
+Thomson bulduğu kanıtları birleştirmeye çalıştı. "Atomlar nötrdür. O hâlde, Thomson’a göre atomun kütlesine göre çok küçük kütleye sahip eksi yüklü elektronlar varsa, atomda elektronlar dışında
+kalan kütle pozitif yüklü olmalıydı." Böylece Thomson’ un “Üzümlü Kek” olarak adlandırılan atom modeli oluştu. Üzümler elektronu (negatif yüklü parçacıkları), hamur kısmı da pozitif yüklü kısmı
+temsil etmektedir.
+Thomson atom modeline göre;
+
+Görsel 2.3
+Joseph John Thomson
+
+Görsel 2.4
+Thomson atom modeli
+
+• Atom, artı yüklü madde içine gömülü elektronlardan oluşmaktadır.
+• Elektronlar hareket etmezler ve artı yüklü madde içinde homojen
+olarak dağılmışlardır.
+• Elektronların kütleleri çok küçüktür bu yüzden atomun
+kütlesini artı yüklü madde oluşturur.
+• Atom küre şeklindedir.
+Rutherford Atom Modeli
+Rutherford, 20. yüzyılın başlarında, Thomson’ ın üzümlü kek
+modelini test etmek için bir deney tasarladı.
+
+Görsel 2.5
+Ernest Rutherford
+
+51
+
+Kimya 1
+
+Rutherford yaptığı deney sonucunda;
+• Atomun yapısında büyük bir boşluk bulunduğu,
+
+Görsel 2.6 Rutherford
+atom modeli
+
+• Pozitif yükün belirli bir bölgede (merkezde) toplanmış olduğu
+sonucuna ulaşmıştır.
+Rutherford keşfettiği pozitif yüklü merkeze çekirdek adını verdi.
+Ulaştığı diğer sonuçlar şunlardır:
+• Atomda pozitif yüklü tanecikler kadar elektron vardır ve bu
+elektronlar çekirdek etrafındaki boş alanda dolanır.
+• Elektronlar çekirdekten oldukça uzakta yer alırlar ve atom
+büyük oranda boşluktan oluşur.
+Rutherford, atom kütlesinin yaklaşık yarısını oluşturan başka
+bir parçacığın (nötronun) olabileceğini öngörmüş ancak bu
+parçacık daha sonraki yıllarda 1932’ de, James Chadwick
+tarafından keşfedilmiştir
+...
+Rutherford’ tan sonraki atom modeli, ışığın bazı özelliklerini
+kullanan Bohr atom modelidir.
+Bohr Atom Modeli
+
+Görsel 2.7 Niels Bohr
+(1885-1962)
+
+Görsel 2.8
+Bohr atom modeli
+
+52
+
+Rutherford, atom modelinde, atomun yapısını oluşturan parçacıkların konumunu belirtmiş ancak elektronların çekirdek etrafındaki davranışlarını açıklayamamıştır. Niels Bohr ise 1913 yılında
+geliştirdiği atom modelinde elektronların davranışına açıklık getirmiştir.
+Bohr, modelinde, ışın ve atomlar arasında bağlantı kurmaya çalışmış ve 1913’ te yaptığı deneylerde elde ettiği verilere dayanarak
+atom modelini açıklamıştır.
+Bohr, atom modelini bütün elementlerin en basiti olan hidrojen
+element atomu için geliştirmiştir. Model, proton ve nötronları içeren çekirdek ile çekirdeğin belirli uzaklıklarındaki dairesel yörüngelerde hareket eden elektronları içermektedir (Görsel 2.8).
+
+2.Ünite Atom ve Periyodik Sistem
+
+Bohr’a göre bir elektron, çekirdeğin çevresindeki belirli bir yörüngede
+kalabilmek için belirli bir enerjiye sahip olmalıdır. Elektronun, farklı bir
+yörüngede kalabilmesi için farklı bir enerjiye ihtiyacı vardır. Elektron, belirli
+bir yörünge için ihtiyacı olan enerjiden daha azına ya da daha fazlasına sahipse
+o yörüngede kalamaz. Yörüngede kalabilmek için ya dışarıdan enerji almalı
+ya da fazla olan enerjisini vermelidir. Bu nedenle yörüngeler enerji seviyeleri
+olarak da ifade edilir. Bohr'a göre bir atomun elektronları sadece belirli
+enerji seviyelerinde bulunabilir. Elektron hiçbir zaman enerji seviyeleri
+arasına yerleşmez.
+Bir elektrona bir kaynaktan enerji verildiğinde, atom, dolayısıyla elektron
+verilen enerjiyi (ışını) soğurur (emer). Bu durum, elektronun bulunduğu
+yerden ayrılmasına, çekirdekten uzaklaşmasına yani elektronun daha yüksek
+enerji seviyesine geçmesine neden olur. Elektrona verilen enerji miktarı
+arttıkça elektron daha da üst enerji seviyelerine çıkar (Görsel 2.9). Üst enerji
+seviyesindeki elektron çekirdeğe daha yakın alt enerji seviyelerine geri dönerken
+fazla enerjiyi ışın yayarak (ışıma yaparak) serbest bırakır (Görsel 2.10).
+
+Görsel 2.9 Enerji alan elektron
+
+Görsel 2.10 Enerji veren elektron
+
+Özetle, elektron yüksek enerji seviyelerinden düşük enerji seviyelerine
+geçerken belirli bir enerjiye karşılık gelen ışını yayarken başka kaynaktan
+gelen ışın atoma ulaştığında ise yaydığı enerjideki aynı ışını soğurur (emer).
+ATOMLARIN KATMAN-ELEKTRON DAĞILIMLARI
+Bohr atom modelinde, elektronların hareket ettiği yörüngeler elektronların
+bulunabileceği enerji seviyeleridir. Enerji sevileri katman olarak da adlandırılır.
+Bu enerji seviyeleri "n" simgesi veya K, L, M, N, O gibi harflerle gösterilir.
+“n” 1’ den başlayıp 7’ ye kadar devam eder. Çekirdeğe en yakın olan ilk ve en
+düşük enerji seviyesi (1. enerji seviyesi) n=1 ya da “K” harfi ile temsil
+edilirken en uzaktaki yani en yüksek enerji seviyesi (7. enerji seviyesi) n=7 ile
+temsil edilmektedir (Görsel 2.11).
+
+53
+
+Kimya 1
+
+n=4
+n=3
+n=2
+n=1
+
+yüksek enerjili yörüngeler
+elektron
+
++
+
+proton (çekirdek)
+
+K
+
+en düşük enerjili yörünge
+
+L
+M
+N
+Görsel 2.11 Bohr’un hidrojen atom modeli
+
+Bohr'a göre elektronlar yörüngelere en düşük enerji seviyesinden başlayarak
+yerleşir. Atom dışarıdan yeteri kadar enerji aldığında elektronlar daha yüksek
+enerjili seviyeye çıkar. Enerji seviyesi (n) arttıkça, elektron ve çekirdeğin
+arasındaki mesafe ve elektronların enerjisi artar. Bohr’a göre her enerji
+seviyesinin taşıyabileceği belirli bir elektron kapasitesi vardır. Her seviyedeki
+azami elektron sayısı aşağıdaki gibidir:
+n = 1 olan Bohr yörüngesi maksimum iki elektron tutar.
+n = 2 olan Bohr yörüngesi, maksimum sekiz elektron tutar.
+n = 3 olan Bohr yörüngesi, maksimum sekiz elektron tutar.
+
+n=2
+n=1
+
+3p+
+3n0
+
+Li: 2, 1
+
+Örneğin lityum element atomunun üç elektronu bulunmaktadır.
+Bohr modeline göre atomun ilk enerji seviyesine iki elektron
+yerleşebilir. Kalan bir elektron ise 2. enerji seviyesine yerleştirilir.
+Böylece lityum elementinin elektronlarının tamamı yerleşmiş olur.
+Pratik olarak Lityum atomunun elektron katman dizilimi;
+Li: 2, 1 şeklinde gösterilir.
+20 elektronu bulunan kalsiyum atomunun Bohr atom modelinde
+ise n= 1 de iki elektron, n=2 de sekiz elektron, n= 3 de sekiz ve n= 4
+de iki elektron bulunur. Kalsiyum atomu için elektron dizilimi;
+Ca: 2, 8, 8, 2 ya da
+Ca: 2) 8) 8) 2) şeklinde gösterilir.
+
+Ca: 2, 8, 8, 2
+
+54
+
+2.Ünite Atom ve Periyodik Sistem
+
+1. Uygulama 16 elektron ve 16 protonu bulunan kükürt atomuna ait Bohr atom
+modelini çizerek en yüksek enerji katmanında kaç elektron
+bulunduğunu belirtiniz.
+Çözüm Elektron dizilimi;
+S: 2, 8, 6 ya da
+16
+S: 2) 8) 6) şeklinde gösterilir.
+
+16
+
+En yüksek enerji katmanında (n=3) 6 elektron bulunur.
+
+2. Uygulama 13 protonu bulunan alüminyum atomunun ikinci enerji seviyesinde
+kaç elektron bulunur? Bohr modelini çizerek belirtiniz.
+Çözüm Elektron dizilimi;
+Al: 2, 8, 3 ya da
+13
+Al: 2) 8) 3)
+
+13
+
+şeklinde gösterilir.
+Alüminyum atomunun ikinci enerji
+seviyesinde (n=2) 8 elektron bulunur.
+
+3. Uygulama Hidrojen atomunun Bohr modeli göz önüne alındığında hangisi en
+yüksek enerji seviyesinden (yörüngeden ) geri dönüştür ve en yüksek
+enerjili ışımadır?
+a) n = 3 → n = 2
+c) n = 5 → n = 2
+
+b) n = 4 → n = 2
+ç) n = 6 → n = 2
+
+Çözüm En yüksek enerjili ışıma n = 6 → n = 2 geçişinde olur. Yayılan ışının
+enerjisi, iki seviye arasındaki enerji farkına eşittir.
+
+55
+
+Kimya 1
+
+İlk 20 element atomunun elektronlarının Bohr modeline göre enerji seviyelerine dağılımı
+(katman-elektron dağılımı) aşağıda verilmiştir (Görsel 2.12).
+1- Hidrojen (H)
+
+2- Helyum (He)
+
+3- Lityum (Li)
+
+4- Berilyum (Be)
+
+5- Bor (B)
+
+6- Karbon (C)
+
+7- Azot (N)
+
+8- Oksijen (O)
+
+9- Flor (F)
+
+10- Neon (Ne)
+
+11- Sodyum (Na)
+
+12- Magnezyum (Mg)
+
+13- Alüminyum (Al)
+
+14- Silisyum (Si)
+
+15- Fosfor (P)
+
+16- Kükürt (S)
+
+17- Klor (Cl)
+
+18- Argon (Ar)
+
+19- Potasyum (K)
+
+20- Kalsiyum (Ca)
+
+56
+
+Görsel 2.12 Bohr modeline göre elektronların enerji seviyelerindeki dağılımı.
+
+2.Ünite Atom ve Periyodik Sistem
+
+Modern Atom Teorisi
+Bohr, elektronların belirli enerji seviyelerinde bulunduğunu belirterek atomun yapısıyla
+ilgili gelişmelere oldukça önemli katkı sağlamıştır. Bohr, bir elektronun üst enerji seviyelerine
+çıkarken ne kadar enerji aldığını ve alt enerji seviyelerine inerken ne kadar enerji yaydığını
+hesaplayabilmiştir. Ancak bunu sadece tek elektronu olan taneciklere (1H, 2 He 1+, 3 Li 2+
+vb.) uygulayabilmiştir. Çok elektronlu atomların yaydığı veya soğurduğu enerjiye açıklık
+getirememiştir.
+Daha sonraları (1925 yılından itibaren) Heisenberg (Hayzenberg), Schrödinger
+(Şirödinger) ve diğer bilim insanlarının katkılarıyla, atomun yapısını ve elektron
+davranışını açıklayan ve günümüzde geçerli olan modern atom teorisi ortaya atılmıştır.
+Teori var olan bilimsel bir olgunun, gözlemin neden ve nasıl olduğunun bilimsel veriler ve
+deney sonuçlarına dayanarak açıklamasıdır.
+Modern atom teorisinde, elektronların davranışı elektron bulutu modeli ile
+açıklanmaktadır. Bu model, bohr atom modelinden farklı olarak elektronların çekirdeğin
+çevresindeki belirli yörüngelerde değil, belirli enerji seviyelerindeki belirli bölgelerde
+bulunma ihtimalinin olduğunu öne sürmektedir. Bohr ayrıca elektronların bu enerji
+seviyelerinde sabit hızla dairesel hareket yaptığını öne sürmüştü fakat modern atom
+teorisine göre elektronlar bu şekilde hareket etmemektedir. Modern atom teorisine
+sonraki dönemlerde detaylı bir şekilde değinilecektir.
+Geçmişten günümüze atom modelleri aşağıdaki gibidir:
+
+Görsel 2.13 Geçmişten günümüze atom modelleri
+
+1925- günümüz
+
+Elektron bulutu modeli
+
+1913
+
+Bohr atom modeli
+
+1911
+
+Rutherford atom modeli
+
+1897
+
+Thomson atom modeli
+
+Dalton atom modeli
+
+1805
+
+57
+
+Kimya 1
+
+2.2. ATOMUN YAPISI
+Atomun yapısını oluşturan elektron, proton ve nötronun bilinir olması sonrasında,
+elementlerin farklı davranışlarının nedeni de anlaşılabilmiştir. Elementleri birbirinden
+farklı kılan, element atomlarının sahip olduğu proton, nötron ve elektron sayılarının
+farklılıklarıdır. Bu bölümde atomu oluşturan parçacıkların sayıca, kütlece ve yükçe
+farklılıklarına yer verilmiştir:
+ELEKTRON, PROTON VE NÖTRONUN YÜKLERI, KÜTLELERI VE ATOMDA
+BULUNDUKLARI YERLER
+Bir önceki ünitede;
+
+6 proton
+6 nötron
+
+• Atomu çok daha küçük, atom altı
+üç parçacık (proton, nötron ve elektron)
+oluşturduğundan,
+
+elektron
+proton
+Karbon atomu
+Görsel 2.14 Bohr atom modeli
+
+nötron
+
+• Proton ve nötronların çok yoğun bir
+merkez olan çekirdekte, elektronların ise
+çekirdeğin çevresindeki yörüngelerde
+bulunduğundan bahsedilmişti.
+
+Çekirdeği oluşturan proton ve nötronlar, çok güçlü kuvvetlerle bir arada durur.
+Çekirdek, atomun pozitif yüklü merkezidir. Çekirdeğin pozitif elektrik yükü (çekirdek
+yükü), protonlardan kaynaklanırken, nötronların net bir elektrik yükü yoktur.
+Elektronlar, atomun kütlesi ile karşılaştırıldıklarında çok küçük bir kütleye sahiptir.
+Atomun neredeyse tüm kütlesi çekirdekte bulunur. Bu nedenle atomun kütlesi olarak
+çekirdeği oluşturan protonlar ve nötronlar dikkate alınır. Proton ve nötronun kütlesi
+birbirine çok yakındır. Ancak atomun çekirdeği atomun genel çapından çok küçüktür
+çünkü elektronlar atom çekirdeğinden oldukça uzakta bulunur.
+
+Bilgi Notu
+Hidrojen atomunun hacmi, çekirdeğinden 145.000 kat daha büyüktür.
+
+58
+
+Elektronların atom kütlesine belirgin bir katkısı olmasa da, tüm kimyasal tepkimelerde elektronlar başrol oynar. Proton ve elektronun ikisi de elektrik yüklüdür. Protonun
+yükü +1, elektronun yükü -1'dir. Protonun ve elektronun yükü büyüklük bakımından
+eşit ancak ters işaretlidir. Bu durumda, eşit sayıda proton ve elektrona sahip olan
+atomlarda toplam yük miktarı sıfırdır yani atom nötr yapıya sahiptir. Tablo 2.1’ de
+atomu oluşturan parçacıkların kütlesi ve diğer özellikleri yer almaktadır:
+
+2.Ünite Atom ve Periyodik Sistem
+
+Proton
+
+Elektron
+
+Nötron
+
++1,602 x 10 -19
+
+-1,602 x 10 -19
+
+0
+
++1
+
+-1
+
+0
+
+Kütle (kg)
+
+1,67262 x 10 -27
+
+0.00091 x 10 -27
+
+1,67493 x 10 -27
+
+Bağıl kütle
+
+1837
+
+1
+
+1839
+
+Yük (coulomb)
+Yük birimi (bağıl yük)
+
+Tablo 2.1 Atomu oluşturan taneciklerin bazı özellikleri
+
+Kısaca;
+Nötronlar: Atomun çekirdeğinde bulunan nötr, yüksüz taneciklerdir.
+Protonlar: Çekirdekte bulunan pozitif yüklü taneciklerdir.
+Elektronlar: Çekirdeğin dışında, enerji seviyelerinde bulunan
+negatif yüklü taneciklerdir.
+Atomu oluşturan parçacıklar bazı kavramlarla ifade edilmektedir. Bu kavramlar
+ve aralarındaki ilişki aşağıda verilmiştir:
+Atom numarası
+Bir elementin atomlarının sahip olduğu proton sayısı, o elementi diğerlerinden
+ayıran önemli bir özelliktir. Atomların kimliğini belirleyen sahip olduğu proton
+sayısıdır. Örneğin, çekirdeğinde 1 proton bulunan atomlar, hidrojen atomlarıdır.
+Çekirdeklerinde 10 proton bulunan neon atomları, çekirdeklerinde 20 proton
+bulunan kalsiyum atomlarıdır.
+Yalnız o element atomuna özgü, toplam proton sayısına atom numarası denir ve
+Z sembolü ile gösterilir.
+Nötr bir atomda elektron sayısı, proton sayısına eşittir. Dolayısıyla atomun
+elektron sayısı atom numarasını verir. Örneğin hidrojenin atom numarası 1' dir.
+Dolayısıyla hidrojen atomundaki proton ve elektron sayıları aynı olup sayısı 1' dir.
+Z (atom numarası) = çekirdekteki proton sayısı = elektron sayısı (nötr atomda)
+
+59
+
+Kimya 1
+
+Kütle numarası
+Çekirdekte bulunan proton ve nötron sayısı toplamı kütle numarasını verir.
+Kütle numarası A harfi ile gösterilir ve aşağıdaki şekilde hesaplanır:
+Kütle numarası = Çekirdekteki proton sayısı + Çekirdekteki nötron sayısı
+(A)				(Z)				(n)
+Bir elementin atom numarası ve kütle numarası, element sembolü etrafına
+aşağıdaki şekilde yerleştirilir.
+Kütle numarası
+Atom numarası
+
+A
+
+X
+Z
+
+Element sembolü
+
+Örneğin, 2 protonu ve 2 nötronu bulunan Helyum (He) atomu için; atom
+numarası ve kütle numarası sembolü etrafına aşağıdaki gibi yerleştirilir:
+
+4
+
+Atom Numarası (Z) = çekirdekteki proton sayısı					
+Z =2
+
+2
+
+He
+
+Kütle Numarası (A) = çekirdekteki proton sayısı + çekirdekteki nötron sayısı
+A=2+2 =4
+Hidrojen element atomlarının bir protonu ve bir elektronu bulunur. Hidrojen
+elementinin birçok atomu nötrona sahip değildir. Bu nedenle hidrojenin kütlesini
+bir proton temsil eder.
+4. Uygulama Hidrojen atomunun proton sayısı 1, nötron sayısı 0'dır. Atom numarasını
+ve kütle numarasını hidrojen sembolü etrafında gösteriniz.
+Çözüm Atom Numarası (Z ) = çekirdekteki proton sayısı
+Z =1
+Kütle Numarası (A) = p + n
+A=1+0
+A=1
+
+1
+1
+
+H
+
+5. Uygulama Yanda sembolü verilen kükürt (S) elementinin atom
+numarası, kütle numarası, nötron sayısı ve elektron sayısı nedir?
+Çözüm Atom Numarası (Z ) = p =e = 16
+Kütle Numarası (A) = 32		
+
+60
+
+32
+16
+
+Nötron Sayısı = A – Z ise
+Nötron Sayısı = 32 – 16 = 16' dır.
+
+S
+
+2.Ünite Atom ve Periyodik Sistem
+
+İzotop
+Bir elementin tüm atomlarının proton ve elektron sayıları aynıdır ancak aynı
+element atomları farklı nötron sayılarına sahip olabilir. Bu nedenle aynı elementin
+atomlarının kütleleri birbirinden farklı olabilir (elektronların kütlesinin ihmal
+edilecek kadar küçük olduğu unutulmamalıdır). Aynı elementin atomlarının nötron
+sayıları farklı ise kütle numaraları da farklı olur. Proton sayısı aynı nötron sayısı
+dolayısıyla kütle numarası farklı olan atomlar birbirinin izotoplarıdır. Bu tür atomlara
+izotop atom denir.
+Doğada elementler çoğunlukla izotop karışımı olarak bulunur. Örneğin karbon
+12
+
+13
+
+16
+
+17
+
+C ve 6 C izotopları karışımı; oksijen elementi 8 O ve 8 O
+izotopları karışımı şeklinde bulunur. Benzer şekilde kükürt(S) elementinin dört
+33
+36
+32
+34
+izotopu ( 16 S , 16 S , S , S ), klor elementinin iki izotopu (35Cl ve 37Cl)
+16
+16
+vardır. Belirli bir elementin atom numarası sabit (aynı) olduğundan, izotoplar
+genellikle atom kütlelerinden ayırt edilir. İzotoplar karbon örneğinde olduğu gibi 12C
+ve 13C şeklinde de gösterilir, karbon-12, karbon-13 şeklinde de ifade edilir.
+
+elementi doğada,
+
+6
+
+Hidrojen elementinin izotoplarını inceleyelim (Görsel 2.15-a, b, c).
+Hidrojen-1:
+
+1
+1
+
+H
+
+Çekirdeğinde bir protona sahiptir. Nötronu
+yoktur. Doğada en çok bu şekliyle bulunur (yaklaşık
+%99,98). Bu izotop P harfi ile temsil edilir, protonyum
+olarak adlandırılır (Görsel 2.15-a).
+Hidrojen-2:
+
+2
+1
+
+H
+
+Çekirdeğinde bir proton ve bir nötron vardır.
+Döteryum olarak adlandırılır, D harfi ile temsil
+edilir (Görsel 2.15-b).
+Hidrojen-3:
+
+3
+1
+
+Görsel 2.15-a Hidrojen
+
+Görsel 2.15-b Döteryum
+
+H
+
+Çekirdeğinde bir proton ve iki nötron bulunan
+radyoaktif bir izotoptur. Trityum olarak adlandırılır,
+T harfi ile temsil edilir (Görsel 2.15-c).
+Görsel 2.15 –c Trityum
+
+61
+
+Kimya 1
+
+6. Uygulama Kalsiyum elementinin izotopları aşağıda verilmiştir. Bu izotopların atom
+numarasını (Z), kütle numarasını (A) ve nötron sayısını bulunuz.
+40
+20
+
+42
+
+Ca
+
+20
+
+Çözüm Z=20			
+A=40			
+n=20			
+
+Ca
+
+Z=20			
+A=42			
+n=22			
+
+43
+20
+
+Ca
+Z=20
+A=43
+n=23
+
+İzotopların;
+• Kimyasal özellikleri aynıdır (aynı elektron sayısına sahiplerse).
+• Fiziksel özellikleri (özgül ağırlık, kaynama sıcaklığı vb.) farklıdır.
+• Nükleer özelliklerinde önemli farklılıklar görülür.
+İzoton
+İzoton atomlar, nötron sayıları aynı proton ve kütle numaraları farklı olan atomlardır.
+İzoton atomların proton sayıları farklı olduğundan, bunlar farklı element atomlarıdır.
+Bu atomların proton sayıları farklı olduğu için hem kimyasal özellikleri hem de fiziksel
+özellikleri farklıdır. Birbirinin izotonu olan atomlara;
+
+CI ile
+
+36
+18
+
+Ar
+
+K ile
+19
+
+40
+
+Ca atomları örnek olarak verilebilir.
+
+35
+17
+
+39
+
+20
+
+İzobar
+İzobar atomlar kütle numaraları aynı, proton sayıları farklı olan atomlardır. İzobar atomların proton sayıları farklı ancak kütle numaraları aynı olduğundan nötron sayıları da farklıdır. Ayrıca izobar atomların proton sayıları farklı olduğu için bu atomlar farklı element
+atomlarıdır. Bu nedenle kimyasal ve fiziksel özellikleri de farklıdır. Farklı element atomları
+olan;
+40
+
+Ar,
+
+18
+
+62
+
+40
+19
+
+K,
+
+40
+
+Ca izobar atomlardır.
+
+20
+
+2.Ünite Atom ve Periyodik Sistem
+
+7. Uygulama Argon
+
+36
+( 18
+Ar,
+
+Potasyum (
+
+40
+19
+
+K,
+
+Ar,
+
+38
+18
+
+Ar)
+
+40
+18
+
+39
+19
+
+K)
+
+42
+Kalsiyum ( 40
+Ca , 20
+Ca , 43
+Ca , 44
+Ca)
+20
+20
+20
+
+Yukarıda argon, potasyum ve kalsiyum atomlarına ait verilenlerden
+faydalanarak hangilerinin izotop, hangilerinin izoton ve hangilerinin
+izobar olduklarını belirtiniz.
+Çözüm
+
+İzoton
+
+İzotop
+36
+18
+
+Ar,
+
+40
+19
+
+K,
+
+40
+20
+
+Ca,
+
+38
+18
+39
+19
+
+Ar,
+
+40
+18
+
+Ar
+
+39
+19
+40
+
+K
+
+42
+20
+
+Ca,
+
+K,
+
+Ar,
+18
+43
+20
+
+Ca,
+
+44
+20
+
+38
+18
+
+Ar,
+
+42
+
+40
+20
+
+İzobar
+Ca
+
+40
+18
+
+Ar,
+
+40
+19
+
+K,
+
+40
+20
+
+Ca
+
+Ca
+
+20
+
+Ca
+
+İzoelektronik
+Elektron sayıları aynı olan farklı element atomlarıdır. İzoelektronik atomların fiziksel
+özellikleri farklı kimyasal özellikleri benzerdir. Farklı element atomlarının elektron sayılarının
+aynı olabilmesi için atomların elektron alması veya vermesi gerekmektedir. Bir atom elektron
+aldığında ya da verdiğinde iyon adını alır. Atomun aldığı veya verdiği elektron sayısı element
+sembolünün sağ üst köşesine yazılır. Atom, elektron aldığında negatif yüklü olup, (-) işareti
+ile gösterilir. Elektron verdiğinde ise, pozitif yüklü olup (+) işareti ile gösterilir. Aşağıda yer
+alan farklı atomların nötr ve iyon hâlleri;
+
+N3- , 9F1-,
+
+7
+
+Ne,
+
+10
+
+Na1+ birbirinin izoelektroniğidir.
+
+11
+
+Azot atomu nötr hâldeyken 7, flor ise 9 elektrona sahiptir. Yukarıdaki örnekte azot 3
+elektron alarak, flor ise 1 elektron alarak toplamda 10'ar elektrona sahip olmuşlardır. Sodyum
+atomu ise 11 elektrona sahipken, 1 elektronunu vererek 10 elektrona sahip olmuştur. Bu
+nedenle bu tanecikler birbirinin izoelektroniğidir.
+
+63
+
+Kimya 1
+
+2.3. PERİYODİK SİSTEM
+Elementlerin özelliklerini daha kolay kavrayabilmek için elementler
+geçmişten günümüze çeşitli şekillerde sınıflandırılmıştır. Sınıflandırmanın yer aldığı çizelgeye günümüzde periyodik sistem denir.
+18 ve 19. yüzyıllar boyunca kimya alanında yapılan çalışmalar ilerledikçe, çok farklı özelliklere sahip, çok sayıda elementin varlığı keşfedildi.
+Elementler ve bilinen özelliklerinin sayısı arttıkça, bunları benzer özelliklerine göre sınıflandırma ihtiyacı duyuldu. Elementlerin sınıflandırılması
+için en erken girişim, 1789'da A. Lavoisier'in elementleri gazlar, ametaller,
+metaller ve toprak elementleri olarak gruplandırması olmuştur. Sonraki
+yıllarda elementlerin özelliklerini keşfetmek ve gruplandırmak için başka
+girişimlerde bulunulmuş, günümüzde kullanılan periyodik sisteme en yakın olan sistem ise Mendeleyev tarafından oluşturulmuştur.
+Dmitri Mendeleyev ve Periyodik Sistem
+
+Görsel 2.16
+Dmitri Mendeleyev
+
+1860'lı yıllarda Dmitri Ivanovich Mendeleyev (Dimitri İvanoviç Mendelev), o güne kadar bilinen elementlerin fiziksel ve kimyasal özelliklerini kartlara yazıp, elementleri artan atom ağırlığına göre sıralamıştır. Bu
+sıralamada elementlerin özelliklerinin belli aralıklarla başka elementlerde de gözlemlendiğini fark etmiştir. Mendeleyev, artan atom ağırlığı düzenini bozmadan, aynı özellikteki elementleri alt alta getirerek bir çizelge
+oluşturmuştur.
+Mendeleyev, çizelgesinde bilinmeyen elementlerin keşfedilmesini
+umarak boşluklar bırakmıştır. Bu boşlukların, keşfedilmeyi bekleyen elementlerin özelliklerini tahmin etmede ne kadar yararlı olabileceğini, bazı
+elementlerin özelliklerini gerçeğine yakın tahmin ederek göstermiştir.
+Örneğin, 1872'de Mendeleyev ilk kez çizelgeyi yayınladığında, galyum,
+skandiyum ve germanyum elementleri bilinmiyordu. Mendeleyev, bu elementlerin varlığını ve özelliklerini, çizelge düzenlendiğinde oluşan boşluklardan, doğru bir biçimde öngörmüştür.
+Mendeleyev' in orijinal çizelgesi zamanla modern periyodik sisteme
+dönüştü. Mendeleyev'in çizelgesi elementlerin periyodik özelliklerini
+göstermesine rağmen, elementlerin özelliklerinin periyodik olarak neden
+tekrar ettiği 20. yüzyıl bilim insanlarının keşifleri sonucu açıklanabilmiştir.
+
+64
+
+2.Ünite Atom ve Periyodik Sistem
+
+Moseley ve Periyodik Sistem
+İngiliz Fizikçi Henry Moseley (Henri Mozeley) (1887-1915), her
+elementin atom numarasının aynı zamanda, nötr atomdaki elektronların sayısı olduğunu keşfetti.
+Moseley, atom numaraları 13 ile 79 arasında olan 38 elementin
+farklı enerjilerde yaydığı ışımalar üzerinde çalıştı. Işınların enerjileri ile elementlerin atom numaraları arasında bir ilişki bulunduğunu ispatladı ve elementlerin atom numaralarını doğru bir şekilde
+tahmin edebildi.
+
+Görsel 2.17 Henry
+Moseley
+
+Moseley’ in atom numaraları ile ilgili elde ettiği sonuçlara göre, atom numaraları bir elementten diğerine geçişte, bir tam sayı ilavesi ile artmaktaydı. Bu keşif ile
+birlikte elementleri artan atom numarasını dikkate alarak düzenleyen Moseley’ in
+elementler tablosu oluşmuş oldu. Bu tabloya günümüzde periyodik sistem denilmektedir.
+Moseley, elementleri artan proton sayısına göre sıraladığında, genel olarak
+Mendeleyev’ in kütle sıralamasına uygun sonuca ulaştı. Atom numaraları arttıkça
+ortalama atom kütleleri de arttığı için çoğu hâllerde bu uyum normaldi. Ancak,
+Mendeleyev’ in çizelgesinde kütle sırasının özellik sıralamasına uymadığı durumlarda, atom numarası esas alındığında sorunlar çözülüyordu. Örneğin nikel (Ni) ile
+kobaltın (Co) benzer özelliklerine göre yerleşmeleri gereken konum ile kütlelerine
+göre yerleşmeleri gereken konum farklılığı bulunuyordu. Bu durumdaki elementler
+artan atom numarasına göre yerleştirildiğinde, kimyasal özelliklere göre de yerleştirilmiş oldu ve elementlerin yerleşim yerleri kesinlik kazandı.
+Moseley, tabloda bazı keşfedilmemiş atomların varlıklarını da gösteriyordu. 92
+atomdan oluşan periyodik cetvelinde keşfedilmeyen elementler için boşluklar (43,
+61, 85, 87 ve 91 atom numaralı elementler) bıraktı. Her bir elementin proton sayısı
+yalnız o elemente özgü olduğu için, Moseley keşfedilmemiş olan atomları öngörebildi.
+Günümüzde kullanılan modern periyodik sistem Moseley’in yaptığı sıralamaya
+dayanmaktadır. Yani elementler, elementin tek bir atomunun çekirdeğinde bulunan
+proton sayısına göre periyodik sistemdeki yerini alır. Birçok yeni elementin keşfedilmesiyle, günümüz modern periyodik sisteminde Moseley'in bıraktığı boşluklar
+doldurulmuştur. Yeni elementlerin birçoğu laboratuvar ortamında yapay olarak
+elde edilmiştir (Tablo 2.2).
+
+65
+
+Kimya 1
+
+Ds Rg Cn Nh
+
+FI
+
+Mc Lv
+
+Ts Og
+
+Tablo 2.2 Periyodik sistem
+
+ATOMLARIN KATMAN-ELEKTRON
+SISTEMDEKI YERLERI
+
+DAĞILIMLARI
+
+VE
+
+PERIYODIK
+
+Elementler periyodik sistemde sıralandığında satırlar ve sütunlar oluşmaktadır.
+Satırlar periyot, sütunlar ise grup olarak adlandırılmaktadır. Atom numarası, bir satır
+boyunca soldan sağa ve sütun boyunca yukarıdan aşağıya artmaktadır.
+Periyotlar
+
+Gruplar
+3A 4A 5A 6A 7A 8A
+
+1A 2A
+1. Periyot
+2. Periyot
+
+B grupları
+
+3. Periyot
+4. Periyot
+5. Periyot
+6. Periyot
+7. Periyot
+Tablo 2.3 Periyodik sistemde grup ve periyotlar
+
+66
+
+2.Ünite Atom ve Periyodik Sistem
+
+Gruplar A ve B grubu olmak üzere ikiye ayrılır. Periyodik sistemde 8 tane A, 10
+tane B grubu yer almaktadır. 7 tane de periyot bulunmaktadır. Elementlerin periyodik
+sistemdeki yerleri hangi grupta ve hangi periyotta yer aldığı belirtilerek yapılır.
+Elementin hangi grup ve periyotta yer aldığı ise element atomunun katman-elektron
+dağılımı ile ilişkilidir.
+A grubu elementleri için, element atomunun son katmanında bulunan elektron
+sayısı, o elementin grup numarasını verir. Örneğin, bir element atomunun son
+katmanında 5 elektron bulunuyorsa o element 5A grubunda, 2 elektron bulunuyorsa
+2A grubunda yer alır. Aşağıdaki tabloda ilk 20 element atomunun katman-elektron
+dağılımı ve bu dağılıma göre elementin grup numarası yer almaktadır:
+
+Görsel 2.18 İlk 20 elementin katman-elektron dağılımı
+
+Görsel 2.18 'den de anlaşılacağı gibi aynı grupta yer alan her element atomunun
+son katmanında aynı sayıda elektron bulunmaktadır. Ancak aynı gruptaki her element
+atomunun katman sayısı farklıdır. Grupta yukarıdan aşağıya doğru inildikçe katman
+sayısı artar.
+Örneğin, 1A grubu elementlerinden hidrojen (H) elementi “1” katman ve “1”
+elektrona; lityum (Li) elementi “2” katman ve son katmanında “1” elektrona; sodyum
+(Na) elementi ise “3”katman ve yine son katmanında “1” elektrona sahiptir.
+
+67
+
+Kimya 1
+
+Aynı gruptaki elementlerin katman sayısı artsa da en dış katmanlar aynı elektron
+sayısına ve düzenine sahiptirler. Son katmandaki elektronlar elementin kimyasal
+özelliklerini belirler. Bu nedenle aynı gruptaki elementlerin kimyasal ve fiziksel birçok
+özelliği benzerdir.
+Bir elementin hangi periyotta bulunduğu da element atomunun katman-elektron
+dağılımıyla ilgilidir. Element atomunun sahip olduğu katman sayısı o elementin
+periyot numarasını verir. Örneğin bir element atomu 1 katmana sahipse o element 1.
+periyotta, 2 katmana sahipse 2. periyotta bulunur. Görsel 2.18 incelendiğinde
+magnezyum (Mg) element atomunun 3 katmanı olduğu görülür, bu nedenle Mg
+elementi 3. periyotta yer alır.
+Benzer şekilde, 3. periyot A grup elementleri olan sodyum (Na), magnezyum (Mg),
+alüminyum (Al), silisyum (Si) ve fosfor (P) element atomlarının sahip oldukları katman
+sayısı “3” tür. Katman sayısı değişmezken, son katmanda yer alan elektron sayıları birer
+elektron artmaktadır.
+3. Periyot Elementleri:
+Na
+
+Sodyum
+
+Mg
+
+Al
+
+Si
+
+Magnezyum Alüminyum Silisyum
+
+P
+
+S
+
+Cl
+
+Fosfor
+
+Kükürt
+
+Klor
+
+Ar
+
+Argon
+
+Uygulama 8 Aşağıdaki elementlerin her biri hangi grup ve periyottadır?
+a) Mg
+b) N
+c) F
+
+Çözüm a) Mg, üç katmana sahip olduğundan 3. periyottadır. Son katmanında 2
+elektron bulunduğundan 2A grubundadır.
+b) N, iki katmana sahiptir, 2. periyottadır; son katmanında 5 elektrona
+sahiptir, 5A grubundadır.
+c) F, 2. periyot, 7A grubundadır.
+
+68
+
+2.Ünite Atom ve Periyodik Sistem
+
+Bir element atomunun en fazla yedi katmanı olabileceğinden, periyodik sistemde de
+toplam yedi periyot bulunur.
+Bir elementin yalnızca periyodik sistemdeki yerine bakarak, özellikleri tahmin
+edilebilir. Periyodik sistem, elementlerin kimyasal aktifliği, elektrik iletme olasılığının
+olup olmadığı, sert veya yumuşak olduğu gibi pek çok özelliği kısa yoldan
+kullanıcılarına sunar. Belirli bir elementle ilgili hiçbir şey bilinmese bile, periyodik
+sistemdeki konumu ve diğer elementlerle olan grup ilişkisi nedeniyle tahminler
+yapılabilir. Örneğin, osmiyum elementi hakkında hiçbir şey bilmediğinizi farz edelim.
+Periyodik sistemdeki konumuna bakıldığında, demir ile aynı grupta yer aldığı
+görülür. Demirin yoğun ve sert bir metal olduğunu bilinmektedir. Osmiyumun da
+yoğun ve sert bir metal olduğu tahmin edilebilir.
+Elementler artan atom numaralarına göre sıralandıklarında, elementlerin kimyasal
+ve fiziksel özellikleri belirli aralıklarla periyodik bir tekrar gösterir. Sadece aynı
+grupta yer alan elementler değil, birkaç grupta birden yer alan elementler benzer
+özellik göstermektedir. Buna göre periyodik sistemde elementler periyot ve gruplara
+ayrılmanın yanı sıra çeşitli sınıflara da ayrılmıştır.
+ELEMENTLERİN PERİYODİK
+SINIFLANDIRILMASI
+
+SİSTEMDEKİ
+
+YERLERİNE
+
+GÖRE
+
+Periyodik sistemdeki elementler genel olarak;
+• metaller
+• ametaller
+• yarı metaller
+• soy gazlar olarak sınıflandırılabilir.
+Elementlerin çoğu metaldir. Metaller periyodik sistemin solunda yer alır. Sağ taraf
+ise metal olmayanlara aittir. Hem metallerin hem de ametallerin bazı özelliklerine
+sahip elementlere yarı metaller denir. En sağ tarafta da soy gazlar yer alır (Tablo 2.4).
+Aynı grupta yer alan elementlerin benzer özellik göstermesi gibi aynı sınıfta yer alan
+elementler de benzer fiziksel ve kimyasal özellik gösterir.
+
+69
+
+Kimya 1
+
+Tablo 2.4 Metal, yarı metal, ametal ve soy gazlar
+
+Metaller
+Metaller A grubu elementlerinin bir kısmı ile B grubu elementlerini içerir. Tablo 2.4’ te
+siyah renkle gösterilen kısımda yer alan elementler metaldir.
+Metallerin birçok özelliği benzerdir. Bunlar:
+• Oda sıcaklığında (cıva hariç) katıdırlar.
+•
+•
+•
+•
+•
+•
+
+Genellikle parlaktırlar.
+Erime noktaları yüksektir.
+Isı ve elektriği iyi iletirler.
+Metallere katı hâlde dövülerek, erimiş (sıvı) hâlde kalıplara dökülerek şekil verilebilir.
+Kimyasal tepkimelerinde ametallere elektron vererek artı (+) yüklü iyon oluştururlar.
+Metaller kendi aralarında alaşım oluştururlar.
+
+Ametaller
+Ametaller, periyodik sistemin sağ tarafında yer alıp, Tablo 2.4’ te yeşil renkle gösterilen
+kısımda yer alan elementlerdir.
+Ametaller;
+• Genellikle zayıf ısı ve elektrik iletkenliğine sahiptir.
+
+70
+
+2.Ünite Atom ve Periyodik Sistem
+
+• Oda koşullarında ametallerin bazıları katı, bazıları sıvı, bazıları da gaz hâlde bulunur.
+Örneğin oda sıcaklığında oksijen, azot gaz hâlde; brom sıvı, iyot ise katı hâldedir.
+• Mattırlar.
+• Kırılgan katı olma eğilimi nedeniyle, dövülüp şekil verilemez, tel ve levha hâline
+getirilemezler.
+• Canlı yapısında bol miktarda bulunurlar.
+• Kendi aralarındaki kimyasal tepkimelerde elektronlarını ortaklaşa kullanırlar.
+• Metallerle olan kimyasal tepkimelerde metallerden elektron alarak (-) yüklü iyon
+oluştururlar.
+
+Yarı Metaller
+Periyodik sistemde metallerle ametaller arasında yer alır (Tablo 2.4’ te pembe renkle
+gösterilen kısım). Yarı metaller 3A grubunun sol üstünden başlayıp 7A grubunun sağ alt
+köşesine uzanan zikzak çizgisi boyunca bulunurlar. Yarı metallere, yarı iletkenler de denir.
+Hem metallerin hem ametallerin bazı özelliklerini taşırlar. Yarı metallerin değişken
+özellikleri vardır, ancak genellikle şu özelliklere sahiptirler:
+• Özel koşullar altında elektrik iletirler.
+• Metalik bir parlaklığa sahip olabilirler.
+• Değişken yoğunluk, sertlik, iletkenlik özelliklerine sahiptirler.
+• Kırılgan değildirler. Tel ve levha hâline gelebilirler.
+• Kimyasal tepkimelerde metallerden elektron koparırlar, ametallerle ve kendi
+aralarında elektronlarını ortaklaşa kullanırlar.
+Soy gazlar
+8A grubu elementlerine soy gazlar denir (Tablo 2.4’ te mor renkle gösterilen kısım).
+Soy gaz atomlarının son katmanının elektron kapasitesi tam doludur. Bu nedenle kimyasal
+tepkimeye girmek istemezler. Soy gazlar diğer maddelerle etkileşmediği için güvenli bir
+şekilde kullanılırlar. Örneğin uçan balonlarda ve dalgıç tüplerinde Helyum (He), parlak
+neon lambalarında neon (Ne), floresan lambalarında argon (Ar) gazı kullanılır.
+9. Uygulama Aşağıdaki elementlerin her birini metal, ametal, yarı metal olarak
+sınıflandırınız. (Tablo 2.4’ teki periyodik sistemden yararlanabilirsiniz.)
+a) Be
+
+b) Cl
+
+Çözüm a) Berilyum (Be): metal
+c) Oksijen (O): ametal
+
+c) O
+
+ç) Si
+b) Klor (Cl) : ametal
+ç) Silisyum (Si) : yarı metal
+
+71
+
+Kimya 1
+
+PERIYODIK ÖZELLIKLERIN DEĞIŞME EĞILIMLERI
+Elementler periyodik sistemde benzer özelliklerine göre sınıflandırıldığında, bazı
+özellikler periyodik olarak (düzenli ve belirli aralıklarla) periyot veya grup boyunca tekrar
+etmektedir. Periyodik özellikler;
+- Atom yarıçapı,
+- İyonlaşma enerjisi,
+- Elektron ilgisi,
+- Elektronegatiflik,
+- Metalik ve ametalik karakterdir.
+Atom Yarıçapı
+Bir atomun boyutunun bir ölçüsüdür. Atom yarıçapı, atomun çekirdeğinden en dış
+katmandaki elektrona olan uzaklıktır.
+Artış yönü
+
+Görsel 2.19 Periyodik sistemdeki element atomlarının çapları
+
+• Periyodik sistemde soldan sağa doğru periyot (satır) boyunca gidildikçe atom yarıçapı
+azalır çünkü aynı periyotta yer alan element atomlarının katman sayısı değişmezken,
+soldan sağa doğru ilerledikçe çekirdekteki proton sayısı artar. Bu artış, çekirdeğin
+çekim gücünü artıracağından son katmandaki elektronların daha güçlü çekilmesine
+ve elektronların çekirdeğe yaklaşmasına neden olur. Böylece atomların çapı soldan
+sağa doğru azalır (Görsel 2.19).
+
+72
+
+• Aynı grupta yer alan elementlerde ise yukarıdan aşağı inildikçe atom çapı artar çünkü
+yukarıdan aşağıya doğru inildikçe katman sayısı yani çekirdek ile son katmandaki
+elektron arasındaki mesafe artar. Dolayısıyla atom yarıçapı büyür.
+
+2.Ünite Atom ve Periyodik Sistem
+
+10. Uygulama Aşağıda verilen atom çiftlerinden çapı büyük olanını belirtiniz.
+b) 4Be ve 8O
+c) 6C ve 15P
+a) 4Be ve 12Mg
+Çözüm Eğer atomlar aynı periyotta yer alıyorsa grup numarası büyük (atom
+numarası büyük) olan element atomunun çapı küçüktür. Aynı grupta yer
+alıyorsa periyot numarası küçük (atom numarası küçük) olan atomun çapı
+küçüktür. Buna göre katman-elektron dağılımından grup ve periyotlarını
+bulabiliriz.
+a) Be : 2, 2
+2. Periyot 2A Grubu
+Mg : 2, 8, 2
+3. Periyot 2A Grubu
+Berilyumun çapı küçüktür.
+b) Be : 2, 2
+O : 2, 6
+
+2. Periyot 2A Grubu
+2. Periyot 6A Grubu
+
+c) C : 2, 4
+P : 2, 8, 5
+
+2. Periyot 4A Grubu
+3. Periyot 5A Grubu
+
+Oksijenin çapı küçüktür.
+
+Karbonun çapı küçüktür.
+
+İyonlaşma Enerjisi (İE)
+Gaz hâldeki bir elementin tek bir atomundan (veya iyondan) bir elektronu uzaklaştırmak
+için atoma verilmesi gereken en düşük enerjidir. "İE" sembolü ile gösterilir. Aşağıda sodyum
+atomundan elektron koparılması gösterilmektedir:
+
++
+
++
+
++
+
+İE
+
+Sodyum atomu
+
+Sodyum iyonu
+
+Elektron
+
+Görsel 2.20 Enerji vererek sodyum atomundan elektron koparılması
+
+Gaz hâldeki bir elementin atomundan (nötr atom) bir elektron koparmak için gerekli
+olan enerji birinci iyonlaşma enerjisi (İE1), bir elektronu kopmuş atomdan bir elektron
+daha koparmak için gerekli olan enerji de ikinci iyonlaşma enerjisidir (İE2). Yeterli enerji
+verildiğinde bir atomdan sahip olduğu elektronların tamamı koparılabilir. Buna göre bir
+atomun elektron sayısı kadar iyonlaşma enerjisi vardır.
+Hidrojen atomu için olası iyonlaşma enerjisi yalnız birinci iyonlaşma enerjisidir:
+
+H(g)
+
+H(g)+ + e-
+
+İE1 = 1312 kkal/mol
+
+73
+
+Kimya 1
+
+Helyum atomu içinse yalnız birinci ve ikinci iyonlaşma enerjilerini
+yazabiliriz:
+
+He(g)
+
+He(g)+ + e-
+
+İE1 = 2373 kkal/mol
+
+He+(g)
+
+He(g)2+ + e-
+
+İE2 = 5251 kkal/mol
+
+Bir atomun iyonlaşma enerjisi İE1 < İE2 < İE3 < İE4 < ..... şeklinde artar çünkü
+her elektron koparıldığında çekirdeğin çekim gücü değişmezken, elektron
+sayısı azaldığından elektron başına düşen çekim kuvveti artar. Bu nedenle her
+elektron koparıldığında kalan elektronları koparmak zorlaşır, dolayısıyla her
+defasında daha fazla enerji vermek gerekir.
+Periyodik sistemde periyot ve grup boyunca atomların iyonlaşma enerjilerini
+karşılaştıralım:
+• Grupta yukardan aşağıya doğru inildikçe iyonlaşma enerjisi azalır çünkü
+grupta aşağı inildikçe atomun katman sayısı artar. Son katmanda bulunan
+elektron çekirdekteki protonun çekim etkisinden uzaklaşır. Uzakta
+bulunan elektron bu nedenle daha kolay koparılır.
+• Periyot boyunca ise soldan sağa gidildikçe iyonlaşma enerjisi genellikle
+artar çünkü periyot boyunca katman sayısı değişmeyip, proton sayısı
+arttığından elektronlar çekirdek tarafından daha güçlü bir şekilde çekilir.
+Bu nedenle atomdan bir elektronun uzaklaştırılması zorlaşır ancak 2A
+ve 5A grubu element atomlarının sahip olduğu elektron dağılımından
+dolayı periyot boyunca iyonlaşma enerjisi düzenli bir şekilde artmaz,
+bazı sapmalar olur (Tablo 2.5).
+
+IE1
+
+Na
+
+Mg
+
+Al
+
+Si
+
+P
+
+495,8
+
+737,7
+
+577,6
+
+786,5
+
+1012
+
+S
+
+Cl
+
+Ar
+
+999,6 1251,1 1520,5
+
+Tablo 2.5 3. periyot elementlerinin 1. iyonlaşma enerjileri
+
+Bu nedenle periyot boyunca iyonlaşma enerjisi sıralaması aşağıdaki gibidir:
+IA < IIIA < IIA < IVA < VIA < VA < VIIA < VIIIA
+
+74
+
+2.Ünite Atom ve Periyodik Sistem
+
+11. Uygulama 1A grubunun ilk dört elementi için birinci iyonlaşma enerjileri verilmiştir
+(1H, 3Li, 11Na, 19K).
+Element
+İE1
+
+1
+520
+
+2
+418,7
+
+3
+
+4
+495,8
+
+1312
+
+Buna göre;
+a) Hangi iyonlaşma enerjisi hangi elemente aittir?
+b) Bu elementlerin periyotları nedir?
+Çözüm
+
+Atomların katman sayısı arttıkça
+iyonlaşma enerjisi azalır. Buna
+göre 2 nolu iyonlaşma enerjisi
+en düşük olduğundan bu enerji
+katman sayısı en fazla olan 19K
+elementine aittir. Bu şekilde
+diğer elementlerin iyonlaşma
+enerjileri ve bulundukları
+periyot yandaki gibidir.
+
+Atom
+
+Periyot
+
+İE1
+
+1. Periyot (n=1)
+
+1312
+
+1
+
+2. Periyot (n=2)
+
+520
+
+3
+
+3. Periyot (n=3)
+
+495,8
+
+11
+
+4. Periyot (n=4)
+
+418,7
+
+H
+
+Li
+
+Na
+K
+
+19
+
+12. Uygulama Aynı periyotta yer alan bazı elementlerin ilk beş iyonlaşma enerjileri
+verilmiştir. Buna göre bu elementlerin atomlarının son katmanında kaçar
+elektron bulunur?
+Atom
+
+İE1
+
+İE2
+
+İE3
+
+İE4
+
+İE5
+
+X
+
+1086
+
+2350
+
+4620
+
+6220
+
+38000
+
+Y
+
+1680
+
+2370
+
+6050
+
+8400
+
+11000
+
+Z
+
+2430
+
+3660
+
+25000
+
+32820
+
+-
+
+Çözüm Element atomları son katman elektronlarını kaybettiklerinde, geriye kalan
+iç katmandan elektron koparmak zorlaşır. Bu nedenle iyonlaşma enerjisi
+çok belirgin bir artış (3-4 kat fazlası) gösterir. Bu ani enerji artışına
+kadar koparılan elektronlar son katman elektronlarıdır.
+X atomu
+Y atomu
+Z atomu
+
+Son katmanında 4 elektron bulunmaktadır.
+Belirgin bir artış bulunmadığından son katmanında
+5 ya da daha fazla elektron olabilir.
+Son katmanında 2 elektron bulunmaktadır.
+
+75
+
+Kimya 1
+
+Elektron İlgisi
+Gaz hâldeki bir element atomunun yapısına bir elektron katıldığında
+atomda meydana gelen enerji değişimine elektron ilgisi denir. Elektron ilgisi
+bir atomun bir elektronu alma isteğinin ifadesidir. “Eİ” ile gösterilir. Aşağıda
+flor atomunun elektron alması gösterilmektedir.
+
++
+
+Elektron
+
+Flor atomu
+
++
+
+Eİ
+
+Flor iyonu
+
+Görsel 2.21 Flor atomuna elektron katılması
+
+Elektron ilgisi periyot boyunca soldan sağa doğru genellikle artar, aynı
+grupta ise yukarıdan aşağıya inildikçe genellikle azalır. Soy gazlar için elektron
+ilgisi neredeyse sıfırdır. Ametallerin elektron alma isteği metallerden oldukça
+fazladır, bu nedenle ametallerin elektron ilgisi metallerinkinden büyüktür.
+Elektronegatiflik
+
+Cl
+H
+
+Görsel 2.22 HCl molekülünde
+elektronegatiflik
+
+Elektronegatiflik, kimyasal bağ oluşumunda
+kullanılan son katman elektronlarının kimyasal
+bağı oluşturan atomlar tarafından çekilme
+gücüdür. Elektronegatiflik, bir atomun bir
+kimyasal bağ oluşturması olasılığının ne kadar
+yüksek olduğunu gösterir. Aşağıda hidrojen ve
+klor atomlarının bağdaki elektronları çekmesi
+gösterilmektedir.
+
+Elektronegatiflik aynı periyotta soldan sağa gidildikçe artar ve aynı grupta
+aşağı inildikçe azalır. Ancak soy gazlarda elektronegatiflik sıfıra yaklaşır.
+Elektronegatiflik değerleri arasındaki fark ne kadar büyük olursa iki atomun
+kimyasal bir bağ oluşturması o kadar muhtemeldir.
+
+76
+
+2.Ünite Atom ve Periyodik Sistem
+
+1A
+
+2A
+
+3A
+
+4A
+
+5A
+
+6A
+
+7A
+
+Li
+1,0
+
+Be
+1,5
+
+B
+2,0
+
+C
+2,5
+
+N
+3,0
+
+O
+3,5
+
+F
+4,0
+
+Na
+0,9
+
+Mg
+1,2
+
+Al
+1,5
+
+Si
+1,8
+
+P
+2,1
+
+S
+2,5
+
+Cl
+3,0
+
+Tablo 2.6 Bazı elementlerin elektronegatiflik değerleri
+
+Metalik-Ametalik Karakter
+Kimyasal tepkime esnasında elektron verme eğilimi fazla olan elementler
+metalik, elektron alma eğilimi fazla olan elementler ise ametalik karakter
+gösterir.
+Aynı grupta yukarıdan aşağı inildikçe elementlerin metalik özelliği artar.
+Aynı periyotta ise soldan sağa gidildikçe metalik özellik azalır. Yani periyodik
+sistemde en solda ve en altta bulunan elementler en fazla metalik özellik
+gösterirler. Sağa doğru ve yukarı yönlü gidildikçe de ametalik özellik artar.
+Aşağıdaki şekilde (Görsel 2.23) periyodik özelliklerin değişim seyri
+özetlenmiştir:
+
+ta
+Ame
+Meta
+
+i
+elliğ
+z
+Ö
+llik
+
+i
+elliğ
+z
+Ö
+llik
+
+Atom Yarıçapı
+
+Elektron İlgisi
+İyonlaşma Enejisi
+Elektronegatiflik
+
+Atom Yarıçapı
+
+Elektronegatiflik
+İyonlaşma Enerjisi
+Elektron İlgisi
+
+Görsel 2.23 Periyodik sistemde periyodik özelliklerin değişim seyri
+(okun ucu artış yönünü göstermektedir.).
+
+77
+
+Kimya 1
+
+ÖZET
+Dalton, Thomson, Rutherford ve Bohr Atom modelleri atomu daha anlaşılır kılmak için
+o zamanın bilgisi ışığında geliştirilmişlerdir.
+Dalton; atomu, elementleri oluşturan bölünemez en küçük parça olarak tanımlamıştır.
+Thomson, elementleri oluşturan atomların bölünebilirliğini ispatlamıştır. Atom nötr ise
+ve atomdan (–) yüklü elektronlar kopabiliyorsa geriye kalan kısmı (+) yükün oluşturduğunu
+düşünerek, elektronların atom içinde eşit dağılmış olduğunu gösteren bir model geliştirmiştir.
+Rutherford, protonların atomun çekirdeğinde yer aldığını ve elektronların onun
+çevresindeki boşlukta döndüğünü keşfetmiştir.
+Bohr, elektronların bir atomda, çekirdeğin çevresindeki yörüngelerde (enerji
+katmanlarında) bulunduğunu belirtmiştir.
+Günümüzde geçerliliğini koruyan modern atom teorisine göre ise elektron yörüngelerde
+değil belirli enerji seviyelerindeki belirli bölgelerde bulunmaktadır.
+Atomla ilgili bu bilgilerin ışığında, atom daha yakından mercek altına alınmıştır. Aynı
+element atomunun neden farklı kütleler içerdiği ya da farklı element atomlarının neden aynı
+kütlelere sahip olduğu vb. soruların cevabının araştırılmasıyla iyon, izotop, izoton, izobar,
+izoelektronik gibi kavramlar ortaya çıkmıştır.
+Modern Periyodik Sistem
+Mendeleyev elementleri kütlelerine göre sıraladığında, kimyasal ve fiziksel özelliklerin
+belirli periyotlarla tekrarladığını keşfetmiştir. Benzer fiziksel ve kimyasal özellikteki
+elementleri alt alta dizdiğinde günümüzdekine çok benzer olan periyodik sistemi
+oluşturmuştur.
+Moseley ise element atomlarını, artan atom numaralarına göre dizdiğinde Mendeleyev’
+in periyodik sistemine çok yakın sonuçlara ulaşmıştır. Mendeleyev’ in çıkmazları bu şekilde
+düzeltilebilmiştir.
+Mendeleyev ve Moseley’ in periyodik sistemi, elementler hakkında birçok bilgi sağlayacak
+ve elementlerin birbirleriyle ilişkisini açıklayacak şekilde düzenlenerek günümüzdeki şeklini
+almıştır. Örneğin, periyodik sistem, özelliğini bilmediğimiz elementlerin özelliklerini
+tahmin etmek için kullanılabilir.
+
+78
+
+2.Ünite Atom ve Periyodik Sistem
+
+2. ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARI
+A. Aşağıda verilen soruları cevaplandırınız.
+1. Thomson atom modellinde en belirgin özellikler nelerdir?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+2. Atomların soğurduğu/yaydığı ışınların nedeni nedir?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+3. Elektron, proton ve nötronun atomdaki yerlerini belirtiniz.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+4. Aşağıdaki elementlerin her birini metal, ametal veya yarı metal olarak
+belirtiniz (Periyodik sistemden yararlanınız).
+A) S
+B) F
+C) Al
+D) B
+
+5. Birbirinin izotopu olan atomlarda “proton sayısı, elektron sayısı, nötron
+sayısı, atom numarası, kütle numarası” özelliklerinden hangileri ortaktır?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+32
+
+34
+36
+			
+6.		16 S, 33
+izotoplarının nötron sayıları nedir?
+16 S,
+16 S, 16 S
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+
+7. Aşağıdaki elementlerin her biri hangi grupta yer alır?
+A)Li
+B) B
+C) P
+D) Ar
+
+79
+
+Kimya 1
+
+8. Periyodik sistemde, bir grupta yukarıdan aşağıya doğru değişen özellikler
+nelerdir?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+B. Aşağıda verilen çoktan seçmeli soruları cevaplayınız.
+1. Aşağıdaki yargılardan hangisi Dalton atom modeline ait değildir?
+A) Her element, atom olarak adlandırılan çok küçük parçacıklardan
+oluşur.
+B) Atomlar yoktan var edilemez, varken yok edilemez veya bölünemez.
+C) Belirli bir elementin atomları özdeştir.
+D) Elektronlar atomda artı madde içinde gömülüdür, hareket etmezler.
+2. I. Elektronlar çekirdekten oldukça uzakta yer alırlar.
+II. Pozitif yüklü tanecikler atomun merkezinde (çekirdek) bulunur.
+III. Elektronlar çekirdek etrafındaki boş alanda dolanırlar.
+Yukarıdaki bilgilerden hangisi Rutherford ’un çalışmalarında ulaştığı
+sonuçlardandır?
+A) Yalnız II
+B) I ve III
+C) II ve III
+D) I, II ve III
+3. Aşağıdaki elementlerden hangisi soy gaz elektron dizilimine sahiptir?
+A)
+B)
+C)
+D)
+
+4. I. Dalton
+II. Thomson
+III. Rutherford
+Yukarıdaki bilim insanlarından hangisi / hangilerinin atom modelinde çekirdek
+bulunur?
+A) Yalnız I
+
+80
+
+B) Yalnız III
+
+C) I ve II
+
+D) II ve III
+
+2.Ünite Atom ve Periyodik Sistem
+
+5. Aşağıda verilen izotoplardan nötron sayısı en fazla olan hangisidir?
+A) b-1
+B) b
+C) b+1
+D) b+2
+a
+
+X
+
+a
+
+X
+
+a
+
+X
+
+a
+
+X
+
+6. Yanda elektron katman dizilimi verilen atomun nötron sayısı 20'dir.
+Buna göre;
+I. Proton sayısı 20' dir.
+II. Kütle numarası 40' tır.
+III. 4. Periyotta yer alır.
+Yargılarından hangileri doğrudur?
+A) I ve II
+B) I ve III
+C) II ve III
+D) I, II ve III
+7. En son katmanında bir elektron bulunan element aşağıdakilerden hangisidir?
+A) 2X
+B) 5Y
+C) 11Z
+D) 17T
+8. 2. periyot VIIA grubunda bulunan elementin atom numarası nedir?
+A) 2
+B) 5
+C) 7
+D) 9
+9. Elektronların atomun çekirdeği etrafında dairesel yörüngelerde döndüğünü
+öne süren bilim insanı aşağıdakilerden hangisidir?
+A) Bohr
+B) Dalton
+C) Thomson
+D) Moseley
+10.
+
+Z
+X
+Y
+
+T
+
+Yukarıdaki periyodik sistemde yerleri verilen elementler için
+aşağıdakilerden hangisi doğrudur?
+A) Atom çapı en büyük olan T elementidir.
+B) Z elementi yarı metaldir.
+C) X elementi metaldir.
+D) Birinci iyonlaşma enerjisi (İE) en büyük olan Y elementidir.
+
+81
+
+Kimya 1
+
+11.
+
+R
+
+Z
+
+Y
+
+X
+T
+
+Periyodik sistemde yerleri verilen elementler için;
+I. R, 2. Periyot IA grup elementidir.
+II. X elementinin elektron ilgisi R’ den fazladır.
+III. X ve T’ nin son katmanında aynı sayıda elektron vardır.
+Yargılarından hangisi doğrudur?
+A) I ve II
+
+B) I ve III
+
+C) II ve III
+
+D) I,II ve III
+
+12. Bir elementin atomlarının nötron sayıları farklı ise bu element atomlarına
+ne ad verilir?
+A) İzotop
+B) Element
+C) İyon
+D) Yük
+C. Aşağıdaki tabloda verilen kelimeleri uygun olan yerlere yazınız.
+Yörüngelerde
+
+Atom numarası
+
+Metal
+
+Soy gazlar
+
+Grup
+
+Atom modeli
+
+Kütle numarası
+
+İzotop
+
+Katyon
+
+1. Pozitif yüklü iyonlara …………………….denir.
+2. ………………… ‘ın son katman elektronları tam doludur.
+3. Thomson’ ın …………………… "üzümlü kek" olarak adlandırılır.
+4. Bohr atom modeli, proton ve nötronları içeren merkezi çekirdek
+ile çekirdeğin belirli uzaklıklarındaki ……………………….yer alan
+elektronlarla temsil edilir.
+5. Atom numarası aynı, kütle numarası farklı olan atomlara …………..denir.
+6. Çekirdekte bulunan proton ve nötron sayısı toplamı ………………nı verir.
+7. Yalnız o element atomuna özgü toplam proton sayısına …………… denir.
+8. Hidrojen dışında, periyodik tablonun sol tarafında yer alan elementler
+………......... dir.
+9. Elementlerin yer aldığı periyodik sistemin sütunlarına ………. adı verilir.
+
+82
+
+Kimya 1
+
+CEVAP ANAHTARI
+
+1. ÜNITE
+
+A)
+1. Kimya bir bilim dalıyken, simya bilim dalı değildir. Simya, deneme yanılma
+yoluyla maddeleri keşfederken; kimya sistematik bilgi birikimine dayalı, olayların
+sebep-sonuç ilişkilerini bilimsel temellere dayandırır.
+2. Robert Boyle, Lavoisier, Ebubekir er-Razi vb.
+3. A) Cu
+
+B) H
+
+C) F
+
+D) Na
+
+4. a, e ve g seçeneklerindekiler element sembolü;
+b, c, d, f seçeneğindekiler bileşik formülüdür.
+5. Analitik kimya, organik kimya, fizikokimya vb.
+6. İlaç, gübre, petrokimya vb.
+7. Birbirine karışmayan sıvıları ayırmak için kullanılır.
+
+C)
+
+B)
+1. C
+2. D
+3. B
+4. A
+5. D
+6. B
+7. D
+8. A
+9. C
+10. D
+11. B
+12. A
+
+1. Simya
+2. Zaç yağı
+3. Cabir bin Hâyyan
+4. Kimya
+5. Antoine Lavoisier
+6. Petrokimya
+7. Endüstriyel Kimya
+8. Arıtım
+9. Demir
+
+883
+
+Kimya 1
+
+2. ÜNITE
+ÜNITE
+1.
+
+A)
+A)
+1. Kimya
+Thomson
+atom dalıyken,
+modelinesimya
+göre atom
+vedeğildir.
+(+) yüklüSimya,
+taneciklerden
+oluşmaktadır.
+1.
+bir bilim
+bilim(-)
+dalı
+deneme yanılma
+		
+Bu
+tanecikler
+atomda
+homojen
+olarak
+dağılmışlardır.
+yoluyla maddeleri keşfederken; kimya sistematik bilgi birikimine dayalı, olayların
+sebep-sonuç ilişkilerini bilimsel temellere dayandırır.
+2. Bohr’a göre bir atomda elektronlar üst katmanlara çıkarken etrafından enerji alır
+yani ışın soğurur; elektronlar alt katmanlara inerken ise ışın yayar.
+2. Robert Boyle, Lavoisier, Ebubekir Er-razi) vb.
+3. Atomun merkezinde (çekirdeğinde) proton ve nötronlar, elektronlar ise
+3.
+çekirdeğin etrafında belirli enerji düzeylerindeki belirli bölgelerde bulunurlar.
+
+4.
+ve g seçeneklerindekiler
+bileşik formülüdür.
+4. a,a.eAmetal
+b. Ametal element;
+c. Metalb,c,d,f seçeneğindekiler
+d. Yarımetal
+Proton sayısı,
+elektron
+5. Analitik,
+organik,
+fizikosayısı,
+vb. atom numarası
+6. Sırasıyla 16, 17, 18, 20'dir.
+6.
+İlaç, gübre, petrokimya vb.
+7. A) 1A
+
+B) 3A
+
+C) 5A
+
+D) 8A
+
+8. Atom çapı, iyonlaşma enerjisi, elektron ilgisi, elekronegatiflik,
+B) metalik-ametalik özellik
+B)
+
+3.1.BD
+4.
+2.AD
+5.
+3.DD
+6.
+4.BB
+7.
+5.DD
+8.6.AD
+9.
+7.CC
+10.
+8. D
+D
+11.
+9. BA
+12.
+10.AC
+
+11. D
+12. A
+
+84
+
+C)
+
+1. Katyon
+2. Soy gazlar
+3. Atom modeli
+4. Yörüngelerde
+5. İzotop
+6. Kütle numarasını
+7. Atom numarası
+8. Metal
+9. Grup
+
+Kimya 1
+
+SÖZLÜK
+absorbsiyon		
+: Bir maddenin enerji alması ve bu enerjiyi tutması.
+
+A
+
+alaşım		: Bir metalin belli oranlarda bir veya birkaç metalle
+eritilmesiyle oluşan karışım.
+ametal		: Metal olmayan, ısı ve elektrik iletkenliği düşük,
+şekil verilemeyen elementler.
+anyon		: Negatif yüklü atom ya da atom grubu.
+atom		: Bir elementin tüm özelliklerini gösteren en küçük
+yapı birimi.
+element		: Aynı tür atomlardan oluşan ve hiçbir kimyasal ya
+da fiziksel yöntemle ayrıştırılamayan madde.
+emisyon		: Üst katmanlarda bulunan elektronun alt katmanlara
+dönerken ışın yayması.
+fiziksel özellik		
+
+: Maddenin yapısını değiştirmeyen özellikler.
+
+gübre		: Bitkilerin gelişmesi ve toprağı zenginleştirmek
+amaçlı toprağa katılan doğal ya da yapay madde.
+hipertansiyon		: Normalden yüksek olan atardamar basıncı, yüksek
+kan basıncı.
+
+E
+F
+G
+H
+
+humma		: Vücut sıcaklığının artması olayı, ateş.
+
+İ
+ilaç		: Canlı hücreler üzerinde değişiklik meydana getiren
+doğal ya da yapay madde.
+iyon		: Pozitif ya da negatif yüklü atom ya da atom grubu.
+
+85
+
+Kimya 1
+
+K
+
+katyon		: Pozitif yüklü iyon.
+kimyasal özellik		 : Maddelerin bir başka maddeye dönüşümleri
+sırasında gözlemlenebilen ve maddenin yapısı ile
+ilgili olan özelliklerdir.
+
+M
+
+kral suyu		
+
+: Üç hacim derişik hidroklorik asit ve bir hacim
+nitrik asit karışımından oluşan çözelti.
+
+kompozit		
+
+: Farklı maddeleri bir arada taşıyan karma yapı.
+
+metal		: Isı ve elektrik iletkenliği yüksek, dövülebilen, tel ve
+levha haline gelebilen elementler.
+model		: Sembol ya da bir nesnenin şekilsel tasarımı.
+
+N
+P
+
+nötron		: Atom çekirdeğinin yapısında bulunan yüksüz
+tanecikler.
+petrokimya		
+proton		
+
+: Petrolün bileşenleri ile bunlardan elde edilecek
+diğer ürünler üzerinde çalışan kimya bilim dalı.
+:Atom çekirdeğinde bulunan pozitif yüklü tanecik.
+
+S
+sıcaklık		: Bir maddenin taneciklerinin ortama kinetik
+enerjisinin ölçüsü.
+
+T
+
+tepkime		: Bir ya da daha çok iyon, atom ya da molekülün
+başka iyon, atom ve moleküllere dönüşmesi olayı.
+tertip		: Doktorun hastaya verdiği ilaç düzeni.
+
+86
+
+Kimya 1
+
+KAYNAKÇA
+1. BAİRD, Colin; Chemistry in your life (Second edition), University
+of Western Ontario, New York, 2006.
+2. BOZKURT, A. Yılmaz; ERDİN, Nurgül; Ağaç Teknolojisi, İstanbul
+Üniversitesi Orman Fakültesi, Yayın No: 445, İstanbul, 1997.
+3. BURNS, Ralph A.; Fundamentals of Chemistry (Fourth edition),
+St. Louis Community College, Meramec Prentice Hall, 2003.
+4. ERDİK, Ender; SARIKAYA, Yüksel; Temel Üniversite Kimyası (19.
+Baskı), Gazi Kitapevi,2009. ISBN: 978-975-7313-01-4
+5. FRİTZ, Neumark; Boğaziçine Sığınanlar, Çeviren: Şefik Alp
+Bahadır, İstanbul Üniversitesi İktisat Fakültesi Maliye Enstitüsü
+Yayını, Sayfa 17-18, Ercivan Matbaası, İstanbul, 1982.
+6. GÖKBERK, Macit; Felsefenin Evrimi, Milli Eğitim Basımevi Devlet
+Kitapları, İstanbul, 1979.
+7. HİLL, John W.; KOLB, Doris K.; Chemistry for Changing Times
+(Tenth edition), Pearson Prentice Hall, 2004.
+8. İLTER, Müjgan; Tekstil Üretimi ve Yardımcı Kimyasallar, TMMOB
+Kimya Mühendisleri Odası, İzmir, 2015.
+9. İş Sağlığı Ve Güvenliği Uygulamaları Rehberi, T.C. Çalışma Ve
+Sosyal Güvenlik Bakanlığı Yayın No: 09, Ankara, 2014. ISBN:
+978-605-4971-2-2
+10. KARADAĞ, Recep; Doğal Boyamacılık, T.C. Kültür ve Turizm
+Bakanlığı, 2007.
+11. MOORE, John T.; Chemistry for Dummies (2nd Edition),
+Wiley Publishing,2011.
+
+87
+
+Kimya 1
+
+12. SEZGİN, Fuat; İslam’da Bilim ve Teknik Cilt-1 Arap - İslam Bilimleri
+Tarihine Giriş, Türkiye Bilimler Akademisi İstanbul Büyükşehir
+Belediyesi A.Ş Yayınları, 2007.
+13. TRO, Nivaldo J.; Introductory Chemistry, Westmont College, Pearson
+Education, 2014.
+
+GENEL AĞ KAYNAKÇASI
+1. http://uzem.rshm.gov.tr/index.php/halka-yönelik-bilgiler/47karbonmonoksit-zehirlenmeler.html
+2. http://web.itu.edu.tr/~berkalpo/TEK111.pdf
+3. http://www.cdc.gov/co/
+4. http://www.cdc.gov/niosh/topics/co/
+5. http://www.tekstil.itu.edu.tr/~berkalpo/
+6. http://www.wou.edu/las/physci/ch412/perhist.htm
+
+88
+
+Kimya 1
+
+GÖRSEL KAYNAKÇA
+Kapak			
+Görsel 1.1		
+Görsel 1.3
+Görsel 1.6 		
+Görsel 1.14
+Görsel 1.15
+Görsel 1.16
+Görsel 1.18
+Görsel 1.19
+Görsel 1.20
+Görsel 1.24
+Görsel 1.25
+Görsel 1.26
+Görsel 1.27
+Görsel 1.28
+Görsel 1.30
+Görsel 1.37
+Görsel 1.41
+Görsel 1.44
+Görsel 1.45
+Görsel 1.42
+		
+
+			
+
+593336957 (shutter)
+580239991 (shutter)
+317555396 (shutter)
+562322698 (shutter)
+377361952 (shutter)
+478340290 (shutter)
+387185602 (shutter)
+649772092 (shutter)
+373945840 (shutter)
+538137928 (shutter)
+389271814 (shutter)
+153095855 (shutter)
+495597316 (shutter)
+353040560 (shutter)
+64871107 (shutter)
+245853028 (shutter)
+115715341 (shutter)
+214661353 (shutter)
+713676673 (shutter)
+744442235 (shutter)
+55283450 (123rf)
+104234219 (shutter)
+290382053 (shutter)
+290382053 (shutter)
+290382053 (shutter)
+86197408 (shutter)
+96624463 (rf123)
+
+Listede yer almayan görseller görsel tasarımcı ve komisyon tarafından hazırlanmıştır.
+
+89
+
+

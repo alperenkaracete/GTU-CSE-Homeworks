@@ -1,0 +1,427 @@
+40°
+gösterilen
+I numaralı taralı alanın koordinatları
+I
+ThisIsTestLineForAlgorithm
+20°
+0°-20° doğu boylamı ile
+II
+20°-40° kuzey paraleleri arasında yer alır.
+II numaralı taralı alanın koordinatları
+ThisIsTestLineForAlgorithm
+0°
+III
+0°-20° doğu boylamı ile 0°-20 ° kuzey paraleli arasında yer alır.
+20°
+III numaralı taralı alanın koordinatları
+20°-40° doğu boylamı ile
+0°-20° güney paralelleri arasında yer alır. 40°
+0°
+20°
+40°
+Şekil 1. 14 Koordinat Sistemi
+Herhangi bir meridyenin güneşin tam karşısına geldiği an, güneş o meridyenin
+üzerinde bulunan öğle vakti denir. Buna göre ayarlanan saate de yerel saat denir. O
+hâlde her meridyenin kendine özgü ait yerel saati vardır.
+Yerel saat farkının esas nedeni Dünya’nın kendi ekseni etrafındaki hareketidir.
+Dünya kendi ekseni etrafında batıdan doğuya doğru döndüğü için doğudaki noktalar
+güneşi daha erken görür. Bu nedenle yerel saat doğuda her meridyen için 4 dakika
+ileri, batıda geridir.
+Hesaplama yapılırken
+✓ Aynı yarım kürede yer alan meridyenler birbirinden çıkarılır. Farklı yarım kürede olanlar toplanır.
+✓ Doğudaki bir noktasının yerel saati bulunurken zaman farkı eklenir. Batıdaki bir
+noktanın yerel saati bulunurken çıkarma işlemi yapılır.
+y
+x
+(x-y)x4
+o
+(y+z)x4
+z
+t
+ThisIsTestLineForAlgorithm
+(z-t)x4
+Şekil 1. 15 Yerel Saat Hesaplaması
+58
+Aşağıdaki Türkiye haritasında üç farklı ilde aynı anda güneşin ufuk düzlemindeki
+konumu verilmiştir. Van’ da güneş öğle vakti Kayseri’ de tam tepe noktasına yani
+öğle vaktine ulaşmamış, Balıkesir’ de ise henüz öğle vakti yaşanmamıştır.
+10.56
+11.28
+12.00
+36-28=8 8x4=32 11.28-32=10.56 44-36=8 8x4=32 12.00-32=11.28
+36º Doğu meridyeni
+Kayseri
+28º Doğu meridyeni
+ThisIsTestLineForAlgorithm
+Balıkesir
+44º Doğu meridyeni
+Van
+Şekil 1. 16 Meridyenlere Göre Güneşin Konumu
+Örnek soru
+28° Dogu meridyenindeki Balıkesir’ de yerel saat 14.00 iken 43° doğu meridyeni üzerinde
+yer alan Ağrı’ da yerel saat kaçtır?
+ThisIsTestLineForAlgorithm
+0
+28º DM
+43º DM
+180º
+Batı yarım küre
+180º
+Doğu yarım küre
+14.00
+43º-28º=15º
+15º X 4= 60 dk
+14.00 + 60 dk = 15. 00 Yerel saat
+ThisIsTestLineForAlgorithm
+59
+Örnek soru
+20º batı meridyeninde yerel saat 15:00 iken 20º doğu meridyeninde yerel saat kaçtır?
+20ºBM
+0º
+20ºDM
+180º
+Doğu yarım küre
+180º
+Batı yarım küre
+?
+15.00
+20º+20º=40º 40ºX 4= 160 dk 160:60=2.40 dk
+15.00+2.40 dk=17.40 yerel saat
+Bilgi Kutusu
+Bir ülke sınırları içinde yer alan her meridyenin yerel saati kendine özgüdür. Eğer
+meridyenlerin yerel saatine göre ticaret, haberleşme, ulaşım gibi hizmetlerin yürütülmesi sağlanmaya çalışılsaydı karmaşa ortaya çıkardı. Bu nedenle ülke içinde zaman
+birliğini sağlamak amacı ile ulusal(ortak saat) kullanılmaktadır.
+Ülkemiz 2017 yılından beri 45° doğu meridyeninin yerel saatini ortak saat olarak
+kullanmaktadır. Doğu batı yönünde çok geniş olan ülkeler birden fazla ortak saat
+kullanır. Örneğin ABD, Rusya, Kanada gibi
+ThisIsTestLineForAlgorithm
+Uluslararası ilişkilerde zaman birliğini sağlamak için uluslararası saat dilimleri belirlenmiştir. Bir saat dilimi 15 meridyenden oluşur. Dünya üzerinde 24 tane saat dilimi
+vardır. Başlangıç meridyenin 7°30´ doğusu ve 7°30´ batısı 0.saat dilimini oluşturur.
+Saat dilimlerinin sınırları her zaman meridyenler bağlı olarak devam etmez. Bazen
+ülkelerin siyasi sınırlarına göre değişiklik gösterebilir.
+28° doğu meridyenindeki Balıkesir hangi saat diliminde yer alır ?
+28 15
+_ 15 1 +1 = 2 saat dilimi
+13
+60
+1.3.2 Özel Konum
+Şekil 1. 17 Saat Dilimleri
+Bir yerin okyanuslara, denizlere, boğazlara ve komşu ülkelere, yükselti ve yer şekillerine, yer altı ve yer üstü zenginliklerine göre olan konumudur. Başka bir ifadeyle,
+bir yerin enlem ve boylamlarına ilişkin özelliklerinin dışında kalan tüm özelikleridir.
+1.3.3 Türkiye’nin Konumu
+Özel Konum
+Dünya’nın herhangi bir noktanın önemli denizlere boğazlara göre olan konumuna
+özel konum denir.
+45° Doğu Meridyeni
+26° Doğu Meridyeni
+Avrupa
+Asya
+Karadeniz
+ThisIsTestLineForAlgorithm
+42° K.P
+TÜRKİYE
+36° K.P
+Akdeniz
+Orta Doğu
+Harita 1.1 Türkiye’ nin Coğrafi Konumu
+61
+Türkiye’nin özel konumu ve sonuçları şunlardır: Ülkemiz,
+✓ Ortalama yükseltisi fazladır. Yükselti batıdan doğuya doğru artar. Bu sebepten
+kısa mesafede iklim değişiklikleri görülür.
+✓ Üç tarafı denizlerle çevrili bir yarımada ülkesidir. İstanbul ve Çanakkale Boğazları' na sahiptir.
+✓ Kuzeyinde Karadeniz dağ kuşağı, güneyinde ise Toros dağ kuşağı bulunur. Bu
+dağlar kıyıya paralel uzandığı için kıyının nemli havası iç kesimlere geçemez.
+✓ Topraklarının bir kısmı Avrupa kıtasında (Trakya) bir kısmı da Asya’ da (Anadolu) yer alır. Bu hâliyle Türkiye hem Avrupa ülkesi hem de Asya ülkesidir. Petrol
+rezervleri fazla olan Orta Doğu bölgesine de komşudur. Bu konumu ona aynı
+zamanda uluslararası ticaret yollarının üzerinde yer almasına neden olmuştur
+.
+✓ Alp-Himalaya kıvrım sistemi içinde yer alır. Genç fay hatlarının çok olduğu bir
+deprem ülkesidir.
+✓ Ortalama yükseltisi fazla olduğu için akarsuların hidroelektirik enerji potansiyeli de yüksektir.
+✓ Yer altı kaynakları çok çeşitli ve zengindir.
+Türkiye’nin Matematiksel Konumu
+26° Doğu
+Sinop
+ThisIsTestLineForAlgorithm
+(İnceburun)
+42° Kuzey
+Gökçeada
+(Avlaka Burnu)
+1566 Km
+Iğdır
+680 Km
+36° Kuzey
+Hatay
+(Beysun Köyü)
+Harita 1.2 Matematiksel Konum
+62
+45° Doğu
+Dünya üzerindeki bir yerin başlangıç meridyenine ve Ekvator’a göre olan
+uzaklığının enlem ve boylam değerleri ile ifade edilmesine matematiksel konum
+denir. Ülkemiz 26º-45º doğu meridyenleri, 36º-42º kuzey paralelleri arasında yer
+almaktadır. Bu durumun ülkemiz açısından sonuçları şunlardır:
+✓ Orta kuşak ülkesidir. Dört mevsimi belirgin olarak yaşar. Buzul aşındırması ile
+oluşan kıyı şekilleri (fiyort, skayer) görülmez.
+✓ Güneş ışınları hiçbir zaman dik açı ile düşmez. Cisimlerin gölge boyu hiç bir
+ThisIsTestLineForAlgorithm
+zaman 0 m olmaz.
+✓ Güneyinde sıcak iklimlere kuzeyinde soğuk iklimlere komşudur.
+✓ En doğusu ile en batısı arasında 76 dakika zaman farkı vardır. 3. doğu s aat
+diliminde bulunur.
+✓ Güneyinden kuzeyine doğru güneş ışınlarının geliş açısı küçülür. Buna bağlı
+olarak;
+a) Sıcaklıklar enlem etkisiyle kuzeye doğru azalır.
+b) Gölge boyu kuzeye doğru uzar.
+c) Bir gün içinde gece gündüz süreleri arasındaki fark artar.
+d) Denizlerin tuzluluğu kuzeye doğru azalır.
+1. Uygulama
+1. Ülkemizin yükseltisi…………………, …..………………..doğru artar.
+2. Dünya üzerindeki herhangi bir noktanın başlangıç meridyenine olan uzaklığının açı cinsinden değerine…………… denir.
+3. Ülkemizin doğusu ile batısı arasında………. dakikalık zaman farkı vardır.
+4. Boylamlar ………….ve ……………. konumu belirlemede kullanılır.
+5. Bir meridyen yayının tam karşısındaki diğer meridyen yayına………….denir.
+6. Türkiye’nin doğusu ile batısı arasında…………….meridyen farkı vardır.
+63
+2. Uygulama
+1. 45º doğu boylamında yerel saat 16.00 iken 30º doğu boylamında yerel saat kaç
+olur?
+A) 09.00
+B) 15.00
+C) 21.00
+D) 19.30
+2. 135º doğu meridyenin anti meridyenini hesaplayınız?
+3. Türkiye hangi saat dilimi aralığında yer alır?
+A) 3.
+B) 1.
+C) 8.
+D) 11.
+3. Uygulama
+Aşağıdaki verilen ifadelerden doğru olanların karşısına “D”, yanlış olanların karşısına “Y” yazınız
+1. Aynı boylam üzerinde yerel saat farkı yoktur.
+ThisIsTestLineForAlgorithm
+()
+2. Dünya üzerinde herhangi bir noktanın başlangıç meridyenine olan uzaklığının açı
+cinsinden değerine enlem denir.
+()
+3. Ardışık iki meridyen arasındaki uzaklık her yerde 111 km’ dir.
+ThisIsTestLineForAlgorithm
+()
+ThisIsTestLineForAlgorithm
+4. Paraleller arası mesafe Ekvator’dan kutuplara doğru gidildikçe daralır.
+()
+5. Türkiye’nin doğusu ile batısı arasında 19 meridyen farkı vardır.
+()
+6. 23˚.27´dakika güney paraleline Yengeç Dönencesi denir.
+()
+7. Dünya’ yı Kuzey ve Güney olmak üzere iki yarım küreye ayıran en büyük paralel dairesine Ekvator denir.
+()
+8. Türkiye’nin üç tarafının denizlerle çevrili olması matematik konumu ile ilgilidir. ( )
+9. Meridyenlerin boyları eşitken, paralellerin boyları Ekvator’ dan kutuplara doğru
+küçülür.
+()
+10. Ekvator’ dan kutuplara doğru gidildikçe meridyenlerin boyları kısalır.
+64
+()
+ÖZET
+Dünya üzerinde herhangi bir noktanın bulunduğu yere coğrafi konum denir.
+Coğrafi konum ikiye ayrılır:
+a) Matematik Konum: Dünya üzerinde herhangi bir yerin başlangıç meridyenine
+ve Ekvator'a göre olan uzaklığına denir. Paralel ve meridyenler gerçekte var olmayan
+çizgilerdir. Ülkemiz 36°-42° kuzey paralelleri, 26°-45° doğu meridyenleri arasında yer
+alır.
+b) Özel Konum: Herhangi bir yeri diğer yerlerden ayıran, sahip olduğu kendine has
+özelliklerin tümüne denir. Bir yerin kıtalara, denizlere, dağ sıralarına, boğazlara, komşu ülkelere, ulaşım yollarına, yer altı ve yer üstü kaynaklarına, siyasi bloklara göre olan
+konumu ve yükseklik değerleri özel konumudur. Özel konum, insanları, çevreyi, ülkelerin jeopolitik konumunu, iklimini, nüfusun dağılışını, yerleşme şartlarını,turizm
+faaliyetlerini, ulaşım imkânını ve ekonomik faaliyetlerini etkiler.
+Dünyayı iki eşit parçaya ayıran en büyük paralel dairesine Ekvator denir. Ekvator başlangıç paralelidir. Ekvatorun kuzeyinde kalan kısma Kuzey yarım küre, güneyinde kalan kısma Güney yarım küre denir. Bazı paralellerin özel isimleri vardır.
+23°27'kuzey paraleline Yengeç Dönencesi 23°27'güney paraleline Oğlak Dönencesi
+denir. Paralellerin sayısı 180 tanedir. 90 tanesi Kuzey yarım kürede 90 tanesi Güney
+yarım kürededir. Boyları Ekvator'dan kutuplara doğru kısalır kutuplarda bir nokta hâlini alır. Meridyenler, bir kutuptan başlayıp diğer kutba kadar uzandığı varsayılan dair
+yaylarıdır. 360 tanedir. Boyları birbirine eşittir. Meridyen arası 4 dakikadır.
+ThisIsTestLineForAlgorithm
+Dünya’nın kendi ekseni etrafında dönmesi zaman farklarını ortaya çıkarır. Güneş
+her yerde aynı anda tam tepe noktasına gelmez. Bu durum her nokta için ayrı zamanlarda yaşanır. Buna yerel saat farkı denir. Yerel saatler hesaplanırken meridyenler
+kullanılır. Dünya batıdan doğuya doğru döner. Onun için doğudaki noktaların yerel
+saati batıdaki noktalardan ileridedir. Kanada, ABD, Rusya gibi yüz ölçümü büyük olan
+ülkelerde birden fazla ortak saat kullanılır. Ulusal saat 24 saat dilimine ayrılmıştır. Türkiye 2 ve 3. saat dilimleri arasında yer alır.
+65
+3. BÖLÜM ÖLÇME ve DEĞERLENDİRME SORULARI
+4. Aşağıda verilen hangi iki şehir
+merkezi arasında yerel saat farkı daha
+fazladır?
+ThisIsTestLineForAlgorithm
+Aşağıda verilen çoktan seçmeli soruları cevaplayınız.
+1. Ekvatordan uzaklaştıkça paralel
+boyları kısalır. En uzun paralel dairesi
+Ekvator’dur.
+A) Tekirdağ-Ardahan
+B) Konya-Siirt
+Yukarıdaki açıklamaya göre aşağıdaki illerimizden hangisi en uzun paralel dairesi üzerinde yer almaktadır?
+C) Balıkesir-Erzurum
+D) Aydın-Diyarbakır
+5. Bursa ve Uşak il merkezlerinde yerel saat aynı ise aşağıdakilerden hangisi
+söylenebilir?
+A) Samsun
+B) Ankara
+C) Adana
+ThisIsTestLineForAlgorithm
+2. Aşağıdakilerden hangisi aynı enlem üzerinde yer alan noktaların ortak
+özelliklerinden biri değildir?
+A) Yerel saatleri
+B) Gece gündüz arasındaki süre farkı
+C) Çizgisel hızları
+Hayat Boyu Öğrenme
+D) Hatay
+A) Yükseltileri aynıdır.
+D) Güneş ışınlarını alma açıları
+C) Ekvator’a uzaklıkları eşittir
+B) Başlangıç meridyenine uzaklıkları
+aynı değildir.
+D) Aynı boylam üzerinde yer almaktadır.
+6. 40 ˚ doğu boylamında yerel saat
+12.00 iken 25˚ doğu boylamında yerel
+saat kaçtır?
+A) 9.00
+3. Türkiye üç tarafı denizlerle çevrili bir yarımada konumundadır. Ülkemizin bu özel konumu, aşağıdaki coğrafi özelliklerden hangisinin üzerinde
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+etkili değildir?
+B) 11.00
+ThisIsTestLineForAlgorithm
+C) 12.00
+D) 13.00
+7. Aşağıdakilerden hangisi paralellerin özellikleri arasında yer almaz?
+A) İklim
+B) Ulaşım
+A) Toplam 360 tanedir
+C) Yer altı kaynakları
+B) Başlangıç paraleli Ekvator’dur
+D) Turizm
+C) Ardışık iki paralel arası 111 km’dir
+D) Paralellerin boyları kutuplara gidildikçe kısalır.
+66
+8. Aşağıdaki meridyen yaylarından hangisi Türkiye topraklarından
+geçmez?
+12. Aşağıdakilerden hangisinde
+Türkiye’nin matematik konumunu
+doğru olarak verilmiştir?
+A) 26˚doğu
+B) 30˚ Batı
+A) 26º-45º doğu meridyenleri
+C) 40˚ doğu
+D) 45˚ doğu
+36º-45º kuzey enlemleri
+9. Aşağıdakilerden hangisi Dünya’nın şeklinden dolayı ortaya çıkan
+bir sonuçtur?
+B) 15º-25º batı meridyenleri
+45º-55º güney enlemleri
+C) 26º-45º doğu meridyenleri
+A) Yer ekseninin eğikliği
+36º-42º kuzey enlemleri
+B) Paralel boylarının kısalması
+D) 5º-30º batı meridyenleri
+C) Yörüngenin şekli
+10. Aşağıdaki ülkelerin hangisinde aynı anda birden fazla ortak saat
+kullanmaktadır?
+A) Kanada
+B) Hollanda
+C) Cezayir
+D) Bangladeş
+11. Aşağıda verilen coğrafi özelliklerinden hangisi Türkiye’nin matematik konumu ile ilgilidir?
+15º-35º güney enlemleri
+Hayat Boyu Öğrenme
+D) Kara ve denizlerin dağılışı
+ThisIsTestLineForAlgorithm
+13. Türkiye aşağıdakilerden hangi
+saat diliminde yer alır?
+ThisIsTestLineForAlgorithm
+A) 0. saat dilimi
+B) 1. ve 2. doğu saat dilimleri
+C) 2. ve 5. batı saat dilimleri
+ThisIsTestLineForAlgorithm
+D) 3. doğu saat dilimleri
+ThisIsTestLineForAlgorithm
+14. Aşağıda verilenlerden hangisi
+meridyenlerin özellikleri arasında değildir?
+A) Toplamda 180 tanedir.
+B) İki meridyen arası 4 dakikadır.
+ThisIsTestLineForAlgorithm
+A) Doğuya doğru gidildikçe yükseltinin artması
+B) Üç tarafının denizlerle çevrili olması
+C) Kara içlerinde yüksek düzlüklerin
+yer alması
+tir.
+C) Meridyenlerin boyları birbirine eşit-
+D)Meridyen aralıkları
+uzaklaştıkça daralır.
+D) Kuzeye gidildikçe gece gündüz
+arasındaki farkın artması
+67
+ekvatordan
+1. Uygulama Cevapları
+1.Batıdan Doğuya,
+5. Anti Meridyen,
+2. Boylam,
+3. 76,
+4. Yerel Saat ve Matematiksel,
+6. 19
+2. Uygulama Cevapları
+1) B
+2) 45º Batı
+3) A
+3. Uygulama Cevapları
+1. D, 2.Y, 3. Y, 4.Y,
+5. D,
+6. Y, 7. D, 8. Y,
+9. D,
+10. Y
+3. ÜNİTE ve ÖLÇME DEĞERLENDİRME CEVAPLARI
+KOORDİNAT SİSTEMİ
+1) D
+2) A
+3)C
+4)A
+5)D
+6)B
+7)A
+8)B
+9)B
+10)A
+11)D
+12) C
+13)D
+14)A
+68
+BİRİNCİ ÜNİTE
+DOĞAL SİSTEMLER
+ThisIsTestLineForAlgorithm
+Dördüncü Bölüm
+Harita Bilgisi
+NELER ÖĞRENECEĞİZ?
+• Haritanın tanımını ve haritaların gerekliliğini,
+• Harita çizimlerinde kullanılan yöntem ve tekniklerini,
+ThisIsTestLineForAlgorithm
+• Ölçekler ve ölçek çeşitlerini,
+• Haritalarda kullanılan işaretleri,
+• Yer şekillerini haritalar üzerinde gösterilme yöntemlerini öğreneceksiniz.
+ANAHTAR KELİMELER
+• Harita
+• Projeksiyon yöntemi
+• Ölçek
+• Lejand
+• İzohips
+• İzobat
+• Profil
+69
+1.4. HARİTA BİLGİSİ
+1.4.1. Harita ve Haritayı Oluşturan Unsurlar
+Hazırlık Köşesi
+ThisIsTestLineForAlgorithm
+Çeşitli sebeplerle uzakta ve bilmediğiniz bir yerleşim yerine kara yoluyla yolculuk yaparken kara yolu haritasını kullanırız. Siz de bir kara yolları haritası
+edinerek yaşadığınız yer ile tatile gitmeyi düşündüğünüz yer arasındaki kara
+yolunu işaretleyiniz.
+Harita 1.3 Türkiye Mülki İdare Harita
+Yeryüzünün tamamının veya bir kısmının kuşbakışı görüntüsünün, belirli bir ölçek
+dâhilinde küçültülerek, düzleme aktarılmış hâline harita denir. Haritacılıkla ilgilenen
+bilim dalına da "kartoğrafya" adı verilir.
+Haritalar çizilirken dikkat edilmesi gereken üç temel unsur vardır. Bunlar:

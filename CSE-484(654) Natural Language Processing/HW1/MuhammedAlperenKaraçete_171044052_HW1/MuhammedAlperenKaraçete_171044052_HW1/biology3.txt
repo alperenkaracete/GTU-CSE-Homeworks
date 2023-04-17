@@ -1,0 +1,429 @@
+öncelikle karbonhidratları kullanır.
+Lipitler üç grupta incelenir;
+a. Nötral yağlar (trigliseritler) b. Fosfolipitler c. Steroitler
+a. Nötral yağlar (Trigliseritler): Doğada en çok bulunan ve hayvanlarda depo edilen
+yağ çeşidi olan nötral yağlar 1 mol gliserol ve 3 mol yağ asidinin dehidrasyon sentezi
+sonucu oluşur. Bu durum aşağıdaki denklemdeki gibi gösterilir:
+1 Gliserol + 3 Yağ asidi
+1 Nötral yağ + 3 su
+(trigliserit)
+Görsel1.36. Nötral yağların oluşum tepkimesi
+Nötral yağların sentezi sırasında yağ asitlerinin her biri ester bağlarıyla gliserole
+bağlanır. Bu olaya esterleşme denir.
+Nötral yağları oluşturan yağ asitleri, doymuş ve doymamış yağlar olarak iki grupta
+incelenir. Karbon atomları arasında çift bağ yoksa doymuş yağlar, çift bağ varsa
+doymamış yağlar olarak adlandırılır. İçyağı, tereyağı gibi hayvansal yağların çoğu
+doymuş yağ olup oda sıcaklığında katı hâldedir. Zeytinyağı, mısır özü yağı, ayçiçeği yağı
+gibi bitkisel yağlar doymamış yağlardır ve oda sıcaklığında sıvı hâldedir.
+1.Ünite Yaşam Bilimi Biyoloji
+Görsel 1.37. Doymuş yağlar
+hayvansal kaynaklıdır. İç yağ,
+tereyağı doymuş yağlara örnektir.
+Görsel 1.38. Doymamış yağlar
+bitkisel kaynaklıdır. Ayçiçek
+yağı, mısır özü yağı, zeytinyağı
+doymamış yağlara örnektir.
+b. Fosfolipitler; hücre zarının yapısına katılır. Hücre zarında çift tabaka hâlinde
+bulunur.
+c. Steroidler; cinsiyet hormonları, safra salgısı ve D vitamininin yapısına katılır.
+Hormon yapısına katılmasından dolayı düzenleyici görevleri de vardır.
+Lipitlerin canlılar için önemi:
+• Hayvanların derilerinin altındaki depo edilmiş lipitler koruyuculuk görevi yaparak
+organları darbenin etkisinden korur.
+• Bir çeşit yalıtım görevi yaparak vücudun ısı kaybını önler.
+• Metabolizmanın düzenlenmesinde rol alır.
+• Göçmen kuşlar ve kış uykusuna yatan hayvanlar, lipitleri hem enerji kaynağı hem
+de su ihtiyaçları için kullanır.
+• Lipitler, vücuda alınan A, D, E ve K vitaminlerinin çözünmesinde kullanılır.
+• Beslenmede lipitlerin fazla tüketilmesi kalp damar hastalıklarına ve şişmanlığa
+neden olur.
+Görsel 1.39. Kutup ayılarında derilerinin
+altına depo edilmiş yağlar yalıtım görevi
+ThisIsTestLineForAlgorithm
+görerek vücudun ısı kaybını önler.
+Görsel 1.40. Göçmen kuşlar depo ettikleri
+yağları hem enerji kaynağı olarak hem de
+su ihtiyacını karşılamak için kullanır.
+23
+24
+Biyoloji 1
+Deneyin Adı		
+Amaç 		
+Araç Gereçler
+Hangi besinlerde lipit (yağ) vardır?
+Besinlerdeki lipitlerin varlığını tespit etmek.
+Deney tüpü, bisturi, damlalık, eter, beyaz kâğıt, zeytin yağı,
+süt, fındık içi, ceviz içi ve patates.
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Uygulama
+• Beyaz bir kâğıda zeytinyağını damlatıp kurumaya bırakın. Kuruyan kâğıdı
+ışığa doğru tutup gözlemleyin.
+• Sütü deney tüpüne koyarak üzerine 2-3 damla eter damlatın ve hafifçe
+ThisIsTestLineForAlgorithm
+çalkalayarak beş dakika bekleyin. Tüpün üzerinde biriken sıvıyı damlalıkla
+alıp beyaz kâğıda sürerek kurumasını bekleyin. Kuruyan kâğıdı ışığa tutup
+gözlemleyin.
+• Fındık içi, ceviz içi ve bisturi ile kestiğiniz patatesi ayrı ayrı beyaz kâğıtlara
+ThisIsTestLineForAlgorithm
+sürerek kurumasını bekleyin. Bu kâğıtları ışığa tutarak gözlemleyin.
+Deney Sonucu
+Zeytinyağı damlatılan kâğıt kurutularak ışığa doğru tutulduğunda saydam lekelerin olduğu gözlenir. Çünkü zeytinyağında bolca yağ vardır. Bu yağ molekülleri
+kâğıtta saydam lekeler bırakır.
+Yağ molekülleri eterde çözünebilme özelliğine sahiptir. Sütün üzerine eter
+damlatıldığında sütteki yağ molekülleri çözünerek tüpün üzerinde birikir. Tüpün
+üzerindeki bu yağ molekülleri de kâğıt üzerinde saydam lekeler bırakır.
+Yağ içeren katı besin maddeleri kâğıt üzerine sürüldüğünde kâğıtta saydam
+lekeler bırakır. Fındık içi, ceviz içi ve patates kâğıt üzerine sürüldüğünde fındık
+ve cevizde yağ olduğu için kâğıtta saydam leke oluşurken patateste yağ olmadığı için böyle bir leke oluşmaz.
+1.2.2.3. Proteinler
+Proteinler;
+• Hücre zarının, organellerin, kas, kıkırdak, kemik gibi
+dokuların, bazı hormon ve enzimlerin yapısına katılır.
+• Karbon (C), oksijen (O), hidrojen (H), azot (N) ve
+kükürt (S) atomlarını içerir.
+• Hücrede ribozom adı verilen organellerde sentezlenir.
+Proteinleri oluşturan yapı taşları aminoasitlerdir.
+Canlılar tarafından sentezlenebilen yirmi çeşit amino asit
+vardır. Proteinler bu amino asitlerin çeşitli kombinasyonlarla
+birleşmesinden oluşur. Protein molekülü yüzlerce hatta
+binlerce amino asit içermektedir. Protein zincirlerinde bulunan
+aminoasitlerin sayısı ve dizilimi farklı protein çeşitlerinin Görsel 1.41. Et, süt, yumurta,
+bakliyatlar proteince zengin
+oluşmasını sağlar.
+besinlerdir.
+1.Ünite Yaşam Bilimi Biyoloji
+Amino asitler; amino grubu, karboksil grubu, bir karbon atomu, bir hidrojen atomu ve R
+ile gösterilen radikal grup (değişken grup) içerir. Değişken grubun özellikleri amino asidin
+kendine özgü yapısını belirler.
+ThisIsTestLineForAlgorithm
+H
+ThisIsTestLineForAlgorithm
+Karboksil grubu
+Amino grubu
+O
+H
+N		
+C			
+C
+OH
+H
+R
+Değişken grup
+Görsel 1.42. Aminoasitin yapısı.
+Aminoasitler birbirine peptit bağıyla bağlanır. İki aminoasidin bağlanmasıyla oluşan
+yapıya dipeptit denir. Bu esnada bir molekül su açığa çıkar. Bu olay aşağıda verilen
+denklemdeki gibi gösterilebilir:
+Amino asit + Amino asit
+Dipeptit + Su
+Görsel 1.43. Dipeptit oluşumu
+Canlılarda 20 çeşit aminoasit vardır. Birçok bakteri ve bitki bu 20 çeşit amino asitin
+hepsini sentezleyebildiği hâlde, hayvanlar ancak 12 kadarını sentezleyebilir. Hayvanlar,
+sentezleyemedikleri aminoasitleri dışarıdan besin yoluyla alır. Bu aminoasitlere temel
+(esansiyel) aminoasit denir.
+Polipeptit Zinciri
+Aminoasit
+Yüzlerce aminoasidin birleşmesiyle
+oluşan zincirler polipeptit olarak
+adlandırılır.
+Proteinler
+genellikle
+birden fazla polipeptit zinciri içerir.
+Proteinler birçok metabolik olayın
+gerçekleşmesinde görev alır.
+Eter, kloroform gibi çözücüler ile
+sıcaklık, pH, tuz derişimi gibi koşullar
+proteinin yapısını bozar. Bu olaya
+denatürasyon denir.
+Görsel 1.44. Yüzlerce aminoasidin birleşmesiyle oluşan
+zincirlere polipeptit denir.
+25
+Biyoloji 1
+26
+Proteinlerin organizmadaki önemli etkileri şunlardır:
+•
+•
+•
+•
+•
+•
+•
+Hücre yapımında ve dokuların onarımında görev alır.
+Hücre zarının yapısına katılarak madde geçişlerinde görev yapar.
+Antikor yapısına katılarak vücudun bağışıklığında görev alır.
+Hemoglobin yapısına katılarak solunum gazlarının taşınmasında görev alır.
+Kan proteinlerinden albümin ve globulini oluşturarak kanın ozmotik basıncının
+düzenlenmesinde, fibrinojenin yapısına katılarak kan pıhtılaşmasında görev alır.
+Hücre içi ve dışı sıvıların pH değişimlerini dengeleyerek homeostasıinin
+korunmasında rol oynar.
+Zorunlu durumlarda enerji kaynağı olarak kullanılır.
+Deneyin Adı
+Amaç
+Araç Gereçler
+Hangi besinlerde protein vardır?
+Besinlerdeki protein varlığını tespit etmek.
+Deney tüpü, damlalık, su, süt, yumurta, elma, Biüret çözeltisi
+Uygulama
+• Deney tüplerine sırasıyla 5’er damla su, yumurta akı, çiğ süt ve elma konur.
+Daha sonra tüplerin her birine üçer damla Biüret çözeltisi damlatılarak karıştırılır. Bir süre beklendikten sonra tüplerde oluşan renk değişimleri gözlenir.
+• Proteinler Biüret çözeltisi ile pembe-mor renk verir.
+Deney Sonucu
+Biüret çözeltisi damlatılır.
+Protein
+Pembe-mor renk
+oluşur.
+Biüret çözeltisi
+Biüret çözeltisi
+Biüret çözeltisi
+ThisIsTestLineForAlgorithm
+Biüret çözeltisi
+Su
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Yumurta akı
+Çiğ süt
+Elma
+Deneyin sonucunda su ve elma olan tüplerde renk değişimi olmazken yumurta
+akı ve çiğ süt olan tüplerde pembe-mor renk oluştuğu görülür. Buna göre su
+ve elmada protein olmadığı, yumurta akı ve çiğ sütte protein olduğu sonucuna
+varılır.
+1.Ünite Yaşam Bilimi Biyoloji
+1.2.2.4. Enzimler
+Enzimler; canlılarda gerçekleşen biyokimyasal reaksiyonların aktivasyon enerjisini
+düşürerek reaksiyonları hızlandıran ve reaksiyonlardan değişmeden çıkan biyolojik
+katalizörlerdir.
+Enzimsiz aktivasyon
+enerjisi
+Serbest enerji
+Enzimli aktivasyon
+enerjisi
+Başlama
+ThisIsTestLineForAlgorithm
+evresi
+Sonlanma evresi
+Reaksiyonun ilerlemesi
+Görsel 1.45. Enzimler aktivasyon enerjisini düşürerek tepkimeyi hızlandıran moleküllerdir
+Enzimler kullanılamazsa biyolojik reaksiyonlar gerçekleşemez. Çünkü reaksiyonların
+gerçekleşmesi için yüksek sıcaklık gerekir. Örneğin, glikozun dış ortamda parçalanması
+için 160 °C sıcaklık gerekirken, enzimlerle vücut sıcaklığı olan 36,5 °C de, çok hızlı bir
+şekilde parçalanır.
+Aktivasyon enerjisi: Kimyasal reaksiyonların gerçekleşmesi için gerekli olan minimum
+enerji miktarıdır.
+Enzimlerin Yapısı ve Görevleri
+Enzimler yapılarına göre basit ve bileşik enzimler olmak üzere iki grupta incelenir.
+Basit Enzimler: Sadece protein yapıda olan enzimlerdir. Yardımcı grup bulundurmazlar.
+Sindirim enzimleri basit yapılı enzimlerdir.
+Bileşik Enzimler: Yapılarında proteinle birlikte yardımcı grup olarak vitamin veya
+mineral bulunduran enzimlerdir. Bileşik enzimlere holoenzim de denir.
+Protein
+Vitamin
+Protein
+Mineral
+Apoenzim
+Koenzim
+Apoenzim
+Kofaktör
+kısım
+kısım
+Görsel 1.46. Proteinlerin yardımcı kısmı vitaminse koenzim adını, mineralse kofaktör adını alır.
+Bileşik enzimlerdeki protein kısma apoenzim denir. Yardımcı kısım vitamin gibi
+organik bir molekül ise koenzim, mineral gibi inorganik bir molekül ise kofaktör olarak
+isimlendirilir.
+ThisIsTestLineForAlgorithm
+Enzimler protein yapılı olduğu için ribozom organelinde sentezlenir.
+27
+ThisIsTestLineForAlgorithm
+Biyoloji 1
+28
+Enzimlerin Özellikleri
+Enzimlerin etki ettiği maddelere substrat denir. Enzimin protein kısmında aktif bölge
+adı verilen özel bir bölge bulunur. Enzim substratına aktif bölgeden bağlanır. Enzimler
+etki ettiği maddelere anahtar-kilit uyumu yapacak şekilde geçici olarak bağlanır. Bu
+bağlanma sırasında substratlarda bağlanma veya ayrılma şeklinde değişimler gerçekleşir.
+Böylece yeni ürünler oluşur. Enzimler reaksiyondan değişmeden çıkar.
+Aktif bölge
+Enzim + Substrat
+Enzim + Substrat
+Kompleksi
+Enzim + Ürün
+Görsel 1.47. Enzimle substratı arasında anahtar-kilit uyumu vardır.
+Enzimlerin genel özellikleri şunlardır:
+• Enzim ile substratı arasındaki uyum anahtar-kilit ilişkisine benzer.
+• Bazı enzimler çift yönlü (tersinir) bazı enzimler tek yönlü çalışır.
+• Enzimler tepkimelerin aktivasyon enerjisini düşürür.
+• Enzimler, hem hücre içinde hem de hücre dışında çalışabilir.
+• Enzimler, tepkimelerden değişmeden çıkar. Bu yüzden tekrar tekrar kullanılabilir.
+• Enzimler takım hâlinde çalışır, bir enzimin etki ettiği tepkimenin ürünü, kendinden
+sonraki enzimin substratıdır.
+• Enzimler, genellikle substrat çeşidinin sonuna -az eki getirilerek adlandırılır. Maltaz,
+sükraz gibi. İsminin sonunda -ojen eki bulunan enzimler inaktif durumdadır. Bu
+enzimler, belirli şartlar altında aktif hâle geçer.
+Enzim Aktivitesine Etki Eden Faktörler
+Enzim aktivitesine etki eden faktörler sıcaklık, pH değeri, su miktarı, enzim-substrat
+yoğunluğu, substrat yüzeyinin alanı, aktivatör ve inhibitör maddelerdir.
+Sıcaklık
+Enzimler protein yapılı olduğundan sıcaklık değişimlerinden etkilenir. Bu yüzden ortam
+sıcaklığı enzimlerin çalışması için önemlidir. Enzimlerin en verimli çalıştığı sıcaklık
+derecesine optimum (en uygun) sıcaklık denir. Enzim çeşidine göre optimum sıcaklık
+ThisIsTestLineForAlgorithm
+değeri değişir.
+Yüksek sıcaklıklarda enzimlerin yapısındaki
+proteinler bozulduğu için enzimler çalışamaz.
+Örneğin sütün içinde bulunan ve sütün
+ThisIsTestLineForAlgorithm
+ekşimesine neden olan mikroorganizmaların
+enzimleri süt kaynatıldığında bozulur. Böylece
+sütün ekşimesi engellenir.
+Tepkime hızı
+1.Ünite Yaşam Bilimi Biyoloji
+Düşük sıcaklıklarda enzimlerin protein yapısı
+bozulmaz ancak enzimler inaktif duruma
+geçtikleri için çalışmazlar. Ortam ısıtıldığında ise
+aktifleşerek yeniden çalışır hâle gelirler. Örneğin
+0
+20
+37
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+50
+0OC’nin altında, besinlerin bozulmasına neden
+Sıcaklık (0C)
+olan mikroorganizmaların enzimleri çalışmaz.
+Bu sayede besin maddeleri dondurucuda
+Görsel 1.48: Sıcaklığın enzim etkinliği ile
+bozulmadan uzun süre saklanabilir.
+tepkime hızı üzerine etkisi
+pH
+Ortam pH’sı enzimin çalışabilmesi için önemlidir. Her enzimin etkin bir şekilde
+çalışabildiği belirli bir pH aralığı vardır. Örneğin pepsin enzimi pH değeri 2 olan midede,
+tripsin enzimi pH değeri 8 olan ince bağırsakta en iyi çalışır. Yani pepsin enzimi asidik,
+tripsin enzimi bazik ortamda aktiftir.
+Su
+Ortamın su yoğunluğu enzimlerin çalışabilmesi için önemlidir. Örneğin tohumlardaki su
+oranı %15’in altında olduğunda enzimler çalışamaz ve tohumlar çimlenemez. Baharla
+beraber yağmurlar artıkça topraktaki su miktarı dolayısıyla tohuma giren su miktarı da
+artar. Böylece tohumun çimlenmesini sağlayan enzimler çalışmaya başlar ve tohumlar
+çimlenir.
+Meyve ve sebzelerin yapılarındaki su, reçel yapılarak ya da kurutularak uzaklaştırılır.
+Böylece meyve ve sebzelerin bozulmalarına neden olan enzimler çalışamaz ve bu
+besinler uzun süre bozulmadan saklanır.
+Enzim-Substrat Yoğunluğu
+Enzimlerin etkinliği, etki ettiği substratın yoğunluğuyla ilişkilidir.
+Tepkime hızı
+Substrat yeterli
+ThisIsTestLineForAlgorithm
+Ortamda yeterli miktarda substrat varken,
+enzim yoğunluğu arttıkça tepkime hızı da
+ThisIsTestLineForAlgorithm
+artar.
+Enzim yoğunluğu
+Görsel 1.49. Enzim yoğunluğunun tepkime
+hızı üzerine etkisi
+29
+Biyoloji 1
+30
+ThisIsTestLineForAlgorithm
+Ortamda yeterli miktarda substrat varken,
+enzim miktarı sınırlıysa substrat miktarı
+arttıkça tepkime hızı önce artar, sonra sabit
+hızla devam eder.
+Tepkime hızı
+x kadar enzim varken
+x
+Substrat yoğunluğu
+Tepkime hızı
+Görsel 1.50. Sınırlı enzim miktarının
+tepkime hızı üzerine etkisi
+Substrat sınırlı
+Ortamda yeterli miktarda enzim varken
+substrat miktarı sınırlıysa substrat bitince
+tepkime durur.
+Enzim yoğunluğu
+Görsel 1.51. Sınırlı substrat
+miktarının tepkime hızı üzerine etkisi
+Substrat Yüzey Alanı
+Enzimler substratın dış yüzeyine etki eder. Substratın yüzey alanı arttıkça enzimin
+bağlanacağı yüzey arttığı için tepkime hızı da artar. Örneğin kıyma hâlindeki etin yüzeyi
+kuşbaşı hâlindeki etin yüzeyinden fazla olduğu için sindirim enzimleri köfteyi, kuşbaşı
+etten daha hızlı parçalar.
+Aktivatör ve İnhibitör Etkisi
+Enzim etkinliğini artıran maddelere aktivatör denir. Örneğin hidroklorik asit (HCl),
+magnezyum, mangan gibi maddeler enzim etkinliğini artırır. Enzim etkinliğini yavaşlatan
+ya da durduran maddelere inhibitör denir. Örneğin; siyanür, yılan, böcek ve akrep
+zehirleri, cıva, kurşun gibi maddeler enzimlerin etkinliğini yavaşlatır ya da durdurur.
+ThisIsTestLineForAlgorithm
+Deneyin Adı		
+Amaç 		
+Araç Gereçler
+Sıcaklığın enzim aktivitesine etkisi.
+Sıcaklığın enzim etkinliğine etkisini gözlemlemek.
+Deney tüpleri, bisturi, ispirto ocağı, sacayak, termometre,
+beherglas, hidrojen peroksit (H2O2 ), su, çiğ karaciğer, kibrit,
+kâğıt, kalem.
+Uygulama
+• Üç adet beherglasın yarısına kadar su doldurulur. Sacayağı, ispirto ocağı
+ve termometre kullanılarak sırasıyla 30 OC’de, 37 OC’de ve 60 OC’de üç adet
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+sıcak su banyosu hazırlanır.
+1.Ünite Yaşam Bilimi Biyoloji
+• İçine eşit miktarda karaciğer parçaları konan üç adet deney tüpü sıcak su
+banyolarının içine yerleştirilir.
+• Deney tüplerinin içine 2’şer ml hidrojen peroksit (H2O2 ) damlatılır.
+• Her bir tüpün ağzına yanan bir kibrit yaklaştırılarak kibrit alevlerinin parlaklığı
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+gözlemlenir.
+Deney Sonucu
+Karaciğer hücrelerinde bulunan katalaz enzimi, hidrojen peroksiti (H2O2 ), su
+(H2O) ve oksijene (O2 ) kadar parçalar. Kibrit alevlerinin parlaklığı göz önünde bulundurularak hangi deney tüpünde oksijen çıkışının daha hızlı olduğu
+gözlenir.
+Katalaz enzimi için optimum sıcaklık 37 OC olduğu için en fazla oksijen çıkışı
+bu tüpte olur. Bu yüzden kibrit alevinin en parlak olduğu tüp budur.
+30 OC’de katalaz enziminin çalışması yavaşladığı için bu tüpteki oksijen
+çıkışı azalır. Bu yüzden kibrit parlaklılğı da azalır.
+60 OC’de katalaz enziminin yapısı bozulacağı için enzim çalışmaz. Enzim
+çalışmadığı için tepkime gerçekleşmez. Oksijen çıkışı olmadığı için kibrit
+parlaklığında herhangi bir değişim olmaz.
+Enzimlerin Kullanım Alanları
+Enzimler, peynir ve ekmek yapımı, et ürünlerinin işlenmesi, laktozsuz süt üretimi,
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+meyve sularının berraklaştırılması gibi endüstrinin hemen her alanında kullanılır. Genellikle
+mikroorganizmalardan elde edilir.
+Biyoteknolojik araştırmalarda, tıpta, eczacılıkta enzimlerden yararlanılır. Protein, yağ
+ve nişastalı artıkları parçalamak için bulaşık ve çamaşır deterjanlarına enzim eklenir.
+Kanser hastalığına karşı uygulanan enzim tedavisi sayesinde kanserli hücrelerin yok
+edilmesi sağlanmaktadır.
+1.2.2.5. Hormonlar
+Özel bezler tarafından salgılanan, kan yolu ile ulaştıkları organ ve dokular üzerinde
+düzenleyici olarak görev alan organik moleküllerdir. Amino asit, protein ve steroit yapılı
+olabilirler.
+Hormonlar; üreme, beslenme, korku, heyecan, büyüme, gelişme ve homeostazi gibi
+pek çok yaşamsal olayda görev alır. Bu yüzden canlılık için çok önemlidir. Az ya da çok
+salınması metabolik rahatsızlıklara yol açar. Örneğin; insanda hipofiz bezinden salgılanan
+ve kan yoluyla tüm vücuda dağıtılan büyüme hormonunun, az salınması cüceliğe, fazla
+salınması devliğe yol açar. Bitkilerde üretilen hormonlar ise büyüme, çiçeklenme, meyve
+oluşumu, yaprak dökümü gibi olayları düzenler.
+31
+32
+Biyoloji 1
+1.2.2.6. Vitaminler
+Görsel 1.52. Taze sebze ve
+meyvelerde bol miktarda vitamin
+bulunur.
+Vitaminlerin genel özellikleri:
+• Yapı maddesi veya enerji kaynağı olarak kullanılmaz.
+ThisIsTestLineForAlgorithm
+• Düzenleyici ve direnç artırıcı olarak kullanılırlar.
+• Enzimlerin yapısına katılarak katalizör olarak görev
+yapar.
+• Bitkilerde fotosentez reaksiyonları ile doğrudan
+üretilebildikleri gibi, hayvanlarda öncül maddelerden
+dönüşüm reaksiyonlarıyla da üretilir.
+Vitaminler sağlıklı büyüme ve yaşam için mutlaka belirli miktarlarda alınması gereken
+moleküllerdir. Uzun süre vitamin alınmaması çeşitli hastalıklara neden olabilir.
+Vitaminler yağda çözünen ve suda çözünen vitaminler olmak üzere iki temel grupta incelenir.
+a. Yağda çözünen vitaminler
+A vitamini

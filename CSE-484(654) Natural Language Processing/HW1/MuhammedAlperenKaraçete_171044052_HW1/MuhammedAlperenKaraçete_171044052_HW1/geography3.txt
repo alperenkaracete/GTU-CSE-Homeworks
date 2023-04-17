@@ -1,0 +1,427 @@
+Dünya'nın şeklinin geoid olmasının başlıca sonuçları şunlardır:
+Mars
+•
+Dünya üzerine çizilebilecek en büyük daire Ekvator’ dur.
+•
+Ekvator yarıçapı ile kutuplar yarıçapı aynı uzunlukta değildir.
+•
+Kutuplara doğru gidildikçe yer çekimi artar.
+Satürün
+Jüpiter
+Uranüs
+Görsel 1. 13 Güneş Sistemi
+33
+Neptün
+1.2.1.1 Dünyanın Şeklinin Sonuçları
+a. Güneş ışınların düşme açısı Ekvator’dan uzaklaştıkça küçülür.
+Buna göre ;
+✓ Sıcaklık ekvatordan kutuplara doğru azalır.
+✓ Tarım,yerleşme ve ormanın üst sınırı düşer.
+✓ Kalıcı kar sınırı Ekvator’dan uzaklaştıkça deniz seviyesine doğru yaklaşır.
+✓ Denizlerin tuzluluk oranı Ekvator’dan uzaklaştıkça
+azalır.
+✓ İklim ve bitki örtüsü kuşakları oluşur.
+✓ Cisimlerin gölge boyu Ekvator’dan uzaklaştıkça uzar.
+✓ Işınların Güneş’ten gelirken kat ettiği mesafe uzar. Atmosferdeki tutulma oranı
+artar.
+✓ Ekvator’da termik alçak basınç, kutuplarda termik yüksek basınç merkezleri oluşur.
+b. Paralel boyları kutuplara doğru kısalır.
+c. Meridyen yaylarının araları ekvatorda 111 km iken kutuplar doğru daralır.
+d. Dünya’nın çizgisel hızı ekvatordan uzaklaştıkça azalır.
+e. Dünya’nın yarısında gece yarısında gündüz yaşanır.
+f. Küresel olan Dünya, düzleme aktarılırken şekillerde bozulmalar yaşanır.
+g. Alacakaranlık süresi (grup ve tan) kutuplara doğru uzar
+h. Kutup yıldızının görünüm açısı Ekvator’a yaklaştıkça küçülür.
+K
+Aydınlanma Çemberi
+G
+Görsel 1.14 Dünya ve Güneş Işınları
+34
+1.2.2. Dünya'nın Hareketleri ve Sonuçları
+1.2.2.1 Dünya’nın Eksen Hareketi
+Dünya kendi ekseni etrafında dönerken iki kutup
+noktası arasında izafi bir eksen oluşur. Dünya bu eksen
+hareketini batıdan doğuya doğru yapar. Bir turu 24 saatte tamamlar. Buna bir gün denir.24 saat içinde güneşin
+ThisIsTestLineForAlgorithm
+ufuk düzlemindeki(Gökyüzü)hareketi de değişir. Güneşin doğduğu zamana sabah tam tepe noktasına dikildiği Görsel 1.15 Eksen Hareketi
+zamana öğle battığı zamana ise akşam vakti denir. Sabah
+ve akşam vakitlerinde güneş ışınlarının yere düşme açısı küçük iken öğle vaktinde ışınlar alabileceği en büyük açı ile yere düşer.
+Dünyamızın şeklinden dolayı yarısı aydınlık, yarısı karanlıkta kalır. Böylece
+gece-gündüz oluşur. Gece ile gündüzü birbirinden ayıran çizgiye aydınlanma
+çemberi denir. Aydınlanma çemberi eksenin yörünge ile yaptığı açıya bağlı olarak
+yeri değişir. Eksen hareketi ise gece ile gündüzün bir biri ardına sıralanmasını sağlar.
+Dün-yamızın kendi ekseni etrafındaki hızı iki şekilde ifade edilir:
+ThisIsTestLineForAlgorithm
+Açısal hız: Dünya küresel bir şekle sahiptir. Dolayısıyla dairesel bir cismin birim
+zamanda yola açıya açısal hız denir. Açısal hız enleme göre değişmez. 24 saatte
+yaptığı açısal hız 360°ye eşittir .
+Çizgisel hız: Cisimlerin birim zamanda aldığı yola çizgisel hız denir. Çizgisel hız
+sabit değildir. Bulunulan paralele göre değişir. Dünyanın en hızlı yol aldığı paralel Ekvator’ dur. Saatte 1670 km hız ile dönmektedir. Bu hız kutuplara doğru azalır. Kutuplarda 0 km'ye iner. Çizgisel hızın kutuplara doğru azalması atmosfer kalınlığını da etkilemiştir. Ekvator’da hızlı döndüğü için atmosferi dışa doğru iter ve kalınlığının fazla
+olmasına neden olur.
+Dünyanın günlük (eksen) hareketinden kaynaklanan başlıca sonuçları şu şekilde
+açıklayabiliriz.
+a. Gece gündüz ardı ardına sıralanır.
+ThisIsTestLineForAlgorithm
+b. Güneş ışınlarının gün içinde geliş açısı değişir. Bunun sonucunda;
+✓ Sıcaklıklar gün içinde değişir.
+✓ Kayaçlarda günlük sıcaklık farkından dolayı fiziksel ayrışma meydana gelir.
+35
+✓ Gün içinde ısınma soğumaya bağlı olarak basınç merkezleri yer değiştirir. Böylece meltem rüzgârları oluşur.
+✓ Cisimlerin gölge boyu gün içinde değişir.
+c. Yerel saat farkları meydana gelir.
+d. Eksen hareketi sonucunda merkezkaç kuvveti ortaya çıkar. Merkezkaç kuvveti
+de sürekli rüzgârların (alize,batı ve kutup )ve okyanus akıntılarının yönünde sapmalar
+oluşturur. Bu sapma kuzey yarım kürede sağa güney yarım kürede sola doğru olur.
+e. 30° ve 60° enlemlerinde dinamik nedenli basınç merkezleri oluşur.
+f. Dünyanın dönüş yönüne bağlı olarak ana yönleri belirlenir.
+ThisIsTestLineForAlgorithm
+g. Atmosfer kalınlığı Ekvator’dan uzaklaştıkça azalır. Güneş’ten gelen ışın demetleri
+Ekvator’a daha kısa mesafede ulaşırken kutuplara daha uzun bir mesafede ulaşır, yani
+katettiği mesafe artar. Mesafe arttıkça sıcaklık da düşer.
+Atmosfer
+n
+ThisIsTestLineForAlgorithm
+ları
+n
+ı
+Iş
+tiği
+t
+e
+t
+ka
+Yans
+ıyan
+ışın
+yol
+lar
+Görsel 1.16 Atmosfer Kalınlığı
+36
+1.2.2.2. Dünya' nın Yıllık Hareketleri ve Sonuçları
+Dünya'nın güneş etrafında yaptığı dolanıma yıllık hareket denir. Dünya, Güneş
+etrafındaki bir turunu 365 gün 6 saatte tamamlar. Bu dolanım elips şeklindeki yörüngenin etrafında olur ve güneş bu elipsin en sağ odak noktasında yer alır. Güneş
+ışınlarının yörüngede oluşturduğu düzleme ise ekliptik düzlem denir.Ekliptik düzlem
+ile yer ekseni arasında 23°27' açı oluşur. Bu açıya eksen eğiklik açısı denir. Eksen eğiklik açısı mevsimlerin oluşmasında esas nedendir. Mevsimlerin oluşması gece-gündüz
+sürelerinin yıl içinde değişmesine neden olur. Yaz mevsiminde gündüzler uzun geceler
+kısa olurken kışın geceler uzun, gündüzler kısa olur.
+21 Mart
+)
+21 Haziran
+3O
+c
+eri
+ünb
+G
+(
+ak
+21 Aralık
+te)
+ünö
+G
+(
+uz
+emm
+ThisIsTestLineForAlgorithm
+T
+4
+-
+3
+23 Eylül
+Şekil1.1 Yörünge Düzlemi
+Dünya’nın yörüngesinin elips şeklinde olmasının sonuçları şu şekildedir.
+a. Dünyanın elips şeklindeki yörünge etrafında dolanırken güneşe hep aynı uzaklıkta kalmaz. Bazı tarihlerde çok yaklaşır bazı tarihlerde ise uzaklaşır.Dünya’nın güneşe en çok yaklaştığı tarih 3 Ocak (günberi yada perihel);en çok uzaklaştığı 3-4 Temmuz(günöte ya da aphel) günüdür.
+b. Güneş’in Dünya üzerindeki çekim etkisi değişir. Bu durumun sonucu olarak
+37
+Dünya’nın yıllık hareket esnasında hızı da değişir. Bunun sonucunda:
+✓ Temmuz ve Ağustos ayları 31 gün sürer.
+✓ Şubat ayı 28 gün sürer.
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+✓ Eylül ekinoksu iki gün gecikir.
+✓ Kuzey yarım kürede yaz mevsimi Güney yarım kürede kış mevsimi uzun sürer.
+Dünya'nın ekseni yörünge düzlemine 23° 27' eğiktir. Eksen eğikliğinin ve yıllık hareketin sonuçları aşağıdaki gibi sıralanır.
+Güneş
+K
+Yaz
+Kış
+Ekvator
+G
+ThisIsTestLineForAlgorithm
+Görsel 1.17 Eksen Eğikliği
+a. Güneş ışınlarının geliş açısı yıl boyunca değişir. Bunun sonucunda;
+✓ Yıllık sıcaklık farkları oluşur.
+✓ Cisimlerin gölge boyu yıl içinde değişir.
+✓ Mevsimlere bağlı basınç farkları görülür.Bu durum Muson rüzgârları oluşturur.
+b. Mevsimler oluşur.
+ThisIsTestLineForAlgorithm
+c. Farklı yarım kürelerde aynı anda farklı mevsimler yaşanır. Örneğin ocak ayında
+Kuzey yarım küre kışı yaşarken Güney yarım kürede yaza mevsimi yaşanır.
+d. Yıl içinde gece - gündüz süresi uzayıp kısalır. Ekvator’dan uzaklaştıkça gece gündüz süreleri arasındaki fark artar. Kutup dairelerinde ise gece ve gündüz süreleri
+24 saati bulur.
+e. Güneşin her gün doğup battığı yer ile doğma batma zamanları değişir.
+38
+rU
+za
+ThisIsTestLineForAlgorithm
+r
+Gü
+nd
+üz
+le
+Gü
+nd
+üz
+le
+sa
+Kı
+lır
+23 EYLÜL
+lır
+sa
+Kı
+ler
+üz
+nd
+ThisIsTestLineForAlgorithm
+Gü
+ler
+Ekvator
+21 MART
+21 HAZİRAN
+23º 27ºYengeçDönencesi
+ThisIsTestLineForAlgorithm
+üz
+nd
+ThisIsTestLineForAlgorithm
+Gü
+rU
+za
+ThisIsTestLineForAlgorithm
+r
+21 HAZİRAN
+21 MART
+23º 27ºOğlak Dönencesi
+21 ARALIK
+Mevsimler ve Yıllık sıcaklık farkları oluşur
+Gece-Gündüz uzunlukları değişir.
+Şekil 1.2 Gece-Gündüz Süresi Değişimi
+ThisIsTestLineForAlgorithm
+f. Işınların geliş açısı değişir.Işınların geliş açısına bağlı olarak dönenceler, kutup
+daireleri ve matematik iklim kuşakları oluşur. Işınlar yılda iki kez Ekvator’a birer kez
+de dönencelere dik gelir. Dönenceler dışında kalan yerlere hiçbir zaman 90°'lik açı ile
+gelmez.
+Mevsimlerin başlangıç tarihleri eksen eğikliğine bağlı olarak değişir. Buna göre;
+21 Haziran durumu(Gündönümü)
+ın
+Ayd
+ber
+Çem
+a
+lanm
+i
+KKN
+KKD
+Y.D
+ThisIsTestLineForAlgorithm
+.
+E
+O.D
+GKN
+GKD
+KKN: Kuzey kutup noktası
+KKD: Kuzey kutup dairesi
+GKD: Güney kutup dairesi
+GKN: Güney kutup noktası
+ThisIsTestLineForAlgorithm
+O.D: Oğlak dönencesi
+ThisIsTestLineForAlgorithm
+Y.D: Yengeç dönencesi
+E: Ekvator
+Görsel 1.18 Yaz Gündönümü
+✓ Güneş ışınları 21 Haziran tarihinde Yengeç Dönencesi’ ne dik gelir. Yengeç Dönencesi’ nin geçtiği yerlerde cisimlerinin gölge boyu 0 m dir.
+✓ Bu tarihte Yengeç Dönencesine düşen güneş ışınlarının atmosferden geçerken
+39
+uğradığı tutulma oranı en azdır.
+✓ Kuzey yarım küre de yaz güney yarım kürede kış mevsimi başlar.
+✓ KYK’de en uzun gündüz GYK en uzun gece yaşanır. Kuzeye doğru gittikçe gündüzler, güneye indikçe geceler uzar
+✓ Aydınlanma çemberi kutup dairelerine teğet geçer. Kuzey kutup dairesinde 24
+saat süren gündüzler yaşanır.
+Örnek soru:
+Aşağıdakilerden hangisi eksen eğikliğinin sonuçları arasında gösterilemez?
+A) Gece ve gündüzün oluşması
+B) Yıl içinde cisimlerin gölge boyunun değişmesi
+C) Yıl içinde gündüz süresinin uzayıp kısalması
+D) Aynı anda KYK de yaz yaşanırken GYK kış yaşanması
+Cevap: A
+21 Aralık Durumu(Gündönümü)
+i
+KKN
+KKD
+Y.D
+.
+ın
+Ayd
+ber
+Çem
+a
+lanm
+O.D
+GKN
+E
+GKD
+Görsel 1.19 Kış Gündönümü
+✓ Güneş ışınları 21 Aralık tarihinde Oğlak Dönencesi’ ne dik gelir. Oğlak Dönencesi’ nin geçtiği yerlerde cisimlerinin gölge boyu öğle vakti 0 m’ dir.
+✓ Bu tarihte Oğlak Dönencesine düşen güneş ışınlarının atmosferden geçerken uğradığı tutulma oranı en azdır.
+✓ Kuzey yarım küre de kış, Güney yarım küre de yaz mevsimi başlar.
+40
+✓ KYK 'de en uzun gece, GYK'de en uzun gündüz yaşanır. Kuzeye doğru gittikçe
+geceler, güneye indikçe gündüzler uzar.
+✓ Aydınlanma çemberi kutup dairelerine teğet geçer. Kuzey Kutup dairesinde 24
+saat süren geceler Güney Kutup dairesinde ise 24 saat süren gündüzler başlar.
+ThisIsTestLineForAlgorithm
+21 Mart-23 Eylül Durumu(Ekinoks)
+KKN
+Y.D
+EKVATOR
+.
+ThisIsTestLineForAlgorithm
+O.D
+GKN
+Görsel 1.20 Ekinoks Durumu
+✓ Güneş ışınları Ekvator’a dik gelir. Bütün dünyada gece-gündüz eşitliği yaşanır. Bu
+duruma ekinoks denir.
+✓ Aynı meridyen üzerindeki bütün noktalarda güneş aynı anda doğar aynı anda
+batar.
+✓ 21 Mart tarihi KYK de ilkbaharın GYK de sonbaharın başladığı tarihtir.
+✓ 23 Eylül tarihi KYK de sonbaharı GYK de ise ilkbaharın başladığı tarihtir.
+✓ 21Mart tarihinden sonra KYK güneş ışınları daha dik açılarla gelmeye başlar.
+ThisIsTestLineForAlgorithm
+✓ 23 Eylül tarihinden sonra GYK ışınlar daha dik açılarla gelir.
+✓ Aydınlanma çemberi kutup noktalarından geçer.
+Bilgi Kutusu
+Ekinoks günlerinde kutup dairelerinde bir günlük gece gündüz eşitliği
+yaşanır. Ekinoks gece gündüz eşitliği demektir. 21.Mart ve 23 Eylül tarihlerinde yaşanan bu olay kutup dairelerinde bir gün aydınlık ve bir gün karanlık olarak kendisini gösterir. Gece süresi ile gündüz süresi birbirine eşittir.
+41
+1. Uygulama
+Aşağıda verilen olayların ve durumların gerçekleştiği tarihleri karşılarına işaretleyiniz.
+21
+21
+21
+23
+Aralık
+Mart Haziran
+Eylül
+✓
+1. Güneş ışınları Ekvator’a dik gelir.
+✓
+2. Kuzeye doğru gittikçe geceler uzar.
+3. Güney Kutup dairesinde 24 saat süren
+gündüz başlar.
+4. Güney yarım kürede ilkbahar başlangıcıdır.
+5. Güneş ışınları Oğlak Dönencesi’ne dik
+gelir.
+ThisIsTestLineForAlgorithm
+6. Kuzey yarım küre için yaz gündönümüdür.
+7. Türkiye’de en uzun gündüzün yaşandığı
+tarihtir.
+8. Arjantin’de en uzun gecenin yaşandığı
+tarihtir.
+9. Kutup dairelerinde bir günlük gece-gündüz eşitliği yaşanır.
+10. Bütün dünya da ekinoksun yaşandığı
+tarihtir.
+11. Aynı meridyen üzerindeki bütün noktalarda güneş aynı anda doğar.
+12.Yengeç dönencesine ışınların dik geldiği tarihtir.
+13.Güneyedoğru gidildikçe gündüz süresi
+uzamaya başlar.
+42
+1.2.3 İklim Kuşakları
+1.2.3.1 Matematik İklim Kuşakları
+Dünya’nın şekline ve eksen eğikliğine bağlı olarak ortaya çıkan kuşaklardır. Ekvator
+ve çevresi tropikal kuşağı,kutup dairesi ve dönenceler arası, orta kuşağı; kutup
+dairesi ve kutup noktaları arası ise kutup kuşağını oluşturur. Matematiksel iklim
+kuşaklarının oluşumunda güneş ışınlarının geliş açısı belirleyicidir. Güneş ışınlarının
+dönenceler arasına dik gelirken dönenceler dışına asla dik gelmez. Bundan ötürü
+dönenceler arası yıllık sıcaklık farkları yüksektir. Kutup daireleri ile kutup noktaları
+arasına güneş ışınları en küçük açılarla düşer. Güneş ışığının açısı daraldıkça sıcaklık
+azalır.
+90°
+K.K.D
+Kutup kuşağı
+66°33´
+Orta kuşak
+Y.D
+Tropikal
+kuşak
+O.D
+Orta kuşak
+G.K.D
+Kutup kuşağı
+23°27´
+0° Ekvator
+23°27´
+ThisIsTestLineForAlgorithm
+66°33´
+90°
+Şekil 1. 3 Matematik iklim kuşakları
+Bilgi Kutusu
+Matematik iklim kuşaklarının sınırı her iki yarım kürede de eşittir. Bunun
+tek nedeni eksen eğikliğidir.
+1.2.3.2 Sıcaklık Kuşakları
+Sıcaklık kuşaklarının ortaya çıkması Dünya’ nın şeklinin küre olmasının yanı sıra
+kara ve denizlerin dağılışı,okyanus akıntıları ve atmosferdeki hava kütlelerinin genel
+dolaşımı etkiler. 30° Kuzey paraleli ile 27° Güney paraleli arasına sıcak kuşak denir.
+Ilıman kuşağın Kuzey yarım kürede sınırı 30°kuzey paraleli ile 68° kuzey paraleli arasında iken Güney yarım kürede 27°güney paraleli ile 48° güney paraleli arasındadır.
+Soğuk kuşak Kuzey yarım kürede 68° Kuzey ile 90° kuzey kutup noktası arasında yer
+alır. Güney yarım kürede 48° güney ile 90° kutup arasında yer alır.
+43
+90°
+Soğuk kuşak
+K.K.D
+Ilıman kuşak
+Y.D
+68°30
+30°30´
+Sıcak
+O.D
+0° Ekvator
+kuşak
+G.K.D
+Ilıman kuşak
+Soğuk kuşak
+27°
+ThisIsTestLineForAlgorithm
+48°
+90°
+Şekil 1.4 Sıcaklık Kuşakları
+Bilgi Kutusu
+Her iki yarım kürede sıcaklık kuşakları aynı paralelden geçmez. Bunun sebebi
+Kuzey yarım kürede karaların oranı Güney yarım küreden daha fazladır. Karalar
+çabuk ısınıp soğuduğu için sıcaklığın sınırında dalgalamalara sebep olur. Bu sebeple sıcak kuşağın sınırı Kuzey yarım küre de daha üst enlemlere tırmanır.
+2. Uygulama
+Aşağıda boş bırakılan yerleri uygun ifadelerle tamamlayınız.
+1. Türkiye’de ………..…………en uzun gündüzün yaşandığı tarihtir.
+2. 21 Mart-23 Eylül tarihleri arasında bütün dünyada gece gündüz eşitliğinin yaşanmasına ………………………..denir.
+3. 21 Mart’ta kuzey yarım kürede……………………………….başlar.
+4. Güney yarım kürede ilkbahar mevsimi ………………ayında başlar.
+5. İki kutup noktasından geçtiği varsayılan çizgiye ……………………….denir.
+44
+ThisIsTestLineForAlgorithm
+6. Dünya ekseninin………………………… eğik olması mevsimlerin oluşmasına
+neden olur.
+7. Dönenceler ile kutup daireleri arasında kalan yere……………………..denir.
+8. Dünyamız kendi ekseni etrafındaki hızı …………….. hız ve …………………
+ThisIsTestLineForAlgorithm
+olarak ifade edilir.
+9. Gece ile gündüzü birbirinden ayıran çizgiye ………………………………………..
+denir.
+10. Dünyamızın kendi ekseni etrafındaki dönüş hızı…………………
+…………………..azdır.
+fazla
+11. 24 saatlik gece ve gündüz süresinin yaşandığı yere ………………………denir.
+12. Dünya’nın güneş etrafında izlediği yola …………………denir.
+13. 180º meridyeni aynı zamanda …………………. ……………………..çizgisidir.
+14. Kuzey yarım kürede gündüzler ………………… tarihinden itibaren uzamaya
+başlar.
+15. Kuzey yarım kürede en uzun gündüz …………….………dır.
+16. Güneş ışınları 21 Haziran’da …… ………………dönencesine dik gelir.
+17. Başlangıç meridyeninin sağ tarafına ……………………………… küre denir.

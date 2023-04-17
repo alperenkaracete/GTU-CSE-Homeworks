@@ -1,0 +1,424 @@
+Na
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+Element Adı
+Hidrojen
+19
+Helyum
+20
+Lityum
+24
+Berilyum
+25
+Bor
+26
+Karbon
+27
+Azot
+28
+Oksijen
+29
+Flor
+30
+Neon
+ThisIsTestLineForAlgorithm
+35
+Sodyum
+47
+Magnezyum
+ThisIsTestLineForAlgorithm
+50
+Alüminyum
+53
+Silisyum
+56
+Fosfor
+78
+Kükürt
+79
+ThisIsTestLineForAlgorithm
+Klor
+ThisIsTestLineForAlgorithm
+80
+Argon
+82
+Tablo 1.2 Element adları ve sembolleri
+28
+Atom No
+Sembol
+K
+Ca
+Cr
+Mn
+Fe
+Co
+Ni
+Cu
+Zn
+Br
+Ag
+Sn
+I
+Ba
+Pt
+Au
+Hg
+Pb
+Element Adı
+Potasyum
+Kalsiyum
+Krom
+Mangan
+Demir
+ThisIsTestLineForAlgorithm
+Kobalt
+Nikel
+Bakır
+Çinko
+ThisIsTestLineForAlgorithm
+Brom
+Gümüş
+Kalay
+İyot
+Baryum
+Platin
+Altın
+Cıva
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Kurşun
+1.Ünite Kimya Bilimi
+YAYGIN KULLANILAN BİLEŞİKLER VE FORMÜLLERİ
+Maddelerin çoğu doğada element hâlinde bulunmaz. Bilinen maddeler daha
+ThisIsTestLineForAlgorithm
+çok farklı elementlerin belirli oranlarda bir araya gelmiş birleşimi hâlindedir.
+Örneğin karbon dioksit (CO2), karbon ve oksijen elementlerinden oluşurken, su (H2O) hidrojen ve oksijen elementlerinden oluşmaktadır. Bu maddeler
+kendini oluşturan elementlerden bambaşka özellikler kazanırlar. Oksijen yakıcı, hidrojen yanıcıdır. Oluşturdukları bileşik olan su ise kendini oluşturan
+elementlerden çok farklı özellikler içerir.
+Örneklerde görüleceği üzere en az iki ya da daha çok farklı tür elementin
+kimyasal olarak birleşmesiyle oluşan ve kendini oluşturan elementlerden
+belirgin biçimde farklı fiziksel ve kimyasal özelliklere sahip maddelere bileşik
+adı verilir. Bileşikler de elementler gibi saf maddelerdir.
+Günümüzde bilinen milyonlarca bileşiği daha kolay ifade etmek için d e
+çeşitli semboller kullanılır. Bileşiğin, kendisini oluşturan elementlerin
+sembolleri ve sayıları kullanılarak gösterimine formül denir. Bileşik formülü
+yazılırken;
+• Bileşiği oluşturan her elementin sembolü yazılır. Element sembolünün
+sağına da element atomunun sayısı alt indis olarak yazılır.
+• Bileşikteki element atomunun sayısı bir ise bu sayı formülde yer almaz.
+Aşağıda karbon dioksit bileşiğinin formülü yani bileşiği oluşturan
+elementlerin sembolleri ve formüldeki sayıları yer almaktadır:
+Karbon
+Sembolü
+Oksijen
+Sembolü
+CO2
+1 Karbon
+Atomu
+2 Oksijen
+Atomu
+29
+Kimya 1
+Aşağıdaki tabloda bazı bileşiklerin formülleri ve yaygın adları yer almaktadır.
+Formül
+Yaygın adı
+Formül
+Yaygın adı
+H 2O
+Su
+NaHCO3
+ThisIsTestLineForAlgorithm
+Yemek sodası
+HCl
+Tuz ruhu
+NaOH
+Sud kostik
+H2SO4
+Zaç yağı
+KOH
+Potas kostik
+HNO3
+Kezzap
+CaCO3
+Kireç taşı
+CH3COOH
+Sirke asidi
+CaO
+Sönmemiş kireç
+NH3
+Amonyak
+Ca(OH)2
+ThisIsTestLineForAlgorithm
+Sönmüş kireç
+NaCl
+Yemek tuzu
+Tablo1.3 Bazı bileşiklerin formülleri ve yaygın adları
+2. Uygulama Aşağıda verilen element/bileşiklerin adlarını yazınız.
+a) Cl
+b) CaO
+c) Cu
+ç) HCl		
+Çözüm a) Klor
+ç) Tuz ruhu
+b) Sönmemiş kireç
+d) Kurşun
+d) Pb
+c) Bakır
+3. Uygulama Aşağıda adları verilen element/bileşiklerin formüllerini yazınız.
+a) Karbon
+b) Zaç yağı
+c) Cıva
+ç) Sud kostik
+d) Helyum
+Çözüm a) C
+ç) NaOH
+30
+b) H2SO4
+d) He
+c) Hg
+1.Ünite Kimya Bilimi
+1.4. KİMYA UYGULAMALARINDA İŞ SAĞLIĞI VE GÜVENLİĞİ
+KIMYASAL MADDELERIN İNSAN SAĞLIĞI VE ÇEVREYE ETKILERI
+Bir önceki konuda bazı element ve bileşikleri adları, sembolleri ve
+formülleriyle tanıdık. Bu ve benzeri birçok kimyasal madde, insan sağlığı ve
+çevre üzerinde oldukça önemli etkiye sahiptir.
+ThisIsTestLineForAlgorithm
+İnsan sağlığı ve çevre için önemli olan bazı maddeleri yakından tanıyalım:
+Sodyum (Na)
+Deniz suyu, tuz gölü, kaya tuzu vb. maddelerin yapısında bulunan parlak, beyaz renkli yumuşak bir elementtir. Tepkimeye girme isteği oldukça fazladır.
+Sodyumun pek çok önemli bileşiği vardır. Bunlardan bazıları;
+• Sofra tuzu,
+Görsel 1.32
+Sodyum
+• Sağlık ve gıda alanında kullanılan kabartma tozu,
+• Cam, kâğıt ve petrol endüstrisinde kullanılan soda,
+• Sabun yapımında, kâğıt, tekstil, bitkisel yağların saflaştırılmasında ve petrol
+sanayiinde kullanılan sud kostiktir.
+Sodyum elementi vücuttaki su dengesinin korunmasında, kas ve sinir fonksiyonlarının sağlıklı bir şekilde çalışmasında etkilidir. Ayrıca besinlerin hücre duvarından geçişini sağlar. Endüstride ise diğer metallerin bileşiklerinden saf olarak
+elde edilmesinde kullanılır.
+Potasyum (K)
+Oda sıcaklığında yumuşak, düşük sıcaklıklarda sert ve
+kırılgan bir elementtir. Deniz suyunda ve birçok mineralin
+yapısında yaygın olarak bulunur. Potasyum da sodyum gibi
+diğer metallerin, bileşiklerinden saf olarak elde edilmesinde kullanılır.
+Görsel 1.33
+Potasyum
+ThisIsTestLineForAlgorithm
+31
+Kimya 1
+Yaşayan her hücrenin yapısında bulunur. Sinir iletişimi için sodyum gibi
+çok önemlidir. Aynı zamanda bitkiler için de vazgeçilmez bir elementtir. Bu
+nedenle endüstride üretilen potasyumun bileşiklerinin çoğu gübre olarak
+kullanılır. Diğer bir önemli bileşiği de potas kostiktir (KOH) ve genel olarak
+ThisIsTestLineForAlgorithm
+temizleyicilerin üretiminde (Arap sabunu vb.) ve nötralleşme tepkimelerinde
+kullanılır.
+Potasyum minerali sodyumla birlikte vücuttaki su ve mineral dengesinin
+korunmasına yardımcı olur. Sinir sistemindeki mesajların iletilmesi ve düzenli
+kalp ritmi için gereklidir. Beyne oksijen gitmesinde ve hücreler arası besinlerin taşınmasında önemli rol oynar. Görevlerinden biri de hipertansiyonu önlemektir.
+ThisIsTestLineForAlgorithm
+Demir (Fe)
+Görsel 1.34
+Demir
+Saf demir parlak, mavimtırak esmer renkte bir element olup,
+doğada daha çok diğer elementlerle oluşturduğu bileşikleri hâlinde bulunur. Yer kabuğunda oldukça yüksek oranda demir metali
+bulunmasından dolayı dünyanın manyetik alanına etki ettiği düşünülmektedir.
+Uygarlığın ilerlemesinde, endüstrinin gelişmesinde demirin büyük katkıları vardır. Mutfağımızdaki birçok araç gereçten, ameliyatlarda kullanılan aletlere,
+fabrikalardaki makinelere, otomotiv ve inşaat sektöründe kullanılan malzemeye,
+tren ve raylara, gemilere kadar birçok alanda demir kullanılmaktadır.
+Demir birçok konuda önemli bir hammadde iken, insan ve hayvanların sağlığı için de önemli bir mineraldir. Demir vücudumuzda, kanda oksijeni taşıyan,
+kırmızı kan hücrelerinde bulunan hemoglobin üretimi için kullanılır. Eğer vücudumuzda yeterli demir minerali yoksa daha az kırmızı kan hücresi üretilir, dolayısıyla hemoglobin miktarı azalır. Hemoglobinin azalmasıyla birlikte organlar ve
+dokular için hayati önemi bulunan oksijen miktarı azalır. Bunun sonucu olarak
+demir eksikliği anemisi oluşur.
+Kalsiyum (Ca)
+Sarımtırak beyaz renkte, doğada bileşikleri hâlinde bulunan bir elementtir. Bileşikleri tıpta, hummaya karşı ilaç olarak kullanılır. Elektrolitik pillerde, kâğıt endüstrisinde, çimento yapımında, yüzeylerin kaplanmasında, suyun yumuşatılması
+işlemlerinde ve çelik üretiminde kullanılır.
+32
+1.Ünite Kimya Bilimi
+Canlıların kemik ve dişlerinde, yumurta kabuklarında bulunur. Kanın pıhtılaşmasına, hücre içi uyarıların iletilmesine, kalp atışlarının düzenlenmesine
+ve sinir sisteminin onarılmasına yardımcı olur. Ayrıca kandaki magnezyum,
+fosfor ve potasyum seviyesini kontrol etmek için de kalsiyum kullanılır.
+Kalsiyum eksikliğinde, başta kemiklerin ve dişlerin zayıflaması sonucu raşitizm, kemik erimesi ve diş çürümesi
+gibi sorunlar ortaya çıkar. Fazla kalsiyum alınması ise böbrek taşı, kemiklerde kireçlenme gibi sağlık sorunlarına neden olur. Kalsiyum bileşiği olan kireç taşı uygulaması son
+yüzyılda çoğu tarım topraklarında verimliliğin sürdürülmesinde önemli ve bilinen bir uygulamadır.
+Magnezyum (Mg)
+Görsel 1.35
+Kalsiyum
+Yakılınca parlak bir alev vererek yanan, kolayca dövülebilen, çok hafif, gümüş renginde bir elementtir. Diğer metallerin saf olarak elde edilmesinde, fotoğraf makinelerinde, yangın bombalarında, işaret fişeklerinde oldukça fazla
+kullanılmaktadır. Alaşımları uçak ve füze imalatında tercih
+edilir.
+Vücutta gerçekleşen metabolik işlevlerde, DNA sentezinde kullanılan bir elementtir. Başta kemikler olmak
+üzere, kalp ve beyinde yoğun miktarda magnezyum bulunmaktadır. Sinir sistemindeki aşırı duyarlılığı azaltan,
+insanların sakinleşmesine yardımcı olan magnezyum anti-stres minerali olarak tanımlanır. Kandaki şekerin enerjiye dönüşmesine yardımcı olur. Vücuttaki enzimleri harekete geçirir. Fosfor, C vitamini, potasyum ve kalsiyum gibi
+maddelerin vücudumuzda etkin bir şekilde kullanılmasına
+yardımcı olur.
+Görsel 1.36
+Magnezyum
+Su (H2O)
+Dünyanın fiziksel ve iklimsel durumuna etki eden, birçok canlı yaşamı
+için toprak, hava ve enerji (ısı ve ışık vb.) gibi gerekli olan bir bileşiktir. Su
+aynı zamanda iyi bir çözücüdür.
+Birçok maddenin yeryüzünde dolaşımını ve canlılar tarafından kullanılmasını sağlar. Bu özelliği iyi bir temizleyici olmasının da nedenidir.
+33
+Kimya 1
+Görsel 1.37
+Dünyamız ve su
+Su, sağlık için gerekli besin maddesidir. Ter, gözyaşı, solunum
+ve idrar vb. birçok maddenin büyük bir çoğunluğunu su
+oluşturur. Vücudumuzdaki kimyasal tepkimeler su sayesinde
+gerçekleşir. Bu bakımdan canlılığın var olması için su çok önemli
+bir yere sahiptir.
+Yukarıda belirtilen element ve bileşiklerin hayatımız için ne kadar
+önemli olduğunu fark ettik. Ancak bazı element ve bileşiklerin de
+hayatımız üzerine olumsuz etkileri vardır.
+İNSAN SAĞLIĞI VE ÇEVRE ÜZERİNE
+ETKİLERİ OLAN BAZI MADDELER
+ZARARLI
+ThisIsTestLineForAlgorithm
+Cıva (Hg)
+Görsel 1.38 Cıva
+Parlak, gümüş beyazı renginde, oda sıcaklığında sıvı hâlde bulunan, renksiz ve kokusuz yoğun bir elementtir. Buharı ve bileşikleri
+zehirlidir. Termometre haznesinde altın, gümüş, platin gibi değerli madenleri filizinden ayırmada, cıva buhar lambalarında, diş
+ThisIsTestLineForAlgorithm
+dolgularında (malgama) ve pil yapımında yaygın olarak kullanılır.
+Cıva sindirim, solunum ve deri yoluyla vücuda alınır; beyin,
+karaciğer ve böbreklerde birikir. Vücuttan atılamaz. Kazayla cıvanın dağılmasında, cıvanın bulunduğu zemin kükürt tozu serpilerek
+dikkatlice silinmeli, cıvanın çok az miktarının bile zararlı olduğu
+ThisIsTestLineForAlgorithm
+unutulmamalıdır.
+Kurşun (Pb)
+ThisIsTestLineForAlgorithm
+Görsel 1.39 Kurşun
+ThisIsTestLineForAlgorithm
+34
+Gümüşe benzer beyaz ya da grimsi renkli, yumuşak, kolay dövülüp şekil verilebilen ağır bir metaldir. Çözünebilen kurşun bileşikleri zehirlidir. Kurşunun ses ve radyasyon geçirgenliği oldukça
+azdır. Kötü bir ısı ve elektrik iletkenidir. Üzerinde oluşan ince bir
+koruyucu tabaka nedeniyle dış tesirlere (korozyona) dayanıklıdır.
+1.Ünite Kimya Bilimi
+Bu nedenlerle geçmişte olduğu gibi günümüzde de birçok kullanım alanı
+bulunmaktadır. Su, elektrik ve radyasyon yalıtımında, otomobil akülerinde,
+mühimmatlar ve alaşımlarda (örneğin lehim), benzin katkı maddesi olarak,
+matbaa harflerinde, kimyasal maddeler ve boyalarda yaygın olarak kullanılır.
+İçme suları, deniz ürünleri ve solunum ile vücuda giren kurşun, insanlar ve
+hayvanlar için oldukça zehirlidir. Fazla miktarları ölüme neden olur. Yakın zamanda benzin kurşun katkı maddesi üretiminde çalışan işçiler ile Afrika’ da pil
+toplama bölgelerinde çalışan çocukların kurşun zehirlenmesi sonucu öldükleri
+bilinmektedir.
+Karbon dioksit (CO2)
+Renksiz ve kokusuz bir gazdır. Solunum ürünü olan karbon
+dioksit, bitkiler tarafından besin maddesine dönüştürülerek
+kullanılır. Ayrıca yangın söndürücülerde ve katı hâlde (kuru buz)
+soğutma amacıyla kullanılır. Karbon dioksit miktarı vücudumuz
+için de önemlidir. Kanda, belirli miktarlarda bulunmalıdır. Zehirli
+ThisIsTestLineForAlgorithm
+değildir, insan vücuduna zarar vermez ancak bulunduğumuz
+ortamda miktarı fazla olduğunda kanımızdaki miktarı da artar. Bu
+durumda yorgunluk, hâlsizlik, bilinç kaybı gibi çeşitli problemler
+Görsel 1.40
+yaşanabilir.
+Yangın söndürme
+Isınma için kullanılan yakıtlar, motorlu taşıtlar, bitkiler en büyük
+tüpü
+kaynaklarıdır. Günümüzde sanayileşme ve nüfus artışı sonrası
+üretilen fazla miktardaki karbon dioksit küresel ısınma ve diğer
+iklim olaylarına neden olmaktadır.
+Azot dioksit (NO2)
+Zehirli bir gazdır, öksürüğe yol açan keskin
+bir kokusu vardır. Azot dioksidin en büyük kaynağı volkanlar, bataklıklarda ve denizlerde meydana gelen oksijensiz çürümeler ile kontrolsüz
+kullanılan gübrelerdir (amonyak içeren). Bunun
+yanı sıra kömür vb. fosil yakıtların yanması sonucu ortaya çıkmaktadır. Yağmur damlaları ile
+birleştiğinde nitrik asidi (HNO3) oluşturarak
+asit yağmurlarına sebep olur. Bilindiği gibi asit
+yağmurları ekolojik dengeye olumsuz etki etmektedir.
+Görsel 1.41 Azot dioksit gazı
+ThisIsTestLineForAlgorithm
+35
+Kimya 1
+Kükürt trioksit (SO3)
+Görsel 1.42 Bacalardan çıkan
+ThisIsTestLineForAlgorithm
+kükürt oksitleri ve diğer gazlar
+Zehirli bir gazdır. Kükürt trioksitin en büyük
+kaynağı volkanlar, sanayide bacalardan çıkan gazlar,
+yanardağdan püsküren gazlar ve ısınma amaçlı yakılan yakıtlardır. Solunum yoluyla alındığında,
+solunum yollarını tahriş eder, bronşit, astım,
+kanser gibi hastalıklara neden olur.
+ThisIsTestLineForAlgorithm
+Kükürt trioksit gazı bulutlardaki su damlacıkları
+içinde çözünerek sülfürik asiti oluşturur ve asit yağmurlarına sebep olur.
+Karbon monoksit (CO)
+Renksiz ve kokusuz zehirli bir gazdır. Tahriş etme
+özelliği de olmadığından hissedilmeden etki eder.
+Motorlu taşıtların egzoz gazı ve ısıtma için
+kullandığımız yakıtlardan salınan gazlar karbon
+monoksit gazının önemli kaynaklarıdır. Sigara da
+karbon monoksit kaynağıdır.
+Görsel 1.43 Soba kullanımı
+ve karbon monoksit oluşumu
+Karbon monoksitin kanda oksijen taşıyan hemoglobine (Hb) bağlanma oranı oksijenden 200 kat daha
+hızlıdır. Bu durumda oksijen hemoglobine bağlanamaz ve dokulara yeterince oksijen taşınmaz. Baş ağrısı,
+yorgunluk, nefes darlığı, mide bulantısı ve baş dönmesi karbon monoksit zehirlenmesinin ilk belirtileridir.
+Sonrasında sersemlik, kusma, bilinç kaybı, kas koordinasyon kaybı görülür. Kalp ve beyin zarar görür. Takip
+eden süreçte koma ve ölümle sonuçlanır.
+Klor gazı (Cl2)
+Görsel 1.44 Klor gazı
+36
+Keskin kokulu, sarımsı yeşil renkli zehirli bir gazdır.
+Vücuda girdiğinde ağızda yanma, boğazda şişme, göğüste yanma ve sıkışma hissi olabilir. Kalıcı hasarlar verebilir. Fazla miktarda solunduğunda, akciğer ödemine
+sebep olur ve birkaç dakika içinde ölümle sonuçlanır.
+1.Ünite Kimya Bilimi
+Suyla (vücut nemi ile) temas ettiğinde hidroklorik asit oluşturur. Oluşan
+hidroklorik asit de vücutta tahrişlere sebep olur. Bununla birlikte klor ve bileşikleri kent içme sularının dezenfekte edilmesinde mikrop öldürücü olarak
+kullanılır. Kimya sektöründe birçok yapay maddenin üretilmesinde de klor
+elementinden yararlanılır.
+Evlerde temizlikte çamaşır suyu ile özellikle tuz ruhu birlikte kullanıldığında klor gazı oluşur. Bu nedenle zehirlenmelerden kaçınmak için evde
+kullanılan temizlik malzemeleri birbirine karıştırılmamalıdır.
+4. Uygulama Aşağıdaki maddelerden hangilerinin insan sağlığına zararlı etkileri vardır?
+a) Cıva
+b) Kalsiyum
+c) Kükürt trioksit
+ç) Kurşun d) Karbon monoksit e) Demir
+Çözüm
+Cıva, Kükürt trioksit, Kurşun, Karbon monoksit
+5. Uygulama Aşağıdaki maddelerin insan sağlığı için önemine birer özellik yazınız.
+a) Sodyum
+b) Demir
+c) Kalsiyum
+Çözüm a) Sodyum: Sofra tuzunun yapısında bulunur.
+b) Demir: Kanda oksijeni taşıyan hemoglobinin üretiminde görev alır.
+c) Kalsiyum: Kemik ve dişlerin yapısında bulunur.
+KİMYADA KULLANILAN SAĞLIK VE GÜVENLİK AMAÇLI TEMEL
+UYARI İŞARETLERİ
+Kimyasallar üretim, taşıma ve kullanım gibi birçok farklı adımda insan
+sağlığı ve çevre için gerçek bir tehlike oluşturmaktadır. Çocuklardan yaşlılara,
+okuma yazma bilmeyenlerden farklı dil ve alfabe kullananlara kadar her yaştaki
+insanlar, günlük olarak tehlikeli ürünler (kimyasallar, zirai ilaçlar, vb.) ile karşı
+karşıya kalabilmektedirler. Bu tür tehlikelerle ilgili toplumu bilgilendirmek
+ve uyarmak amacıyla kimyasalların kutu veya ambalajlarına uyarı işaretleri
+konulmaktadır. Sonraki sayfadaki tabloda güvenlik işaretlerine ve bu işaretlerin
+anlamlarına yer verilmiştir.
+37
+Kimya 1
+Temel Uyarı İşaretleri
+Anlamı
+Etkileri ve Önlemler
+Patlayıcı Madde
+Kıvılcım, ısınma, alev, vurma,
+Ateş, kıvılcım ve ısıdan uzak
+çarpma ve sürtünmeye maruz
+tutulmalıdır. Uygun mesafede
+kaldığında patlayabilen
+durulmalı ve koruyucu giysi
+maddelerdir.
+giyilmelidir.
+Örnek: TNT (trinitro toluen)
+Yakıcı (Oksitleyici) Madde
+Havasız ortamda bile yanabilen, Yanan maddelerle teması
+maddelerle temas ettiğinde alev önlenmelidir. Ateş, kıvılcım
+alabilen veya patlayabilen
+maddelerdir.
+Örnek: Hidrojen peroksit,

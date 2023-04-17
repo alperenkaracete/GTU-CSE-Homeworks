@@ -1,0 +1,428 @@
+Mevsim salatası
+Etli kuru fasulye
+Pirinç pilavı
+Cacık
+Tablo 1: Bir haftalık sağlıklı beslenme programı
+Akşam Yemeği
+Tarhana çorbası
+İzmir köfte
+Mevsim salata
+Sebze çorbası
+Fırında tavuk
+Domates soslu makarna
+Mevsim salata
+Tarhana çorbası
+Kabak dolması
+Yoğurt
+Mevsim meyvesi
+Yayla çorbası
+Patates-köfte
+Mevsim salata
+Domates çorbası
+Etli biber dolması
+Yoğurt
+Mevsim meyvesi
+Mantar çorbası
+Tavuk sote
+Mevsim salatası
+Tarhana çorbası
+Balık
+Mevsim salata
+İrmik helvası
+39
+ThisIsTestLineForAlgorithm
+Biyoloji 1
+40
+ÖZET
+BÖLÜM 1: Canlıların Ortak Özellikleri
+ThisIsTestLineForAlgorithm
+Canlıların ortak özellikleri, beslenme, solunum, boşaltım, hareket etme, uyarılara tepki
+verme, uyum, üreme, hücresel yapı, büyüme ve gelişmedir.
+a. Hücresel yapı: Hücre, yaşama, üreme, solunum gibi canlılık olaylarının tamamını
+gerçekleştiren temel birimdir. Bütün canlılar hücreden ya da hücrelerden oluşur.
+b. Beslenme: Canlılar tüm yaşamsal faaliyetlerini gerçekleştirmek için enerjiye ihtiyaç
+duyar. Enerji ihtiyacını karşılamak için de beslenmek zorundadır. Kendi besinini kendi
+üreten canlılara üretici (ototrof), besinin üretemeyip dışardan hazır olarak alan canlılara
+tüketici (heteretrof) denir.
+c. Solunum: Tüm canlılar aldıkları besinleri enerjiye çevirmek için solunum
+yapmak zorundadır. Solunum reaksiyonları; oksijenli solunum ve oksijensiz solunum
+(fermantasyon) olmak üzere iki çeşittir.
+ç. Metabolizma: Organizmadaki yapım (birleştirme ya da sentez) ve yıkım
+(ayrıştırma ya da parçalanma) tepkimelerinin tümüne metabolizma denir.
+d. Homeostazi: Yaşamın devamı için hücre içi veya vücut içi ortamın sıcaklık, madde
+yoğunluğu ve pH gibi birçok değer bakımından belirli bir dengede olması durumuna
+ThisIsTestLineForAlgorithm
+homeostazi denir.
+e. Boşaltım: Tüm canlılar, beslenme ve solunum olayları sonucunda oluşan atık
+maddeleri hücrelerinden veya vücutlarından atmak zorundadır. Bu işleme boşaltım denir.
+f. Hareket: Canlılar ister bir hücreli ister çok hücreli olsun kaçmak, beslenmek,
+avlanmak gibi ihtiyaçlarını karşılamak için hareket etmek zorundadır.
+g. Uyarılara Tepki: Tüm canlılar ısı, ışık, besin, avcı, ses gibi birçok uyarıya çeşitli
+davranışlarıyla tepki verir. Uyarana karşı verilen bu tepkiler canlıların hayatta kalmasını
+sağlar.
+h. Uyum: Canlıların bulundukları çevrede yaşamasını sağlayan kalıtsal, yapısal veya
+davranışsal değişikliklere uyum denir.
+ı. Organizasyon: Tek hücreli canlılarda hücre organelleri arasında, çok hücreli
+canlılarda hücreler arasında belirli bir organizasyon vardır. Çok hücreli canlılardaki
+organizasyon şu şekildedir; görev ve yapı bakımından benzer hücreler bir araya gelerek
+dokuları, dokular organları, organlar sistemleri, sistemlerde organizmayı meydana getirir.
+i. Üreme: Tüm canlılar soylarını devam ettirmek için üremek zorundadır. Canlılar
+eşeyli ya da eşeysiz olarak ürer.
+j. Büyüme ve Gelişme: Büyüme, bir hücreli canlılarda hücre hacminin ve kütlesinin
+artmasıyla gerçekleşirken çok hücreli canlılarda hacim, kütle ve hücre sayısının
+ThisIsTestLineForAlgorithm
+artmasıyla gerçekleşir. Gelişme ise hücre bölünmesini, büyümesini, farklılaşmasını, doku
+ve organların oluşmasını kapsayan ve ergin canlının oluşmasıyla sonuçlanan bir süreçtir.
+BÖLÜM 2: Canlıların Yapısında Bulunan Temel Bileşikler
+ThisIsTestLineForAlgorithm
+Canlıların yapısını oluşturan temel bileşikler, inorganik ve organik yapılıdır. Canlı
+vücudunda sentezlenemeyip doğadan hazır olarak alınan bileşiklere inorganik bileşik
+denir. Su, asit, baz, tuz ve mineraller bu gruba girer. Canlılar tarafından sentezlenebilen
+bileşiklere organik bileşik denir. Karbonhidrat, protein, yağ, nükleik asit (DNA ve RNA),
+enzim, hormon, ATP ve vitamin bu gruba girer.
+1.Ünite Yaşam Bilimi Biyoloji
+A. İnorganik Bileşikler
+1.Su
+Canlının önemli bir bölümü sudan oluşur. Enzimlerin çalışması için su gereklidir. Su
+moleküllerinin kohezyon özelliği, bitkilerde su ve mineral taşınmasında, böceklerin su
+üstünde yürümesini sağlayan yüzey geriliminin oluşmasında etkilidir. Suyun öz ısısı yüksek
+olduğu için, geç ısınıp geç soğur. Bu sayede, kıyı bölgelerinde ılıman bir iklim oluşur.
+Su; alg, mercan, balık, yunus, balina gibi birçok canlı için yaşam ortamıdır. Fotosentez
+için su gereklidir. Hücrelerin ihtiyaç duyduğu maddelerin taşınması ve hücrelerde oluşan
+metabolik atıkların uzaklaştırılması su ile olur. Su, buharlaşma ısısının yüksek olması
+sebebiyle etkili bir soğutma sağlar. Böylece karada yaşayan bazı canlılar, artan vücut
+sıcaklığını terleme yoluyla düşürür.
+2.Asit ve Bazlar
+Asitler, su içerisinde çözündüklerinde H+ (hidrojen iyonu) veren bileşiklerdir. Asitler,
+mavi turnusol kâğıdını kırmızıya dönüştürür ve genellikle tatları ekşidir. Asitlerin bazıları
+yakıcı ve parçalayıcıdır. Bazlar; su içerisinde çözündüklerinde OH- (hidroksil iyonu) veren
+bileşiklerdir. Bazlar kırmızı turnusol kâğıdını maviye dönüştürür. Genellikle tatları acıdır
+ve ele kayganlık hissi verir. Maddelerin asitlik ve bazikliğini ölçmek için bir pH cetveli
+kullanılır. pH cetvelinde değerler; 0 ile 7 arasında ise madde asidik, 7 ile 14 arasında ise
+madde bazik, 7 ise madde nötrdür.
+3.Tuz ve Mineraller
+Asit ve bazların tepkimeye girmesiyle tuz oluşur. Tuzların vücut sıvısındaki oranını
+belirli sınırlar arasında olması gerekir. Aksi durumda canlının yaşamı tehlikeye girer. Tuz
+ve mineraller canlılık fonksiyonları ve metabolik reaksiyonlar için gereklidir.
+B.Organik Bileşikler
+1.Karbonhidratlar
+Hücrenin yapısal maddesi ve besin deposudur. Enerji elde etmek için en hızlı
+şekilde kullanılan organik moleküldür. Karbonhidratlar; monosakkaritler, disakkaritler ve
+polisakkaritler olmak üzere üç grupta incelenir.
+Monosakkaritler, karbonhidratların en küçük birimidir. Sindirilmezler. İçerdikleri “C”
+ThisIsTestLineForAlgorithm
+sayısına göre; trioz (3C’lu), pentoz (5C’lu) ve heksoz (6C’lu) olarak gruplandırılır.
+Triozlara örnek; gliseraldehit, Pentozlara örnek; riboz ve deoksiriboz, Heksozlara
+örnek; glikoz (üzüm şekeri), früktoz (meyve şekeri) ve galaktoz (süt şekeri).
+Disakkaritler, iki monosakkaritin birleşmesi ile oluşur. Maltoz, sükroz ve laktoz olmak
+üzere üç çeşit disakkarit vardır.
+Polisakkaritler, çok sayıda monosakkaritin birleşmesi ile oluşur. Nişasta, selüloz,
+glikojen ve kitin olmak üzere dört çeşit polisakkarit vardır. Nişasta ve selüloz bitkisel,
+glikojen ve kitin hayvansal polisakkarittir. Selüloz ve kitin hücre yapısına katılırken, nişasta
+ve glikojen hücrede depo edilen polisakkarittir.
+2.Yağlar
+Yağlar, hücre zarının temel bileşenidir, canlının enerji kaynağıdır, suda çözünmez, eter
+ve kloroform gibi çözücülerde çözünür. Yağlar, nötral yağlar (trigliseritler), fosfolipitler ve
+steroitler olmak üzere üç grupta incelenir.
+Nötral yağları oluşturan yağ asitleri, doymuş ve doymamış yağlar olarak iki grupta
+incelenir. Karbon atomları arasında çift bağ yoksa doymuş yağlar, çift bağ varsa
+ThisIsTestLineForAlgorithm
+doymamış yağlar olarak adlandırılır.
+Fosfolipitler, hücre zarının temel bileşenidir. Hücre zarında çift tabaka halinde bulunur.
+41
+42
+Biyoloji 1
+Steroidler, hem hücre zarında hem cinsiyet hormonlarında bulunur.
+Yağlar; deri altında depo edilerek koruyuculuk görevi yapar. Böylece organları dış
+darbelerden korur. Yalıtım görevi yaparak vücudun ısı kaybını önler. Metabolizmanın
+düzenlenmesinde rol alır. Göçmen kuşlar ve kış uykusuna yatan hayvanlar, yağları
+hem enerji kaynağı hem de su ihtiyacı için kullanır. Yağlar, vücuda alınan A, D, E ve K
+vitaminlerinin çözünmesinde de kullanılır.
+3.Proteinler
+Proteinler hücre zarının, organellerin, kas, kıkırdak, kemik gibi dokuların, bazı hormon
+ve enzimlerin yapısına katılır. Proteinleri oluşturan yapı taşları aminoasitlerdir. Protein
+zincirlerinde bulunan aminoasitlerin sayısı ve dizilimi farklı protein çeşitlerinin oluşmasını
+sağlar.
+Proteinler, hücre yapımında ve dokuların onarımında görev alır. Hücre zarının
+yapısına katılarak madde geçişlerinde görev yapar. Antikor yapısına katılarak vücudun
+bağışıklığında görev alır. Hemoglobin yapısına katılarak solunum gazlarının taşınmasında
+ThisIsTestLineForAlgorithm
+görev alır. Kan proteinlerinden albümin ve globulini oluşturarak kanın ozmotik basıncının
+düzenlenmesinde, fibrinojenin yapısına katılarak kan pıhtılaşmasında görev alır. Hücre içi
+ve dışı sıvıların pH değişimlerini dengeleyerek homeostazinin korunmasında rol oynar.
+Zorunlu durumlarda enerji kaynağı olarak kullanılır.
+4.Enzimler
+Enzimler, canlılarda gerçekleşen biyokimyasal reaksiyonların aktivasyon enerjisini
+düşürerek reaksiyonları hızlandıran ve reaksiyonlardan değişmeden çıkan biyolojik
+katalizörlerdir. Enzimler yapılarına göre basit ve bileşik enzimler olmak üzere iki grupta
+incelenir. Basit Enzimler, sadece protein yapıda olan enzimlerdir. Yardımcı grup
+bulundurmazlar. Sindirim enzimleri basit yapılı enzimlerdir. Bileşik Enzimler, yapılarında
+proteinle birlikte yardımcı grup olarak vitamin veya mineral bulunduran enzimlerdir. Bileşik
+enzimlere holoenzim de denir. Enzimlerin etki ettiği maddelere substrat denir. Enzimle
+substratı arasında anahtar-kilit uyumu vardır.
+Enzimler substratlara özgüdür. Her enzim her substrata etki edemez. Bazı enzimler
+çift yönlü çalışabilir (tersinir). Bazı enzimler tek yönlü çalışır. Enzimler çok hızlı çalışır.
+Enzimler, hem hücre içinde hem de hücre dışında çalışabilir. Enzimler, tepkimelerden
+değişmeden çıkar. Bu yüzden tekrar tekrar kullanılabilir. Hücrede her enzim, belirli bir genin
+kontrolünde sentezlenir. Enzimler takım hâlinde çalışır, bir enzimin etki ettiği tepkimenin
+ürünü, kendinden sonraki enzimin substratıdır. Enzimler, genellikle substrat çeşidi ya da
+ThisIsTestLineForAlgorithm
+tepkime çeşidi isminin sonuna -az eki getirilerek adlandırılır. Maltaz, sükraz, kinaz ve
+hidrolaz buna örnektir. İsminin sonunda -ojen eki bulunan enzimler ilk salgılandıklarında
+inaktif durumdadır. Bu enzimler, belirli şartlar altında aktif hâle geçer.
+Enzimlerin çalışmasına etki eden faktörler: sıcaklık, ph, enzim miktarı, substrat miktarı,
+substrat yüzeyi, su miktarı’dır.
+Enzimler, peynir ve ekmek yapımında, et ürünlerinin işlenmesinde, laktozsuz süt
+üretiminde, meyve sularının berraklaştırılmasında, biyoteknolojik araştırmalarda,
+ThisIsTestLineForAlgorithm
+tıpta teşhis ve tedavi, eczacılıkta ilaç üretimi amacıyla, deterjan endüstrisinde, kanser
+hastalığına karşı uygulanan enzim tedavisi gibi alanlarda kullanılır.
+5.Hormonlar
+Özel bezler tarafından salgılanan, kan yolu ile ulaştıkları organ ve dokularda üzerinde
+ThisIsTestLineForAlgorithm
+düzenleyici olarak görev alan organik moleküllerdir. Amino asit, protein ve steroit yapılı
+olabilirler. Hormonlar; üreme, beslenme, korku, heyecan, büyüme, gelişme ve homeostazi
+gibi pek çok yaşamsal olayda görev alır.
+1.Ünite Yaşam Bilimi Biyoloji
+6.Vitaminler
+Vitaminler; yapı maddesi veya enerji kaynağı olarak kullanılmaz. Düzenleyici ve direnç
+artırıcı olarak kullanılır. Enzimlerin yapısına katılarak katalizör olarak görev yapar. Bitkilerde
+fotosentez reaksiyonları ile doğrudan üretilebildikleri gibi, hayvanlarda öncül maddelerden
+dönüşüm reaksiyonlarıyla da üretilir. Vitaminler; suda ve yağda çözünen vitaminler olmak
+üzere iki grupta incelenir. A, D, E ve K vitaminleri yağda çözünen vitaminlerdir. C ve B
+grubu vitaminleri suda çözünen vitaminlerdir.
+7.Nükleik Asitler
+ThisIsTestLineForAlgorithm
+Nükleik asitler; hücredeki metabolik faaliyetleri yönetir ve kalıtımı sağlar. Nükleik asitler
+ThisIsTestLineForAlgorithm
+nükleotit’lerden oluşur. DNA ve RNA olmak üzere iki çeşit nükleik asit vardır. DNA kalıtım
+materyalidir. Saç rengi, göz rengi gibi birçok özelliği belirleyen genetik bilgi DNA ile taşınır.
+DNA prokaryot hücrelerde sitoplazmada, ökaryot hücrelerde çekirdekte, mitokondride,
+ve ribozomda bulunur. RNA molekülü DNA’dan aldığı genetik bilgi ile protein sentezini
+gerçekleştirir. RNA molekülü; mRNA (mesajcı RNA), rRNA (ribozomal RNA) ve tRNA
+(taşıyıcı RNA) olmak üzere üç çeşittir. mRNA; protein sentezi için gerekli olan genetik
+ThisIsTestLineForAlgorithm
+bilgiyi DNA’dan alıp sitoplazmadaki ribozoma taşır. tRNA; protein sentezi için gerekli olan
+amino asitleri sitoplazmadan alarak ribozoma taşır. rRNA, proteinlerle birlikte ribozomların
+yapısına katılır.
+8.ATP
+ThisIsTestLineForAlgorithm
+ATP hücredeki temel enerji molekülüdür. ATP, hücre içinde sentezlenen ve kullanılan
+bir moleküldür. Bir hücreden bir başka hücreye aktarılamaz ve depolanamaz. Bu yüzden
+hücre içinde bir taraftan sentezlenirken diğer taraftan kullanılır.
+LİPİT, KARBONHİDRAT, PROTEİN, VİTAMİN, SU VE MİNERALLERİN SAĞLIKLI
+BESLENME İLE İLİŞKİSİ
+Sağlığın korunmasında ve hastalıkların önlenmesinde yeterli ve dengeli beslenme çok
+önemlidir. Yeterli ve dengeli beslenme, tüm besin öğelerinden yani yağlar, karbonhidratlar,
+ThisIsTestLineForAlgorithm
+proteinler, vitaminler ve minerallerden yeterli miktarda alınması demektir. Yeterli ve
+dengeli beslenmeye dikkat edilmediğinde insülin direnci, diyabet ve obezite gibi ciddi
+sağlık sorunları oluşur.
+Dünya Sağlık Örgütü (WHO) tarafından en riskli 10 hastalıktan biri olarak kabul edilen
+obezite, yüksek tansiyon, kalp-damar hastalıkları, şeker hastalığı, karaciğer yağlanması
+gibi bir çok hastalığa neden olur. Yine aynı örgüt tarafından yürütülen son araştırmalar,
+obezitenin kanserle yakın ilgisi olduğunu göstermektedir.
+43
+Biyoloji 1
+44
+ÜNİTE SONU DEĞERLENDİRME SORULARI
+1. İyot çözeltisi nişasta varlığında mavi-mor renk verdiği için besinlerde nişasta olup
+olmadığını tespit etmek için iyot çözeltisi kullanılır.
+Buna göre hangisine iyot çözeltisi damlatıldığında mavi-mor renk oluşması
+beklenir?
+A) Maydanoz
+B) Yumurta
+C) Patates
+D) Salatalık
+2. Biüret çözeltisi protein varlığında pembe-mor renk verir.
+I
+Biüret çözeltisi
+Biüret çözeltisi
+Biüret çözeltisi
+Biüret çözeltisi
+Su
+Yumurta akı
+Çiğ süt
+Elma
+II
+III
+IV
+Buna göre çeşitli besin maddeleri konan deney tüplerinden hangisine biüret
+çözeltisi damlatıldığında pembe-mor renk oluşması beklenir?
+A) I ve II
+B) II ve III
+C) III ve IV
+D) II ve IV
+3. Hangisi enzim aktivitesini arttırıcı yönde etki eder?
+A) Ortam sıcaklığının düşmesi
+B) Ortamdaki su miktarının %15’in altına inmesi
+C) Substratın yüzey alanının artması
+D) Ortama inhibitör madde eklenmesi
+4. Bazı amino asitlerin sentezi için gerekli olan, eksikliğinde deride solgunluğa
+ThisIsTestLineForAlgorithm
+fazlalığında ise alerjik rahatsızlıklara neden olan mineral hangisidir?
+A) Çinko
+B) Potasyum
+C) Klor
+D) Kükürt
+5. Hücre zarının temel bileşeni ve hücrenin enerji kaynağı olan, suda çözünmediği
+hâlde eter, kloroform gibi çözücülerde çözünen molekül hangisidir?
+A) Lipit
+B) Protein
+C) Karbonhidrat
+D) ATP
+6. Suyun canlılar için önemine ilişkin olarak hangisi yanlıştır?
+A) Enzimlerin çalışması için gereklidir.
+B) Enerji verici olarak kullanılır.
+C) Fotosentez tepkimelerinde kullanılır.
+ThisIsTestLineForAlgorithm
+D) Vücut sıcaklığının dengelenmesini sağlar.
+7. Hangisinde protein yönünden zengin besinler bir arada verilmiştir?
+A) Patlıcan, salata, yoğurt
+B) Köfte, patates, ayran
+C) Yumurta, köfte, fasulye
+ThisIsTestLineForAlgorithm
+D) Ispanak, portakal, patates
+1.Ünite Yaşam Bilimi Biyoloji
+8. Üreme olayının temel amacı hangisidir?
+A) Metabolizma olaylarının sürekliliğini sağlamak
+B) Hücre sayısının artmasını sağlanmak
+C) Canlıların nesillerinin devam etmesini sağlamak
+ThisIsTestLineForAlgorithm
+D) Kalıtsal yapının yavru bireylerde korunmasını sağlamak
+9. Aşağıdaki olaylardan hangisi tüm canlılarda ortak olarak gerçekleşmez?
+A) Fotosentez
+ThisIsTestLineForAlgorithm
+B) Katabolizma
+C) Solunum
+D) Anabolizma
+10. Canlıların, yaşamak, üremek, büyümek için gerçekleştirdikleri sindirim,
+solunum ve boşaltım gibi yaşamsal reaksiyonların tümüne ne ad verilir?
+A) Organ
+B) Metabolizma
+C) Genetik
+D) Doku
+11. Canlılar büyüme, gelişme ve enerji gereksinimlerini karşılamak için aşağıdaki
+olaylardan hangisini gerçekleştirmek zorundadır?
+A) Hücreler arası organizasyon
+B) Üreme
+C) Beslenme
+D) Boşaltım
+12. Yaşamın devamı için hücre içi veya vücut içi ortamın, sıcaklık, madde
+yoğunluğu ve pH gibi birçok değer bakımından belirli bir dengede olması durumuna
+ne ad verilir?
+A) Uyarılara tepki
+B) Homeostazi
+C) Uyum
+D) Boşaltım
+13. Aşağıda verilenlerden hangisi tüm canlıların ortak özelliklerinden biri
+değildir?
+A) Dokulardan oluşma
+B) Solunum yapma
+C) Boşaltım
+D) Beslenme
+14. Vitaminlerle ilgili hangisi yanlıştır?
+A) Suda ve yağda çözünen olmak üzere iki temel grupta incelenir.
+B) Yapı maddesi veya enerji kaynağı olarak kullanılır.
+C) Enzimlerin yapısına katılan vitaminlere koenzim denir.
+D) Düzenleyici ve direnç artırıcı olarak kullanılır.
+15. Aşağıdakilerden hangisi hem DNA’da hem de RNA’da bulunan bir moleküldür?
+A) Adenin
+ThisIsTestLineForAlgorithm
+B) Riboz
+C) Deoksiriboz
+D) Timin
+45
+46
+Biyoloji 1
+16. Aşağıdakilerden hangisi inorganik bir bileşiktir?
+A) Lipit
+B) Protein
+C) Nükleik asit
+D) Kalsiyum
+17.Aşağıdakilerden hangisi suda çözünmeyen bitkisel bir polisakkarit olup bitki
+hücresinde hücre çeperinin temel maddesini oluşturur?
+A) Kitin
+B) Nişasta
+C) Selüloz
+D) Glikojen
+18. Enzimlerin etki ettiği maddeye ne ad verilir?
+A) Kofaktör
+B) Koenzim
+C) Substrat
+D) Aktivasyon enerjisi
+19.Aşağıdakilerden hangisi nükleotitlerin yapısına katılan beş karbonlu
+ThisIsTestLineForAlgorithm
+şekerlerden biridir?
+ThisIsTestLineForAlgorithm
+A) Glikoz
+B) Fruktoz
+C) Galaktoz
+D) Deoksiriboz
+20. DNA molekülündeki organik bazlarla ilgili verilen eşitliklerden hangisi
+doğrudur?
+A) A=T
+B) T=C
+C) A=C
+D) G=T
+1.Ünite Yaşam Bilimi Biyoloji
+47
+NOTLAR
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+ThisIsTestLineForAlgorithm
+...........................................................................................................................
+...........................................................................................................................
+ThisIsTestLineForAlgorithm
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+ThisIsTestLineForAlgorithm
+...........................................................................................................................
+...........................................................................................................................
+...........................................................................................................................
+..........................................................................................................................
+ThisIsTestLineForAlgorithm
+2. Ünite
+Bu ünitede;
+1. Bölüm: Hücre
+HÜCRE
+Biyoloji 1
+50
+1. BÖLÜM
+HÜCRE
+NELER ÖĞRENECEĞİZ?
+1. Hücre teorisine ilişkin çalışmaları,
+2. Hücresel yapıları ve görevlerini,
+3. Hücre zarından madde geçişini öğreneceğiz.

@@ -1,0 +1,420 @@
+büyük oranlarda olursa canlının hayatını kaybetmesine
+neden olur. Örneğin; insan vücudundaki su kaybı
+%20’lere gelirse tüm metabolizma işlevleri durur ve
+hayati tehlike oluşur.
+Hücredeki yaşamsal faaliyetlerin yürütülmesinde
+görevli olan enzimlerin çalışması için de su gereklidir.
+Hücredeki su miktarı belli oranda olmazsa enzimler
+çalışamaz. Örneğin; tohumdaki su miktarı %15’in
+altında olduğu için tohumun çimlenmesini sağlayan
+enzimler çalışamaz. Tohumdaki su miktarı arttığında
+enzimler çalışır ve çimlenme başlar.
+Görsel 1.19. Su, canlıların yaşayabilmesi
+ThisIsTestLineForAlgorithm
+için gereken en temel maddedir.
+Canlı sistemlerde gerçekleşen
+ThisIsTestLineForAlgorithm
+tepkimeleri hızlandıran biyolojik
+katalizörlere (hızlandırıcı) enzim
+denir.
+14
+Biyoloji 1
+Yerkürenin 3/4’ü sularla kaplıdır. Yaşam
+için çok önemli olan su; sıvı, katı ve gaz
+ThisIsTestLineForAlgorithm
+şeklinde bulunur. Suyun katı hâli olan
+ThisIsTestLineForAlgorithm
+buzun yoğunluğu sudan küçük olduğu için,
+buz suda batmaz. Böylece kış mevsiminde
+donmuş bir göldeki buz parçası suyun
+yüzeyini kaplayarak yalıtım görevi görür.
+Buzun altındaki kısım donmadığı için,
+gölde yaşayan canlılar kış mevsiminde bu
+sayede hayatta kalır.
+Görsel 1.20. Buzun altındaki kalan
+bölge donmadığı için, göldeki yaşam kış
+mevsiminde de devam eder.
+Hidrojen bağları su moleküllerini bir
+arada tutarak suyun daha kararlı bir bileşik
+olmasını sağlar. Bu şekilde su moleküllerinin
+birbirinden kopmadan bir arada kalmaları
+özelliğine kohezyon adı verilir. Kohezyon
+etkisi, bitkilerde su ve mineral taşınmasında,
+böceklerin su üstünde yürümesini sağlayan
+yüzey geriliminin oluşmasında etkilidir.
+Görsel 1.21. Kohezyon etkisi, böceklerin
+su üstünde yürümesini sağlayan yüzey
+geriliminin oluşmasında etkilidir.
+Bir maddenin 1 gramının sıcaklığını 10C artırmak için gerekli olan ısı miktarına öz
+ısı (ısınma ısısı) denir. Öz ısısı düşük olanlar çabuk ısınıp çabuk soğurken, yüksek
+olanlar geç ısınıp geç soğur. Suyun öz ısısı yüksek olduğu için, geç ısınıp geç soğur.
+Deniz ve okyanus gibi büyük su kütleleri yaz mevsiminde ya da gündüzleri, güneşten
+büyük miktarda ısı almalarına rağmen sıcaklıkları aşırı miktarda artmaz. Kışın ya da gece
+olduğunda ise ortama ısı vermelerine rağmen sıcaklığı aşırı miktarda azalmaz. Böylece,
+kıyı bölgelerinde ılıman bir iklim oluşur.
+Alg, mercan, balık, yunus, balina gibi birçok canlının yaşam ortamı sudur. Bitkiler,
+fotosentez yapabilmek için suya ihtiyaç duyar. Su iyi bir çözücü olduğundan biyolojik
+sistemlerdeki tepkimelerin çoğu, hücre içindeki sulu çözeltilerde gerçekleşir. Sindirim
+tepkimelerinde su kullanılır. Hücrelerin ihtiyaç duyduğu maddelerin taşınması ve
+hücrelerde oluşan metabolik atıkların uzaklaştırılması suyun varlığı ile mümkündür. Su,
+buharlaşma ısısının yüksek olması sebebiyle etkili bir soğutma sağlar. Karada yaşayan
+bazı canlılar, artan vücut sıcaklığını terleme yoluyla düşürür.
+1.Ünite Yaşam Bilimi Biyoloji
+1.2.1.2. Asit ve Bazların Canlılar İçin Önemi
+Asitler, su içerisinde çözündüklerinde H+ (hidrojen iyonu) veren bileşiklerdir. Örneğin
+HCl (hidroklorik asit) suda çözündüğünde H+ ve Cl- iyonlarını oluşturur. Bu yüzden HCl,
+asidik özellikte bir maddedir. Asitler, mavi turnusol kâğıdını kırmızıya dönüştürür ve
+genellikle tatları ekşidir. Asitlerin bazıları yakıcı ve parçalayıcıdır.
+Bazlar; su içerisinde çözündüklerinde OH- (hidroksil iyonu) veren bileşiklerdir. Örneğin;
+NaOH (sodyum hidroksit) suda çözündüğünde OH- ve Na+ iyonlarını oluşturur. Bu yüzden
+NaOH, bazik özellikte bir maddedir. Bazlar kırmızı turnusol kâğıdını maviye dönüştürür.
+Genellikle tatları acıdır ve ele kayganlık hissi verir.
+Maddelerin asitlik ve bazikliğini ölçmek için bir pH cetveli kullanılır. pH cetvelinde
+değerler 0 ile 14 arasındadır. Bir maddenin pH değeri; 0 ile 7 arasında ise madde asidik,
+7 ile 14 arasında ise madde bazik. 7 ise madde nötrdür. 7’den 0’a gidildikçe asitlik; 7’den
+14’e gidildikçe baziklik derecesi artar.
+0
+1
+2
+3
+4
+Asidik
+Düşük pH
+5
+6
+7
+8
+Nötr
+Dengeli pH
+9 10 11 12 13 14
+Bazik (Alkali)
+ThisIsTestLineForAlgorithm
+Yüksek pH
+Görsel 1.22. pH cetvelinde değerler 0 ile 7 arasında ise madde asidik, 7 ile 14
+arasında ise madde bazik, 7 ise madde nötrdür.
+Vücut sıvılarının belirli pH değerleri vardır. Eğer bu pH değerleri değişirse enzimler
+çalışamaz. Çünkü her enzimin çalışabildiği belirli bir pH değeri vardır. Örneğin; mide
+içi pH’si 2-3, ince bağırsak pH’si 8-9 civarındadır. Kanın pH değeri 7,4’ tür. Bu değerin
+değişmesi ölüme neden olur.
+15
+16
+Biyoloji 1
+Aşağıdaki tabloda vücut sıvılarına ait bazı pH değerleri verilmiştir.
+PH
+Vücut Sıvıları ve Dokular
+Kan serumu
+7.35 - 7.45
+Tükürük
+6.4 - 7.4
+Mide özsuyu
+0.9 - 2.0
+İdrar
+4.8 - 7.5
+Gözyaşı
+7.4
+ThisIsTestLineForAlgorithm
+Pankreas
+8.0 - 8.3
+Safra
+7.8
+İnce bağırsak
+7.5 - 8.0
+Kalın bağırsak
+7.5 - 8.0
+Deri ve iç tabakaları
+6.2 - 7.5
+ThisIsTestLineForAlgorithm
+Karaciğer
+6.4 - 6.5
+Görsel 1.23. Vücut sıvıları ve dokularına ait pH değerleri
+1.2.1.3. Tuz ve Minerallerin Canlılar İçin Önemi
+Asitler ve bazların tepkimeye girmesiyle tuz oluşur ve bir molekül su açığa çıkar.
+ASİT +
+NaOH +
+BAZ
+HCl
+TUZ
+NaCl
++
++
+Su
+Su
+Genellikle hücrede ve hücreler arasındaki sıvılarda çeşitli tuzlar bulunur. Bunların en
+ThisIsTestLineForAlgorithm
+önemlileri Na (Sodyum), K (Potasyum), Ca (Kalsiyum) ve Mg (Magnezyum) tuzlarıdır.
+Tuzların vücut sıvısındaki oranı belirli sınırlar arasında olması gerekir. Aksi durumda
+canlının yaşamı tehlikeye girer. Çünkü tuzlar hücreye su giriş çıkışını düzenlemede etkilidir.
+Hücrenin içinde tuz oranı yüksekse hücre içine su girer. Hücrenin dışındaki ortamın tuz
+oranı yüksekse hücre içindeki su dışarı çıkar. Böylece hücrenin osmotik basıncı ayarlanır.
+Mineraller canlılar tarafından üretilemeyen, su ve besinlerle dışardan hazır olarak alınan
+inorganik maddelerdir. Canlılık fonksiyonları ve metabolik reaksiyonlar için gereklidir.
+İnsan vücudunun ihtiyaç duyduğu bazı mineraller ve görevleri:
+Kalsiyum (Ca)
+İnsan vücudunda en fazla bulunan mineraldir.
+Genelde fosforla beraber kemik ve diş minesinin
+yapısına katılır. Ayrıca kas kasılması, sinir sisteminin
+çalışması ve kanın pıhtılaşmasında etkilidir. Süt ve
+süt ürünleri ile yeşil sebze ve tahıllarda bol miktarda
+bulunur.
+Görsel 1.24. Kalsiyum; süt ve süt
+ürünlerinde bol miktarda bulunur.
+1.Ünite Yaşam Bilimi Biyoloji
+Flor (F)
+Diş sağlığı için önemlidir. Florun az alınması diş ve kemik gelişimini olumsuz yönde
+etkilerken fazla alınması dişlerde sararmaya neden olur.
+Fosfor (P)
+Kalsiyumla birlikte kemik ve diş yapısına katılır. Fosfat bileşiği olarak nükleik asitlerin
+ve ATP’nin yapısına katılır. Fosfolipit olarak hücre zarında bulunur.
+Sodyum (Na)
+Asit-baz ve su dengesinin ayarlanmasında görev alan kas kasılması ve sinir
+hücrelerinde uyartı iletimi için gerekli olan bir mineraldir. Eksikliğinde iştah azalması ve
+kas krampları oluşur.
+Kükürt (S)
+Bazı amino asitlerin sentezi için gereklidir.
+Eksikliğinde
+ThisIsTestLineForAlgorithm
+deride
+solgunluk
+oluşurken
+fazlalığında alerjik rahatsızlıklar meydana gelir.
+Demir (Fe)
+Alyuvarlarda bulunan hemoglobin ve bazı enzimlerin yapısına katılır. Hemoglobinin yapısındaki
+demir, solunum gazlarının taşınmasında etkili olur.
+Demirin eksikliği hâlsizliğe, ilerlemiş hâli anemi
+adı verilen kansızlık hastalığına neden olur. Demir
+en çok et ve et ürünleri, yumurta, sebze, tahıllar, Görsel 1.25. Demir, et ve et ürünlerinde,
+bol miktarda bulunur.
+pekmez, kuru meyvelerde bulunur.
+Potasyum (K)
+Kalp ritmini düzenler. Sinir hücrelerinde uyartı iletimi için gereklidir. Eksikliğinde
+kaslarda kramp, kalp ritminde bozukluk, yorgunluk, hâlsizlik oluşurken fazlalığında böbrek
+ve kalp sorunları ile el ve ayakta karıncalanma meydana gelir.
+Klor (Cl)
+Mide özsuyunun oluşumunda, asit-baz dengesinin sağlanmasında, hücre içi ve dışı su
+dengesinin ayarlanmasında görev alır. Eksikliğinde sindirim sorunları ortaya çıkar.
+Magnezyum (Mg)
+Kemik yapısına katıldığı gibi kan ve sinir sistemi fonksiyonları için de gereklidir.
+Bitkilerde klorofil yapısına katılır.
+Çinko (Zn)
+Birçok enzim çeşidinin yapısına katılır. Organizmanın
+protein, yağ ve karbonhidratları kullanmasına yardımcı olur.
+Iyot (I)
+Tiroit bezi hormonlarının (tiroksin) sentezi için gereklidir.
+İyotlu tuz kullanılarak iyot ihtiyacı karşılanabilir. Eksikliğinde
+guatr hastalığı görülür.
+Görsel 1.26. İyotlu tuz
+kullanılarak vücudun iyot
+ihtiyacı karşılanabilir.
+17
+18
+Biyoloji 1
+ThisIsTestLineForAlgorithm
+1.2.2. CANLILARIN YAPISINDA BULUNAN ORGANİK BİLEŞİKLER
+Görsel 1.27. Organik bileşikler canlılar tarafından sentezlenen bileşiklerdir.
+Organik bileşikler inorganik bileşiklerin aksine canlılar tarafından sentezlenebilen
+bileşiklerdir. Besinlerle alınan organik bileşiklerin çoğu hücre zarından geçemeyecek
+kadar büyük olduğundan sindirilerek kana geçer.
+Organik bileşiklerden karbonhidratlar ve lipitler (yağlar) hücrede enerji verici
+olarak, proteinler, lipitler ve karbonhidratlar yapıya katılarak , vitaminler ve hormonlar
+metabolizmada düzenleyici olarak görev yapar. Organik bileşiklerin yapısında genel
+olarak karbon, hidrojen ve oksijen elementleri vardır. Bazı organik bileşiklerin yapısında
+ise bu elementlere ek olarak azot, fosfor, kükürt gibi elementler yer alır.
+Canlıların yapısında bulunan organik bileşikler; karbonhidrat, protein, lipit(yağ), nükleik
+asit (DNA ve RNA), enzim, hormon, ATP ve vitamin’dir.
+1.2.2.1. Karbonhidratlar
+Karbonhidratlar, şekerlerin (glikoz)
+ThisIsTestLineForAlgorithm
+bir araya gelmesi ile oluşmuş moleküllerdir. Karbonhidratların bileşiminde Karbon(C), Hidrojen(H) ve Oksijen(O) elementleri bulunur. Karbonhidratlar enerji
+elde etmek için en hızlı şekilde kullanılan
+organik moleküldür.
+Ototrof (üretici) canlılar karbonhidratların yapı taşı olan glikozu sentezler.
+Heterotrof (tüketici) canlılar glikoz sentezleyemez, dışarıdan hazır olarak alır.
+Görsel 1.28: Ekmek, makarna, pirinç, patates ve
+tahıllar karbonhidrat yönünden zengin besinlerdir.
+Karbonhidratlar; hücrenin birinci derecede enerji kaynağıdır. Bir başka ifadeyle hücre
+enerji ihtiyacını karşılamak için lipit ve proteinlerden önce karbonhidratları kullanır.
+1.Ünite Yaşam Bilimi Biyoloji
+Karbonhidratlar içerdikleri şeker sayısına göre üçe ayrılır.
+a. Monosakkaritler (Tek şekerler)
+b. Disakkaritler (İkili şekerler)
+c. Polisakkaritler (Çoklu şekerler)
+a. Monosakkaritler
+Karbonhidratların en küçük birimidir. Bu yüzden sindirilmezler. Monosakkaritler
+içerdikleri karbon(C) sayısına göre sınıflandırılır. İçeriğinde 3 adet C bulunduran
+monosakkaritlere trioz, 5 adet C bulunduranlara pentoz, 6 adet C bulunduranlara heksoz
+denir.
+Triozlara örnek; gliseraldehit.
+Pentozlara örnek; riboz ve deoksiriboz.
+Heksozlara örnek; glikoz (üzüm şekeri), früktoz (meyve şekeri) ve galaktoz (süt
+şekeri).
+Glikoz biyolojik olarak en önemli monosakkarittir.
+Hücre zarının yapısında bulunur, solunumla
+su ve karbondiokside kadar parçalanır. Bu
+sırada enerji meydana gelir. Bu enerji canlıların
+kullandığı enerjinin kaynağıdır. Fazla glikoz yağa
+dönüştürülüp depolanarak şişmanlığa (obezite)
+neden olur.
+Görsel 1.29. Üzüm bol miktarda
+glikoz içerir.
+b. Disakkaritler
+İki monosakkaritin birleşmesi ile disakkaritler oluşur. Bu sırada su çıkışı olur. Bu yüzden
+bu olay dehidrasyon tepkimesi olarak adlandırılır. Dehidrasyon bir anabolik (yapım)
+reaksiyondur.Bu reaksiyon genel olarak aşağıdaki gibi gösterilir:
+Monosakkarit
++
+Monosakkarit
+Disakkarit
++
+Su
+Görsel1.30. Disakkaritlerin oluşum tepkimesi
+Dehidrasyon
+Glikoz
++
+Glikoz
+Hidroliz
+Maltoz
+ThisIsTestLineForAlgorithm
++
+H 2O
++
+H 2O
++
+H 2O
+(Arpa şekeri)
+ThisIsTestLineForAlgorithm
+Dehidrasyon
+Glikoz
+Glikoz
++
++
+Fruktoz
+Sükroz
+Hidroliz
+ThisIsTestLineForAlgorithm
+Dehidrasyon
+Galaktoz
+Hidroliz
+(Çay şekeri)
+Laktoz
+(Süt şekeri)
+Görsel 1.31. Maltoz, Sükroz ve Laktoz oluşum tepkimeleri
+ThisIsTestLineForAlgorithm
+Maltoz ve sükroz bitki hücrelerinde, laktoz ise bazı hayvan hücrelerinde
+sentezlenir.
+19
+Biyoloji 1
+20
+Büyük moleküllü maddeler yapı taşlarına ayrılırken su kullanılır. Bu olaya hidroliz
+denir. Hidroliz olayı denklemlerde de görüldüğü gibi dehidrasyon sentezinin tam tersidir.
+Disakkaritlerin hidroliz tepkimesiyle monosakkaritlere kadar yıkılması katabolik (yıkım) bir
+reaksiyondur.
+c. Polisakkaritler
+Çok sayıda glikozun birleşmesi ile oluşur. Glikozlar birbirine glikozit bağı ile bağlanır.
+Bu sırada monosakkarit sayısının bir eksiği kadar su molekülü açığa çıkar. Bu durum
+aşağıda verilen denklemdeki gibi gösterilir:
+(n) Monosakkarit
+Polisakkarit + (n-1) Su
+Görsel 1.32. Polisakkaritlerin oluşum tepkimesi
+Nişasta, selüloz, glikojen ve kitin olmak üzere dört çeşit polisakkarit vardır. Nişasta
+ve selüloz bitkisel, glikojen ve kitin hayvansal polisakkarittir. Selüloz ve kitin hücre yapısına
+katılırken, nişasta ve glikojen hücrede depo edilir.
+Bitkisel
+Hayvansal
+Yapıya Katılan
+Selüloz
+Kitin
+Depo Edilen
+Nişasta
+Glikojen
+Görsel 1.33. Polisakkaritler tablodaki gibi gruplandırılır.
+Nişasta
+Bitkiler ürettikleri glikozun fazlasını
+nişastaya dönüştürerek kök, gövde,
+yaprak, meyve, tohum gibi organlarında
+depolar. Patates, pirinç, arpa, buğday,
+yulaf gibi besinlerde bol miktarda nişasta
+ThisIsTestLineForAlgorithm
+vardır. Hayvanlar nişasta üretemez ancak
+ThisIsTestLineForAlgorithm
+nişasta açısından zengin bitkileri yiyerek
+nişasta alır.
+Görsel 1.34. Patates nişasta yönünden zengin bir
+bitkidir.
+Selüloz
+Bitkisel ve yapısal bir polisakkarit olan selüloz bitki hücrelerini çevreleyen duvarın
+temel bileşenidir. Çok sayıda glikozun birleşmesiyle oluşur. Selüloz suda çözünmez.
+Otçul hayvanlar, bağırsaklarında yaşayan bakteriler sayesinde selülozu sindirebilirken
+insanlar, selülozu sindiremez. İnsanlar selülozu sindiremese de sindirim kanalından geçen
+selüloz mukus salgılanmasını uyararak besinlerin kolayca ilerlemesini sağladığı için bolca
+tüketilmelidir. Taze meyve, sebze ve tahıllar selüloz açısından zengin besinlerdir.
+ThisIsTestLineForAlgorithm
+Mukus hücreleri tarafından salgılanan koyu kıvamda yapışkan sıvıya mukus denir.
+1.Ünite Yaşam Bilimi Biyoloji
+Glikojen
+Hayvansal polisakkarittir. Glikozun fazlası bakteri, mantar ve hayvan hücrelerinde
+glikojen olarak depo edilir. Glikojen çok sayıda glikozun birleşmesiyle oluşur. İnsanlarda
+glikozun fazlası glikojene dönüştürülerek kas ve karaciğer hücrelerinde depolanır. Yağ ve
+proteinlerin fazlası da karaciğerde glikojene dönüştürülerek depolanır.
+Kitin
+Yapısında azot bulunan polisakkarittir. Suda
+çözünmez. Arı, hamam böceği gibi eklem bacaklıların
+kabuk denilen dış iskeletinde bulunur. Ayrıca
+mantarların hücre duvarında da kitin vardır. Sağlam bir
+yapıya sahip olan kitinden ameliyatlarda kullanılan dikiş
+iplikleri üretilir. Kitin doku içerisinde çözündüğünden
+dikişi aldırmak gerekmez.
+Görsel 1.35. Böceklerin kabuğu
+kitinden oluşur.
+Karbonhidratların fazlası insanda yağa dönüştürülerek depolandığından çok
+tüketilmesi şişmanlığa neden olur. Ayrıca insülin direncine sebep olarak diyabetin (şeker
+hastalığı) gelişmesine zemin hazırlar. Vücut enerji ihtiyacını öncelikle karbonhidratlardan
+karşıladığından, az karbonhidrat tüketildiğinde hâlsizlik, yorgunluk ve baş dönmesi
+meydana gelir.
+Deneyin Adı
+Amaç
+Araç Gereçler
+ThisIsTestLineForAlgorithm
+Hangi besinlerde karbonhidrat vardır?
+Besinlerde karbonhidrat varlığının tespiti.
+Deney tüpü, damlalık, iyot çözeltisi (nişasta iyot çözeltisiyle
+mavi-mor renk verir), bisturi, patates, ekmek, yumurta akı.
+Uygulama
+• Bisturi yardımıyla ekmek ve patates küçük parçalara bölünür.
+• Deney tüplerine sırasıyla yumurta akı, ekmek ve patates konur.
+• Tüplerin her birine 5’er damla iyot çözeltisi damlatılır.
+• Renk değişimleri gözlenir.
+İyot çözeltisi
+Yumurta akı
+1. Tüp
+İyot çözeltisi
+Ekmek
+2. Tüp
+İyot çözeltisi
+Patates
+3. Tüp
+21
+22
+Biyoloji 1
+Deney Sonucu
+Nişasta		
+Nişasta iyot çözeltisiyle mavi-mor renk verir.
++
+İyot çözeltisi
+Mavi mor renk oluşur
+Deney tüpündeki besinlere iyot çözeltisi damlatıldığında nişasta içerenlerde
+mavi mor renk oluşması beklenir. Bu şekilde renk değişimi gözlenenlerde nişasta
+vardır sonucuna ulaşılır.
+Deney tamamlandığında yumurta akı olan 1.tüpte renk değişimi olmadığı,
+ekmek ve patatesin bulunduğu 2. ve 3. tüpte mavi mor renk değişimi olduğu
+gözlenir. Buna göre yumurta akında nişasta yokken, ekmek ve patateste nişasta
+vardır sonucuna ulaşılır.
+1.2.2.2. Lipitler (Yağlar)
+Lipitler;
+ThisIsTestLineForAlgorithm
+• Hücre zarının temel bileşenidir,
+• Canlının enerji kaynağıdır,
+• Suda çözünmez. Eter ve kloroform gibi çözücülerde çözünür,
+• Yapısında karbon (C), hidrojen (H) ve oksijen (O) bulunur. Ayrıca fosfor (P) ve azot
+(N) içerebilir.
+Lipitler karbonhidratlardan daha fazla enerji içerir ancak yıkımı karbonhidratlardan
+daha uzun sürede gerçekleşir. Bu nedenle hücreler, enerji ihtiyaçlarını karşılamada

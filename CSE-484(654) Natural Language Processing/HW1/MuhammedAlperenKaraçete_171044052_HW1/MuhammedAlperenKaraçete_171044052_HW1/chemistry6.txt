@@ -1,0 +1,420 @@
+ThisIsTestLineForAlgorithm
+61
+Kimya 1
+6. Uygulama Kalsiyum elementinin izotopları aşağıda verilmiştir. Bu izotopların atom
+numarasını (Z), kütle numarasını (A) ve nötron sayısını bulunuz.
+40
+20
+42
+ThisIsTestLineForAlgorithm
+Ca
+20
+Çözüm Z=20			
+A=40			
+n=20			
+Ca
+Z=20			
+A=42			
+n=22			
+43
+20
+Ca
+Z=20
+ThisIsTestLineForAlgorithm
+A=43
+n=23
+İzotopların;
+• Kimyasal özellikleri aynıdır (aynı elektron sayısına sahiplerse).
+• Fiziksel özellikleri (özgül ağırlık, kaynama sıcaklığı vb.) farklıdır.
+• Nükleer özelliklerinde önemli farklılıklar görülür.
+İzoton
+İzoton atomlar, nötron sayıları aynı proton ve kütle numaraları farklı olan atomlardır.
+İzoton atomların proton sayıları farklı olduğundan, bunlar farklı element atomlarıdır.
+Bu atomların proton sayıları farklı olduğu için hem kimyasal özellikleri hem de fiziksel
+özellikleri farklıdır. Birbirinin izotonu olan atomlara;
+CI ile
+36
+18
+Ar
+K ile
+19
+40
+Ca atomları örnek olarak verilebilir.
+35
+17
+39
+20
+İzobar
+İzobar atomlar kütle numaraları aynı, proton sayıları farklı olan atomlardır. İzobar atomların proton sayıları farklı ancak kütle numaraları aynı olduğundan nötron sayıları da farklıdır. Ayrıca izobar atomların proton sayıları farklı olduğu için bu atomlar farklı element
+atomlarıdır. Bu nedenle kimyasal ve fiziksel özellikleri de farklıdır. Farklı element atomları
+olan;
+40
+Ar,
+18
+62
+40
+19
+K,
+40
+Ca izobar atomlardır.
+20
+2.Ünite Atom ve Periyodik Sistem
+7. Uygulama Argon
+36
+( 18
+Ar,
+Potasyum (
+40
+19
+ThisIsTestLineForAlgorithm
+K,
+Ar,
+38
+18
+Ar)
+40
+18
+39
+19
+K)
+42
+Kalsiyum ( 40
+Ca , 20
+Ca , 43
+Ca , 44
+Ca)
+20
+20
+20
+Yukarıda argon, potasyum ve kalsiyum atomlarına ait verilenlerden
+faydalanarak hangilerinin izotop, hangilerinin izoton ve hangilerinin
+izobar olduklarını belirtiniz.
+Çözüm
+İzoton
+İzotop
+36
+18
+Ar,
+40
+19
+K,
+40
+20
+Ca,
+38
+18
+39
+19
+ThisIsTestLineForAlgorithm
+Ar,
+40
+18
+Ar
+39
+19
+40
+K
+42
+20
+Ca,
+K,
+Ar,
+18
+43
+ThisIsTestLineForAlgorithm
+20
+Ca,
+44
+20
+38
+18
+Ar,
+42
+40
+20
+ThisIsTestLineForAlgorithm
+İzobar
+Ca
+40
+18
+Ar,
+40
+19
+K,
+40
+20
+Ca
+Ca
+20
+Ca
+İzoelektronik
+Elektron sayıları aynı olan farklı element atomlarıdır. İzoelektronik atomların fiziksel
+özellikleri farklı kimyasal özellikleri benzerdir. Farklı element atomlarının elektron sayılarının
+aynı olabilmesi için atomların elektron alması veya vermesi gerekmektedir. Bir atom elektron
+aldığında ya da verdiğinde iyon adını alır. Atomun aldığı veya verdiği elektron sayısı element
+sembolünün sağ üst köşesine yazılır. Atom, elektron aldığında negatif yüklü olup, (-) işareti
+ile gösterilir. Elektron verdiğinde ise, pozitif yüklü olup (+) işareti ile gösterilir. Aşağıda yer
+alan farklı atomların nötr ve iyon hâlleri;
+N3- , 9F1-,
+7
+Ne,
+10
+Na1+ birbirinin izoelektroniğidir.
+11
+Azot atomu nötr hâldeyken 7, flor ise 9 elektrona sahiptir. Yukarıdaki örnekte azot 3
+elektron alarak, flor ise 1 elektron alarak toplamda 10'ar elektrona sahip olmuşlardır. Sodyum
+atomu ise 11 elektrona sahipken, 1 elektronunu vererek 10 elektrona sahip olmuştur. Bu
+nedenle bu tanecikler birbirinin izoelektroniğidir.
+63
+Kimya 1
+2.3. PERİYODİK SİSTEM
+Elementlerin özelliklerini daha kolay kavrayabilmek için elementler
+geçmişten günümüze çeşitli şekillerde sınıflandırılmıştır. Sınıflandırmanın yer aldığı çizelgeye günümüzde periyodik sistem denir.
+18 ve 19. yüzyıllar boyunca kimya alanında yapılan çalışmalar ilerledikçe, çok farklı özelliklere sahip, çok sayıda elementin varlığı keşfedildi.
+Elementler ve bilinen özelliklerinin sayısı arttıkça, bunları benzer özelliklerine göre sınıflandırma ihtiyacı duyuldu. Elementlerin sınıflandırılması
+için en erken girişim, 1789'da A. Lavoisier'in elementleri gazlar, ametaller,
+metaller ve toprak elementleri olarak gruplandırması olmuştur. Sonraki
+yıllarda elementlerin özelliklerini keşfetmek ve gruplandırmak için başka
+girişimlerde bulunulmuş, günümüzde kullanılan periyodik sisteme en yakın olan sistem ise Mendeleyev tarafından oluşturulmuştur.
+Dmitri Mendeleyev ve Periyodik Sistem
+Görsel 2.16
+Dmitri Mendeleyev
+1860'lı yıllarda Dmitri Ivanovich Mendeleyev (Dimitri İvanoviç Mendelev), o güne kadar bilinen elementlerin fiziksel ve kimyasal özelliklerini kartlara yazıp, elementleri artan atom ağırlığına göre sıralamıştır. Bu
+sıralamada elementlerin özelliklerinin belli aralıklarla başka elementlerde de gözlemlendiğini fark etmiştir. Mendeleyev, artan atom ağırlığı düzenini bozmadan, aynı özellikteki elementleri alt alta getirerek bir çizelge
+oluşturmuştur.
+Mendeleyev, çizelgesinde bilinmeyen elementlerin keşfedilmesini
+umarak boşluklar bırakmıştır. Bu boşlukların, keşfedilmeyi bekleyen elementlerin özelliklerini tahmin etmede ne kadar yararlı olabileceğini, bazı
+elementlerin özelliklerini gerçeğine yakın tahmin ederek göstermiştir.
+Örneğin, 1872'de Mendeleyev ilk kez çizelgeyi yayınladığında, galyum,
+skandiyum ve germanyum elementleri bilinmiyordu. Mendeleyev, bu elementlerin varlığını ve özelliklerini, çizelge düzenlendiğinde oluşan boşluklardan, doğru bir biçimde öngörmüştür.
+Mendeleyev' in orijinal çizelgesi zamanla modern periyodik sisteme
+dönüştü. Mendeleyev'in çizelgesi elementlerin periyodik özelliklerini
+göstermesine rağmen, elementlerin özelliklerinin periyodik olarak neden
+tekrar ettiği 20. yüzyıl bilim insanlarının keşifleri sonucu açıklanabilmiştir.
+64
+2.Ünite Atom ve Periyodik Sistem
+Moseley ve Periyodik Sistem
+İngiliz Fizikçi Henry Moseley (Henri Mozeley) (1887-1915), her
+elementin atom numarasının aynı zamanda, nötr atomdaki elektronların sayısı olduğunu keşfetti.
+Moseley, atom numaraları 13 ile 79 arasında olan 38 elementin
+farklı enerjilerde yaydığı ışımalar üzerinde çalıştı. Işınların enerjileri ile elementlerin atom numaraları arasında bir ilişki bulunduğunu ispatladı ve elementlerin atom numaralarını doğru bir şekilde
+tahmin edebildi.
+Görsel 2.17 Henry
+Moseley
+Moseley’ in atom numaraları ile ilgili elde ettiği sonuçlara göre, atom numaraları bir elementten diğerine geçişte, bir tam sayı ilavesi ile artmaktaydı. Bu keşif ile
+birlikte elementleri artan atom numarasını dikkate alarak düzenleyen Moseley’ in
+elementler tablosu oluşmuş oldu. Bu tabloya günümüzde periyodik sistem denilmektedir.
+Moseley, elementleri artan proton sayısına göre sıraladığında, genel olarak
+Mendeleyev’ in kütle sıralamasına uygun sonuca ulaştı. Atom numaraları arttıkça
+ortalama atom kütleleri de arttığı için çoğu hâllerde bu uyum normaldi. Ancak,
+Mendeleyev’ in çizelgesinde kütle sırasının özellik sıralamasına uymadığı durumlarda, atom numarası esas alındığında sorunlar çözülüyordu. Örneğin nikel (Ni) ile
+kobaltın (Co) benzer özelliklerine göre yerleşmeleri gereken konum ile kütlelerine
+göre yerleşmeleri gereken konum farklılığı bulunuyordu. Bu durumdaki elementler
+artan atom numarasına göre yerleştirildiğinde, kimyasal özelliklere göre de yerleştirilmiş oldu ve elementlerin yerleşim yerleri kesinlik kazandı.
+Moseley, tabloda bazı keşfedilmemiş atomların varlıklarını da gösteriyordu. 92
+atomdan oluşan periyodik cetvelinde keşfedilmeyen elementler için boşluklar (43,
+61, 85, 87 ve 91 atom numaralı elementler) bıraktı. Her bir elementin proton sayısı
+yalnız o elemente özgü olduğu için, Moseley keşfedilmemiş olan atomları öngörebildi.
+Günümüzde kullanılan modern periyodik sistem Moseley’in yaptığı sıralamaya
+dayanmaktadır. Yani elementler, elementin tek bir atomunun çekirdeğinde bulunan
+proton sayısına göre periyodik sistemdeki yerini alır. Birçok yeni elementin keşfedilmesiyle, günümüz modern periyodik sisteminde Moseley'in bıraktığı boşluklar
+doldurulmuştur. Yeni elementlerin birçoğu laboratuvar ortamında yapay olarak
+elde edilmiştir (Tablo 2.2).
+65
+Kimya 1
+Ds Rg Cn Nh
+FI
+Mc Lv
+Ts Og
+ThisIsTestLineForAlgorithm
+Tablo 2.2 Periyodik sistem
+ATOMLARIN KATMAN-ELEKTRON
+SISTEMDEKI YERLERI
+DAĞILIMLARI
+VE
+PERIYODIK
+Elementler periyodik sistemde sıralandığında satırlar ve sütunlar oluşmaktadır.
+Satırlar periyot, sütunlar ise grup olarak adlandırılmaktadır. Atom numarası, bir satır
+boyunca soldan sağa ve sütun boyunca yukarıdan aşağıya artmaktadır.
+Periyotlar
+Gruplar
+3A 4A 5A 6A 7A 8A
+ThisIsTestLineForAlgorithm
+1A 2A
+1. Periyot
+2. Periyot
+ThisIsTestLineForAlgorithm
+B grupları
+3. Periyot
+4. Periyot
+5. Periyot
+6. Periyot
+7. Periyot
+Tablo 2.3 Periyodik sistemde grup ve periyotlar
+66
+2.Ünite Atom ve Periyodik Sistem
+Gruplar A ve B grubu olmak üzere ikiye ayrılır. Periyodik sistemde 8 tane A, 10
+tane B grubu yer almaktadır. 7 tane de periyot bulunmaktadır. Elementlerin periyodik
+sistemdeki yerleri hangi grupta ve hangi periyotta yer aldığı belirtilerek yapılır.
+Elementin hangi grup ve periyotta yer aldığı ise element atomunun katman-elektron
+dağılımı ile ilişkilidir.
+A grubu elementleri için, element atomunun son katmanında bulunan elektron
+ThisIsTestLineForAlgorithm
+sayısı, o elementin grup numarasını verir. Örneğin, bir element atomunun son
+katmanında 5 elektron bulunuyorsa o element 5A grubunda, 2 elektron bulunuyorsa
+2A grubunda yer alır. Aşağıdaki tabloda ilk 20 element atomunun katman-elektron
+dağılımı ve bu dağılıma göre elementin grup numarası yer almaktadır:
+ThisIsTestLineForAlgorithm
+Görsel 2.18 İlk 20 elementin katman-elektron dağılımı
+ThisIsTestLineForAlgorithm
+Görsel 2.18 'den de anlaşılacağı gibi aynı grupta yer alan her element atomunun
+son katmanında aynı sayıda elektron bulunmaktadır. Ancak aynı gruptaki her element
+atomunun katman sayısı farklıdır. Grupta yukarıdan aşağıya doğru inildikçe katman
+sayısı artar.
+Örneğin, 1A grubu elementlerinden hidrojen (H) elementi “1” katman ve “1”
+elektrona; lityum (Li) elementi “2” katman ve son katmanında “1” elektrona; sodyum
+(Na) elementi ise “3”katman ve yine son katmanında “1” elektrona sahiptir.
+67
+Kimya 1
+Aynı gruptaki elementlerin katman sayısı artsa da en dış katmanlar aynı elektron
+sayısına ve düzenine sahiptirler. Son katmandaki elektronlar elementin kimyasal
+özelliklerini belirler. Bu nedenle aynı gruptaki elementlerin kimyasal ve fiziksel birçok
+özelliği benzerdir.
+Bir elementin hangi periyotta bulunduğu da element atomunun katman-elektron
+dağılımıyla ilgilidir. Element atomunun sahip olduğu katman sayısı o elementin
+periyot numarasını verir. Örneğin bir element atomu 1 katmana sahipse o element 1.
+periyotta, 2 katmana sahipse 2. periyotta bulunur. Görsel 2.18 incelendiğinde
+magnezyum (Mg) element atomunun 3 katmanı olduğu görülür, bu nedenle Mg
+elementi 3. periyotta yer alır.
+Benzer şekilde, 3. periyot A grup elementleri olan sodyum (Na), magnezyum (Mg),
+alüminyum (Al), silisyum (Si) ve fosfor (P) element atomlarının sahip oldukları katman
+sayısı “3” tür. Katman sayısı değişmezken, son katmanda yer alan elektron sayıları birer
+elektron artmaktadır.
+ThisIsTestLineForAlgorithm
+3. Periyot Elementleri:
+Na
+Sodyum
+Mg
+Al
+Si
+Magnezyum Alüminyum Silisyum
+P
+S
+Cl
+Fosfor
+Kükürt
+Klor
+Ar
+Argon
+Uygulama 8 Aşağıdaki elementlerin her biri hangi grup ve periyottadır?
+a) Mg
+b) N
+c) F
+ThisIsTestLineForAlgorithm
+Çözüm a) Mg, üç katmana sahip olduğundan 3. periyottadır. Son katmanında 2
+elektron bulunduğundan 2A grubundadır.
+b) N, iki katmana sahiptir, 2. periyottadır; son katmanında 5 elektrona
+sahiptir, 5A grubundadır.
+c) F, 2. periyot, 7A grubundadır.
+68
+2.Ünite Atom ve Periyodik Sistem
+Bir element atomunun en fazla yedi katmanı olabileceğinden, periyodik sistemde de
+toplam yedi periyot bulunur.
+Bir elementin yalnızca periyodik sistemdeki yerine bakarak, özellikleri tahmin
+edilebilir. Periyodik sistem, elementlerin kimyasal aktifliği, elektrik iletme olasılığının
+olup olmadığı, sert veya yumuşak olduğu gibi pek çok özelliği kısa yoldan
+kullanıcılarına sunar. Belirli bir elementle ilgili hiçbir şey bilinmese bile, periyodik
+sistemdeki konumu ve diğer elementlerle olan grup ilişkisi nedeniyle tahminler
+yapılabilir. Örneğin, osmiyum elementi hakkında hiçbir şey bilmediğinizi farz edelim.
+ThisIsTestLineForAlgorithm
+Periyodik sistemdeki konumuna bakıldığında, demir ile aynı grupta yer aldığı
+görülür. Demirin yoğun ve sert bir metal olduğunu bilinmektedir. Osmiyumun da
+ThisIsTestLineForAlgorithm
+yoğun ve sert bir metal olduğu tahmin edilebilir.
+Elementler artan atom numaralarına göre sıralandıklarında, elementlerin kimyasal
+ve fiziksel özellikleri belirli aralıklarla periyodik bir tekrar gösterir. Sadece aynı
+grupta yer alan elementler değil, birkaç grupta birden yer alan elementler benzer
+özellik göstermektedir. Buna göre periyodik sistemde elementler periyot ve gruplara
+ayrılmanın yanı sıra çeşitli sınıflara da ayrılmıştır.
+ELEMENTLERİN PERİYODİK
+SINIFLANDIRILMASI
+SİSTEMDEKİ
+YERLERİNE
+GÖRE
+Periyodik sistemdeki elementler genel olarak;
+• metaller
+• ametaller
+• yarı metaller
+• soy gazlar olarak sınıflandırılabilir.
+Elementlerin çoğu metaldir. Metaller periyodik sistemin solunda yer alır. Sağ taraf
+ise metal olmayanlara aittir. Hem metallerin hem de ametallerin bazı özelliklerine
+sahip elementlere yarı metaller denir. En sağ tarafta da soy gazlar yer alır (Tablo 2.4).
+Aynı grupta yer alan elementlerin benzer özellik göstermesi gibi aynı sınıfta yer alan
+elementler de benzer fiziksel ve kimyasal özellik gösterir.
+69
+Kimya 1
+Tablo 2.4 Metal, yarı metal, ametal ve soy gazlar
+Metaller
+Metaller A grubu elementlerinin bir kısmı ile B grubu elementlerini içerir. Tablo 2.4’ te
+siyah renkle gösterilen kısımda yer alan elementler metaldir.
+Metallerin birçok özelliği benzerdir. Bunlar:
+• Oda sıcaklığında (cıva hariç) katıdırlar.
+•
+•
+•
+•
+•
+•
+Genellikle parlaktırlar.
+Erime noktaları yüksektir.
+Isı ve elektriği iyi iletirler.
+Metallere katı hâlde dövülerek, erimiş (sıvı) hâlde kalıplara dökülerek şekil verilebilir.
+Kimyasal tepkimelerinde ametallere elektron vererek artı (+) yüklü iyon oluştururlar.
+Metaller kendi aralarında alaşım oluştururlar.
+Ametaller
+Ametaller, periyodik sistemin sağ tarafında yer alıp, Tablo 2.4’ te yeşil renkle gösterilen
+kısımda yer alan elementlerdir.
+Ametaller;
+• Genellikle zayıf ısı ve elektrik iletkenliğine sahiptir.
+70
+2.Ünite Atom ve Periyodik Sistem
+• Oda koşullarında ametallerin bazıları katı, bazıları sıvı, bazıları da gaz hâlde bulunur.
+ThisIsTestLineForAlgorithm
+Örneğin oda sıcaklığında oksijen, azot gaz hâlde; brom sıvı, iyot ise katı hâldedir.
+• Mattırlar.
+ThisIsTestLineForAlgorithm
+• Kırılgan katı olma eğilimi nedeniyle, dövülüp şekil verilemez, tel ve levha hâline
+getirilemezler.
+• Canlı yapısında bol miktarda bulunurlar.
+• Kendi aralarındaki kimyasal tepkimelerde elektronlarını ortaklaşa kullanırlar.
+• Metallerle olan kimyasal tepkimelerde metallerden elektron alarak (-) yüklü iyon
+oluştururlar.
+Yarı Metaller
+Periyodik sistemde metallerle ametaller arasında yer alır (Tablo 2.4’ te pembe renkle
+gösterilen kısım). Yarı metaller 3A grubunun sol üstünden başlayıp 7A grubunun sağ alt
+köşesine uzanan zikzak çizgisi boyunca bulunurlar. Yarı metallere, yarı iletkenler de denir.
+Hem metallerin hem ametallerin bazı özelliklerini taşırlar. Yarı metallerin değişken
+özellikleri vardır, ancak genellikle şu özelliklere sahiptirler:
+• Özel koşullar altında elektrik iletirler.
+• Metalik bir parlaklığa sahip olabilirler.
+• Değişken yoğunluk, sertlik, iletkenlik özelliklerine sahiptirler.
+• Kırılgan değildirler. Tel ve levha hâline gelebilirler.
+• Kimyasal tepkimelerde metallerden elektron koparırlar, ametallerle ve kendi
+aralarında elektronlarını ortaklaşa kullanırlar.
+Soy gazlar
+8A grubu elementlerine soy gazlar denir (Tablo 2.4’ te mor renkle gösterilen kısım).
+Soy gaz atomlarının son katmanının elektron kapasitesi tam doludur. Bu nedenle kimyasal
+tepkimeye girmek istemezler. Soy gazlar diğer maddelerle etkileşmediği için güvenli bir
+şekilde kullanılırlar. Örneğin uçan balonlarda ve dalgıç tüplerinde Helyum (He), parlak
+neon lambalarında neon (Ne), floresan lambalarında argon (Ar) gazı kullanılır.
+9. Uygulama Aşağıdaki elementlerin her birini metal, ametal, yarı metal olarak
+sınıflandırınız. (Tablo 2.4’ teki periyodik sistemden yararlanabilirsiniz.)
+ThisIsTestLineForAlgorithm
+a) Be
+b) Cl
+Çözüm a) Berilyum (Be): metal
+c) Oksijen (O): ametal
+c) O
+ç) Si
+b) Klor (Cl) : ametal
+ç) Silisyum (Si) : yarı metal

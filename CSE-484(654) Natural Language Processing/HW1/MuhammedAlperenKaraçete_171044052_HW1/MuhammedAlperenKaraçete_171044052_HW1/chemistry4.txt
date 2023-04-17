@@ -1,0 +1,427 @@
+nitrik asit
+ve ısıdan uzak tutulmalıdır.
+Uygun mesafede durulmalı ve
+koruyucu giysi giyilmelidir.
+Yanıcı madde
+Ateşe, güneş ışığına ve ısıya
+Alev, kıvılcım ve ısı
+maruz kaldığında yanabilen
+kaynaklarından uzak
+maddelerdir.
+tutulmalıdır.
+Örnek: Etil alkol, hidrojen
+Zehirli Madde (Toksik)
+Solunduğunda ya da ağız yoluyla Kullanımı sırasında herhangi
+alındığında zehirleyici (toksik) bir şey yenilip içilmemelidir.
+38
+etkiye sahip maddelerdir.
+Vücutla temasından
+Ölümcül olabilir.
+kaçınılmalıdır. Gerektiğinde
+Örnek: Baryum klorat, nikotin
+tıbbi yardım alınmalıdır.
+1.Ünite Kimya Bilimi
+Temel Uyarı İşaretleri
+ThisIsTestLineForAlgorithm
+Anlamı
+Etkileri ve Önlemler
+Tahriş Edici Madde
+Temas durumunda vücutta aşırı
+Düşük şiddette sağlığa zararlı
+derecede hassasiyet meydana
+maddelerdir. Ciltte tahrişe sebep
+getirir ve daha sonra olumsuz
+olur.
+etkilerinin ortaya çıkmasına
+Örnek: Etil alkol
+neden olur. Alerjik reaksiyona
+neden olabilir.
+Aşındırıcı (Korozif) Madde
+Temas hâlinde kimyasal olarak
+canlı dokulara ciddi zararlar
+verebilen ya da tamamıyla tahrip
+edebilen maddelerdir. Ayrıca metal
+yüzeyleride aşındırır.
+Örnek: Hidroklorik asit, sülfürik asit
+Ciltte yanıklara, göz
+hasarlarına vb. yol açabilir.
+Bu tür maddelerle çalışırken
+solunmamalıdır, ciltle temas
+ettirilmemelidir. Teması hâlinde
+bol suyla yıkanmalıdır.
+Çevreye Zararlı Madde
+Çevreye olumsuz etkileri ani veya
+Kullanılırken gerekli koruyucu
+gecikmeli olarak ortaya çıkan veya
+tedbirler alınmalı, gübreler
+risk taşıyan maddelerdir.
+toprağın ihtiyacı olduğu kadar
+Örnek: Tarım ilaçları, gübreler
+kullanılmalı, fabrika atıkları
+arıtılmalı vb.
+Radyoaktif Madde
+Radyoaktif maddelerin yaydığı
+Atom çekirdeği kararlı olmayan
+ışınlar canlılar için büyük
+maddelerdir. Yüksek enerjili ışınlar
+tehlike oluşturur. Işın türüne
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+yayar.
+göre deride, dokularda ve
+Örnek: Uranyum
+genetik yapıda hasar oluşur.
+Kansere ve ölümlere neden olur.
+Temas hâlinde giysiler hemen
+çıkarılmalı ve duş alınmalı,
+ayrıca radyoaktif madde ve
+giysiler uzman kişiler tarafından
+yaşam ortamlarından
+uzaklaştırılmalıdır.
+Tablo1.4 Temel uyarı işaretleri ve anlamları
+39
+Kimya 1
+KİMYA LABORATUVARLARINDA UYULMASI GEREKEN İŞ SAĞLIĞI VE
+GÜVENLİĞİ KURALLARI
+Kimyasal maddelerle laboratuvar ortamında da karşı karşıyayız. Bu tür maddelerle çalışırken çeşitli güvenlik önlemleri alarak bu maddelerin aşındırıcı, yakıcı, zehirleyici vb. zararlarından korunabiliriz. Unutulmamalıdır ki her uğraşın bir tehlikesi olabilir. Özellikle
+kimyada uğraşılan maddelerin en küçük bir miktarı bile çok tehlikeli olabilecekken
+tonlarca miktarı tehlike içermeyebilir. Ya da bir kimyasal madde suyla yıkanarak
+uzaklaştırılabilecekken başka bir kimyasal madde tamamen zararlı hâle gelebilir. Bunun
+gibi örnekleri çoğaltmak mümkündür. Bunun için laboratuvarda uyulması gereken
+zorunlu kurallar vardır. Bunlardan bazıları şunlardır:
+• İnsan sağlığına zararlı kimyasallar ve laboratuvar kazalarında ilk yardım hakkında detaylı bilgiler edinilmelidir.
+• Laboratuvarda herhangi bir şey yenilip içilmemeli, ağıza herhangi bir şey alınmamalı
+ve çalışırken eller yüze sürülmemelidir.
+• Kullanılan her bir eşya, alet ve cihaz yöntemine uygun biçimde temizlenerek yerlerine
+kaldırılmalıdır. Atık maddeler doğrudan lavabolara dökülmemelidir.
+• Laboratuvarı yönetenlerin izni olmaksızın hiçbir madde ve malzeme laboratuvardan
+dışarı çıkarılmamalıdır.
+• Kimyasal maddeler gelişigüzel birbirine karıştırılmama lıdır.
+• Kimyasal maddeler risk gruplarına ve saklama koşullarına
+göre havalandırma sistemli ayrı oda, dolap veya depolarda
+ThisIsTestLineForAlgorithm
+bulundurulmalıdır.
+• Farklı kimyasal maddelerin şişelerinin kapak veya tıpa ları
+birbiriyle değiştirilmemelidir.
+Görsel 1.45 Kimyasal
+malzemeler
+• Asitler ve zehirli gaz içeren maddelerle çeker ocakta çalışılmalıdır.
+ThisIsTestLineForAlgorithm
+• Asit, baz gibi aşındırıcı, yakıcı maddeler deriye damladığı veya sıçradığı hâllerde
+derhal bol miktarda su ile yıkanmalıdır.
+• Pipetleme yapılırken kesinlikle üflenmemeli ya da ağıza çekilmemelidir.
+• Etil alkol gibi yanıcı, tutuşturucu maddeler beki alevi çevresinden uzak tutulmalıdır.
+Deney esnasında önlük, gözlük, eldiven ve gerekiyorsa maske kullanılmalıdır.
+40
+1.Ünite Kimya Bilimi
+ThisIsTestLineForAlgorithm
+KIMYA LABORATUVARINDA KULLANILAN BAZI TEMEL MALZEMELER
+Laboratuvarlarda kimyasal maddelerin olumsuz etkilerinden korunmak için alınan güvenlik önlemlerinin yanı sıra laboratuvar malzemelerini tanımak ve hangi amaçla kullanıldığını bilmek de önemlidir. Aşağıda kimya laboratuvarlarında kullanılan bazı temel malzemelerin tanıtımı, kullanım amacı ve görseli verilmiştir.
+ThisIsTestLineForAlgorithm
+Beherglas
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+Düz bir tabanı ve maddeyi dökmeye uygun küçük bir ağzı bulunan silindir şeklinde cam bir kaptır. Çeşitli ebatlarda bulunur.
+Kimya laboratuvarında çözelti hazırlama, ısıtma ve kristallendirme gibi işlemlerde kullanılır. Yüksek sıcaklığa dayanıklıdır.
+Erlenmayer
+Koni biçimli bir gövdeye, silindir şeklindeki bir boyuna ve düz
+bir tabana sahip olan laboratuvar malzemesidir. Genellikle
+üzerinde ölçüm işaretleri vardır. Koni biçimi, buharlaşmadan
+kaynaklanan kayıpları azaltır ve sıvıyı karıştırırken dökülmeleri
+önlemeye yardımcı olur. Çözelti hazırlama ve saklamada, kristalizasyon işlemlerinde kullanılır. Çeşitli ebatlarda bulunur.
+Dereceli silindir (Mezür)
+Saf sıvı ve çözeltilerin hacimlerini ölçmek için kullanılan, üzeri
+mL ile ölçülendirilmiş uzun bir silindir şeklinde cam veya plastik
+malzemedir. Genellikle, 50-1000 mL arasındaki hacimlerde
+kullanılır.
+Pipet
+Sıvıları bir yerden başka yere aktarmak için kullanılan, küçük
+çaplı ama uzun cam tüplerdir. Pipetler bazen ölçüm için
+kullanılır.
+Huni
+ThisIsTestLineForAlgorithm
+Maddeleri dökmeden bir kap içine akıtmaya yardımcı olur.
+Geniş bir ağız ve dar bir borudan oluşur. Huniler kimya laboratuvarında, karışımı ayırmak için genellikle filtrelerle birlikte
+kullanılır.
+41
+Kimya 1
+Balon Joje
+Belirli derişimlerde standart çözeltiler hazırlamak için kullanılan cam malzemelerdir. İnce boyun kısmında hacmini net
+ThisIsTestLineForAlgorithm
+olarak gösteren çizgi bulunur. Çeşitli ebatlarda bulunur.
+Cam Balon
+İçinde bazı kimyasal tepkimelerin gerçekleştirildiği cam bir
+kaptır. Ayrıca ısıtma ve kaynatma işlemlerinde geri soğutucu takılarak damıtılacak malzemenin konduğu kaptır. Çeşitli
+ebatlarda bulunur.
+Ayırma Hunisi
+Sıvı-sıvı heterojen karışımların ayrılmasını sağlayan cam
+malzemelerdir. Cam kabın alt kısmında bulunan musluk ile
+kontrollü olarak önce yoğun maddeler olmak üzere karışımı
+oluşturan sıvılar birbirinden ayrılır. Örneğin zeytinyağı-su
+karışımının bileşenlerine ayrılmasında kullanılır.
+Büret
+Özellikle analitik kimya laboratuvarlarında, asit baz (titrasyon) deneylerinde kullanılan dereceli silindirik bir cam malzemedir. Üzerinde sıvının hacmini ölçmek için mL ölçekli çizgiler bulunur. Pipetten farklı olarak ucunda sıvının kontrollü
+olarak alınmasını sağlayan bir musluk bulunur.
+Deney tüpü
+İnce uzun, bir ucu açık diğer ucu kapalı küçük çaplı silindirik
+test tüpleridir. Küçük miktarlarda sıvı kimyasalların konularak karıştırıldığı cam veya plastik tüplerdir. Maddelerin birbiri ile etkileşimini görmek için kullanılır.
+42
+1.Ünite Kimya Bilimi
+ÖZET
+Kimya hakkında bir şeyler bilmek, günlük yaşantımıza yeni bir boyut kazandırır çünkü doğada bulunan her şey madde ya da maddelerin karışımıdır. Bu nedenle insanlığın
+varoluşuyla başlayan maddeye olan ilgisi sonucu birçok kültürde (Mezopotamya, Çin,
+Hint, Mısır, Yunan, Orta Asya ve İslam uygarlıkları) yetişmiş olan doğa bilginleri ve
+fel-sefecilerin (Empedokles, Democritus, Aristo, Câbir bin Hayyan, Ebubekir er-Razi,
+Robert Boyle, Antoine Lavoisier) katkısıyla birçok kazanımlar elde edilmişti r.
+Bu çalışmalar bir dönem ölümsüzlük iksirini arama ve değersiz metalleri altına çevirme uğraşısı (simya) olmuş olsa da o çalışmaların sonucu bugünkü kimya bilimi
+oluşmuştur. Ancak simya çalışmaları bilimsel basamakları içermeyip daha çok deneme
+yanılmalar içermektedir.
+Kimya ise maddelerin özelliklerini, yapısını ve dönüşümlerine eşlik eden enerji alışverişlerini, maddeyi oluşturan taneciklerin neden ve nasıl bir arada kalabildiğini ve üretim yöntemlerini konu alan bilim bir dalıdır.
+Kimya bilim dalının başlıca ana bilim dalları (disiplinleri): Biyokimya, analitik kimya,
+organik kimya, anorganik kimya, fizikokimya, polimer kimyası ve endüstriyel kimyadır.
+Kimya alan mesleklerinden bazıları ise kimya mühendisliği, metalurji mühendisliği,
+eczacı, kimyager, kimya öğretmenliğidir.
+Kimya birçok çalışma alanıyla da ilgilidir. Bunlardan bazıları: İlaç, gübre, petrokimya,
+arıtım ve boya-tekstildir.
+Kimyanın Sembolik Dili
+ThisIsTestLineForAlgorithm
+Günlük hayatta sıklıkla etkileşimde bulunulan elementler ile bilinen diğer tüm
+element adları sembollerle ifade edilir. Bileşikler ise element sembollerinden oluşan formüllerle gösterilmektedir. Ancak sembollerin oluşturulduğu element adları kullanılarak birçok bileşik isimlendirilse de, bazı bileşiklerin özel isimleri öyle benimsenmiştir ki
+hâlâ bu isimler kullanılmaya devam edilmektedir.
+Kimya Uygulamalarında İş Sağlığı ve Güvenliği
+Kimyasal maddelerin kullanımı, elde edilmesi, taşınması ve devam eden kimyasal
+madde araştırmaları sırasında bazı olumsuz sonuçlarla karşı karşıya kalınabilir. Bu nedenle, kullanılabilecek malzemeler, çalışma ortamı, koruyucu kıyafetler ve çalışılacak
+ThisIsTestLineForAlgorithm
+kimyasal maddelerin özelliklerini önceden bilmek çok önemlidir.
+43
+Kimya 1
+ThisIsTestLineForAlgorithm
+1. ÜNİTE ÖLÇME VE DEĞERLENDİRME SORULARI
+A. Aşağıda verilen soruları cevaplandırınız.
+1. Simya ile kimya arasındaki farklar nelerdir?
+ThisIsTestLineForAlgorithm
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+2. Kimya bilimine katkı sağlayan bilim insanlarından 3 tanesinin adını yazınız.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+ThisIsTestLineForAlgorithm
+...................................................................................................................................
+3. Aşağıda verilen elementlerin sembollerini yazınız.
+ThisIsTestLineForAlgorithm
+A) Bakır: .................................
+B) Hidrojen: ............................
+C) Flor: ...................................
+D) Sodyum: ............................
+4. Aşağıdakilerden hangileri element sembolü, hangileri bileşik formülüdür?
+A) He .......................................................
+B) H2SO4 .....................................................
+C) H2O .......................................................
+D) NaCl ......................................................
+E) Pt ...........................................................
+F) CH3COOH ...........................................
+G) Cu ..........................................................
+5. Kimya disiplinlerinden üç tanesini yazınız.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+44
+ThisIsTestLineForAlgorithm
+1.Ünite Kimya Bilimi
+ThisIsTestLineForAlgorithm
+6. Kimyanın çalışma alanlarından üç tanesini yazınız.
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+7. Kimya laboratuvarında kullanılan ayırma hunisi hangi amaçla kullanılır?
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+B. Aşağıda verilen çoktan seçmeli soruları cevaplayınız.
+1. Aşağıdakilerden hangisi simya zamanında keşfedilmemiştir?
+A) İmbik
+B) Barut
+C) Plastik
+D) Nitrik asit
+2. I. Ebubekir er-Razi
+II. Aristo
+III. Robert Boyle
+Yukarıda verilen kişilerden hangisi simyadan kimyaya geçiş sürecine katkı
+sağlamıştır?
+ThisIsTestLineForAlgorithm
+A) Yalnız II
+B) Yalnız III
+C) I ve II
+D) I, II ve III
+3. Aşağıdaki saf maddelerden hangisi bir bileşiktir?
+A) Karbon
+B) Amonyak
+C) Altın
+D) Oksijen gazı
+4. Aşağıdaki elementlerden hangisinin sembolü iki harften oluşur?
+A) Berilyum
+B) Hidrojen
+C) Karbon
+D) Flor
+5. Aşağıdaki saf maddelerden hangisi elementtir?
+A) H2O
+B) CO
+C) NH3
+D) Mg
+45
+Kimya 1
+6. Aşağıdakilerden hangisinde bileşiklerin ad ve formülleri yanlış eşleştirilmiştir?
+Geleneksel Adı
+A) Zaç yağı
+B) Kezzap
+C) Sud kostik
+D) Sönmemiş kireç
+ThisIsTestLineForAlgorithm
+Formülü
+H2SO4
+NH3
+ThisIsTestLineForAlgorithm
+NaOH
+ThisIsTestLineForAlgorithm
+CaO
+7. Tarımda kullanılan gübreler ile ilgili,
+I.
+Bitkinin ihtiyaç duyduğu besini sağlayan maddelerdir.
+II. Toprağın su tutma özelliğini artırır.
+III. Gübreler organik ya da inorganik olabilir.
+yargılarından hangisi doğrudur?
+A) Yalnız I
+C) I ve III
+B) I ve II
+D) I, II ve III
+8. Maddelerin daha çok nicel olarak incelemesini yapan kimya disiplini
+aşağıdakilerden hangisidir?
+B) Organik kimya
+A) Analitik kimya
+D) Polimer kimyası
+C) Fizikokimya
+9. Aşağıdakilerden hangisi kimyanın disiplinlerinden biri değildir?
+B) Fiziko
+A) Anorganik
+C) Kartografya
+D) Organik
+10. Aşağıdakilerden hangisi sağlık ve güvenlik amaçlı kullanılan zehirli madde
+uyarı işaretidir?
+A)
+B)
+C)
+D)
+11. Aşağıdakilerden hangisi kimya laboratuvarında asit-baz (titrasyon)
+tepkimelerinde kullanılan bir alettir?
+A) Beherglas
+B) Büret
+C) Cam balon
+D) Huni
+46
+1.Ünite Kimya Bilimi
+12. Aşağıdakilerden hangisi insan sağlığı ve çevre üzerine zararlı etkileri olan
+maddelerden birisidir?
+ThisIsTestLineForAlgorithm
+A) Kurşun
+B) Kalsiyum
+C) Demir
+D) Magnezyum
+C. Aşağıdaki tabloda verilen kelimelerin uygun olanlarını noktalarla belirtilen
+boşluklara yazınız.
+simya
+kimya
+zaç yağı
+arıtım
+Cabir bin Hâyyan
+petrokimya
+demir
+endüstriyel kimya
+Antoine Lavoisier
+1. ………………’ da deneyler ve deneyimler ön plandadır ancak bunlar
+çoğunlukla tesadüfe dayalıdır.
+2. Yaygın adı ………………….. olan bileşiğin formülü H2SO4'tür.
+3. ……………..... kristalleşme, damıtma ve buharlaşma gibi birçok terimi
+ve tekniği kimyaya kazandırmış, imbiği geliştirmiştir.
+maddelerin özelliklerini, yapısını ve dönüşümlerine
+eşlik eden enerji alışverişlerini, maddeyi oluşturan taneciklerin neden
+ThisIsTestLineForAlgorithm
+ve nasıl bir arada kalabildiğini konu alan bir bilim dalıdır.
+4. ………………
+5. …………………modern kimyanın babası olarak anılan Fransız bir kimyagerdir.
+6. Petrol, ………………………. sanayi için önemli bir hammadde kaynağıdır.
+ThisIsTestLineForAlgorithm
+7. ……………….., maddelerin ve materyallerin geliştirilmesi, imalat süreçleri,
+atıkların yok edilmesi ve geri dönüşümü ile ilgilidir.
+8. ……………. bir ürünün istenen özelliklerinin kalması, istenmeyen
+özelliklerden arındırılması olarak tanımlanır.
+9. ……………… kanda oksijeni taşıyan kırmızı kan hücrelerinde bulunan
+hemoglobin üretimi için kullanır.
+47
+2.
+ÜNİTE
+ATOM VE
+PERIYODIK SISTEM
+1. ATOM MODELLERİ
+2. ATOMUN YAPISI
+3. PERİYODİK SİSTEM
+NELER ÖĞRENECEKSİNİZ?
+Bu üniteyi tamamladıktan sonra;
+• Geçmişten günümüze atom modellerinin gelişim sürecini
+fark edecek,
+• Atomun yapısını açıklayabilecek,
+• Elementlerin periyodik sistemdeki yerleşim esaslarını
+kavrayabileceksiniz.
+ANAHTAR KAVRAMLAR
+atom, atom modeli, elektron, proton nötron,
+metal, ametal, yarı metal, izotop izobar,
+izoelektronik, emisyon (yayma), absorbsiyon
+(soğurma), izoton, periyodik sistem, atom
+yarıçapı, elektron ilgisi, iyonlaşma enerjisi, iyon
+ektronegatiflik, teori, grup, periyot
+Kimya 1
+2.1. ATOM MODELLERİ
+Evrenin bir parçası olan Güneş sistemimiz bizim için oldukça büyük, elementleri oluşturan atom ise bir o kadar küçüktür. Karmaşık olan ve de çok
+büyük ve çok küçük olan şeyleri incelemek ve anlamak oldukça zordur. Bu nedenle, bilim insanları yaptıkları çalışmalarda edindikleri bilgi ve deneyimlerini
+daha kolay anlatmak için modeller kullanırlar.
+Modeller gerçek olanın anlaşılabilir bir temsili, taklididir. Modeller gerçek
+olanla aynı boyutta olabileceği gibi, oranları aynı ama boyutları farklı da
+olabilir. Örneğin Dünyamızın bir modeli Dünyamızdan çok küçüktür. Atom
+modelleri ise tam tersine, gerçek atomdan çok çok büyüktür. Modeller bilimdeki
+gelişmelerle birlikte değişebilir ya da tamamen yeni bir model oluşturulabilir.
+Modern kimya döneminde atomla ilgili birçok buluş yapılmıştır. Bu
+buluşları sunabilmek, atomun yapısını ifade etmek için birçok atom modeli
+geliştirilmiştir. Bu bölümde John Dalton (Con Daltın), Joseph John Thomson
+(Cosef Con Tamsın) ve Ernest Rutherford (Örnıst Radırford) gibi önde gelen
+bilim adamlarının geliştirdikleri atom modellerini inceleyecek günümüzde
+kabul edilen atom teorisine olan katkılarını anlamaya çalışacağız.
+Dalton Atom Modeli
+1800'lü yılların başında John Dalton, maddenin her halinin (katı, sıvı,
+gaz) küçük parçacıklardan olıştuğunu öne sürmüştür. Dalton’ a göre;
+Görsel 2.1 John
+Dalton
+• Her element, atom olarak adlandırılan son derece küçük
+parçacıklardan oluşur.
+• Atomlar yaratılamaz, yok edilemez veya bölünemez.
+• Aynı elementin atomları özdeştir.
+• Maddeler aynı ya da farklı atomların birleşmesiyle oluşur.
+• Farklı elementlerin atomları farklı özelliklere sahiptir,
+örneğin kütleleri ve verdiği kimyasal tepkimeler farklıdır.
+• Bir elementin atomları, kimyasal tepkimelerde farklı atom
+türlerine dönüştürülmez.
+50
+2.Ünite Atom ve Periyodik Sistem
+Dalton, atomu içi dolu ve bölünemez kürelere benzeterek atom
+için yandaki görseldeki (Görsel 2.2) gibi bir model kullanmıştır.
+Thomson Atom Modeli
+Görsel 2.2 Dalton
+atom modeli
+Joseph John Thomson, Dalton’un atom modelinde belirttiği gibi
+atomun içi dolu ve bölünemez küreler olmadığını ispatlamıştır.
+1897’ de “ Crookes tüpü” (bir gaz boşaltma tüpü) ile yaptığı

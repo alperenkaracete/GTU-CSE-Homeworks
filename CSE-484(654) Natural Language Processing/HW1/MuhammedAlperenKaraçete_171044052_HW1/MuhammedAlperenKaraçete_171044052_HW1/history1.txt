@@ -1,0 +1,425 @@
+TARİH 1
+YAZAR
+ThisIsTestLineForAlgorithm
+Yüksel KAPLAN
+ANKARA - 2022
+MEB HAYAT BOYU ÖĞRENME GENEL MÜDÜRLÜĞÜ
+YAYINLARI AÇIK ÖĞRETİM OKULLARI
+Dil Uzmanı
+Bülent Kenan ERKAN
+Görsel Tasarım Uzmanı
+Fatih SAĞLAM
+Grafik Tasarım Uzmanı
+Halil Oktay ÜVER
+Copyright c MEB
+Her hakkı saklıdır. MillÎ Eğitim Bakanlığına aittir. Tümü ya da bölümleri izin
+alınmadan hiçbir şekilde çoğaltılamaz, basılamaz ve dağıtılamaz.
+İSTİKLÂL MARŞI
+Korkma, sönmez bu şafaklarda yüzen al sancak;
+Sönmeden yurdumun üstünde tüten en son ocak.
+O benim milletimin yıldızıdır, parlayacak;
+O benimdir, o benim milletimindir ancak.
+Bastığın yerleri toprak diyerek geçme, tanı:
+Düşün altındaki binlerce kefensiz yatanı.
+Sen şehit oğlusun, incitme, yazıktır, atanı:
+Verme, dünyaları alsan da bu cennet vatanı.
+Çatma, kurban olayım, çehreni ey nazlı hilâl!
+Kahraman ırkıma bir gül! Ne bu şiddet, bu celâl?
+Sana olmaz dökülen kanlarımız sonra helâl.
+Hakkıdır Hakk’a tapan milletimin istiklâl.
+Kim bu cennet vatanın uğruna olmaz ki feda?
+Şüheda fışkıracak toprağı sıksan, şüheda!
+Cânı, cânânı, bütün varımı alsın da Huda,
+Etmesin tek vatanımdan beni dünyada cüda.
+Ben ezelden beridir hür yaşadım, hür yaşarım.
+Hangi çılgın bana zincir vuracakmış? Şaşarım!
+Kükremiş sel gibiyim, bendimi çiğner, aşarım.
+Yırtarım dağları, enginlere sığmam, taşarım.
+Ruhumun senden İlâhî, şudur ancak emeli:
+Değmesin mabedimin göğsüne nâmahrem eli.
+Bu ezanlar -ki şehadetleri dinin temeliEbedî yurdumun üstünde benim inlemeli.
+Garbın âfâkını sarmışsa çelik zırhlı duvar,
+Benim iman dolu göğsüm gibi serhaddim var.
+Ulusun, korkma! Nasıl böyle bir imanı boğar,
+Medeniyyet dediğin tek dişi kalmış canavar?
+O zaman vecd ile bin secde eder -varsa- taşım,
+Her cerîhamdan İlâhî, boşanıp kanlı yaşım,
+Fışkırır ruh-ı mücerret gibi yerden na’şım;
+O zaman yükselerek arşa değer belki başım.
+Arkadaş, yurduma alçakları uğratma sakın;
+Siper et gövdeni, dursun bu hayâsızca akın.
+Doğacaktır sana va’dettiği günler Hakk’ın;
+Kim bilir, belki yarın, belki yarından da yakın
+Dalgalan sen de şafaklar gibi ey şanlı hilâl!
+ThisIsTestLineForAlgorithm
+Olsun artık dökülen kanlarımın hepsi helâl.
+Ebediyyen sana yok, ırkıma yok izmihlâl;
+Hakkıdır hür yaşamış bayrağımın hürriyyet;
+Hakkıdır Hakk’a tapan milletimin istiklâl!
+Mehmet Âkif ERSOY
+GENÇLİĞE HİTABE
+Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet
+muhafaza ve müdafaa etmektir.
+ThisIsTestLineForAlgorithm
+Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel, senin en kıymetli
+hazinendir. İstikbalde dahi, seni bu hazineden mahrumetmek isteyecek dâhilî ve
+hâricî bedhahların olacaktır. Bir gün, istiklâl ve cumhuriyeti müdafaa
+mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin imkân
+ve şeraitini düşünmeyeceksin! Bu imkân ve şerait, çok namüsait bir mahiyette
+ThisIsTestLineForAlgorithm
+tezahür edebilir. İstiklâl ve cumhuriyetine kastedecek düşmanlar, bütün dünyada
+emsali görülmemiş bir galibiyetin mümessili olabilirler. Cebren ve hile ile aziz
+vatanın bütün kaleleri zapt edilmiş, bütün tersanelerine girilmiş, bütün orduları
+dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şeraitten
+daha elîm ve daha vahim olmak üzere, memleketin dâhilinde iktidara sahip olanlar
+ThisIsTestLineForAlgorithm
+gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu iktidar sahipleri
+şahsî menfaatlerini, müstevlîlerin siyasî emelleriyle tevhit edebilirler. Millet, fakr u
+zaruret içinde harap ve bîtap düşmüş olabilir.
+Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerait içinde dahi vazifen, Türk
+istiklâl ve cumhuriyetini kurtarmaktır. Muhtaç olduğun kudret, damarlarındaki
+asil kanda mevcuttur.
+Mustafa Kemal Atatürk
+MUSTAFA KEMAL ATATÜRK
+Mustafa Kemal ATATÜRK
+ThisIsTestLineForAlgorithm
+İÇİNDEKİLER
+DÜNDE KALANI ÖĞRETEN BİLİM
+ÜNİTE
+TARİH
+1.
+1.1 TARİH VE ZAMAN
+10
+a) Geçmişi, bizim için günümüze taşıyan tarih bilimi
+10
+b) Tarihe yardım eden bilimler
+13
+1.2 TARİH ÖĞRENMENİN ÇOK YÖNLÜ YARARLARI
+16
+1.3 ZAMANI ANLAMLANDIRMA
+19
+Neler Öğrendik?
+23
+ÖLÇME VE DEĞERLENDİRME SORULARI
+24
+ThisIsTestLineForAlgorithm
+2.
+ÜNİTE
+ANADOLU'DA İNSANLIĞIN İLK
+DÖNEMLERİ
+2.1.ANADOLU’DA YAŞAMIN İLK DÖNEMLERİ
+28
+a) Anadolu’nun elverişli coğrafi yapısı ve buzul çağı sonrasında hayat
+28
+b) Yazının icadından önceki zamanların kültür öğeleri
+33
+c) Yazının icadından önce zamanın dönemlendirilmesi
+34
+2.2. YAZININ İCADI
+a) İnsanlık tarihinde yazının yarattığı değişimler
+35
+35
+b) Eski Çağ kadim bilimlerinin modern zamanlar
+bilimlerinden farklılıkları
+2.3. İLK ÇAĞ'IN MEDENİYET HAVZALARI
+36
+39
+a) İlk çağ medeniyetleri tarih şeridi
+39
+b) İlk çağ’ın önemli medeniyet havzaları
+40
+2.4. COĞRAFYA VE İKLİMİN İNSANLIĞA ETKİLERİ
+44
+a) İlk insanların hayat tarzı ve geçim kaynakları
+45
+b) İlk Çağ’da, zorlu yaşam mücadelesi içinde göç olayları
+46
+c) İlk Çağ’ın tüccar kavimleri
+52
+2.5. SİYASİ GÜÇ VE SİYASİ ORGANİZASYON TÜRLERİ
+55
+a) Siyasi organizasyonlar
+55
+b) Siyasi gücün meşruiyet kaynakları ve maddi kaynakları
+60
+2.6. İLK ÇAĞ’DA HUKUK SİSTEMLERİNİN DİNÎ VE
+BEŞERÎ KAYNAKLARI
+62
+ThisIsTestLineForAlgorithm
+Neler Öğrendik?
+ThisIsTestLineForAlgorithm
+66
+ÖLÇME VE DEĞERLENDİRME SORULARI
+68
+3.
+ÜNİTE
+SÜPRİZLERLE DOLU ORTA ÇAĞ
+3.1. ORTA ÇAĞ’DAKİ BELLİ BAŞLI SİYASİ VE SOSYAL YAPILAR
+72
+a) Orta Çağ’daki başlıca siyasi gelişmelere ait tarih şeridi
+72
+b) Orta Çağ’da siyasi yapılar ve aralarındaki farklılıklar
+73
+3.2. ORTA ÇAĞ'DA EKONOMİK FAALİYETLER
+82
+a. Orta Çağ’da kentlerde meydana gelen değişiklik ve
+gelişmelerin siyasi ve sosyal organizasyonlar üzerindeki etkileri
+82
+b. Asya ve Avrupa’da ticaret hayatı
+86
+c. Ticaret yolu kavgaları
+ThisIsTestLineForAlgorithm
+89
+3.3 ORTA ÇAĞ’DA ASKERÎ ORGANİZASYONLAR
+VE TOPLUMSAL YAŞAM
+91
+3.4 ORTA ÇAĞ'DA HUKUKÎ DÜZENLEMELER
+94
+Neler Öğrendik?
+98
+ÖLÇME DEĞERLENDİRME SORULARI CEVAP ANAHTARI
+102
+SÖZLÜK
+103
+KAYNAKÇA
+108
+w
+1.
+ÜNİTE
+DÜNDE KALANI ÖĞRETEN
+BİLİM, TARİH
+1.
+Tarih ve Zaman
+2.
+Tarih Öğrenmenin Çok Yönlü Yararları
+3.
+Zamanın Adı
+Geçmişler geleceğe suyun suya benzemesinden daha çok benzer
+ThisIsTestLineForAlgorithm
+İbn-i Haldun
+NELER ÖĞRENECEKSİNİZ ?
+• Bir araştırma alanı ve bilim dalı olarak tarihin konusunu, kapsamını ve diğer
+ThisIsTestLineForAlgorithm
+bilim dallarıyla ilişkilerini,
+• Tarih öğrenmenin amaç ve yararlarını,
+• Zamanı anlama ve anlamlandırmaya yönelik farklı yaklaşımları, öğreneceğiz.
+ThisIsTestLineForAlgorithm
+ANAHTAR KELİMELER
+Tarih
+Uygarlık
+Tarihe yardımcı bilimler
+Kimlik kazanma
+Anakronizm
+Zaman
+Takvim
+1. Ünite
+Dünde Kalanı Öğreten Bilim Tarihi
+Hazırlık
+• Tarih biliminin, öğrenim hayatınızda bir ders olmasının dışında, sizin için anlamı
+ve değeri nedir? Açıklayınız.
+• Tarihi bilgi, kanaat ve görüşler olmaksızın bireysel ve toplumsal hayat nasıl olurdu?Düşüncelerinizi belirtiniz.
+• Tarihi referanslar ve yaşanmışlıkları bilmeden sadece güncel ihtiyaç ve istekler
+üzerine, ulusal menfaatleri gözetleyici uluslararası ilişkiler kurulabilir mi? Açıklayınız.
+Tarih ve Zaman
+a) Geçmişi, Bizim İçin Günümüze Taşıyan Tarih Bilimi
+Tarih, geçmişteki insan topluluklarının yaşayışlarını, birbirleriyle olan
+ilişkilerini, kültür ve uygarlıklarını yer
+zaman göstererek, belgelere dayanarak,
+tarafsız şekilde neden-sonuç ilişkisi içerisinde inceleyen bilimdir.
+İnsanoğlu yaşadığı coğrafyanın
+ThisIsTestLineForAlgorithm
+sunduğu imkan ve tehditlerle dolu
+Görsel 1.1.1: Geçmişi bizim için günümüze ortamlarda varlığını sürdürme, karnını
+doyurma ve barınma amacı yönünde
+taşıyan bilim dalı tarih
+hayat mücadelesini yürütegelmiştir. Bu
+çerçevede ulaşılan maddi ve manevi varlıklarla, bilim, sanat ve kültürel anlamda ulaşılan
+aşama ve değerlerin tümü, uygarlık olarak adlandırılmıştır. Uygarlıkları yaratanlar,
+yaşam alanlarının özelliklerine göre birbirinden farklı deneyimler yaşamışlar ve bu de-
+10
+Tarih 1
+1. Ünite
+ThisIsTestLineForAlgorithm
+Dünde Kalanı Öğreten Bilim Tarihi
+neyimlerini kullanarak gelişme serüvenini sürdürmüşlerdir. Eski Mısır’dan
+Sümerler’e, Hititler ’den Frigler’e, ya da Urartular’dan Lidya ve İon uygarlıklarına
+kadar Ön Asya, Orta Doğu ve Anadolu bölgelerinde yeşeren uygarlıklar, akarsu
+boylarından çöllere, ormanlardan dağlık arazilere, iç ovalardan denizlere ve adalara
+kadar çok farklı coğrafi ortamlarda sürdürdükleri yaşantıları sırasında birbirinden
+farklı ve önemli gelişmeler sağlamışlardır. İşte yazının bulunmasından, tarım
+sistemlerinin gelişmesine, bugün bile gizemi koruyan mimari eserlerden ulaşım
+alanında sağlanan ilerlemelere ve bilim dünyasındaki (özellikle matematik ve
+astronomi alanındaki) gelişmelere kadar bir dizi tüm önemli aşamalar tarihin
+konusudur (Görsel 1.1.2 Tarihin konusu infogragisi).
+Görsel 1.1.2 Tarihin konusu infografisi
+Tarihe duyulan ihtiyaç ve ona yüklenen çok yönlü işlevlerden dolayı, ne tür bir
+bilim dalı olduğu ya da bir bilim dalı olup olmadığı konusundaki tartışmalar, yüzyılı
+aşkın bir süredir gündemdedir.
+Tarihi; 19. yüzyıldan beri pozitif bilimlerin önem kazanmaya başlaması ile bilimsel
+esaslara yerleştirme çabaları görülür. Günümüz bilim anlayışında pek çok yöntem ve
+tekniğin kullanıldığı farklı bilim dalları ortaya çıkmıştır. Bu bilim alanlarının yanında, tarih bilimi de onların yöntemlerinden faydalanmaktadır. Bugün çalışma alanları
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+giderek artan fen ve sosyal bilimleri arasındaki alan giderek daralmaktadır. Kuşkusuz
+bu ortak çalışma alanını insan ve çevre ilişkisi oluşturmaktadır. Artık insan ile çevre
+etkileşimini bütün bilim dalları ortaklaşa çözmeye çalışmaktadır.
+Tarih 1
+11
+1. Ünite
+Dünde Kalanı Öğreten Bilim Tarihi
+Pozitif bilimlerin özelliğinin
+başında deneysellik gelir. Tarihsel
+olaylar, her zaman deneysel
+bilimlerin laboratuvar verileri gibi
+ThisIsTestLineForAlgorithm
+aynı sonuca ulaşmazlar. Bu nedenle
+her olay; geçtiği zaman, mekân ve
+ThisIsTestLineForAlgorithm
+yaşanılan kişilerce kendi içinde özel
+koşullara sahiptir.
+Tarihsel olayların tekrarı yoktur.
+Fakat bu, tarih bilimini tamamıyla
+pozitif bilimlerin dışına itelemez.
+ThisIsTestLineForAlgorithm
+Zira tarihçi ve pozitif bilimciler
+aradıkları cevapları bulmak amacı
+ile ortak bilimlerden yararlanmak
+konusunda birleşmişlerdir.
+Tarih Biliminin Bakış Açısı
+Deney ve genelleme yapılamaması nedeniyle
+tarih geleneksel olarak edebiyat, güzel sanatlar
+vb. gibi beşerî bilimler arasında sayıla gelmiştir.
+Beşerî bilimlerin temelindeki ilke, pratik yol
+gösterici sonuçlar çıkarmak değil, insanlığın
+düşündükleri ve yaptıklarının değerli kabul
+edilerek, tanınması ve korunmasıdır. Geçmişteki
+olayların yeniden inşa edilmesi dikkate değer bir
+çabadır. Tarihçi; edebiyatçı, sanat tarihçisi, halk
+bilimci vb. gibi kültürel mirasın aktarıcısıdır.
+Tarihsel mirası tanıtarak ve koruyarak insanlığı
+anlamamıza yardımcı olur. Stanford bunu
+açıklamak için “at örneğini” vermektedir. Bir atı
+bir fizikçi, bir zoolog, bir veteriner, bir ekonomist,
+bir kimyacı, bir ressam incelerse, hepsi de atı
+farklı ve kendi bakış açılarından görecek ve
+tanımlayacaklardır. Oysa tarihçi hem ata, hem
+atın sahibine, hem atın içinde bulunduğu olaya,
+döneme, mekâna, hem o olayın ilişkili olduğu
+diğer olaylara, kısacası resmin bütününe anlam
+vermeye çalışacaktır. Çünkü tarih bu deneyimin
+tüm yönleriyle ilgilidir.
+20. yüzyıl, bilimde uzmanlaşma
+ThisIsTestLineForAlgorithm
+yüzyılı idi. 21. yüzyıla, bilimler arası
+işbirliği ya da disiplinler arası
+işbirliği adı verilmektedir. Böyle bir
+dönemde kuşkusuz tarihçi ya da
+tarihçiliğin bu anlayışın dışında
+kalması düşünülemezdi. Bir tarihçi için
+coğrafya, jeoloji, sosyoloji, arkeoloji, epigrafi, antropoloji ve etnoloji gibi bilimler
+başlıca işbirliği alanıdır ancak tarihçi doğru ve bilimsel sonuçlara ulaşabilmek
+amacıyla, sürekli diğer sosyal ve fen bilim alanlarındaki çalışmalara duyarlı olmalıdır.
+Komşu disiplinlerle işbirliği yapabileceği ortak bir bilgi düzeyine sahip olmalıdır.
+Aksi takdirde, farklı bilimlerin birbirinden alışveriş yapacağı hiçbir bilgi kaynağı
+yoktur. Çağın gerekleri içinde sürdürülmeyen çalışmalar, bilimsel çalışmalara yön
+vermekten uzak olacaktır.
+Bilimsel çalışmalarda, uzmanlık alanına ait yöntemlerin kurallarına bağlılık esastır.
+Bu bağlılıktan yoksun çalışmalar, bilimin dışındaki farklı amaçların hizmetine girecektir
+12
+Tarih 1
+1. Ünite
+Dünde Kalanı Öğreten Bilim Tarihi
+b) Tarihe Yardım Eden Bilimler
+Uygulayarak Öğrenelim: Aşağıdaki görsel materyalleri inceleyiniz(Görsel 1.1.31.1.10) Tablo 1’den faydalanarak hangi bilim dallarının uğraşı alanına girdikleri ile
+ilgili açıklamanızı görselin altındaki noktalı satıra yazınız.
+Görsel 1.1.3 ..................
+Görsel 1.1.4 ..................
+ThisIsTestLineForAlgorithm
+Görsel 1.1.5 ..................
+Görsel 1.1.6 ..................
+Görsel 1.1.7 ..................
+Görsel 1.1.8 ..................
+Görsel 1.1.9 ..................
+Görsel 1.1.10 ..................
+Tarih 1
+13
+1. Ünite
+Dünde Kalanı Öğreten Bilim Tarihi
+Bilim Dalının Adı
+Kronoloji
+Coğrafya
+Tarihe Nasıl Yardım Eder
+Geçmişten günümüze meydana gelen olay ve
+olguların zamanını tespit ederek sıralar.
+Olayın geçtiği yerin fiziki ve beşerî özelliklerini açıklar.
+İnsanların zekâsı ve yetenekleri ile coğrafi
+Jeopolitik
+mekânın rolünü ortak bir sistematik içinde inceleyerek tarih bilimini destekler.
+Toplumlar arası her türlü siyasal ilişkiler, sa-
+Diplomasi
+ThisIsTestLineForAlgorithm
+vaşlar ve nedenleri antlaşma metinleri, fermanlar ve beratlar üzerinde çalışarak sonuçlarını kullanıma sunar.
+ThisIsTestLineForAlgorithm
+Toprağın ve suyun altında kalmış olan eski
+Arkeoloji
+yaşantıların bıraktığı maddi belgeleri bulur ve
+özelliklerini belgeleyerek katkı verir. Kazı bilimidir.
+Resmî belgelerdeki mühür, arma ve özel işa-
+Heraldik
+retlerle ilgilenir verilerini tarih bilimine sunar.
+Etnografya
+Antropoloji
+Paleografya
+14
+Tarih 1
+Toplumların örf, âdet, gelenek ve yaşayışlarını
+inceler.
+İnsan bilimi. İnsan ırkları ile ilgili çalışmalar
+yapar.
+Eski yazıları, alfabelerin okunmalarını sağlar.
+1. Ünite
+Filoloji
+Dünde Kalanı Öğreten Bilim Tarihi
+Dillerin tarihini, gelişimini, değişimini ve diller arası ilişkileri inceler.
+Taş, mermer, metal, ahşap gibi sert cisimler
+Epigrafi
+üzerine yazılan yazıları okur ve inceler. Yazıt
+ThisIsTestLineForAlgorithm
+bilimidir.
+Nümizmatik
+Papiroloji
+Metroloji
+Sikke bilimi. Eski paralarla ilgili bilim dalıdır.
+Kâğıtların türlerini tanıyarak belgelerin zamanını ortaya çıkarır.
+Ölçü tartı bilimi. Ölçü ve tartıların geçmişte
+ve günümüzdekilerle kıyaslamasını sağlar.
+Onomastik yer adları, Hidronomi akarsu, göl
+Ad bilimleri
+ve su adları, Adroponomi kişi adları ile ilgilenerek tarih bilimine yardım eder.
+Mitoloji
+Söylenen ve duyulan daha ziyade inanç içerikli anlatımları din kavramı içinde inceler.
+Fen ve sosyal bilimlerin iş birliği yaptığı
+önemli bir bilim dalıdır. Radyokarbon (C-14)
+ve Dentrokronoloji gibi tarihsel eşyaların ya-
+Arkeometre
+şını saptayarak tarihe yardımcı olur. Son
+yıllarda DNA mühendisliği, Tıp, Biyoloji,
+Kimya ve Nükleer Fizik gibi bilimler de etkin
+çalışmalar yapmaktadır.
+Toponomi
+Yerleşme yerlerinin doğal yapısı ile ilgilenir.
+Tablo 1: Tarihe Yardımcı Bilimler
+Tarih 1
+15
+1. Ünite
+Dünde Kalanı Öğreten Bilim Tarihi
+2) Tarih Öğrenmenin Çok Yönlü Yararları
+Bir söz:
+3000 yıllık geçmişin hesabını yapamayan
+insan günübirlik yaşayan insandır.
+Goethe
+Tarih toplumun hafızasıdır. İnsanlığın nereden, nereye, nasıl gittiğini
+görmesini sağlar. Geçmişten alınan deneyimler yardımıyla geleceğe güvenli ve doğru
+ulaşmanın yollarını gösterir. (Görsel 1.2.12-14)
+Yeni nesillerin kimlik oluşumunda ve toplumsallaşmasında başvuru kaynaklarının başında tarih ve kültür gelir. Nesiller önce ailelerinde plansız ama bilinçli olarak; sonra
+okullarda planlı bir eğitimden geçerken aktarılan tarihî-kültürel bilgi ve değerler ile özel

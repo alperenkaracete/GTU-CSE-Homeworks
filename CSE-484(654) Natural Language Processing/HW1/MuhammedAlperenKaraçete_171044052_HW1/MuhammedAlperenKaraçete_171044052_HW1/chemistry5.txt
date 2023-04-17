@@ -1,0 +1,426 @@
+çalışmalarda atomun yapısından yüklü parçacıkların ayrıldığını
+keşfetti. Bu parçacıkların negatif yüklü olduğu ve her tür atomu
+oluşturan ortak parçalardan biri olduğu sonucuna vardı. Bu
+negatif yüklü parçacıklara elektron adı verildi. Ona göre,
+elektronlar atomu terk edip tüpün içinde hareket edebiliyorsa
+atomun bölünmezliği düşüncesi de terk edilmeliydi.
+Thomson bulduğu kanıtları birleştirmeye çalıştı. "Atomlar nötrdür. O hâlde, Thomson’a göre atomun kütlesine göre çok küçük kütleye sahip eksi yüklü elektronlar varsa, atomda elektronlar dışında
+kalan kütle pozitif yüklü olmalıydı." Böylece Thomson’ un “Üzümlü Kek” olarak adlandırılan atom modeli oluştu. Üzümler elektronu (negatif yüklü parçacıkları), hamur kısmı da pozitif yüklü kısmı
+temsil etmektedir.
+Thomson atom modeline göre;
+Görsel 2.3
+Joseph John Thomson
+Görsel 2.4
+Thomson atom modeli
+ThisIsTestLineForAlgorithm
+• Atom, artı yüklü madde içine gömülü elektronlardan oluşmaktadır.
+• Elektronlar hareket etmezler ve artı yüklü madde içinde homojen
+olarak dağılmışlardır.
+• Elektronların kütleleri çok küçüktür bu yüzden atomun
+ThisIsTestLineForAlgorithm
+kütlesini artı yüklü madde oluşturur.
+• Atom küre şeklindedir.
+Rutherford Atom Modeli
+Rutherford, 20. yüzyılın başlarında, Thomson’ ın üzümlü kek
+modelini test etmek için bir deney tasarladı.
+Görsel 2.5
+Ernest Rutherford
+51
+Kimya 1
+Rutherford yaptığı deney sonucunda;
+• Atomun yapısında büyük bir boşluk bulunduğu,
+Görsel 2.6 Rutherford
+atom modeli
+• Pozitif yükün belirli bir bölgede (merkezde) toplanmış olduğu
+sonucuna ulaşmıştır.
+Rutherford keşfettiği pozitif yüklü merkeze çekirdek adını verdi.
+Ulaştığı diğer sonuçlar şunlardır:
+• Atomda pozitif yüklü tanecikler kadar elektron vardır ve bu
+elektronlar çekirdek etrafındaki boş alanda dolanır.
+• Elektronlar çekirdekten oldukça uzakta yer alırlar ve atom
+ThisIsTestLineForAlgorithm
+büyük oranda boşluktan oluşur.
+Rutherford, atom kütlesinin yaklaşık yarısını oluşturan başka
+bir parçacığın (nötronun) olabileceğini öngörmüş ancak bu
+parçacık daha sonraki yıllarda 1932’ de, James Chadwick
+tarafından keşfedilmiştir
+...
+Rutherford’ tan sonraki atom modeli, ışığın bazı özelliklerini
+kullanan Bohr atom modelidir.
+Bohr Atom Modeli
+ThisIsTestLineForAlgorithm
+Görsel 2.7 Niels Bohr
+(1885-1962)
+Görsel 2.8
+Bohr atom modeli
+52
+Rutherford, atom modelinde, atomun yapısını oluşturan parçacıkların konumunu belirtmiş ancak elektronların çekirdek etrafındaki davranışlarını açıklayamamıştır. Niels Bohr ise 1913 yılında
+geliştirdiği atom modelinde elektronların davranışına açıklık getirmiştir.
+Bohr, modelinde, ışın ve atomlar arasında bağlantı kurmaya çalışmış ve 1913’ te yaptığı deneylerde elde ettiği verilere dayanarak
+atom modelini açıklamıştır.
+Bohr, atom modelini bütün elementlerin en basiti olan hidrojen
+element atomu için geliştirmiştir. Model, proton ve nötronları içeren çekirdek ile çekirdeğin belirli uzaklıklarındaki dairesel yörüngelerde hareket eden elektronları içermektedir (Görsel 2.8).
+2.Ünite Atom ve Periyodik Sistem
+Bohr’a göre bir elektron, çekirdeğin çevresindeki belirli bir yörüngede
+kalabilmek için belirli bir enerjiye sahip olmalıdır. Elektronun, farklı bir
+yörüngede kalabilmesi için farklı bir enerjiye ihtiyacı vardır. Elektron, belirli
+bir yörünge için ihtiyacı olan enerjiden daha azına ya da daha fazlasına sahipse
+o yörüngede kalamaz. Yörüngede kalabilmek için ya dışarıdan enerji almalı
+ya da fazla olan enerjisini vermelidir. Bu nedenle yörüngeler enerji seviyeleri
+olarak da ifade edilir. Bohr'a göre bir atomun elektronları sadece belirli
+enerji seviyelerinde bulunabilir. Elektron hiçbir zaman enerji seviyeleri
+arasına yerleşmez.
+Bir elektrona bir kaynaktan enerji verildiğinde, atom, dolayısıyla elektron
+verilen enerjiyi (ışını) soğurur (emer). Bu durum, elektronun bulunduğu
+yerden ayrılmasına, çekirdekten uzaklaşmasına yani elektronun daha yüksek
+enerji seviyesine geçmesine neden olur. Elektrona verilen enerji miktarı
+arttıkça elektron daha da üst enerji seviyelerine çıkar (Görsel 2.9). Üst enerji
+seviyesindeki elektron çekirdeğe daha yakın alt enerji seviyelerine geri dönerken
+fazla enerjiyi ışın yayarak (ışıma yaparak) serbest bırakır (Görsel 2.10).
+Görsel 2.9 Enerji alan elektron
+Görsel 2.10 Enerji veren elektron
+Özetle, elektron yüksek enerji seviyelerinden düşük enerji seviyelerine
+geçerken belirli bir enerjiye karşılık gelen ışını yayarken başka kaynaktan
+gelen ışın atoma ulaştığında ise yaydığı enerjideki aynı ışını soğurur (emer).
+ATOMLARIN KATMAN-ELEKTRON DAĞILIMLARI
+Bohr atom modelinde, elektronların hareket ettiği yörüngeler elektronların
+ThisIsTestLineForAlgorithm
+bulunabileceği enerji seviyeleridir. Enerji sevileri katman olarak da adlandırılır.
+ThisIsTestLineForAlgorithm
+Bu enerji seviyeleri "n" simgesi veya K, L, M, N, O gibi harflerle gösterilir.
+“n” 1’ den başlayıp 7’ ye kadar devam eder. Çekirdeğe en yakın olan ilk ve en
+düşük enerji seviyesi (1. enerji seviyesi) n=1 ya da “K” harfi ile temsil
+edilirken en uzaktaki yani en yüksek enerji seviyesi (7. enerji seviyesi) n=7 ile
+temsil edilmektedir (Görsel 2.11).
+53
+Kimya 1
+n=4
+n=3
+n=2
+n=1
+yüksek enerjili yörüngeler
+elektron
+ThisIsTestLineForAlgorithm
++
+proton (çekirdek)
+K
+en düşük enerjili yörünge
+L
+M
+N
+Görsel 2.11 Bohr’un hidrojen atom modeli
+Bohr'a göre elektronlar yörüngelere en düşük enerji seviyesinden başlayarak
+yerleşir. Atom dışarıdan yeteri kadar enerji aldığında elektronlar daha yüksek
+enerjili seviyeye çıkar. Enerji seviyesi (n) arttıkça, elektron ve çekirdeğin
+arasındaki mesafe ve elektronların enerjisi artar. Bohr’a göre her enerji
+seviyesinin taşıyabileceği belirli bir elektron kapasitesi vardır. Her seviyedeki
+azami elektron sayısı aşağıdaki gibidir:
+n = 1 olan Bohr yörüngesi maksimum iki elektron tutar.
+n = 2 olan Bohr yörüngesi, maksimum sekiz elektron tutar.
+n = 3 olan Bohr yörüngesi, maksimum sekiz elektron tutar.
+n=2
+n=1
+3p+
+3n0
+Li: 2, 1
+ThisIsTestLineForAlgorithm
+Örneğin lityum element atomunun üç elektronu bulunmaktadır.
+Bohr modeline göre atomun ilk enerji seviyesine iki elektron
+yerleşebilir. Kalan bir elektron ise 2. enerji seviyesine yerleştirilir.
+Böylece lityum elementinin elektronlarının tamamı yerleşmiş olur.
+Pratik olarak Lityum atomunun elektron katman dizilimi;
+Li: 2, 1 şeklinde gösterilir.
+20 elektronu bulunan kalsiyum atomunun Bohr atom modelinde
+ise n= 1 de iki elektron, n=2 de sekiz elektron, n= 3 de sekiz ve n= 4
+de iki elektron bulunur. Kalsiyum atomu için elektron dizilimi;
+Ca: 2, 8, 8, 2 ya da
+Ca: 2) 8) 8) 2) şeklinde gösterilir.
+Ca: 2, 8, 8, 2
+54
+2.Ünite Atom ve Periyodik Sistem
+1. Uygulama 16 elektron ve 16 protonu bulunan kükürt atomuna ait Bohr atom
+modelini çizerek en yüksek enerji katmanında kaç elektron
+bulunduğunu belirtiniz.
+Çözüm Elektron dizilimi;
+S: 2, 8, 6 ya da
+16
+S: 2) 8) 6) şeklinde gösterilir.
+16
+En yüksek enerji katmanında (n=3) 6 elektron bulunur.
+2. Uygulama 13 protonu bulunan alüminyum atomunun ikinci enerji seviyesinde
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+kaç elektron bulunur? Bohr modelini çizerek belirtiniz.
+Çözüm Elektron dizilimi;
+Al: 2, 8, 3 ya da
+13
+Al: 2) 8) 3)
+ThisIsTestLineForAlgorithm
+13
+şeklinde gösterilir.
+Alüminyum atomunun ikinci enerji
+seviyesinde (n=2) 8 elektron bulunur.
+3. Uygulama Hidrojen atomunun Bohr modeli göz önüne alındığında hangisi en
+yüksek enerji seviyesinden (yörüngeden ) geri dönüştür ve en yüksek
+enerjili ışımadır?
+a) n = 3 → n = 2
+c) n = 5 → n = 2
+b) n = 4 → n = 2
+ç) n = 6 → n = 2
+Çözüm En yüksek enerjili ışıma n = 6 → n = 2 geçişinde olur. Yayılan ışının
+enerjisi, iki seviye arasındaki enerji farkına eşittir.
+55
+Kimya 1
+İlk 20 element atomunun elektronlarının Bohr modeline göre enerji seviyelerine dağılımı
+(katman-elektron dağılımı) aşağıda verilmiştir (Görsel 2.12).
+1- Hidrojen (H)
+2- Helyum (He)
+3- Lityum (Li)
+4- Berilyum (Be)
+5- Bor (B)
+6- Karbon (C)
+7- Azot (N)
+8- Oksijen (O)
+9- Flor (F)
+10- Neon (Ne)
+11- Sodyum (Na)
+12- Magnezyum (Mg)
+13- Alüminyum (Al)
+14- Silisyum (Si)
+15- Fosfor (P)
+16- Kükürt (S)
+ThisIsTestLineForAlgorithm
+17- Klor (Cl)
+18- Argon (Ar)
+19- Potasyum (K)
+20- Kalsiyum (Ca)
+56
+Görsel 2.12 Bohr modeline göre elektronların enerji seviyelerindeki dağılımı.
+2.Ünite Atom ve Periyodik Sistem
+Modern Atom Teorisi
+Bohr, elektronların belirli enerji seviyelerinde bulunduğunu belirterek atomun yapısıyla
+ilgili gelişmelere oldukça önemli katkı sağlamıştır. Bohr, bir elektronun üst enerji seviyelerine
+çıkarken ne kadar enerji aldığını ve alt enerji seviyelerine inerken ne kadar enerji yaydığını
+ThisIsTestLineForAlgorithm
+hesaplayabilmiştir. Ancak bunu sadece tek elektronu olan taneciklere (1H, 2 He 1+, 3 Li 2+
+ThisIsTestLineForAlgorithm
+vb.) uygulayabilmiştir. Çok elektronlu atomların yaydığı veya soğurduğu enerjiye açıklık
+getirememiştir.
+Daha sonraları (1925 yılından itibaren) Heisenberg (Hayzenberg), Schrödinger
+(Şirödinger) ve diğer bilim insanlarının katkılarıyla, atomun yapısını ve elektron
+davranışını açıklayan ve günümüzde geçerli olan modern atom teorisi ortaya atılmıştır.
+Teori var olan bilimsel bir olgunun, gözlemin neden ve nasıl olduğunun bilimsel veriler ve
+deney sonuçlarına dayanarak açıklamasıdır.
+Modern atom teorisinde, elektronların davranışı elektron bulutu modeli ile
+açıklanmaktadır. Bu model, bohr atom modelinden farklı olarak elektronların çekirdeğin
+ThisIsTestLineForAlgorithm
+çevresindeki belirli yörüngelerde değil, belirli enerji seviyelerindeki belirli bölgelerde
+bulunma ihtimalinin olduğunu öne sürmektedir. Bohr ayrıca elektronların bu enerji
+seviyelerinde sabit hızla dairesel hareket yaptığını öne sürmüştü fakat modern atom
+teorisine göre elektronlar bu şekilde hareket etmemektedir. Modern atom teorisine
+sonraki dönemlerde detaylı bir şekilde değinilecektir.
+Geçmişten günümüze atom modelleri aşağıdaki gibidir:
+Görsel 2.13 Geçmişten günümüze atom modelleri
+1925- günümüz
+Elektron bulutu modeli
+1913
+Bohr atom modeli
+1911
+Rutherford atom modeli
+1897
+Thomson atom modeli
+Dalton atom modeli
+1805
+57
+Kimya 1
+2.2. ATOMUN YAPISI
+Atomun yapısını oluşturan elektron, proton ve nötronun bilinir olması sonrasında,
+elementlerin farklı davranışlarının nedeni de anlaşılabilmiştir. Elementleri birbirinden
+farklı kılan, element atomlarının sahip olduğu proton, nötron ve elektron sayılarının
+farklılıklarıdır. Bu bölümde atomu oluşturan parçacıkların sayıca, kütlece ve yükçe
+ThisIsTestLineForAlgorithm
+farklılıklarına yer verilmiştir:
+ELEKTRON, PROTON VE NÖTRONUN YÜKLERI, KÜTLELERI VE ATOMDA
+ThisIsTestLineForAlgorithm
+BULUNDUKLARI YERLER
+Bir önceki ünitede;
+6 proton
+6 nötron
+• Atomu çok daha küçük, atom altı
+üç parçacık (proton, nötron ve elektron)
+oluşturduğundan,
+elektron
+proton
+Karbon atomu
+Görsel 2.14 Bohr atom modeli
+nötron
+• Proton ve nötronların çok yoğun bir
+merkez olan çekirdekte, elektronların ise
+çekirdeğin çevresindeki yörüngelerde
+bulunduğundan bahsedilmişti.
+Çekirdeği oluşturan proton ve nötronlar, çok güçlü kuvvetlerle bir arada durur.
+Çekirdek, atomun pozitif yüklü merkezidir. Çekirdeğin pozitif elektrik yükü (çekirdek
+yükü), protonlardan kaynaklanırken, nötronların net bir elektrik yükü yoktur.
+Elektronlar, atomun kütlesi ile karşılaştırıldıklarında çok küçük bir kütleye sahiptir.
+Atomun neredeyse tüm kütlesi çekirdekte bulunur. Bu nedenle atomun kütlesi olarak
+çekirdeği oluşturan protonlar ve nötronlar dikkate alınır. Proton ve nötronun kütlesi
+birbirine çok yakındır. Ancak atomun çekirdeği atomun genel çapından çok küçüktür
+çünkü elektronlar atom çekirdeğinden oldukça uzakta bulunur.
+Bilgi Notu
+Hidrojen atomunun hacmi, çekirdeğinden 145.000 kat daha büyüktür.
+58
+Elektronların atom kütlesine belirgin bir katkısı olmasa da, tüm kimyasal tepkimelerde elektronlar başrol oynar. Proton ve elektronun ikisi de elektrik yüklüdür. Protonun
+yükü +1, elektronun yükü -1'dir. Protonun ve elektronun yükü büyüklük bakımından
+eşit ancak ters işaretlidir. Bu durumda, eşit sayıda proton ve elektrona sahip olan
+atomlarda toplam yük miktarı sıfırdır yani atom nötr yapıya sahiptir. Tablo 2.1’ de
+atomu oluşturan parçacıkların kütlesi ve diğer özellikleri yer almaktadır:
+2.Ünite Atom ve Periyodik Sistem
+Proton
+Elektron
+Nötron
++1,602 x 10 -19
+-1,602 x 10 -19
+0
++1
+-1
+0
+Kütle (kg)
+1,67262 x 10 -27
+0.00091 x 10 -27
+1,67493 x 10 -27
+Bağıl kütle
+1837
+1
+1839
+Yük (coulomb)
+Yük birimi (bağıl yük)
+Tablo 2.1 Atomu oluşturan taneciklerin bazı özellikleri
+Kısaca;
+Nötronlar: Atomun çekirdeğinde bulunan nötr, yüksüz taneciklerdir.
+Protonlar: Çekirdekte bulunan pozitif yüklü taneciklerdir.
+Elektronlar: Çekirdeğin dışında, enerji seviyelerinde bulunan
+negatif yüklü taneciklerdir.
+Atomu oluşturan parçacıklar bazı kavramlarla ifade edilmektedir. Bu kavramlar
+ve aralarındaki ilişki aşağıda verilmiştir:
+Atom numarası
+Bir elementin atomlarının sahip olduğu proton sayısı, o elementi diğerlerinden
+ayıran önemli bir özelliktir. Atomların kimliğini belirleyen sahip olduğu proton
+sayısıdır. Örneğin, çekirdeğinde 1 proton bulunan atomlar, hidrojen atomlarıdır.
+Çekirdeklerinde 10 proton bulunan neon atomları, çekirdeklerinde 20 proton
+bulunan kalsiyum atomlarıdır.
+Yalnız o element atomuna özgü, toplam proton sayısına atom numarası denir ve
+ThisIsTestLineForAlgorithm
+Z sembolü ile gösterilir.
+Nötr bir atomda elektron sayısı, proton sayısına eşittir. Dolayısıyla atomun
+elektron sayısı atom numarasını verir. Örneğin hidrojenin atom numarası 1' dir.
+Dolayısıyla hidrojen atomundaki proton ve elektron sayıları aynı olup sayısı 1' dir.
+Z (atom numarası) = çekirdekteki proton sayısı = elektron sayısı (nötr atomda)
+ThisIsTestLineForAlgorithm
+ThisIsTestLineForAlgorithm
+59
+Kimya 1
+ThisIsTestLineForAlgorithm
+Kütle numarası
+Çekirdekte bulunan proton ve nötron sayısı toplamı kütle numarasını verir.
+Kütle numarası A harfi ile gösterilir ve aşağıdaki şekilde hesaplanır:
+Kütle numarası = Çekirdekteki proton sayısı + Çekirdekteki nötron sayısı
+(A)				(Z)				(n)
+Bir elementin atom numarası ve kütle numarası, element sembolü etrafına
+ThisIsTestLineForAlgorithm
+aşağıdaki şekilde yerleştirilir.
+Kütle numarası
+Atom numarası
+A
+X
+Z
+Element sembolü
+Örneğin, 2 protonu ve 2 nötronu bulunan Helyum (He) atomu için; atom
+numarası ve kütle numarası sembolü etrafına aşağıdaki gibi yerleştirilir:
+4
+Atom Numarası (Z) = çekirdekteki proton sayısı					
+Z =2
+2
+He
+Kütle Numarası (A) = çekirdekteki proton sayısı + çekirdekteki nötron sayısı
+A=2+2 =4
+Hidrojen element atomlarının bir protonu ve bir elektronu bulunur. Hidrojen
+elementinin birçok atomu nötrona sahip değildir. Bu nedenle hidrojenin kütlesini
+bir proton temsil eder.
+4. Uygulama Hidrojen atomunun proton sayısı 1, nötron sayısı 0'dır. Atom numarasını
+ve kütle numarasını hidrojen sembolü etrafında gösteriniz.
+Çözüm Atom Numarası (Z ) = çekirdekteki proton sayısı
+Z =1
+Kütle Numarası (A) = p + n
+A=1+0
+A=1
+1
+1
+ThisIsTestLineForAlgorithm
+H
+5. Uygulama Yanda sembolü verilen kükürt (S) elementinin atom
+numarası, kütle numarası, nötron sayısı ve elektron sayısı nedir?
+Çözüm Atom Numarası (Z ) = p =e = 16
+Kütle Numarası (A) = 32		
+60
+ThisIsTestLineForAlgorithm
+32
+16
+Nötron Sayısı = A – Z ise
+Nötron Sayısı = 32 – 16 = 16' dır.
+S
+2.Ünite Atom ve Periyodik Sistem
+İzotop
+Bir elementin tüm atomlarının proton ve elektron sayıları aynıdır ancak aynı
+element atomları farklı nötron sayılarına sahip olabilir. Bu nedenle aynı elementin
+atomlarının kütleleri birbirinden farklı olabilir (elektronların kütlesinin ihmal
+edilecek kadar küçük olduğu unutulmamalıdır). Aynı elementin atomlarının nötron
+sayıları farklı ise kütle numaraları da farklı olur. Proton sayısı aynı nötron sayısı
+dolayısıyla kütle numarası farklı olan atomlar birbirinin izotoplarıdır. Bu tür atomlara
+izotop atom denir.
+Doğada elementler çoğunlukla izotop karışımı olarak bulunur. Örneğin karbon
+12
+13
+16
+17
+C ve 6 C izotopları karışımı; oksijen elementi 8 O ve 8 O
+izotopları karışımı şeklinde bulunur. Benzer şekilde kükürt(S) elementinin dört
+33
+36
+32
+34
+izotopu ( 16 S , 16 S , S , S ), klor elementinin iki izotopu (35Cl ve 37Cl)
+16
+16
+ThisIsTestLineForAlgorithm
+vardır. Belirli bir elementin atom numarası sabit (aynı) olduğundan, izotoplar
+genellikle atom kütlelerinden ayırt edilir. İzotoplar karbon örneğinde olduğu gibi 12C
+ve 13C şeklinde de gösterilir, karbon-12, karbon-13 şeklinde de ifade edilir.
+elementi doğada,
+6
+Hidrojen elementinin izotoplarını inceleyelim (Görsel 2.15-a, b, c).
+Hidrojen-1:
+1
+1
+H
+Çekirdeğinde bir protona sahiptir. Nötronu
+yoktur. Doğada en çok bu şekliyle bulunur (yaklaşık
+%99,98). Bu izotop P harfi ile temsil edilir, protonyum
+olarak adlandırılır (Görsel 2.15-a).
+Hidrojen-2:
+2
+1
+H
+Çekirdeğinde bir proton ve bir nötron vardır.
+ThisIsTestLineForAlgorithm
+Döteryum olarak adlandırılır, D harfi ile temsil
+edilir (Görsel 2.15-b).
+Hidrojen-3:
+3
+1
+Görsel 2.15-a Hidrojen
+Görsel 2.15-b Döteryum
+H
+Çekirdeğinde bir proton ve iki nötron bulunan
+radyoaktif bir izotoptur. Trityum olarak adlandırılır,
+T harfi ile temsil edilir (Görsel 2.15-c).
+Görsel 2.15 –c Trityum
