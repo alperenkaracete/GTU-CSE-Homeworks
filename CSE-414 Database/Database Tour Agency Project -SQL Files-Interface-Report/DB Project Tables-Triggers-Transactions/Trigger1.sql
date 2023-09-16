@@ -1,0 +1,9 @@
+CREATE TRIGGER UpdateBookingOnDeleteTour
+BEFORE DELETE ON tour
+FOR EACH ROW
+BEGIN
+    DELETE FROM booking
+    WHERE tourID = OLD.tourID
+END //
+
+DELIMITER ;

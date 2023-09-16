@@ -1,0 +1,8 @@
+CREATE TABLE city (
+	cityID INT AUTO_INCREMENT PRIMARY KEY,
+	cityName VARCHAR(100),
+    plateNumber INT
+);
+
+ ALTER TABLE city ADD country VARCHAR(50)
+
