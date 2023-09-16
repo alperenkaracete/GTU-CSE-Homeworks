@@ -1,0 +1,35 @@
+\chapter{Literature Review}
+In my literature review, I focused on exploring the advancements in object detection models, specifically MobileNet SSD v2. I examined academic papers that documented the evolution of the MobileNet SSD architecture and its application in real-time object detection tasks. By studying these papers, I gained insights into the key features, innovations, and performance improvements introduced in different versions of MobileNet SSD, such as MobileNet SSD v2.
+
+\section{Object Detection: Literature Review}
+This section provides a chronological review of key works in the field of object detection, with a focus on the MobileNet SSD v2 model
+
+\subsection{MobileNet: "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications" (Andrew G. Howard et al., arXiv 2017}
+This seminal work introduced the MobileNet architecture, which aimed to provide efficient and lightweight convolutional neural networks for mobile devices. MobileNet's depth-wise separable convolutions significantly reduced the computational cost while maintaining reasonable accuracy for object detection tasks.
+
+\subsection{SSD: "SSD: Single Shot MultiBox Detector" (Wei Liu et al., ECCV 2016)}
+The SSD model proposed a single-shot approach for object detection, eliminating the need for region proposal networks. It used a series of convolutional layers with different scales to detect objects at multiple resolutions, improving speed and accuracy.
+
+\subsection{MobileNet SSD: "MobileNetV2: Inverted Residuals and Linear Bottlenecks" (Mark Sandler et al., CVPR 2018)}
+Building upon the MobileNet architecture, MobileNet SSD introduced additional modifications to enable object detection capabilities. It incorporated the SSD framework into MobileNet, achieving real-time object detection on mobile and embedded devices.
+
+\subsection{MobileNet SSD v2: "MobileNetV2: The Next Generation of On-Device Computer Vision Networks" (Mark Sandler et al., CVPR 2018)}
+MobileNet SSD v2 further improved the MobileNet architecture with novel design choices. It introduced inverted residuals, linear bottlenecks, and improved feature extraction capabilities. These enhancements resulted in increased accuracy and efficiency compared to the previous versions.
+
+\subsection{EfficientDet: "Scalable and Efficient Object Detection" Mingxing Tan et al., CVPR 2020}
+While not directly related to MobileNet SSD v2, EfficientDet presented a scalable and efficient object detection architecture. It introduced a compound scaling method that achieved state-of-the-art performance by balancing model size, computational cost, and accuracy. EfficientDet can serve as a complementary reference for optimizing object detection models.
+
+\subsection{Mask R-CNN (Kaiming He et al., ICCV 2017)}
+An extension of Faster R-CNN that not only detects objects, but also the full shape (mask) of objects. This proved to be very effective in image segmentation tasks.
+
+\subsection{Cascade R-CNN: ”Delving into High Quality Object Detection” (Zhaowei Cai and Nuno Vasconcelos, CVPR 2018)}
+Proposed a cascaded R-CNN configuration to improve detection quality, increasing the accuracy of bounding boxes
+
+\subsection{Why MobileNet SSD v2?}
+\begin{itemize}
+    \item MobileNet Architecture: MobileNet SSD v2 is built upon the MobileNet architecture, which is designed to provide efficient and lightweight convolutional neural networks for mobile and embedded devices. It utilizes depth-wise separable convolutions to reduce computational complexity while maintaining reasonable accuracy.
+    \item Inverted Residuals: MobileNet SSD v2 introduces the concept of inverted residuals, which aim to improve the flow of information through the network. Inverted residuals use a bottleneck layer with a linear projection followed by non-linear transformations, enabling more efficient feature extraction.
+    \item Linear Bottlenecks: The linear bottlenecks in MobileNet SSD v2 help to reduce the number of parameters and computational cost. By applying a linear activation function to bottleneck layers, the network achieves better utilization of model capacity and improves performance.
+    \item Feature Pyramid Network (FPN): MobileNet SSD v2 incorporates a feature pyramid network, which allows the model to capture multi-scale features from different layers of the network. This helps in detecting objects of various sizes and improves the accuracy of object detection.
+    \item SSD Framework: MobileNet SSD v2 follows the Single Shot MultiBox Detector (SSD) framework, which eliminates the need for region proposal networks and enables real-time object detection. It uses a set of convolutional layers with different scales to detect objects at multiple resolutions, facilitating accurate and efficient detection.
+\end{itemize}
